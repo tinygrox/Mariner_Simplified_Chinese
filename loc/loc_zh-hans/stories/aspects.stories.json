@@ -1,0 +1,139 @@
+{
+  "elements": [
+    {
+      "id": "mariner.story.exhausted",
+      "label": "Tarnished Story",
+      "description": "I feel like I have exhausted this story of its substance by telling it. I should move, experience new things, meet with a different crowd in order to give it new colours."
+    },
+    {
+      "id": "mariner.storyaspect.grim",
+      "label": "Grim",
+      "description": "What is that urge in the human heart, to seek the darkness even when their life is light?"
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.grim",
+      "label": "Grim",
+      "description": "What is that urge in the human heart, to seek the darkness even when their life is light?"
+    },
+    {
+      "id": "mariner.storyaspect.rousing",
+      "label": "Rousing",
+      "description": "It's the stories of great excitement that make children wish they could grow up already, and adults remember the excitement of their youth."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.rousing",
+      "label": "Rousing",
+      "description": "It's the stories of great excitement that make children wish they could grow up already, and adults remember the excitement of their youth."
+    },
+    {
+      "id": "mariner.storyaspect.wise",
+      "label": "Wise",
+      "description": "Some truths are so simple they can only be made clear in fables and fantasies."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.wise",
+      "label": "Wise",
+      "description": "Some truths are so simple they can only be made clear in fables and fantasies."
+    },
+    {
+      "id": "mariner.storyaspect.whimsical",
+      "label": "Whimsical",
+      "description": "Reality can be a taxing exercise. Everyone sometimes longs for a more pleasant alternative."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.whimsical",
+      "label": "Whimsical",
+      "description": "Reality can be a taxing exercise. Everyone sometimes longs for a more pleasant alternative."
+    },
+    {
+      "id": "mariner.storyaspect.witty",
+      "label": "Witty",
+      "description": "Humor is the sword that cuts kings and the flame that cannot be extinguished. Laughter can unite without language."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.witty",
+      "label": "Witty",
+      "description": "Humor is the sword that cuts kings and the flame that cannot be extinguished. Laughter can unite without language."
+    },
+    {
+      "id": "mariner.storyaspect.occult",
+      "label": "Occult",
+      "description": "All stories enact the passions of the Hours in some guise, but few are as blatant as this one is."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.occult",
+      "label": "Occult",
+      "description": "All stories enact the passions of the Hours in some guise, but few are as blatant as this one is."
+    },
+    {
+      "id": "mariner.storyaspect.romantic",
+      "label": "Romantic",
+      "description": "Those things that soften the soul, from a pastoral idyll to simmering passion."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.romantic",
+      "label": "Romantic",
+      "description": "Those things that soften the soul, from a pastoral idyll to simmering passion."
+    },
+    {
+      "id": "mariner.storyaspect.tragic",
+      "label": "Tragic",
+      "description": "Fates unavoidable, hubris unbearable, peaks unreachable. Still, we tell it anyway."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.tragic",
+      "label": "Tragic",
+      "description": "Fates unavoidable, hubris unbearable, peaks unreachable. Still, we tell it anyway."
+    },
+    {
+      "id": "mariner.storyaspect.apollonian",
+      "label": "Apollonian",
+      "description": "All that is touched and tinted by that immortal light above."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.apollonian",
+      "label": "Apollonian",
+      "description": "All that is touched and tinted by that immortal light above."
+    },
+    {
+      "id": "mariner.storyaspect.dionysian",
+      "label": "Dionysian",
+      "description": "The low feelings of the underbrush, the undercurrent, the underbelly."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.dionysian",
+      "label": "Dionysian",
+      "description": "The low feelings of the underbrush, the undercurrent, the underbelly."
+    },
+    {
+      "id": "mariner.storyaspect.mortal",
+      "label": "Mortal",
+      "description": "What Passions burn in these fire-fly lives, can burn brighter than the evening sky."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.mortal",
+      "label": "Mortal",
+      "description": "What Passions burn in these fire-fly lives, can burn brighter than the evening sky."
+    },
+    {
+      "id": "mariner.storyaspect.cthonic",
+      "label": "C'thonic",
+      "description": "Beyond the doors to death, below the shifting earth, before the nights' veil."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.cthonic",
+      "label": "C'thonic",
+      "description": "Beyond the doors to death, below the shifting earth, before the nights' veil."
+    },
+    {
+      "id": "mariner.storyaspect.horomachistry",
+      "label": "Horomachistry",
+      "description": "The Passions and Movements of the Hours, Names and all the higher Players on the worlds Stage."
+    },
+    {
+      "id": "mariner.experiencefixedbystoryaspect.horomachistry",
+      "label": "Horomachistry",
+      "description": "The Passions and Movements of the Hours, Names and all the higher Players on the worlds Stage."
+    }
+  ]
+}

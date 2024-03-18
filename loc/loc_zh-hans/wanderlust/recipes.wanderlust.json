@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tide.wanderlust",
+      "label": "An Exercise in Serendipity",
+      "description": "One day, on a day as all others..."
+    },
+    {
+      "id": "mariner.tide.wanderlust.nooutcometriggered",
+      "label": "A Longing for Elsewhere",
+      "description": "The routine of life here is smothering me, and the horizon is beginning to tug at my soul. I long to travel."
+    }
+  ]
+}

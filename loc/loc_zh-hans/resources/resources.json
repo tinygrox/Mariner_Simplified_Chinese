@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "id": "mariner.medicalsupplies",
+      "label": "<Medical Supplies>"
+    },
+    {
+      "id": "mariner.ration",
+      "label": "<Ration>"
+    },
+    {
+      "id": "mariner.repairkit",
+      "label": "<Repair Kit>"
+    }
+  ]
+}

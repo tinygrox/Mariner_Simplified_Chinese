@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.forked_tongue",
+      "label": "The Forked Tongue",
+      "startdescription": "They say the pen is mightier than the sword, and my tongue is pen of a million, million words. We will affront or attack or lead astray. We can approach this task with the dominance of Grail or the venom of Knock.",
+      "description": "They say the pen is mightier than the sword, and my tongue is pen of a million, million words. We will affront or attack or lead astray. We can approach this task with the dominance of Grail or the venom of Knock.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.grail.high",
+      "label": "Lead Them to a Pitfall",
+      "startdescription": "The trick is to make them act unwittingly selfless. It is better to please you than vex you, after all. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.grail.med",
+      "label": "Lead Them Down the Wrong Path",
+      "startdescription": "The trick is for them not to be aware that you are pointing them in the wrong direction. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.grail.low",
+      "label": "Lead Them Astray",
+      "startdescription": "The trick is for them not to notice when you plant the seeds for their demise. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.knock.high",
+      "label": "Venomous Speech",
+      "startdescription": "Our conversation is dripping with malefaction and bile. As if they were a shepherd's flock, they will fear our scorn and act as we desire. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.knock.med",
+      "label": "Venomous Phrases",
+      "startdescription": "Our conversation is coated with malevolence and bitterness. Our tone may etch stone, and it will shock and stagger those we speak to. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.forked_tongue.knock.low",
+      "label": "Venomous Words",
+      "startdescription": "Our conversation is laced with malice and ill intention. They may not hear, and they may walk the path we set out. We may yet succeed."
+    }
+  ]
+}

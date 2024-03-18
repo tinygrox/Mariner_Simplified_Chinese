@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.windrises",
+      "label": "The Wind Rises",
+      "startdescription": "The flag stands straight horizontal, and a constant wind tempts the kite to turn its way. We need to tame this weather with Forge, or survive it with Heart.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.windrises.outcome.success",
+      "label": "Control the Vessel",
+      "startdescription": "The wind plays with us, but we manoeuvre, turn, dance and fight against it. It will not cost us any time on our travel."
+    },
+    {
+      "id": "mariner.sail.seaevents.windrises.outcome.criticalsuccess",
+      "label": "Strong Tailwind",
+      "startdescription": "We leash the wind, and let it serve us instead. With this we will arrive at our destination sooner than expected."
+    },
+    {
+      "id": "mariner.sail.seaevents.windrises.outcome.failure",
+      "label": "Blown off Course",
+      "startdescription": "We fight against the wind, but at some point we have to bend, and give ourselves."
+    }
+  ]
+}

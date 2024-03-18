@@ -1,0 +1,79 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.aleppo.maze",
+      "label": "Maze of Stairs and Hallways",
+      "description": "<The library doesn't have a floor plan. It couldn't have one. Stairs and windowless hallways spring in all directions, seemingly without any logic. Yet, its visitors seem to always reach what they want, assuming they know what to look for. All around us, always at the periphery of our vision, groups of people are sitting, studying books, devices, debating in a river of whispers. And everywhere, the everpresent speckled light, flowing from the central well's network of mirrors.>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What am I looking for?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.aleppo.group",
+      "label": "Group of Students",
+      "description": "Here in a corner, sitting on comfy benches and armchairs, a group of people is vividly discussing some kind of parable. As they converse, spots of light keep drifting accross their faces, scintillating leaves in the golden afternoon of a sunflooded wood.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "song",
+          "label": "Direction",
+          "description": "Which direction do I want to push the conversation toward?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.default.1",
+      "label": "<Default Shelf 1>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.lantern.1",
+      "label": "<Shelf lantern (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.forge.1",
+      "label": "<Shelf forge (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.edge.1",
+      "label": "<Shelf edge (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.winter.1",
+      "label": "<Shelf winter (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.heart.1",
+      "label": "<Shelf heart (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.grail.1",
+      "label": "<Shelf grail (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.moth.1",
+      "label": "<Shelf moth (1)>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.shelf.knock.1",
+      "label": "<Shelf knock (1)>"
+    }
+  ]
+}

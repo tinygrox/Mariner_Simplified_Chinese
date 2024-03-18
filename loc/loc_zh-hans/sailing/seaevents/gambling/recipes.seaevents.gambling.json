@@ -1,0 +1,43 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.gambling",
+      "label": "Gambling on Deck",
+      "startdescription": "The rattle of the dice are separated with bouts of laughter and shouts of despair. I should reestablish discipline with Edge or Winter before this ends in blows, or I could put in some Funds and try to earn some money of my crew.",
+      "slots": [
+        {
+          "id": "help1",
+          "label": "Help"
+        },
+        {
+          "id": "help2",
+          "label": "Help"
+        },
+        {
+          "id": "help3",
+          "label": "Help or Stakes"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.gambling.outcome.success",
+      "label": "The Silence of Discipline",
+      "startdescription": "The dice thrown overboard and the cards burned to cinders. Order has returned to decks of my ship."
+    },
+    {
+      "id": "mariner.sail.seaevents.gambling.outcome.failure",
+      "label": "A Clamor and Row",
+      "startdescription": "At first it is just the shuffling cards and tick-tack of ceramic on deck. But after that comes the exchange of coins, or worse, an exchange of blows."
+    },
+    {
+      "id": "mariner.sail.seaevents.gambling.outcome.successgambling",
+      "label": "Play for Keeps",
+      "startdescription": "I join in on the game, like officers ought not to do, but leaders sometimes must."
+    },
+    {
+      "id": "mariner.sail.seaevents.gambling.outcome.failuregambling",
+      "label": "Sour Luck",
+      "startdescription": "I play a few rounds, and lose each one. My crew will smile at my face for a long while now, and snicker behind my back. But the air has passed."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.giveuppackage",
+      "label": "Send a Package back into the Network",
+      "startdescription": "If I cannot fulfill a delivery, or wish to unburden myself from it, and send it of with another raconteur.",
+      "description": "After the verbal posturing that is so typical in a meeting between two raconteurs, I pass on the package and the clue, for my troubles I am left with a small sum. A triffle compared to what I could have gotten completing the delivery."
+    }
+  ]
+}

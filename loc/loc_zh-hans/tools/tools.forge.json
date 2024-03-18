@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.forge.1",
+      "label": "Toolbox",
+      "description": "Any captain worth their salt has a set of their own, regardless if the ship has a carpenter.",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.2",
+      "label": "Improved Toolbox",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.3",
+      "label": "Glorious Toolbox",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.specialisation",
+          "label": "Specialisation",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.4_1",
+      "label": "Exalted Brightmaker",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.4_2",
+      "label": "Exalted Entry Gainer",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.5_1",
+      "label": "Mythical Brightmaker",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.forge.5_2",
+      "label": "Mythical Entry Gainer",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

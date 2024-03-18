@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.fairweather",
+      "label": "Fair Weather",
+      "startdescription": "The sea is a mercurial mistress, but rarely, she grants opportunity. The weathervane turns in our favor today. If we seize this opportunity, we may reap the benefits. Forge for the will to act or let our Heart beat in tune with the world.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.fairweather.outcome.success",
+      "label": "Flawless Sailing",
+      "startdescription": "The weather is crisp, the wind swells our sails. We travel twice as fast this day, and enjoy the journey fourfold."
+    },
+    {
+      "id": "mariner.sail.seaevents.fairweather.outcome.failure",
+      "label": "Merely Good",
+      "startdescription": "Opportunity slips away, but the weather stays true. We travel at the expected rate, and whistle while we work. A journey to enjoy."
+    }
+  ]
+}

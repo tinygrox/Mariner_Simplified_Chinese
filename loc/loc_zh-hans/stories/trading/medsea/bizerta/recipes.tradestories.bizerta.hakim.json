@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tradestory.bizerta.hakim",
+      "label": "<Trade stories with Hakim Tmar>",
+      "startdescription": "\"Stories? I have collected a few in my 20s... Sometimes I think most I will have left from my education will be stories of an era instantly lost to history.\"",
+      "description": "<Hakim sighs, and his lips curl into a smile. \"Allons-y then. To friends departend and times gone by. Once upon a time, while I was studying a summer in New York...\">"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.getpackage.loop",
+      "label": "One Of Them?",
+      "startdescription": "Do they think I'm a member? Can I be sure they are? We are exchanging stories, or shaking hands the way members do? I am not sure. All I know is, if they are, my stories please them, they might give something more substantial than tales to me.\n\n[The package they might offer is displayed at the bottom of the window.]"
+    },
+    {
+      "id": "mariner.getpackage.loop.manypackages",
+      "label": "They're Suspicious",
+      "startdescription": "Does the Network think I'm hoarding too many packages? If this person is indeed a member, they're suspicious about my behaviour. They're telling me more stories than usually needed to conclude an initiate's handshake."
+    },
+    {
+      "id": "mariner.getpackage.end",
+      "label": "Package Received",
+      "description": "The Connection made, the conversation flows to different topics, before we part ways, now my back burdened with another satchel, and theirs lighter by equal measure."
+    },
+    {
+      "id": "mariner.getpackage.failure",
+      "label": "Network Frayed",
+      "description": "The conversation falters, then halts entirely. We could not establish with certainty the other was a contact, so we drift apart again. I leave, unsure if I missed out something very important or missed nothing at all."
+    }
+  ]
+}

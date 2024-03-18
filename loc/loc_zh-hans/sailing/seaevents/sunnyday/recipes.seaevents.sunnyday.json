@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.sunnyday",
+      "label": "A Pleasant Journey",
+      "startdescription": "The winds are good, the sea is calm, there is nothing pressing to do except enjoy the journey."
+    },
+    {
+      "id": "mariner.sail.seaevents.sunnyday.outcome.sunsuccess",
+      "label": "A Golden Afternoon",
+      "startdescription": "The sunlight casts the sea with diamonds, glittering on the cresting waves. The sea breeze steady in the sails, and cooling on the skin. Joy it is said, is hard to recall, but you will treasure this feeling in your heart a little while."
+    },
+    {
+      "id": "mariner.sail.seaevents.sunnyday.outcome.success",
+      "label": "Pleasant Travels",
+      "startdescription": "Sometimes the journey passing is so uneventful, there is nothing left to do except enjoy yourself."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.sunkencity.linedown",
+      "label": "The Line Down",
+      "description": "A single rope dangling of the edge of the abyss. With this we can descend..."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.courage",
+      "label": "Courage",
+      "description": "You cannot freeze in fear, if you know you are backed by the greater force. My presence can act as their tailwind tonight. [This card protects your sailors from Terror as long as it is on the board.]<br><br>[This card will affect some obstacles and events of this Adventure from the board.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.edge",
+      "label": "At the Abyss' Edge",
+      "description": "Here we witness a miracle one might expect at the edge of the world. A churning mass of water going straight down. It is not a waterfall but simply a door to the depths. As long as we are near it, we have to withstand that proximity, and it's effects on the currents."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors",
+      "label": "Sailors on the Edge",
+      "description": "Slack-mouthed and with gaping eyes, the sailors stare at the horrific miracle besides them. This is more than normal men have to bear. Many of them may prefer to flee, instead of following me into the depths.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon",
+      "label": "A Siphon of Wind and Water",
+      "description": "A raging torrent plummeting down into the depths. Some power opened a keyhole towards that sunken city, perhaps in an acknowledgement of her involvement. The sea parts unwillingly, however, and us sailors must reckon with the sea.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "shipslot",
+          "label": "My Ship",
+          "description": "To travel the sea, I require my vessel."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "lnedown",
+          "label": "Stable Position",
+          "description": "A stable position on an unstable sea, to travel to destinations unimaginable."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gapingcup",
+      "label": "The Gaping Cup",
+      "description": "The city was guided to venerate the power that births and consumes. These objects show their widespread worship. Each face is of the same man, but his expression changes from haughty to ravenous. [A Piece of the Story of Ker Ys.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.links",
+      "label": "Love-long Links",
+      "description": "A metallic knot, made of two triskelions entwining. Tin, Silver, Gold and some metals that seem more exotic still. A symbol of an upcoming union, or tribute paid to a rising power? [A Piece of the Story of Ker Ys.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.pair",
+      "label": "Icons of a Royal Pair",
+      "description": "A stone statue, showing a crowned man behind a robed woman, her hair entangled in his beard. Is he sheltering her or keeping her trapped, or could her fate have been direr still? [A Piece of the Story of Ker Ys.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.dust",
+      "label": "Only Dust",
+      "description": "our only reward is the dust of crumpled memories."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.homebound",
+      "label": "The Homebound Song",
+      "description": "Remember home, remember birdsong. Remember the smell of  grass, remember sand scrapping your heels. Remember that small thing can be enough, even when big things are not. [This card protects me and my sailors from Horror as long as it is on the board.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.city",
+      "label": "Waterlogged Ruins",
+      "description": "The city is surrounded by grinding walls of water, black as ink. The only light is from the spotlight-moon above. Mother-moon casts the cobbled streets in her bleak light: pale colors, deep shade. The newly revealed doors still weep. Each of us feels in our heart, that we are trespassing on grounds hallowed, or profaned."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains",
+      "label": "What Remains Of The City",
+      "description": "This city is like a skeleton, salt-crusted upon the abyssal silt. Here we pass beneath the palace gaping stare, and there lies the dike-wall like a snapped spine. If we scamper like beetles, we might still find scraps preserved below the salt. ",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall",
+      "label": "The Ink-Wall Lure",
+      "description": "The city is unnerving, like walking through a tomb, where each step leaves a crisp outline recording our trespasses. But more ominous still are the black walls of water beyond, their low roar pervasive in the back of our mind.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend",
+      "label": "Stories End",
+      "description": "There is an itch at the back of my skull. I can feel a hundred feet tap me just above the skin of my neck, urging me forward. I am here to sight-see, yes, but only if I see this story to its end.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate4",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate5",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate6",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.doorsplinters",
+      "label": "Door Slivers",
+      "description": "Splinters of a great gate, broken in betrayal, sanctified in mercy."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.etchedbands",
+      "label": "Etched Lovelinks",
+      "description": "A metallic knot, made of two triskelions entwining. The bands are now marred by five finger prints, left by its owner letting go."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.seawall",
+      "label": "The Broken Lock",
+      "description": "The dike encircles the city, but the barrier has been broken.\n\nsea-gate stands fractured- \ndoor-splinters white in moonlight -\nits salt-coated scars"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing",
+      "label": "The Blubberthing",
+      "description": "A mound lies at the edge of town. It resembles a whale, if not for the crying. It resembles a stillborn, if not for the mottled beard. It resembles a caterpillar, but it will never take its final form.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers",
+      "label": "The Door Slivers",
+      "description": "The Broken Lock is consecrated in triplicate: A great Gate, wounded illicitly by moonlight, to cause a cataclysmic purification. Its remnants remember.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge",
+      "label": "Walls' Edge",
+      "description": "Like sheets of onyx, like a diaphanous mirror, like an inviting death. Here, so close to the edge, the sound of the water roars strong enough to cover movement, conversation, thought. Its emptiness calls to mine, and echoes within my Lack-Heart",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hiraezh",
+      "label": "Hiraezh",
+      "description": "The longing for that which is no longer."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma",
+      "label": "Old Mother Anguish",
+      "description": "Nations rose and empires sank, still Old Mother Anguish returned to the home she condemned. Stricken with a trifold grief for a trifold death, she wears all the scars that time and sadness can leave a woman with. Her eyes know cruelty, but her hands know mercy."
+    }
+  ]
+}

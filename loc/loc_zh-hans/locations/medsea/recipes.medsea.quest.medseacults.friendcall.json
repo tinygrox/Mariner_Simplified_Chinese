@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.special.start.medsea.quest.medseacults.friendcall",
+      "label": "<Appeal in a Newspaper>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.findhakim.hint",
+      "label": "<Finding \"Hakim\"?>",
+      "startdescription": "<I need to be in Bizerta before I try to find the local address printed in this newspaper clip>"
+    },
+    {
+      "id": "mariner.quests.medseacults.findhakim",
+      "label": "<Finding \"Hakim\">",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.quests.medseacults.meethakim",
+      "label": "<Talking to Hakim>",
+      "startdescription": "<>",
+      "description": "<>"
+    }
+  ]
+}

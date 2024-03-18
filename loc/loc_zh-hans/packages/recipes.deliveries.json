@@ -1,0 +1,256 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.deliverpackage.start",
+      "label": "Deliver Package",
+      "startdescription": "Deliver the package"
+    },
+    {
+      "id": "mariner.deliverpackage.failure",
+      "label": "Wrong Address",
+      "startdescription": "Mistaken Identity, Failed Delivery"
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.morland",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.morland.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.morland.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.agdistis",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.agdistis.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.agdistis.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.veiledlady",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.veiledlady.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.veiledlady.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.harald",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.harald.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.northsea.harald.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.alexia",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.alexia.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.alexia.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.mfm",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.mfm.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.mfm.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.hakim",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.hakim.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.hakim.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.nun",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.nun.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.nun.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.tourist",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.tourist.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.tourist.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.archeologist",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.archeologist.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.archeologist.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.dreamer",
+      "label": "Deliver Package",
+      "startdescription": "Package delivered. If I express interest in information wtih my Lack-Heart, I can learn new secrets of the sea, if I imply interest in material goods with my Half-Heart, I will be paid for my services monetarily.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "What kind of reward do I want?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.dreamer.askforfunds",
+      "label": "Deliver Package",
+      "description": "Package delivered in exchange for funds."
+    },
+    {
+      "id": "mariner.deliverpackage.medsea.dreamer.askforintel",
+      "label": "Deliver Package",
+      "description": "Package Delivered in exchange of intel."
+    }
+  ]
+}

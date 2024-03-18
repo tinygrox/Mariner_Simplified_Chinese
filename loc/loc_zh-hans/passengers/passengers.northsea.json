@@ -1,0 +1,34 @@
+{
+  "elements": [
+    {
+      "id": "mariner.passengeropportunity.goingto.northsea.london",
+      "label": "Potential Client, Going to London",
+      "description": "This one is looking for a ship to get them to London. They will reward us if we bring them to London, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.northsea.london",
+      "label": "Passenger, Going to London",
+      "description": "Passenger, going to London. They will reward us if we bring them to London, but their patience is limited."
+    },
+    {
+      "id": "mariner.passengeropportunity.goingto.northsea.amsterdam",
+      "label": "Potential Client, Going to Amsterdam",
+      "description": "This one is looking for a ship to get them to Amsterdam. They will reward us if we bring them to Amsterdam, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.northsea.amsterdam",
+      "label": "Passenger, Going to Amsterdam",
+      "description": "Passenger, going to Amsterdam. They will reward us if we bring them to Amsterdam, but their patience is limited."
+    },
+    {
+      "id": "mariner.passengeropportunity.goingto.northsea.copenhagen",
+      "label": "Potential Client, Going to Copenhagen",
+      "description": "This one is looking for a ship to get them to Copenhagen. They will reward us if we bring them to Copenhagen, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.northsea.copenhagen",
+      "label": "Passenger, Going to Copenhagen",
+      "description": "Passenger, going to Copenhagen. They will reward us if we bring them to Copenhagen, but their patience is limited."
+    }
+  ]
+}

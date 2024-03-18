@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.talk.recruitopportunity.nofunds",
+      "label": "Recruit an Opportunity?",
+      "startdescription": "Someone with specific skills who could round out my crew, for a while... If I accept to pay them."
+    },
+    {
+      "id": "mariner.talk.recruitopportunity.cabinfull",
+      "label": "No Room Left In Cabins",
+      "startdescription": "The Kite is full to capacity. I cannot bring this person on board."
+    },
+    {
+      "id": "mariner.talk.recruitopportunity.pre",
+      "label": "Recruit an Opportunity",
+      "startdescription": "Someone with specific skills who could round out my crew, for a while."
+    },
+    {
+      "id": "mariner.talk.recruitopportunity.checkreputation",
+      "label": "Recruit an Opportunity?"
+    },
+    {
+      "id": "mariner.talk.recruitopportunity.refuseoffer",
+      "label": "Ill Repute",
+      "description": "My reputation precedes me, and now prospective crew reconsider before tying themselves to my ship."
+    },
+    {
+      "id": "mariner.talk.recruitopportunity.done",
+      "label": "Crew Signed",
+      "startdescription": "Another sailor for my ship, another soul for my cause, another life as my burden."
+    },
+    {
+      "id": "mariner.spawn.crewmember.intellectual",
+      "achievements": [
+        "mariner.achievements.firstspecialist"
+      ]
+    },
+    {
+      "id": "mariner.spawn.crewmember.manual",
+      "achievements": [
+        "mariner.achievements.firstspecialist"
+      ]
+    }
+  ]
+}

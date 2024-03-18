@@ -1,0 +1,21 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.dancer",
+      "label": "Harald's Missing Muse",
+      "description": "Once, Harald spent a long summer with a Dancer-Adept in Hamburg. When they got seperated during the socialist riots, she yelled at him that they should reconvene at the Shedders' Club for she planned to follow the Old Way. He never figured out what she meant.",
+      "slots": [
+        {
+          "id": "missing.place",
+          "label": "Missing Place",
+          "description": "this mystery requires a location"
+        },
+        {
+          "id": "Missing.song",
+          "label": "Missing Song",
+          "description": "this mystery requires a song"
+        }
+      ]
+    }
+  ]
+}

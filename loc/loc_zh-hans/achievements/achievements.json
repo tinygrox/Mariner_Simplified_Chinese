@@ -1,0 +1,92 @@
+{
+  "achievements": [
+    {
+      "id": "A_CATEGORY_MARINER",
+      "label": "<color=#73d3ff>Mariner"
+    },
+    {
+      "id": "mariner.achievements.firstnavigation",
+      "label": "Coming Back to Port",
+      "unlockmessage": "I returned to the Capital.",
+      "descriptionUnlocked": "The end of a voyage? Or the beginning of a new one?"
+    },
+    {
+      "id": "mariner.achievements.firstspecialist",
+      "label": "Tailoring My Crew",
+      "unlockmessage": "I need to best tools for the task to come.",
+      "descriptionUnlocked": "I decided to spend more to hire specialists."
+    },
+    {
+      "id": "mariner.achievements.firstusednatureinspiration",
+      "label": "Inspired By Nature",
+      "unlockmessage": "\"In all things of nature there is something of the marvelous.\" -Aristotle",
+      "descriptionUnlocked": "What is without, within. What is mundane, Glorious."
+    },
+    {
+      "id": "mariner.achievements.firstusedmuseinspiration",
+      "label": "Inspired By a Muse",
+      "unlockmessage": "When her very being is music, every word is a symphony, every step a performance",
+      "descriptionUnlocked": "I used a Muse for inspiration, and read music from the human form."
+    },
+    {
+      "id": "mariner.achievements.firstusedmelodyinspiration",
+      "label": "<>",
+      "unlockmessage": "<>",
+      "descriptionUnlocked": "<>"
+    },
+    {
+      "id": "mariner.achievements.firstusedlocationinspiration",
+      "label": "<>",
+      "unlockmessage": "<>",
+      "descriptionUnlocked": "<>"
+    },
+    {
+      "id": "mariner.achievements.firstusedinstrumentinspiration",
+      "label": "<>",
+      "unlockmessage": "<>",
+      "descriptionUnlocked": "<>"
+    },
+    {
+      "id": "mariner.achievements.firstusedexperienceinspiration",
+      "label": "<>",
+      "unlockmessage": "<>",
+      "descriptionUnlocked": "<>"
+    },
+    {
+      "id": "mariner.achievements.firstusedurstoryinspiration",
+      "label": "<>",
+      "unlockmessage": "<>",
+      "descriptionUnlocked": "<>"
+    },
+    {
+      "id": "mariner.achievements.firstsuccessfulperformance",
+      "label": "The Orphean Arts",
+      "unlockmessage": "On the stage, what is True and what is Real may trade places, and dance a merry jig. I stood in that moment, and conducted that dance.",
+      "descriptionUnlocked": "With the stage my temple, and the audience my unwitting flock, I worked a miracle."
+    },
+    {
+      "id": "mariner.achievements.firstinstrument",
+      "label": "Instrument Acquired",
+      "unlockmessage": "A foreign object now, but soon as familiar as my own limbs",
+      "descriptionUnlocked": "I have acquired an instrument, and extended music further than voice alone."
+    },
+    {
+      "id": "mariner.achievements.haraldsmuse",
+      "label": "Decomposition",
+      "unlockmessage": "Even Discarded things undergo one last transformation.",
+      "descriptionUnlocked": "I have followed the tale of the Dancer to its disrupted end."
+    },
+    {
+      "id": "mariner.achievements.hiraezh",
+      "label": "Hiraezh",
+      "unlockmessage": "Anguish can be both lesson and reward.",
+      "descriptionUnlocked": "I have discovered the hiraezh of a guilty sovereign, and interrupted her holy vigil."
+    },
+    {
+      "id": "mariner.achievements.charactermended",
+      "label": "Character Mended",
+      "unlockmessage": "By starlight stitching, what was torn asunder can again be mended as one.",
+      "descriptionUnlocked": "The first shreds of my soul have been pulled together. I am closer to my Other Half. We are closer to being whole."
+    }
+  ]
+}

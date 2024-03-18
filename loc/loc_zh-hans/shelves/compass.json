@@ -1,0 +1,11 @@
+{
+  "shelves": [
+    {
+      "id": "mariner.shelves.compass",
+      "legacies": [
+        "mariner.legacies.mariner"
+      ],
+      "name": "Compass"
+    }
+  ]
+}

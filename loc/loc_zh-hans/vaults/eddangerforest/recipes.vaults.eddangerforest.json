@@ -1,0 +1,471 @@
+{
+  "recipes": [
+    {
+      "label": "Explore The Forest Wall",
+      "id": "mariner.vaults.eddangerforest.wall.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.wall.task.pre",
+      "label": "Explore The Forest Wall",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.eddangerforest.explore.wall.exhausted",
+      "label": "The Forest Wall Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast.navigate.hintexclusiveattention",
+      "label": "Consider the Coast",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast.navigate.pre",
+      "label": "Consider the Coast",
+      "startdescription": "The open expanse of sea and sky is more familiar to me the nthe dark embrace of the woodlands. I could take a moment, and linger on the shores to align myself to the rhythms of the waters and affirm my affiliation to its powers."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast.navigate",
+      "label": "Consider the Coast",
+      "startdescription": "The open expanse of sea and sky is more familiar to me the nthe dark embrace of the woodlands. I could take a moment, and linger on the shores to align myself to the rhythms of the waters and affirm my affiliation to its powers."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast.navigate.success",
+      "label": "The Sea Hungers, the Moon Protects",
+      "description": "All coastlines are crossroads, and all waves stitch the edge between land and sea. The seabreeze laces my hair and kisses my eyelashes. It will follow me in, a reminder that I am never alone."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast.navigate.failure",
+      "label": "Unaccompanied",
+      "description": "I am aiming to travel into the realm of another power. Those that walk the waters' edge will not follow me there, not today."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.sing.hintexclusiveattention",
+      "label": "Implore for Passage",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.sing.pre",
+      "label": "Implore for Passage",
+      "startdescription": "All woods are a reflection of The Wood, though some lie closer to that primordial boskiness. Here creatures hold court usually only found in lightstarved dreams. For safe travels, I should show my deference."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.sing",
+      "label": "Implore for Passage",
+      "startdescription": "All woods are a reflection of The Wood, though some lie closer to that primordial boskiness. Here creatures hold court usually only found in lightstarved dreams. For safe travels, I should show my deference."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.sing.success",
+      "label": "Unspoken Etiquettes",
+      "description": "If I follow the old rules, if I remain respectful, if I avoid ancient hollows and the fernclad burrows… The court that crawls and climbs shall not bother me."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.sing.failure",
+      "label": "Audience Interrupted",
+      "description": "The words were heard, but not appreciated. The forest turns cold to me before I have even crossed it's borders proper."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.explore.hintexclusiveattention",
+      "label": "Into the Woods",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.explore.pre",
+      "label": "Into the Woods",
+      "startdescription": "If I find my preparation sufficient, we can set off into the realm of the Honey Queen, and of those creatures who are rarely seen but whose presence is often felt."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.explore",
+      "label": "Into the Woods",
+      "startdescription": "If I find my preparation sufficient, we can set off into the realm of the Honey Queen, and of those creatures who are rarely seen but whose presence is often felt."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.explore.success",
+      "label": "Enter the Heartlands",
+      "description": "We must begin the journey."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge.explore.failure",
+      "label": "Backwards",
+      "description": "The way was lost, the light ill-omened. We had to turn back before it got dark. I have no doubt however, that we were noticed."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp.navigate.hintexclusiveattention",
+      "label": "Scavenge from battle of Sap and Scrap",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp.navigate.pre",
+      "label": "Scavenge from battle of Sap and Scrap",
+      "startdescription": "The machines, once roaring, are now still and silent. The tree blood coated their blades and then the cockpits and then the buildings in between. Every surface is covered with muddled amber, with violent machines trapped underneath. Either could be of use to me."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp.navigate",
+      "label": "Scavenge from battle of Sap and Scrap",
+      "startdescription": "The machines, once roaring, are now still and silent. The tree blood coated their blades and then the cockpits and then the buildings in between. Every surface is covered with muddled amber, with violent machines trapped underneath. Either could be of use to me."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp.navigate.success",
+      "label": "Scavenge from battle of Sap and Scrap"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp.navigate.failure",
+      "label": "Stuck",
+      "description": "One of my helpers is trapped by the resin. As soon they touched it, it started spread around their arms. We managed to"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate.hint",
+      "label": "Understand the River",
+      "startdescription": "This stream carves shapes into the forest floor, like runes in a forgotten script. It spells out an enchantment, which it could be wise to understand before I travel down its length. I must ensure I know the Laws of this Forest before I can try to understand the script."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate.hintexclusiveattention",
+      "label": "Understand the River",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate.pre",
+      "label": "Understand the River",
+      "startdescription": "This stream carves shapes into the forest floor, like runes in a forgotten script. I remember the Old Laws, and with that basis, I can try to parse the River."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate",
+      "label": "Understand the River",
+      "startdescription": "This stream carves shapes into the forest floor, like runes in a forgotten script. I remember the Old Laws, and with that basis, I can try to parse the River."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate.success",
+      "label": "Truth on the Tongue",
+      "description": "A single sip has revealed the truth to me. This river winds in knots for those that do not know the words. But if I hold the right ones on my tongue, it cannot bar my entry."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.navigate.failure",
+      "label": "Tongue-tripped",
+      "description": "My attempt is clumsy, and in the end, my own soul is ensnared in the convolutions of the rivulet."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.explore.hintexclusiveattention",
+      "label": "Follow the River",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.explore.pre",
+      "label": "Follow the River",
+      "startdescription": "This could be the easiest path into the woods. The banks are reasonably bare. This method should save us from the issues of navigating the dark and confusing woods."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.explore",
+      "label": "Follow the River",
+      "startdescription": "This could be the easiest path into the woods. The banks are reasonably bare. This method should save us from the issues of navigating the dark and confusing woods."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.explore.success",
+      "label": "Into the Depths",
+      "description": "The river is both our road and our guide. It will lead it right towards the deepest, most ancient parts of the woods."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river.explore.failure",
+      "label": "Turned Around",
+      "description": "We keep our eyes forward unwaveringly. Yet somehow, as we travel around one more river bend, we arrive right back where we started."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.loop",
+      "label": "The Eyes of the Forest",
+      "startdescription": "As we pierce the borders of the woods, we get the creeping feeling that our presence has been noticed."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.breaktool",
+      "label": "Gremlin Tampering",
+      "startdescription": "This wild things that form the Honey Queens' court harbor a deep recentment for artifice, and one of my tools just bore the brunt of that ire."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.exhaustcrew",
+      "label": "The Very Earth Resist Us",
+      "startdescription": "The ground crumbles under foot. While most of us can duck for cover, one of my sailors strains their limbs."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.killcrew",
+      "label": "Where Did They Go",
+      "startdescription": "In this dense vegetation, it is hard to keep everyone accounted for... Who knows what lead them astray, or where it lead them to."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.killcrew.post",
+      "label": "Where Did They Go",
+      "startdescription": "\"They were right behind me, they were right here!\"<br><br>The forest has claimed someone, it seems. We must push onward as quickly as possible, before more go the same way."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.eoc.killcrew.gameover",
+      "label": "Eyes Set On Me",
+      "startdescription": "The forest is alive, and I am sure that soon I will not be."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.start",
+      "label": "A Journey",
+      "description": "We have ventured beyond the verdant twilight, and now traverse the jade and copper gloom"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.path.hintexclusiveattention",
+      "label": "Pathfinding",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.path",
+      "label": "Pathfinding",
+      "startdescription": "This wood is like a web of verdant growth. The trees cling to eachother so closely that suns nor stars can penetrate, and the wind is stiffled to sigh. To find our way to the center we will need to rely on our instinct or our inginuity. [Approach this challenge with Forge or Moth]"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.path.success",
+      "label": "Onwards",
+      "description": "Deeper we go, past birches that shed their skins like bandages, past fallen leaves that russle like discarded skin. Perhaps the forest grows so densely, for grew in an attempt to catch the wind?"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.path.failure",
+      "label": "Backwards",
+      "description": "We have found our way back to the waters' edge. That is to say, we did not find our way at all."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.limits.hintexclusiveattention",
+      "label": "Laws and Limits",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.limits",
+      "label": "Laws and Limits",
+      "startdescription": "Every inch of this forest is alive. Beneath our feet insect conquer and multiply, above our head birds chatter within the canopy. But folk wisdom also tells us that these parts are prowled by the hidden folk. Some in the Court of the Honey Queen crawled here from between the roots of a more Primal Wood. We better follow the rules few still remember. [Approach this challenge with Knock or Moth.]"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.limits.success",
+      "label": "Onwards",
+      "description": "Deeper we go. We do not pass between gates of sloping trees, and give the mushroom circles a wide berth."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.limits.failure",
+      "label": "Unwelcome",
+      "description": "It is hard to tell when, but we can feel the forest chill to our presence. Somewhere we have offended, but I am not sure how it will come to bear."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.mare.hintexclusiveattention",
+      "label": "Nothing is Watching Us",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.mare",
+      "label": "Nothing is Watching Us",
+      "startdescription": "A new presence has been felt by all our party. It is not a sound, but it has the suggestion of laughter. It is no predator stalking, yet the shadows move to follow us. It is not a physical threat, but the hairs on our arms are rising. We must rid ourselves of this Unthing, before it chases us Nowhere. [Approach this challenge with Heart or Lantern.]"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.mare.success",
+      "label": "Onwards",
+      "description": "Deeper we go, into the heart chambers of this ancient wood. The trees here have never seen a blade, yet they remember the taste of blood. It is not in nature of the Yew to mourn, but her family does remember."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.mare.failure",
+      "label": "No-One Behind Use",
+      "description": "We hurry along, watching over our shoulders, unsure what we are fearing besides the fear. Deeper into the gloom we realise there is now one pair of shoulders less, and that the air is suddenly ripe with earth-smells"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.end",
+      "label": "Into the Clearing",
+      "startdescription": "",
+      "unlockCodexEntries": [
+        "codex.hours.ringyew"
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.mini.start",
+      "label": "A Riverside Journey",
+      "description": "With the river as both our path and our guide, we find our winding way towards the heart of this forest."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.nokken.hintexclusiveattention",
+      "label": "River Secrets",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.nokken",
+      "label": "River Secrets",
+      "startdescription": "The river shows the path, but it is just as alive and temperamental as the forest. If the old stories are true, these streams would be just the place for a nokken to lair. And if the old stories weren't true, there would be nothing for us to collect at the river's end. [Protect yourself with Lantern or Heart.]"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.nokken.success",
+      "label": "The Brook Babbles",
+      "description": "Here, at the river's edge, we still walk mostly in daylight. The wind gossips in the trees and the lapping waves babbles nonsense at the shore. Nothing but nature around."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.gauntlet.nokken.failure",
+      "label": "From Storied depths",
+      "description": "We can never be sure we seen it, though some of us see horse heads among the white capped waves, and others imagine whinnying laughs to come beyond the reeds. What we can be sure of is the crash behind us, and the sailor that slipped into the river and never came back up."
+    },
+    {
+      "label": "Explore The Innermost Glade",
+      "id": "mariner.vaults.eddangerforest.glade.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.glade.task.pre",
+      "label": "Explore The Innermost Glade",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.eddangerforest.explore.glade.exhausted",
+      "label": "The Innermost Glade Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore.hint",
+      "label": "Probing Ministrations",
+      "startdescription": "Examing the folds up close, we find the folds edges spongy and giving. We could invade them with clever fingers, which may inspire the tree to open up further to the touch."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore.hintexclusiveattention",
+      "label": "Probing Ministrations",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore.pre",
+      "label": "Probing Ministrations",
+      "startdescription": "Examing the folds up close, we find the folds edges spongy and giving. We could invade them with clever fingers, which may inspire the tree to open up further to the touch. The greater fear is of our hand not being released after the deed is done. Only the Malachite Favor could ensure our safety."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore",
+      "label": "Probing Ministrations",
+      "startdescription": "Examing the folds up close, we find the folds edges spongy and giving. We could invade them with clever fingers, which may inspire the tree to open up further to the touch. The greater fear is of our hand not being released after the deed is done. Only the Malachite Favor could ensure our safety."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore.success",
+      "label": "Dowry Granted",
+      "description": "The bark is hard and sturdy, but the innards of are pliable and soft. We move quickly, securely, lovingly. We remove from inside those treasures which were entrusted there, and behind our fingertips, the hollow folds in towards a satisfied knot."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.explore.failure",
+      "label": "A Handfasting",
+      "description": "One of our aids' hands slips in, but as soon as it is enveloped, the tree grip closes on it like a vise. They claw at the bark and whimper, but the Yew will not let go of her new conquest"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.sing.hintexclusiveattention",
+      "label": "Vie for Favor",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.sing.pre",
+      "label": "Vie for Favor",
+      "startdescription": "Each of the hollows is clamped tight around the putrid digits of this previous applicant. If we can put the Malachite in one of her good moods, our fate may yet be different."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.sing",
+      "label": "Vie for Favor",
+      "startdescription": "Each of the hollows is clamped tight around the putrid digits of this previous applicant. If we can put the Malachite in one of her good moods, our fate may yet be different."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.sing.success",
+      "label": "Sylvan Serenade",
+      "description": "As I sing I find the words. The Ring Yew does not dwell on the loss, but she is familiar with Longing. A soft creaking shiver travels through the tree, and one of the Nooks is opened, just a little bit."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks.sing.failure",
+      "label": "Unsung",
+      "description": "I have declared myself, and was rejected. The word could have been perfect and the tune correct, but the Malachite is a creature of whimsy, and this time, our tone did not please."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.explore.hintexclusiveattention",
+      "label": "Desecrate the Corpses",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.explore.pre",
+      "label": "Desecrate the Corpses",
+      "startdescription": "Many bodies are strewn here, entangled by vines with flowers sprouting from their death-stiff jaws. From their rotting clothing and decaying bags we can take the valuables they can no longer appreciate."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.explore",
+      "label": "Desecrate the Corpses",
+      "startdescription": "Many bodies are strewn here, entangled by vines with flowers sprouting from their death-stiff jaws. From their rotting clothing and decaying bags we can take the valuables they can no longer appreciate."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.explore.success",
+      "label": "Left Loot",
+      "description": "Our pockets are now lined with whatever the nearest corpse carried with it into the woods. But as soon as we turn away, the robbed body is dragged into animation, vines clinging to bones like rippling muscles."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.explore.failure",
+      "label": "Snapped Away",
+      "description": "As our hand reaches into the pocket, we jostle the dead flesh. Immediately the vines around it snap to life like coiling snakes. It is dragged against the corpse, which strangles it with one vine-cabled hand while lifting itself up with the other."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.sing.hintexclusiveattention",
+      "label": "Sing-Collect the Corpse-Bloom",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.sing.pre",
+      "label": "Sing-Collect the Corpse-Bloom",
+      "startdescription": "From the crown of each corpse, a single flower has sprouted. While I do not yet know the who or why, I am sure something as extraordinary as this will be valuable to someone."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.sing",
+      "label": "Sing-Collect the Corpse-Bloom",
+      "startdescription": "From the crown of each corpse, a single flower has sprouted. While I do not yet know the who or why, I am sure something as extraordinary as this will be valuable to someone."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.sing.success",
+      "label": "Snip the Stem",
+      "description": "Verse by verse, we cut the flower off by the stem. It bleeds yellow resin, and we see the eyes of the corpse begin to flutter. We retreat quickly before its decayed fingers can grab hold."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.sing.failure",
+      "label": "Tug of the Vine Strings",
+      "description": "The corpse awakes as soon as the flower's stem is snipped, as does the vegetation that pierces its limbs and the creatures that found shelter in it's hollow chest. It does not speak but drones, and it's jaws barely open to release the swarming bees that incapacitate the foolish culprit."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.navigate.hintexclusiveattention",
+      "label": "Study the Corpses",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.navigate.pre",
+      "label": "Study the Corpses",
+      "startdescription": "Life following death is part of natures cycle. Nutrients flow, energy is transformed, and life is renewed. Though, it is rarely the same life that was lost. Something growing on dead flesh is not unexpected, but there is something peculiar to the poses of these bodies, and the way the vines are wrapping them."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.navigate",
+      "label": "Study the Corpses",
+      "startdescription": "Life following death is part of natures cycle. Nutrients flow, energy is transformed, and life is renewed. Though, it is rarely the same life that was lost. Something growing on dead flesh is not unexpected, but there is something peculiar to the poses of these bodies, and the way the vines are wrapping them."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.navigate.success",
+      "label": "Nature without Divisions",
+      "description": "Here before us,we see all kingdoms of life united from death. Fungi creep over dead flesh, roots embbeded in there cylia, with beetles bustling in between. All of Life is a circle under the Ring Yew. Even Hunter and Prey, Plant and Parasite are cousins under her care. I see where the roots have dug into the flesh, and where rot has left the tissue soft like tearing cloth."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses.navigate.failure",
+      "label": "Too Aware",
+      "description": "While I we had noticed the plants covering the bodies before, we now become aware the creeping and crawling court that has taken residence, scratching beneath the skin. We can allready feel them too, our flesh attuned to our future. The fate of all those who will be burried in soft soil."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits.explore.hintexclusiveattention",
+      "label": "Gather the Fruits",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits.explore.pre",
+      "label": "Gather the Fruits",
+      "startdescription": "The berries hang low in the bows, high enough to challenge your reach, low enough to yield to your grasp. Their flesh is soft and delicate, and we should be careful not to tear them. That is a profound offence on hallowed grounds, for which the penance requires you to swallow the fatal seeds."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits.explore",
+      "label": "Gather the Fruits",
+      "startdescription": "The berries hang low in the bows, high enough to challenge your reach, low enough to yield to your grasp. Their flesh is soft and delicate, and we should be careful not to tear them. That is a profound offence on hallowed grounds, for which the penance requires you to swallow the fatal seeds."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits.explore.success",
+      "label": "The Berries Bound",
+      "description": "We gather the fruits in a white handkerchief and bind it to our belt, careful not to crush them."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits.explore.failure",
+      "label": "Penance Payed",
+      "description": "One of the berries is dropped, and crushed under foot. As the aroma of mulled wine and humus fills the air, everything else becomes dead quiet. Not even the grass dares to russtle as the malefactor drops upon their trembling knees and kiss the ground where the berry dropped. Their last breath is a sigh, and they shall not move until time and the Wood-Things make them."
+    }
+  ]
+}

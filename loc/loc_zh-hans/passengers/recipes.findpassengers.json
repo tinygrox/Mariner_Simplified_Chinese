@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.findpassengers",
+      "label": "Find Clients looking to Travel",
+      "startdescription": "I work the crowd sifting for clients who appreciate the discression and adventure that the Kite can offer, and who have the funds to pay the fare."
+    },
+    {
+      "id": "mariner.findpassengers.foundnoone",
+      "label": "No Interest",
+      "description": "No person in the bars tonight carry the right blend of bravado and careful planning to buy a passage on my ship. I will have to put myself out there again, on another night."
+    },
+    {
+      "id": "mariner.findpassengers.foundsomeone",
+      "label": "A Passenger!",
+      "description": "A careful conversation, a declaration of a destination and then an exchange of funds. I have found a passenger who wishes to travel."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.jamming",
+      "label": "Practicing with the Crew",
+      "startdescription": "Usually, I keep my instruments in their room, and practice there alone. But tonight was a night that needed entertainment, and I brought them out to play with the crew."
+    },
+    {
+      "id": "mariner.sail.seaevents.jamming.outcome.firstoutcome",
+      "label": "A Joyous Chorus",
+      "startdescription": "Nothing so revitalizing to body and spirit as a night of singing, nothing as restorative to the harmony of a crew as as a collectively sung shanty."
+    },
+    {
+      "id": "mariner.sail.seaevents.jamming.outcome.cleardread",
+      "label": "Clearing the Air",
+      "startdescription": "As my fingers move and me throat thrums, a knot inside me unfirls. I leave the evening feeling lighter than I did before."
+    },
+    {
+      "id": "mariner.sail.seaevents.jamming.outcome.clearfasc",
+      "label": "Grounding in my Body",
+      "startdescription": "At the end of the evening, my lips tingle and my body is delightfully soar from dancing. As I lay on my cot, I feel myself sinking into self, settle back into my wrapping of flesh and bones."
+    }
+  ]
+}

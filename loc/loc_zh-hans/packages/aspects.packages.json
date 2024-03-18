@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.package",
+      "label": "A Package",
+      "description": "Someone, somewhere, desires to possess this."
+    },
+    {
+      "id": "mariner.recipient",
+      "label": "Delivery Recipient",
+      "description": "Connected to the covert network of the Raconteurs"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.imprisoncrewmember",
+      "label": "Bundled away!",
+      "startdescription": "These villains do not intend to kill, but to capture. Right this moment they struggle to seperate one from us.",
+      "description": "No one to imprison.",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Crewmember",
+          "description": "One of our own."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.imprisoncrewmember.success",
+      "label": "Bundled away!",
+      "startdescription": "One of mine was taken, and kept somewhere dark and safe."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.wandering.hintexclusiveattention",
+      "label": "A Wandering Guard!",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.docksidewarehouse.events.guards.wandering",
+      "label": "A Wandering Guard!",
+      "startdescription": "\"Is someone skulkin’ ‘ere?\" A wandering guard came upon our gang. They seem interested in capitalizing on the situation... one way or another."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.wandering.success",
+      "label": "Onward",
+      "description": "That unsavory creature is left behind us, and we continue on."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.wandering.failure",
+      "label": "Raised the alarm",
+      "description": "We managed to get away, but we made noise and we took some losses."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.fight.hintexclusiveattention",
+      "label": "Guards!",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.docksidewarehouse.events.guards.fight",
+      "label": "Guards!",
+      "startdescription": "Unsavory hoards have come to stop their illegitimate gains from becoming illegitimately mine."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.fight.success",
+      "label": "Cracked Bones",
+      "description": "The grins of the victors, the moans of the defeated. We stride onward, unopposed."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.guards.fight.failure",
+      "label": "One Soul Lost",
+      "startdescription": "We’ve fended them off, but one of mine was taken."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.don.hintexclusiveattention",
+      "label": "The Don Approaches",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.docksidewarehouse.events.don",
+      "label": "The Don Approaches",
+      "startdescription": "A lieutenant came upon us. Fighting seems foolish, but he is willing to talk."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.don.success",
+      "label": "An Understanding",
+      "description": "They were mollified, for now. They’ll do their best to stop the buzzing of the bee-hive Warren. But this arrangement is no promise for the future."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.events.don.failure",
+      "label": "Friends in High Places",
+      "description": "\"Oh, I’ll make sure they know about you. I’ll make sure everyone knows about you.\""
+    },
+    {
+      "label": "Explore the Crooked Alley",
+      "id": "mariner.vaults.docksidewarehouse.crookedalley.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.crookedalley.task.pre",
+      "label": "Explore the Crooked Alley",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.crookedalley.exhausted",
+      "label": "Crooked Alley Explored",
+      "description": "We’ve seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.hint",
+      "label": "Ply Information from the Gangsters",
+      "startdescription": "In the crooked little alley is a crooked little bar, where the crooked little men celebrate their crooked little lives. Perhaps we can cause their tongues to slip."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.task.hintexclusiveattention",
+      "label": "Ply Information from the Gangsters",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.task.pre",
+      "label": "Ply Information from the Gangsters",
+      "startdescription": "In the crooked little alley is a crooked little bar, where the crooked little men celebrate their crooked little lives. Perhaps we can cause their tongues to slip."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.task",
+      "label": "Ply Information from the Gangsters",
+      "startdescription": "In the crooked little alley is a crooked little bar, where the crooked little men celebrate their crooked little lives. Perhaps we can cause their tongues to slip."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.task.success",
+      "label": "Meek As Lambs",
+      "description": "\"No way. Do tell? Here, have another...\""
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters.task.failure",
+      "label": "Suspicion Raised",
+      "description": "Our questions were too obvious, our words too sweet. They know someone is watching."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview.task.hintexclusiveattention",
+      "label": "Observe the Base",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview.task.pre",
+      "label": "Observe the Base",
+      "startdescription": "A quiet shadowed corner where we can spend sleepless nights to plan our entry. The more we see, the better we can prepare."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview.task",
+      "label": "Observe the Base",
+      "startdescription": "A quiet shadowed corner where we can spend sleepless nights to plan our entry. The more we see, the better we can prepare."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview.task.success",
+      "label": "Patterns Perceived",
+      "description": "Our eyes water and our mind is cotton, but we got what we need."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview.task.failure",
+      "label": "The Observer Observed",
+      "description": "\"Oi, who's there? Get em!\""
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot.task.hintexclusiveattention",
+      "label": "Break into the Lot",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot.task.pre",
+      "label": "Break into the Lot",
+      "startdescription": "Creep through corners and shimmy the lock. Let’s enter this compound unnoticed."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot.task",
+      "label": "Break into the Lot",
+      "startdescription": "Creep through corners and shimmy the lock. Let’s enter this compound unnoticed."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot.task.success",
+      "label": "Over the Wall",
+      "description": "We passed the gate, and entered the Yard."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot.task.failure",
+      "label": "Spotted!",
+      "description": "We were not as quiet as we ought to have been. We never even made it over the wall."
+    },
+    {
+      "label": "Explore the Crane Yard",
+      "id": "mariner.vaults.docksidewarehouse.craneyard.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.craneyard.task.pre",
+      "label": "Explore the Crane Yard",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.craneyard.exhausted",
+      "label": "Crane Yard Explored",
+      "description": "We’ve seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.craneyard.drawevent.guards",
+      "label": "Explore the Crane Yard"
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines.task.hintexclusiveattention",
+      "label": "Scrap the Machine",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines.task.pre",
+      "label": "Scrap the Machine",
+      "startdescription": "There are useful things here in the Yard. If we take the time, we could come out with some useful stuff. It will be noisy though."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines.task",
+      "label": "Scrap the Machine",
+      "startdescription": "There are useful things here in the Yard. If we take the time, we could come out with some useful stuff. It will be noisy though."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines.task.success",
+      "label": "Tools of the Trade",
+      "description": "We work quickly and we work quietly. Like scurrying rodents, we take what we can grab. But like foranging rats."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines.task.failure",
+      "label": "A Commotion",
+      "description": "A mistake was made. Metal against metal, or the sound of breaking glass. Soon the guards will be upon us."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse.task.hintexclusiveattention",
+      "label": "Gain Entry to the Warehouse",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse.task.pre",
+      "label": "Gain Entry to the Warehouse",
+      "startdescription": "By brawn or guile, we need to get into the fortified warehouse itself."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse.task",
+      "label": "Gain Entry to the Warehouse",
+      "startdescription": "By brawn or guile, we need to get into the fortified warehouse itself."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse.task.success",
+      "label": "Security breached",
+      "description": "Their hold on the stronghold is no longer strong."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse.task.failure",
+      "label": "Caught",
+      "description": "We found a route, but on the other side we were greeted with torch light and raised voices."
+    },
+    {
+      "label": "Explore the Warren",
+      "id": "mariner.vaults.docksidewarehouse.warren.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warren.task.pre",
+      "label": "Explore the Warren",
+      "startdescription": "We tread lightly, peer around corners and listen at doors. We know where we want to go, but not where to find it."
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.warren.exhausted",
+      "label": "The Warren Explored",
+      "description": "We’ve seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warren.drawevent.guards",
+      "label": "Explore the Warren"
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warren.drawevent.don",
+      "label": "Explore the Warren"
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.safe.task.pre",
+      "label": "Open the Vault",
+      "startdescription": "With the right tools, or the right powders, we can gain entry to this vault."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.safe.task",
+      "label": "Open the Vault",
+      "startdescription": "With the right tools, or the right powders, we can gain entry to this vault."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.safe.task.success",
+      "label": "A Door Yields",
+      "description": "Hinges groan in submission. The contents are ours."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.safe.task.failure",
+      "label": "The Victory of Iron",
+      "description": "The barrier remains, taunting us... But this vault will not be left alone for long."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup.hint",
+      "label": "Prison Break",
+      "startdescription": "The Warehouse is at to high alarm for me to free the prisoners."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup.task.hintexclusiveattention",
+      "label": "Prison Break",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.docksidewarehouse.lockup.task",
+      "label": "Prison Break",
+      "startdescription": "Friendly faces faced behind bars. They would be grateful, if we could get them. [I can try to tackle this using Knock.]"
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup.task.success",
+      "label": "Liberation",
+      "startdescription": "A satisfying click. A sigh of relief. A clasping of hands."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup.task.failure",
+      "label": "Foiled",
+      "description": "Hollow eyes stare at us, from the hollow between the iron. The door won’t budge. But someone heard the rattle of our efforts."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup.freecrewmember",
+      "label": "Free the captives",
+      "startdescription": "Freeing the captives...",
+      "description": "They're all free now.",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Crewmember",
+          "description": "One of our Own"
+        }
+      ]
+    }
+  ]
+}

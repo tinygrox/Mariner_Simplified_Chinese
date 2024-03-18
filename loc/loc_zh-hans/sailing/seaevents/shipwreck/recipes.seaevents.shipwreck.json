@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.shipwreck",
+      "label": "Remains of Another Vessel",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ],
+      "startdescription": "We reach an area where the sea is cluttered like a workshop floor. Ships collided here, and what was once their hull and insides is spilled out to open air and sea. I can approach this challenge with knock or forge."
+    },
+    {
+      "id": "mariner.sail.seaevents.shipwreck.outcome.success",
+      "label": "Salvage from the Wreck",
+      "startdescription": "The sea carries many gifts, it is said. With net and hook and cable, we fish what can still be of use out of the water."
+    },
+    {
+      "id": "mariner.sail.seaevents.shipwreck.outcome.nothing",
+      "label": "Nothing of Note",
+      "startdescription": "The Sea is a fickle provider, it is said. We spend some time salvaging, but find nothing worth anything except as a soggy souvenir. We continue."
+    },
+    {
+      "id": "mariner.sail.seaevents.shipwreck.outcome.pain",
+      "label": "Scrape on the Hull",
+      "startdescription": "moving through this field of debris is a delicate maneuvre, and the constelation of scrap was ill-omened today. A screeching sound and horrible tremble indicate that an unseen danger has breached the hull."
+    }
+  ]
+}

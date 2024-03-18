@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.knock.1",
+      "label": "Lockpicks",
+      "description": "There are few honest reasons to have a set of lockpicks, but many exciting ones.",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.2",
+      "label": "Improved Lockpicks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.3",
+      "label": "Glorious Lockpicks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.specialisation",
+          "label": "Specialisation",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.4_1",
+      "label": "Exalted Wounding Picks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.4_2",
+      "label": "Exalted Heart-thiefs Picks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.5_1",
+      "label": "Mythical Wounding Picks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.knock.5_2",
+      "label": "Mythical Heart-thiefs Picks",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

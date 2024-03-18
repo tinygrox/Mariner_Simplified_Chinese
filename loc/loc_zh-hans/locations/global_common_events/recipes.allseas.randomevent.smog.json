@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.allseas.randomevent.smog",
+      "label": "Rotting Air",
+      "startdescription": "The effluvium of civilisations chokes the streets of this town. Some of my sailors, used to the purifying tonic of sea air, has fallen sick."
+    }
+  ]
+}

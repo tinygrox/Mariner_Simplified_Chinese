@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.overcome",
+      "label": "Enforce my Designs",
+      "startdescription": "There is someone or something between me and my desires. Time to show them my superiority. I could approach this with the force of Forge or the strength of Edge.",
+      "description": "There is someone or something between me and my desires. Time to show them my superiority. I could approach this with the force of Forge or the strength of Edge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.overcome.edge.high",
+      "label": "A Desire For Dominion",
+      "startdescription": "I will rise to the challenge, like the Spider rises towards the Glory. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.overcome.edge.med",
+      "label": "A Desire For Victory",
+      "startdescription": "I will surpass the challenge. In my blood lie the roots of victory. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.overcome.edge.low",
+      "label": "A Desire For Struggle",
+      "startdescription": "I will match my skill to the challenge. We may yet succed."
+    },
+    {
+      "id": "mariner.challenge.overcome.forge.high",
+      "label": "Stronger than Steel",
+      "startdescription": "I've grown strong. Like the Lionsmith, I'll grow stronger still. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.overcome.forge.med",
+      "label": "Stronger than Iron",
+      "startdescription": "I grow stronger. I'll display my ingenuity against men or nature. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.overcome.forge.low",
+      "label": "Stronger than Brass",
+      "startdescription": "I grow stronger. Only through testing my limits, can I discover how to surpass them. We may yet succed."
+    }
+  ]
+}

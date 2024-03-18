@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.grabpassengersonarrival.northsea.london",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.northsea.amsterdam",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.northsea.copenhagen",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.medsea.marseille",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.medsea.bizerta",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.medsea.constantinople",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    },
+    {
+      "id": "mariner.grabpassengersonarrival.medsea.haifa",
+      "label": "Passengers disembarking",
+      "startdescription": "The passengers have reached their destination, and leave me only with their fare."
+    }
+  ]
+}

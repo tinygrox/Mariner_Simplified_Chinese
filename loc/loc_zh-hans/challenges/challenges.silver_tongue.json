@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.silver_tongue",
+      "label": "The Silver Tongue",
+      "startdescription": "With the right attitude and the proper poise, you can be anyone, and you can make anything seem true. We can approach this task with the distractions of Grail or the shrewdness of Moth.",
+      "description": "With the right attitude and the proper poise, you can be anyone, and you can make anything seem true. We can approach this task with the distractions of Grail or the shrewdness of Moth.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.grail.high",
+      "label": "Not to Be Looked at",
+      "startdescription": "We may be regal, but we can act as the rabble. I am a face in the crowd, inseparable from the others. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.grail.med",
+      "label": "Not to Be Challenged",
+      "startdescription": "We may be a fox, but we can act as lambs. If I cannot be noticed, I cannot be touched. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.grail.low",
+      "label": "Not to Be Doubted",
+      "startdescription": "I may be a rose, but I can pass for a bramble. I will hide my true self like a pearl in its shell and pass for anything. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.moth.high",
+      "label": "Don A New Face",
+      "startdescription": "Just like changing a hat, one can change their skin. The Vagabond has five Masks, but I can don many more. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.moth.med",
+      "label": "Don A New Identity",
+      "startdescription": "Just like changing one's attire, one can change their essence. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.silver_tongue.moth.low",
+      "label": "Don A New Posture",
+      "startdescription": "Just like changing a coat, one can change their bearing. We may yet succeed."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "elements": [
+    {
+      "id": "mariner.reputation.heat",
+      "label": "<Reputation Heat>",
+      "description": "<Reputation Heat>"
+    },
+    {
+      "id": "mariner.reputation",
+      "label": "<Reputation>"
+    }
+  ]
+}

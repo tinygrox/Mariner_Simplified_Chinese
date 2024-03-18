@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.repairatsea",
+      "label": "<Attempt to Repair At Sea>",
+      "startdescription": "<Attempting : forge amount>"
+    },
+    {
+      "id": "mariner.sail.repairatsea.attempt",
+      "slots": [
+        {
+          "id": "help1",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to repair the ship."
+        },
+        {
+          "id": "help2",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to repair the ship."
+        },
+        {
+          "id": "help3",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to repair the ship."
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.repairatsea.success",
+      "label": "<Attempt to Repair At Sea: Success>",
+      "startdescription": "<Success>"
+    },
+    {
+      "id": "mariner.sail.repairatsea.failure",
+      "label": "<Attempt to Repair At Sea: Failure>",
+      "startdescription": "<Failure>"
+    }
+  ]
+}

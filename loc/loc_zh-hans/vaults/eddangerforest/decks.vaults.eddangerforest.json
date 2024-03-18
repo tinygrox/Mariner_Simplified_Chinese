@@ -1,0 +1,14 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.eddangerforest.explore.wall.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.eddangerforest.explore.glade.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    }
+  ]
+}

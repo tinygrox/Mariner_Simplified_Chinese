@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ais.missionorders.patrolcurrentregion",
+      "label": "Mission order: patrolcurrentregion",
+      "description": "Mission order: patrolcurrentregion"
+    },
+    {
+      "id": "mariner.ais.missionorders.changesea",
+      "label": "Mission order: changesea",
+      "description": "Mission order: changesea"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.crew",
+      "label": "Crewmember",
+      "description": "One of the sparks of life that animate my vessel."
+    },
+    {
+      "id": "mariner.crew.exhausted",
+      "label": "Exhausted",
+      "description": "What is depleted now, may be renewed when the tide turns."
+    },
+    {
+      "id": "mariner.recruitmentopportunity",
+      "label": "Recruitment Opportunity",
+      "description": "A potential new member for my crew."
+    },
+    {
+      "id": "mariner.crew.injured",
+      "label": "Injured!",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.opportunitycost",
+      "label": "Price",
+      "description": "True loyalty is priceless, but for sailors, any negotiation starts with shining sterling."
+    },
+    {
+      "id": "mariner.crew.longing",
+      "label": "Longing for Home",
+      "description": "Thoughts of home, thoughts of warm hearths or thoughts of smiling children, eventually they pull on sailors as strongly as the sea, or as their contract."
+    },
+    {
+      "id": "mariner.crew.wantstoleave",
+      "label": "Wants to Leave",
+      "description": "This one expressed their will to leave my ship."
+    },
+    {
+      "id": "mariner.crew.bargained",
+      "label": "Bargained With",
+      "description": "I've already bargained with this crewmember to convince them to stay with on board. The next time they decide to leave, it will be harder to convince them again."
+    }
+  ]
+}

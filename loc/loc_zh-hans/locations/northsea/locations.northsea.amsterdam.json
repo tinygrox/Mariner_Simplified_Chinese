@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.northsea.amsterdam.vermaetdiamantenhuis",
+      "label": "Vermaet Diamantenhuis",
+      "description": "A gemcutting house with its roots all the way back in the sixteenth century. While they mostly purchase gems in their raw state, they are known to appreciate a rare find of jewelry as well.",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "Goods",
+          "description": "What to sell."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.vermaetdiamantenhuis.away",
+      "label": "Vermaet Diamantenhuis [away]",
+      "description": "A gemcutting house with its roots all the way back in the sixteenth century. While they mostly purchase gems in their raw state, they are known to appreciate a rare find of jewelry as well."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.vermaetdiamantenhuis.hostile",
+      "label": "Vermaet Diamantenhuis [hostile]",
+      "description": "A gemcutting house with its roots all the way back in the sixteenth century. While they mostly purchase gems in their raw state, they are known to appreciate a rare find of jewelry as well.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.veiledlady",
+      "label": "The Veiled Lady",
+      "description": "An elegant creature of the Dutch underground subculture. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.veiledlady.away",
+      "label": "The Veiled Lady [away]",
+      "description": "An elegant creature of the Dutch underground subculture. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.veiledlady.hostile",
+      "label": "The Veiled Lady [hard to meet]",
+      "description": "An elegant creature of the Dutch underground subculture. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.matahari",
+      "label": "The Veiled Lady",
+      "description": "An elegant creature of the Dutch Demi-monde. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.matahari.away",
+      "label": "The Veiled Lady [away]",
+      "description": "An elegant creature of the Dutch Demi-monde. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.matahari.hostile",
+      "label": "The Veiled Lady [hard to meet]",
+      "description": "An elegant creature of the Dutch Demi-monde. She performs only on private parties now, but the rumours of her veiled dances have spread throughout the town. She does not meet many for free, but she is willing to meet with me."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.bar",
+      "label": "Het Anker",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.bar.hostile",
+      "label": "Het Anker [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

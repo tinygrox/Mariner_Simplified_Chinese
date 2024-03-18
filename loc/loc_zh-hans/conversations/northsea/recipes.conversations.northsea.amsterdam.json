@@ -1,0 +1,100 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.sunkencity",
+      "label": "Asking After The Sunken City",
+      "startdescription": "\"A city at the bottom of the sea?\"",
+      "description": "\"There are plenty. The sea is ravenous, and this coast has always been nibbled on. But I don't think you seek the soggy townsships lost to these low lands... I think I heard the story you are referring to, closer to my true home in Paris.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.halfheart",
+      "label": "Asking after a Broken Heart",
+      "startdescription": "\"Your heart has been broken? Oh mais non!\"",
+      "description": "\"I do so sympathize, bijou, I am very familiar with the sentiment. Not from personal experience of course, but many in my immediate surroundings keep getting afflicted!\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.corpseflowers",
+      "label": "Talk about a Rare Bloom?",
+      "startdescription": "\"You brought a bouquet? You shouldn't have\"",
+      "description": "\"These are not really my color, bijou. Besides, I have head a rumor that these flowers can be used to raise a corpse from the grave.\" Her veils russle as she smiles. \" I have no intention of becoming a corpse, so I have no need for these.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.merryberries",
+      "label": "Talk about a Rare Fruit",
+      "startdescription": "\"What a délicatesse did you bring me?\"",
+      "description": "\"I was given these twice, once to celebrate me, once to kill me. I believe you can find a market for wares such as these in the bazaars of Tripoli\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.experimental",
+      "label": "Talk about the New Scandinavian Theater",
+      "startdescription": "\"You wish to discuss the Scandinavian Avant Garde?\"",
+      "description": "\"I knew the Countess and her husband long before they founded the first Experimental Scandinavian. They came to see me perform, a lifetime ago.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.ecdysis",
+      "label": "Discuss the Ecdysis Club",
+      "startdescription": "\"Amavasya's place?\"",
+      "description": "\"I have never been, but I've heard things about it. I have a collegial curiosity, in a way, though these days I prefer my skin shedding to be a more intimate affair.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.musicmoth",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
+      "description": "\"Moth guides what hunts and stalks us. Our doubts, our fears, our shadow, our past. Any negativity still clinging to your clothes or hair. With the Intent of Lantern and the Direction of Moth, you can reveal the nature of a curse that has latched on to you. To Quell the curse, you will need to change your Intention, but keep the Direction the same.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.veiledlady.moth"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.musicwrongwinter",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
+      "description": "\"I do not like to deal with Winter. I have come quite close enough to death, thank you. The Winter Direction is a dangerous road... one for the desperate or the desolate. One who believes they have lost all may seek to pursue it further...\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.veiledlady.winter"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.musicwronggrail",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
+      "description": "\"The acts of Grail? And here I picked up that your Heart belonged to antother? Oh I tease mon chéri. The Intent of Grail is to charm, subsume the will of another with their desire to please you. If you wish to set of in that Direction though... well... You allready are, in a way. In the Direction of Grail lies both the Sea, and it' drowning waters, as well as the depths of your Desire itself.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.veiledlady.grail"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.musicwronglantern",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
+      "description": "\"The Light of Lantern was never mine to persue, I have much preferred the kindness of shadows. But just like my dances, the Direction of lantern is also one of Revelation. \"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.veiledlady.lantern"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.musicwrong",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
+      "description": "\"It has been to long since I did any of the sort. I am not interested to dredge up memories from a lifetime ago, not for this Direction or Intent\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.character",
+      "label": "The Mending of the Heart",
+      "startdescription": "\"You are seeking to mend your Broken Heart?\"",
+      "description": "\"If there were an easy path, I think everyone would take it, non?\" She takes my hands and places them over my chest, cupped in her own. \"Keep save what remains to you... Protecting is much easier than stitching the pieces back together.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.dancer",
+      "label": "Ask After A Dancer",
+      "startdescription": "\"A dancer friend of Harald?\"",
+      "description": "\"Non, désolée. That poor man has been pining after that girl for far too long... I would take his his mind of of her, but he does not travel much, and I am much too comfortable for an over sea trip. \" she stretches languid as a cat"
+    },
+    {
+      "id": "mariner.conversations.northsea.amsterdam.matahari.kerys",
+      "label": "Folk Tales and French Histories",
+      "startdescription": "\"What do you have there?\"",
+      "description": "She riffles the pages \"There is an opera based on this tale as well, and more versions than you can count strewn through the countryside. Though I am a Parisienne at heart, I cannot deny the romance found in Bretagne Great or Small. Listen, I'll tell you the tragedy of the Princess of Ker Ys\""
+    }
+  ]
+}

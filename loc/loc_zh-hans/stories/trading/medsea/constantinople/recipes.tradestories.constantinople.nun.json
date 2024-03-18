@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tradestory.constantinople.nun",
+      "label": "<Trade stories with Mother Euphresme>",
+      "startdescription": "\"<I have collected many stories in my long years. True ones, false ones. stories valued and stories worthwile.>\"",
+      "description": "<I will leave you with a story I do not tell often any more, but which I once shared with seven sisters.>\""
+    }
+  ]
+}

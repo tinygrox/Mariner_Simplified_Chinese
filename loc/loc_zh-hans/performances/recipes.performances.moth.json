@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.moth.hint",
+      "label": "Hint: A Confounding Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Moth."
+    },
+    {
+      "id": "mariner.performances.moth.start",
+      "label": "Perform a Show laced with the Intent of Moth",
+      "startdescription": "I slink low, back bent and knuckling the stage. My tonal range seeks to find the edges of humanity, and my melodies will beat within the skull."
+    },
+    {
+      "id": "mariner.performances.moth.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    }
+  ]
+}

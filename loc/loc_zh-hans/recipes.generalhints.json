@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.nothingtosayabout.location",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.song",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.topic",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.story",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.story.source",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.mystery",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    },
+    {
+      "id": "mariner.conversations.nothingtosayabout.desire",
+      "label": "Nothing To Say About This",
+      "startdescription": "This one doesn't seem to have anything to say about that."
+    }
+  ]
+}

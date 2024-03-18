@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.allseas.randomevent.gossip",
+      "label": "A Chance encounter with a Raconteur",
+      "startdescription": "I encounter another, who knows the stories and whistles the tunes of the raconteurs. After we are sure of our connection, we exchange gossip as if old friends. They let me know something interesting that is going on in the North Sea."
+    }
+  ]
+}

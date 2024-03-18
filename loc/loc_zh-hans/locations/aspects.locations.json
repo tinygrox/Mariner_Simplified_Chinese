@@ -1,0 +1,34 @@
+{
+  "elements": [
+    {
+      "id": "mariner.wharf",
+      "label": "Wharf",
+      "description": "Here the ravages of a previous voyage are tended to, and preparations for the next voyage are made."
+    },
+    {
+      "id": "mariner.market",
+      "label": "Market",
+      "description": "Here we can sell our goods... at least the ones this Marketplace is known for."
+    },
+    {
+      "id": "mariner.location",
+      "label": "Location",
+      "description": "Locations! Everything must be somewhere, and this is here."
+    },
+    {
+      "id": "mariner.theater",
+      "label": "A Theater",
+      "description": "Even those rooted firmly in the Wake sometimes get to touch upon the Glory here."
+    },
+    {
+      "id": "mariner.local",
+      "label": "Local",
+      "description": "This is here, and not elsewhere."
+    },
+    {
+      "id": "mariner.port",
+      "label": "Port",
+      "description": "We can dock here, and explore."
+    }
+  ]
+}

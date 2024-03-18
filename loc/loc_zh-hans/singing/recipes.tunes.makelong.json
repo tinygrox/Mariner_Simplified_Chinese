@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tunes.lengthen.forgeheart",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.grailedge",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.heartgrail",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.knocklantern",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.winterlantern",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.winterknock",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.mothedge",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    },
+    {
+      "id": "mariner.tunes.lengthen.mothheart",
+      "label": "Memorize a Tune",
+      "startdescription": "If I expend some of my creative resources, I could commit this tune to memory, and carry it with me elswhere, and into adventure.",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.docksidewarehouse.insideinformation",
+      "label": "Inside Information",
+      "description": "A useful scrap that can be used in a tight corner."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.guardschedule",
+      "label": "Guard Schedule",
+      "description": "We know when the night is darkest, we know when the guards change, we know who drinks to pass the time."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.basic",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.navigator",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.canoneer",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.privateer",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.carpenter",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.cook",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.diver",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.mate",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.officer",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.prisoners.conman",
+      "label": "Imprisoned Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.crookedalley",
+      "label": "Crooked Alley",
+      "description": "Within the unsavory part of town lies a hidden empire. This street demarks its border."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.drunkengangsters",
+      "label": "Drunken Gangsters",
+      "description": "In the crooked little alley is a crooked little bar, where the crooked little men celebrate their crooked little lives.",
+      "slots": [
+        {
+          "label": "Money",
+          "description": "Funds"
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.cornerwithaview",
+      "label": "A Corner with a View",
+      "description": "An unassuming corner with a sightline to the warehouse. ",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lot",
+      "label": "Walled-in Warehouse Lot",
+      "description": "Next to the alley, a wall. Beyond the wall, a courtyard. Inside the courtyard, a warehouse. Inside the warehouse, a vault. And inside the vault, treasure.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.craneyard",
+      "label": "The Crane Yard",
+      "description": "A shipping and construction site. A legitimate face to an illegitimate operation."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.sleepingmachines",
+      "label": "Sleeping Machines",
+      "description": "The giants of industry rest here. We may be able to scavenge something from between their sleeping bones.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warehouse",
+      "label": "The Warehouse Itself",
+      "description": "These cavernous brick halls and networked office building have been stripped of their original owners, yet lots of products still move through.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.warren",
+      "label": "The Warren",
+      "description": "A labyrinth of passages, offices and refurbished store-rooms. Somewhere within these passages, lies a Vault."
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.safe",
+      "label": "The Safe",
+      "description": "A wrought iron box, man-high. Its number wheel stares at me, an unblinking eye lined with glyphs.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.docksidewarehouse.lockup",
+      "label": "The Lock-Up",
+      "description": "The place where bad people keep those who wronged them. Some of my more careless friends might have found their way here.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    }
+  ]
+}

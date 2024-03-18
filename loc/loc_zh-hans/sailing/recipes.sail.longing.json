@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.arriving.grabcrewwillingtoleave",
+      "label": "Crew Considering Leaving",
+      "description": "Home tugs at the heartstrings of this crewmember. They are ready to leave me for the comforts of the solid soil.",
+      "slots": [
+        {
+          "label": "A Crewmember Preparing to Depart",
+          "description": "This one no longer plans to enroll with the Kite for her next voyage."
+        }
+      ]
+    }
+  ]
+}

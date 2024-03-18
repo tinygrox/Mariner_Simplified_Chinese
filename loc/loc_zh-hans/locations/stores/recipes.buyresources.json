@@ -1,0 +1,119 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.store.buyresources",
+      "label": "<Buy At the Supply Store>",
+      "startdescription": "Displayed prices:<br><br>-[1 <sprite name=funds>] Rations<br><br>-[1 <sprite name=funds>] Repair Kit<br><br>-[1 <sprite name=funds>] Medical Supplies<br><br><i>[Stop making choices to leave the store.]</i>",
+      "description": "<Alright then.>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Rations>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Repair Kit>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Medical Supplies>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.store.buyresources.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Rations>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption1.3",
+          "label": "<Buy Rations>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Repair Kits>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption2.3",
+          "label": "<Buy Repair Kits>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Medical Supplies>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.store.buyresources.pickoption3.3",
+          "label": "<Buy Medical Supplies>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

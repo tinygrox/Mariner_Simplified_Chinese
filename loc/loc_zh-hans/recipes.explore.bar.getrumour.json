@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.bar.getrumour.start",
+      "label": "Listen For Local Rumours",
+      "startdescription": "Between half-truths, tall tales and blatant lies, there are true opportunties to be found...if I can manage to buy enough sweet poison to unwrap their tongue."
+    },
+    {
+      "id": "mariner.explore.bar.getrumour.loop",
+      "label": "More Juice?",
+      "startdescription": "I can spend some cash in hopes to unwrap the patrons' tongues, or just cut my losses. [Any added fund will be spent until you manage to get a result. Consuming them all and not providing new funds will stop the action.]",
+      "description": "Cut my losses.",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金",
+          "description": "Some incentive to loosen the tongues."
+        },
+        {
+          "id": "funds2",
+          "label": "资金",
+          "description": "Some incentive to loosen the tongues."
+        },
+        {
+          "id": "funds3",
+          "label": "资金",
+          "description": "Some incentive to loosen the tongues."
+        }
+      ]
+    },
+    {
+      "id": "mariner.explore.bat.getrumour.fail",
+      "label": "Not Enough Not Unwrap Their Tongue",
+      "startdescription": "Maybe they suspect something. Maybe some other topic interests them more at the moment. Maybe I didn't water their mouths enough. Whatever the reason, they keep to themselves and their drink for now."
+    },
+    {
+      "id": "mariner.explore.bar.getrumourfor.northsea",
+      "label": "Heard a Rumour about the North Sea",
+      "description": "I listen to the many stories shared by the many mouths of a harbor bar. Any of these might contain a seed of opportunity."
+    },
+    {
+      "id": "mariner.explore.bar.getrumourfor.medsea",
+      "label": "Heard a Rumour about the Mediterranean Sea",
+      "description": "I listen to the many stories shared by the many mouths of a harbor bar. Any of these might contain a seed of opportunity."
+    }
+  ]
+}

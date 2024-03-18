@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.avoid",
+      "label": "Avoid Opposion",
+      "startdescription": "Something seeks us, chases us or challenges us. We could outsmart it with the cunning of Edge or sneak past it with the blessings of the Moth.",
+      "description": "Something seeks us, chases us or challenges us. We could outsmart it with the cunning of Edge or sneak past it with the blessings of the Moth.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.avoid.edge.high",
+      "label": "Devious Tactics",
+      "startdescription": "With skullduggery and stirring action, We can outsmart our opposition. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.avoid.edge.med",
+      "label": "Sly Tactics",
+      "startdescription": "With foul play and decisive action, we can outsmart our opposition. We may yet succed."
+    },
+    {
+      "id": "mariner.challenge.avoid.edge.low",
+      "label": "Tricky Tactics",
+      "startdescription": "With dirty tricks and quick action, we can outsmart our opposition. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.avoid.moth.high",
+      "label": "Steps No More",
+      "startdescription": "If we move with care and meld with the shadows, we can avoid their attention. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.avoid.moth.med",
+      "label": "Shadowed Steps",
+      "startdescription": "If we move with care and cling to the shadows, we can avoid their gaze. We are likely to succeed."
+    },
+    {
+      "id": "mariner.challenge.avoid.moth.low",
+      "label": "Silken Footsteps",
+      "startdescription": "If we move with care and stick to the shadows, we can avoid their grasp. We may yet succeed."
+    }
+  ]
+}

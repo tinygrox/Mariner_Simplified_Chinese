@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.help",
+      "label": "Relevant Help",
+      "description": "Sometimes something local may aid in a task. It will not be useful elsewhere."
+    },
+    {
+      "id": "mariner.vaults.exclusivetask",
+      "label": "Undivided Attention Required",
+      "description": "Some Tasks require a singular focus. [This task can only be done while not doing anything else, and while doing this task, no other task can be started]"
+    },
+    {
+      "id": "mariner.vault",
+      "label": "Adventure",
+      "description": "An extraordinary location to explore and plunder."
+    },
+    {
+      "id": "mariner.noretreatvault",
+      "label": "Fleeting Opportunity",
+      "description": "This adventure can not be returned to once I leave."
+    }
+  ]
+}

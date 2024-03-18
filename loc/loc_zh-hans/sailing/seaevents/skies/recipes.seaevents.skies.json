@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.skies",
+      "label": "A Sky Clear as Diamonds",
+      "startdescription": "Certain sights are only reserved for hermits and explorers. Tonight the sky is black velvet overlayed with an affluance of stars. There is nothing to gain or lose here, just a chance to marvel in delight."
+    },
+    {
+      "id": "mariner.sail.seaevents.skies.outcome.firstoutcome",
+      "label": "Quiet Stargazing",
+      "startdescription": "I sit on the back of the deck, and trust the running of the ship completely to the crew. I simply enjoy a peaceful moment with the cold far twinkling of the stars."
+    },
+    {
+      "id": "mariner.sail.seaevents.skies.outcome.secondoutcome",
+      "label": "A Sparkle Retained",
+      "startdescription": "Something of that candlelight glimmer has gotten caught in my eyes. The stars still dance in echoes on my retina, and I am sure those sensitive to this will be able to see them glimmer."
+    }
+  ]
+}

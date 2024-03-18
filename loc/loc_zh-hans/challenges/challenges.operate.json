@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.operate",
+      "label": "Perform an Operation",
+      "startdescription": "Be it delicate machinery, intricate lock or the fineries of flesh and sinew, this is a task that requires Precision of Knock or the Ingenuity of Forge.",
+      "description": "Be it delicate machinery, intricate lock or the fineries of flesh and sinew, this is a task that requires Precision of Knock or the Ingenuity of Forge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.operate.forge.high",
+      "label": "Gifted Fingers",
+      "startdescription": "For a true artisan, the hands are all the tools you need. I will adjust reality to my precise designs. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.operate.forge.med",
+      "label": "Apt Fingers",
+      "startdescription": "For a skilled craftsman, the tools are an extension of the self. I wield them with the certiainty of a knight their sword and armor. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.operate.forge.low",
+      "label": "Clever Fingers",
+      "startdescription": "For an applied entusiast, the imagination offers endless approaches. With luck, their skills may be up to task as well.  We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.operate.knock.high",
+      "label": "Instinct and Clarity",
+      "startdescription": "The world operates by higher laws, that can be adjusted with a deft hand and heirophants' compassion. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.operate.knock.med",
+      "label": "Intuition and Precision",
+      "startdescription": "The world operates by a clockwrights' logic, that can be callibrated with a steady hand and a surgeons' nerves. The world operates by a We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.operate.knock.low",
+      "label": "Insight and Care",
+      "startdescription": "The world operates by reliable systems, that can be modified by calm hand and a burglers' demeanor.  We may yet succeed."
+    }
+  ]
+}

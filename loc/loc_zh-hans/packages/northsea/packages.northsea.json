@@ -1,0 +1,484 @@
+{
+  "elements": [
+    {
+      "id": "mariner.package.northsea.morland.1",
+      "label": "Bundle of notes",
+      "description": "A Bundle of notes. It stinks terribly. I think I recognize it: sea water. The package almost feels wet to the touch...\n\nThe note on it says:\n<i>A merchant of the memory that does not die.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.2",
+      "label": "Bundle of notes",
+      "description": "A Bundle of notes. There is an address on it but it has almost been erased. Good luck finding the recipient...\n\nThe note on it says:\n<i>Her rule is “no names” and I will keep to that.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.3",
+      "label": "Wooden Box",
+      "description": "A Wooden Box. Formulas are beautifully etched all over it.\n\nThe note on it says:\n<i>The shop is found in an ill-favored bend of a lesser river.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.4",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. The package is wrapped in thick paper, but when I hold it against the light I can see symbols shining through\n\nThe note on it says:\n<i>Enabler of many an Aspirant.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.5",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. Its surface is covered in disturbing stamps. Dozens of them.\n\nThe note on it says:\n<i>Enabler of many an Aspirant.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.6",
+      "label": "Ivory Box",
+      "description": "An Ivory Box. It stinks terribly. I think I recognize it: decomposition. The package almost feels wet to the touch...\n\nThe note on it says:\n<i>Her hearth is warm, her shelves are stocked.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.7",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. Something is wrong. I should be able to easily lift it, but somehow it feels <i>heavier</i> than possible. It quickly tires my arm.\n\nThe note on it says:\n<i>The shop is found in an ill-favored bend of a lesser river.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.8",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. small specks of green mold stain the package surface. I think it might be growing from the inside.\n\nThe note on it says:\n<i>Enabler of many an Aspirant.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.9",
+      "label": "Bundle of notes",
+      "description": "A Bundle of notes. There isn't a single stamp on this one. Am I the first to transport it?\n\nThe note on it says:\n<i>Her hearth is warm, her shelves are stocked.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.morland.10",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. small specks of black mold stain the package surface. I think it might be growing from the inside.\n\nThe note on it says:\n<i>Her rule is “no names” and I will keep to that.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.1",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. The packing material of this package hangs around it in rags. It seems the engravings on the objects have burnt through the paper whever they touched it.\n\nThe note on it says:\n<i>Serpent daughter's page, keeper of her unblinking kingdom</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.2",
+      "label": "Wooden Box",
+      "description": "A Wooden Box. The package is pristinely wrapped, but the presentation is ruined by the spots of black mold\n\nThe note on it says:\n<i>Serpent daughter's page, keeper of her unblinking kingdom</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.3",
+      "label": "Metallic Cylinder",
+      "description": "A Metallic Cylinder. Words from an unknown language are etched directly into the material, like a dozen thirsty mouths. It's probably just an illusion, but it <i>looks</i> like the blood that stains it is drunk by them.\n\nThe note on it says:\n<i>A follower of the Heart Relentless, passing on his knowledge to apprentice Dancers.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.4",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. There is an address on it but it has almost been erased. Good luck finding the recipient...\n\nThe note on it says:\n<i>Tutor of those pursuing the New Way</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.5",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. I almost injured myself when lifting it... It feels so light! It's almost as if my hand isn't holding anything.\n\nThe note on it says:\n<i>A son of Apollo in the green man’s lands</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.6",
+      "label": "Wooden Box",
+      "description": "A Wooden Box. The package is wrapped in thick paper, but when I hold it against the light I can see symbols shining through\n\nThe note on it says:\n<i>Tutor of those pursuing the New Way</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.7",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. The bottom part is being slowly eaten by some kind of mold.\n\nThe note on it says:\n<i>A follower of the Heart Relentless, passing on his knowledge to apprentice Dancers.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.8",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. Its surface is covered in disturbing stamps. Dozens of them.\n\nThe note on it says:\n<i>Serpent daughter's page, keeper of her unblinking kingdom</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.9",
+      "label": "Wooden Box",
+      "description": "A Wooden Box. Something is wrong. I should be able to easily lift it, but somehow it feels <i>heavier</i> than possible. It quickly tires my arm.\n\nThe note on it says:\n<i>A mover of bodies, a conductor of steps. His are the arts of motion</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.agdistis.10",
+      "label": "Ivory Box",
+      "description": "An Ivory Box. It is wrapped in many thick layers to protect it, just like an onion.\n\nThe note on it says:\n<i>Serpent daughter's page, keeper of her unblinking kingdom</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.1",
+      "label": "Wooden Cylinder",
+      "description": "A Wooden Cylinder. The package is pristinely wrapped, but the presentation is ruined by the spots of blood\n\nThe note on it says:\n<i>Parisienne in exile, queen of my heart.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.2",
+      "label": "Metallic Cylinder",
+      "description": "A Metallic Cylinder. small specks of green mold stain the package surface. I think it might be growing from the inside.\n\nThe note on it says:\n<i>Known but Unknown, a occluded gem sparkles even brighter.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.3",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. Mud and dirty handprints decorate the entire thing.\n\nThe note on it says:\n<i>Sad-Eyed Lady of the Low Lands</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.4",
+      "label": "Bundle of notes",
+      "description": "A Bundle of notes. Its surface is covered in disturbing stamps. Dozens of them.\n\nThe note on it says:\n<i>Not the one in Alexandria, though she wears the name well.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.5",
+      "label": "Metallic Cylinder",
+      "description": "A Metallic Cylinder. Lots of old stamps seem to indicate this package already traveled a <i>lot</i>.\n\nThe note on it says:\n<i>The petit bijou of the Venice of the North.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.6",
+      "label": "Metallic Cylinder",
+      "description": "A Metallic Cylinder. Its surface is covered in disturbing stamps. Dozens of them.\n\nThe note on it says:\n<i>Known but Unknown, a occluded gem sparkles even brighter.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.7",
+      "label": "Ivory Cylinder",
+      "description": "An Ivory Cylinder. The package is wrapped in thick paper, but when I hold it against the light I can see symbols shining through\n\nThe note on it says:\n<i>Not the one in Alexandria, though she wears the name well.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.8",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. Its surface is covered in disturbing stamps. Dozens of them.\n\nThe note on it says:\n<i>Ecdysiast who does not shed her shrouds.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.9",
+      "label": "Metallic Cylinder",
+      "description": "A Metallic Cylinder. small specks of black mold stain the package surface. I think it might be growing from the inside.\n\nThe note on it says:\n<i>Ecdysiast who does not shed her shrouds.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.veiledlady.10",
+      "label": "Ivory Box",
+      "description": "An Ivory Box. Words from an unknown language are etched directly into the material. They look...bright, like if they were glowing. Maybe it is some trick of the light.\n\nThe note on it says:\n<i>Ecdysiast who does not shed her shrouds.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.1",
+      "label": "Ivory Box",
+      "description": "An Ivory Box. In places, shells protude from the surface of this object as if they were protecting it. Or maybe they attempted to consume it? There might not be much left to deliver.\n\nThe note on it says:\n<i>Waiting fruitlessly at the northern gate</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.2",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. No need to approach package to notice that it reeks of perfume.\n\nThe note on it says:\n<i>The maestro of the true mermaids tale.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.3",
+      "label": "Ivory Cylinder",
+      "description": "An Ivory Cylinder. When approaching it, I can definitely feel a subtle odor of...sea water.\n\nThe note on it says:\n<i>Learned in Heart, but encased in Winter.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.4",
+      "label": "Wooden Cylinder",
+      "description": "A Wooden Cylinder. It's quite light, for its size. What could it be?\n\nThe note on it says:\n<i>Waiting fruitlessly at the northern gate</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.5",
+      "label": "Ivory Box",
+      "description": "An Ivory Box. Lots of old stamps seem to indicate this package already traveled a <i>lot</i>.\n\nThe note on it says:\n<i>A rising star dimmed.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.6",
+      "label": "Wooden Cylinder",
+      "description": "A Wooden Cylinder. The package is wrapped in thick paper, but when I hold it against the light I can see symbols shining through\n\nThe note on it says:\n<i>The maestro of the true mermaids tale.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.7",
+      "label": "Metallic Box",
+      "description": "A Metallic Box. small specks of green mold stain the package surface. I think it might be growing from the inside.\n\nThe note on it says:\n<i>The maestro of the true mermaids tale.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.8",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. Unfamiliar stamps adorn this package. They are stuck on there with what reminds me a suspicous amount of blood.\n\nThe note on it says:\n<i>Lapsed artist, Bluetooth's descendent.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.9",
+      "label": "Ivory Cylinder",
+      "description": "An Ivory Cylinder. When approaching it, I can definitely feel a subtle odor of...sea water.\n\nThe note on it says:\n<i>The maestro of the true mermaids tale.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    },
+    {
+      "id": "mariner.package.northsea.harald.10",
+      "label": "Bundle of envelopes",
+      "description": "A Bundle of envelopes. There is an address on it but it has almost been erased. Good luck finding the recipient...\n\nThe note on it says:\n<i>The maestro of the true mermaids tale.</i>",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I ask for a worldly payment with my Half-Heart, or with intel for further mysteries with my Lack-heart"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.bizerta.hakim",
+      "label": "Hakim Tmar",
+      "description": "A student of philosophy, both natural and beyond."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.hakim.away",
+      "label": "Hakim Tmar [away]",
+      "description": "A student of philosophy, both natural and beyond."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.hakim.hostile",
+      "label": "Hakim Tmar [hard to meet]",
+      "description": "A student of philosophy, both natural and beyond."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.naturalmarket",
+      "label": "<>",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "Goods",
+          "description": "What to sell."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.naturalmarket.away",
+      "label": "<> [away]",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.naturalmarket.hostile",
+      "label": "<> [hostile]",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.bar",
+      "label": "Merset",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.bar.hostile",
+      "label": "Merset [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.edge.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.edge.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.city.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.city.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.seawall.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    }
+  ]
+}

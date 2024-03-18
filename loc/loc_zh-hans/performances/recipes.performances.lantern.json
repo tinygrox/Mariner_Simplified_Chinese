@@ -1,0 +1,35 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.lantern.hint",
+      "label": "Hint: A Revealing Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Lantern."
+    },
+    {
+      "id": "mariner.performances.lantern.start",
+      "label": "Perform a Show laced with the Intent of Lantern",
+      "startdescription": "My eyes are closed now, but the bright stage lights burn through as if they are diaphenous. I feel as if I am wholy clear, only an image of light and music."
+    },
+    {
+      "id": "mariner.performances.lantern.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.lantern.moth.success.1",
+      "label": "The Ballad to Sunset Cealia",
+      "startdescription": "Caelia, my great mystery<br>Do you enjoy the way you're chased by me<br>Is that why I glimpse your glances<br>At the fêtes and at the dances<br><br>Caelia I know what is said of you<br>You’re a player and a dreamer too<br>In the moonlight you will lead us on<br>But every time by sunrise you are gone"
+    },
+    {
+      "id": "mariner.performances.lantern.moth.success.2",
+      "label": "The Ballad to Sunset Cealia",
+      "startdescription": "Caelia please enlighten me<br>Only with you am I truly free<br>Lift this veil that clouds my being<br>Only in your eyes I'm truly seeing<br><br>Caelia’s can’t you hear I'm blue<br>I even wrote this song for you"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.discoverbar.northsea.london",
+      "label": "Discovered The Sailor's Bar.",
+      "description": "I have found the bars where sailors meet when the longing for travel pulls at them oncemore."
+    },
+    {
+      "id": "mariner.discoverbar.northsea.amsterdam",
+      "label": "Discovered The Sailor's Bar.",
+      "description": "I have found the bars where sailors meet when the longing for travel pulls at them oncemore."
+    },
+    {
+      "id": "mariner.discoverbar.northsea.copenhagen",
+      "label": "Discovered The Sailor's Bar.",
+      "description": "I have found the bars where sailors meet when the longing for travel pulls at them oncemore."
+    }
+  ]
+}

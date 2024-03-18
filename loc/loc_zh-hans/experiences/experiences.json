@@ -1,0 +1,154 @@
+{
+  "elements": [
+    {
+      "id": "mariner.experiences.rattling",
+      "label": "A Rattling Experience",
+      "description": "\"What I have lived through has shaken me too my core. Traces of it keep echoing in the hollow spaces of my soul, and in each reverberation renew its disquiet.\""
+    },
+    {
+      "id": "mariner.experiences.rattling.standby",
+      "label": "A Rattling Experience",
+      "description": "\"What I have lived through has shaken me too my core. Traces of it keep echoing in the hollow spaces of my soul, and in each reverberation renew its disquiet.\""
+    },
+    {
+      "id": "mariner.experiences.rattling.decayed",
+      "label": "A Rattling Experience",
+      "description": "\"What I have lived through has shaken me too my core. Traces of it keep echoing in the hollow spaces of my soul, and in each reverberation renew its disquiet.\""
+    },
+    {
+      "id": "mariner.experiences.dreadful",
+      "label": "A Dreadful Experience",
+      "description": "<\"A deep gloom has settled over my being after the past events. Soon, it might end up staining me until only darkness filters through to my heart.\">"
+    },
+    {
+      "id": "mariner.experiences.dreadful.standby",
+      "label": "A Dreadful Experience",
+      "description": "<\"A deep gloom has settled over my being after the past events. Soon, it might end up staining me until only darkness filters through to my heart.\">"
+    },
+    {
+      "id": "mariner.experiences.dreadful.decayed",
+      "label": "A Dreadful Experience",
+      "description": "<\"A deep gloom has settled over my being after the past events. Soon, it might end up staining me until only darkness filters through to my heart.\">"
+    },
+    {
+      "id": "mariner.experiences.unsettling",
+      "label": "An Unsettling Experience",
+      "description": "<My heart rate will not return to its regular beating. At the slightest sound my thoughts spiral away in unruly patterns.>"
+    },
+    {
+      "id": "mariner.experiences.unsettling.standby",
+      "label": "An Unsettling Experience",
+      "description": "<My heart rate will not return to its regular beating. At the slightest sound my thoughts spiral away in unruly patterns.>"
+    },
+    {
+      "id": "mariner.experiences.unsettling.decayed",
+      "label": "An Unsettling Experience",
+      "description": "<My heart rate will not return to its regular beating. At the slightest sound my thoughts spiral away in unruly patterns.>"
+    },
+    {
+      "id": "mariner.experiences.fascinating",
+      "label": "An Vivid Experience",
+      "description": "<I have peeked past the veil that covers the black seas of existence, and the sights I’ve seen will not leave me. When I close my eyes, the sights return.>"
+    },
+    {
+      "id": "mariner.experiences.fascinating.standby",
+      "label": "An Vivid Experience",
+      "description": "<I have peeked past the veil that covers the black seas of existence, and the sights I’ve seen will not leave me. When I close my eyes, the sights return.>"
+    },
+    {
+      "id": "mariner.experiences.fascinating.decayed",
+      "label": "An Vivid Experience",
+      "description": "<I have peeked past the veil that covers the black seas of existence, and the sights I’ve seen will not leave me. When I close my eyes, the sights return.>"
+    },
+    {
+      "id": "mariner.experiences.unraveling",
+      "label": "An Unraveling Experience",
+      "description": "<I have been rent. The strain of what occurred has caused a fraying at my edges, and I fear what part of me may get torn away.>"
+    },
+    {
+      "id": "mariner.experiences.unraveling.standby",
+      "label": "An Unraveling Experience",
+      "description": "<I have been rent. The strain of what occurred has caused a fraying at my edges, and I fear what part of me may get torn away.>"
+    },
+    {
+      "id": "mariner.experiences.unraveling.decayed",
+      "label": "An Unraveling Experience",
+      "description": "<I have been rent. The strain of what occurred has caused a fraying at my edges, and I fear what part of me may get torn away.>"
+    },
+    {
+      "id": "mariner.experiences.divisive",
+      "label": "A Divisive Experience",
+      "description": "<What has occurred has not been easy on the crew. If I do not rally them, tempers will rise and some will seek less straining employ.>"
+    },
+    {
+      "id": "mariner.experiences.divisive.standby",
+      "label": "A Divisive Experience",
+      "description": "<What has occurred has not been easy on the crew. If I do not rally them, tempers will rise and some will seek less straining employ.>"
+    },
+    {
+      "id": "mariner.experiences.divisive.decayed",
+      "label": "A Divisive Experience",
+      "description": "<What has occurred has not been easy on the crew. If I do not rally them, tempers will rise and some will seek less straining employ.>"
+    },
+    {
+      "id": "mariner.experiences.sobering",
+      "label": "A Sobering Experience",
+      "description": "<Sometimes the most horrible shock is a shift in perspective. What value lies in what I chase behind the waves>"
+    },
+    {
+      "id": "mariner.experiences.sobering.standby",
+      "label": "A Sobering Experience",
+      "description": "<Sometimes the most horrible shock is a shift in perspective. What value lies in what I chase behind the waves>"
+    },
+    {
+      "id": "mariner.experiences.sobering.decayed",
+      "label": "A Sobering Experience",
+      "description": "<Sometimes the most horrible shock is a shift in perspective. What value lies in what I chase behind the waves>"
+    },
+    {
+      "id": "mariner.experiences.sophorific",
+      "label": "A Sophorific Experience",
+      "description": "<The aftermath of the event still clings to me like nettles or old perfume. I may wish for nothing more than to be rid of it, or nothing more than to experience the more, the more, the more.>"
+    },
+    {
+      "id": "mariner.experiences.sophorific.standby",
+      "label": "A Sophorific Experience",
+      "description": "<The aftermath of the event still clings to me like nettles or old perfume. I may wish for nothing more than to be rid of it, or nothing more than to experience the more, the more, the more.>"
+    },
+    {
+      "id": "mariner.experiences.sophorific.decayed",
+      "label": "A Sophorific Experience",
+      "description": "<The aftermath of the event still clings to me like nettles or old perfume. I may wish for nothing more than to be rid of it, or nothing more than to experience the more, the more, the more.>"
+    },
+    {
+      "id": "mariner.experiences.pain",
+      "label": "An Experience of Pain",
+      "description": "<I have been hurt, and now hurt is echoing through my systems, turning my sensens to plinters, and my heartbeat to a dull throb.>"
+    },
+    {
+      "id": "mariner.experiences.pain.standby",
+      "label": "An Experience of Pain",
+      "description": "<I have been hurt, and now hurt is echoing through my systems, turning my sensens to plinters, and my heartbeat to a dull throb.>"
+    },
+    {
+      "id": "mariner.experiences.pain.decayed",
+      "label": "An Experience of Pain",
+      "description": "<I have been hurt, and now hurt is echoing through my systems, turning my sensens to plinters, and my heartbeat to a dull throb.>"
+    },
+    {
+      "id": "mariner.experiences.injury",
+      "label": "The Experience of Impairment",
+      "description": "<I have been wounded, and my limbs do not serve me as they ought too. And as a captain I know that if one part fails, the whole is in peril.>"
+    },
+    {
+      "id": "mariner.experiences.injury.standby",
+      "label": "The Experience of Impairment",
+      "description": "<I have been wounded, and my limbs do not serve me as they ought too. And as a captain I know that if one part fails, the whole is in peril.>"
+    },
+    {
+      "id": "mariner.experiences.injury.decayed",
+      "label": "The Experience of Impairment",
+      "description": "<I have been wounded, and my limbs do not serve me as they ought too. And as a captain I know that if one part fails, the whole is in peril.>"
+    }
+  ]
+}

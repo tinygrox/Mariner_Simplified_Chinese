@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.cleanhostile.npc.pre",
+      "label": "Trailing Shadows",
+      "startdescription": "I have acquired shadows that are not my own. My contacts rely on my discression. If I wanted to meet them to discuss business, I should find an unwatched route. [Approach this challenge with Edge or Moth.]"
+    },
+    {
+      "id": "mariner.cleanhostile.npc",
+      "label": "Trailing Shadows",
+      "startdescription": "I have acquired shadows that are not my own. My contacts rely on my discression. If I wanted to meet them to discuss business, I should find an unwatched route. [Approach this challenge with Edge or Moth.]"
+    },
+    {
+      "id": "mariner.cleanhostile.npc.success",
+      "label": "A Way In",
+      "description": "I unlatch a window in the back, and make my way into the house unseen by sources outside or in. Now the trick is not to scare my contact."
+    },
+    {
+      "id": "mariner.cleanhostile.npc.failure",
+      "label": "Cut Off!",
+      "description": "My route is blocked! I have to cut my losses and return another day."
+    }
+  ]
+}

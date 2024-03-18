@@ -1,0 +1,18 @@
+{
+  "elements": [
+    {
+      "id": "mariner.flubbed",
+      "label": "<Flub the meeting with the curator>",
+      "description": "<used to decrease the timer on the curator>"
+    },
+    {
+      "id": "mariner.vaults.damascus.progress",
+      "description": "this is a hidden element to track progress"
+    },
+    {
+      "id": "mariner.vaults.damascus.removed",
+      "label": "Kicked Out",
+      "description": "They have been removed of the premises."
+    }
+  ]
+}

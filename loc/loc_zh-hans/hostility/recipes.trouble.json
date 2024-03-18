@@ -1,0 +1,35 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.trouble.start",
+      "label": "Trouble Brewing",
+      "startdescription": "My recent fumble has emboldened my opposition.",
+      "description": "My recent fumble has emboldened my opposition."
+    },
+    {
+      "id": "mariner.trouble.consequence.highestrep",
+      "label": "They're Coming For Us",
+      "startdescription": "People rushing to arrest me. They may have arrested someone of my crew. It's Unlikely I ever see their face again.",
+      "description": "<Fled before getting caught>",
+      "slots": [
+        {
+          "id": "scapegoat",
+          "label": "Trouble on the Town",
+          "description": "I know this won't end well."
+        }
+      ]
+    },
+    {
+      "id": "mariner.trouble.consequence.highestrep.end",
+      "label": "On my Heels",
+      "startdescription": "No more decoys, they are coming for me directly now.",
+      "description": "<Fled before getting caught>"
+    },
+    {
+      "id": "mariner.trouble.consequence.highrep",
+      "label": "The Opposition Is Organising",
+      "startdescription": "<Soon they will form a proper Inquisition>",
+      "description": "<Fled before getting caught>"
+    }
+  ]
+}

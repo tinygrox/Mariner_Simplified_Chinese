@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.plead",
+      "label": "Plead to a Greater Power",
+      "startdescription": "There is a being here, who holds mortal authority over me or whose regard in the House of the Sun is higher than mine. I can approach this task with the logic of Lantern of the appeal of Grail.",
+      "description": "There is a being here, who holds mortal authority over me or whose regard in the House of the Sun is higher than mine. I can approach this task with the logic of Lantern of the appeal of Grail.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.plead.lantern.high",
+      "label": "Reason Like a Scalpel",
+      "startdescription": "Coda after coda, I weave an appeal with a poet's grace and a mathematical complexity, but throughout all a single glorious truth shines. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.plead.lantern.med",
+      "label": "Reason Like a Razor",
+      "startdescription": "Arguments follow Arguments. One leads to the next, like the colors of the dawn dividing, until our truth is clear as day. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.plead.lantern.low",
+      "label": "Reason Like a Knife",
+      "startdescription": "Statements follow statements: My reasoning is build up like a light through a prism, one truth cast in many shades of logic and rhetoric. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.plead.grail.high",
+      "label": "Appeal To Their Core",
+      "startdescription": "Be it constabulary, royalty, divinity, all hold certain secret values close to what passes for their hearts. I will play them like a musician plays their strings. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.plead.grail.med",
+      "label": "Appeal To Their Needs",
+      "startdescription": "Be it monsters, mages, Names, all beings high and low will have their goals to reach. Approach them as an equal and play them like a betting table. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.plead.grail.low",
+      "label": "Appeal To Their Wants",
+      "startdescription": "Be it warriors, poets, princes, all men are not so different, regardless if they are from the wake or from the Manse. Find what they desire, and play them like a musicbox. We may yet succeed."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.overtake",
+      "label": "Tame The Waves",
+      "startdescription": "The sea is fickle and prone to change. Sometimes she is calm and gentle. At the moment, she is not. She will devour me gladly, if I offer myself to her. I can approach her using the vigor of Heart or the prowess of Forge.",
+      "description": "The sea is fickle and prone to change. Sometimes she is calm and gentle. At the moment, she is not. She will devour me gladly, if I offer myself to her. I can approach her using the vigor of Heart or the prowess of Forge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.overtake.heart.high",
+      "label": "Ceaseless Sailing",
+      "startdescription": "The sea is my partner, and even if she lashes me, I will follow ceaselessly, ceaselessly, the sea, the she. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.overtake.heart.med",
+      "label": "Stable Sailing",
+      "startdescription": "The sea is my partner, and our union is a dance; the rise, the fall, the push, the pull. We will likely succed."
+    },
+    {
+      "id": "mariner.challenge.overtake.heart.low",
+      "label": "Steady Sailing",
+      "startdescription": "The sea is my partner, and when she bucks and shivers, I will follow her pace. We may yet succeed"
+    },
+    {
+      "id": "mariner.challenge.overtake.forge.high",
+      "label": "Bind The Waves",
+      "startdescription": "She challenges me, but as men mastering metal, I will reshape her currents to carry me, and I will ride her as as my steed. I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.overtake.forge.med",
+      "label": "Crush The Waves",
+      "startdescription": "She challenges me, but how men shattered stones, I will break through the barriers she throws at me.  I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.overtake.forge.low",
+      "label": "Break The Waves",
+      "startdescription": "She challenges me, but akin to how man tamed fire, I can bend her to my will. I may yet succeed."
+    }
+  ]
+}

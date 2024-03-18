@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tide.defaulttideinvault",
+      "label": "The Tide Comes In",
+      "description": "Time and Tide wait for no man."
+    }
+  ]
+}

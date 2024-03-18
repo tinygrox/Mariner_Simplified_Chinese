@@ -1,0 +1,31 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sewerlabyrinth.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sewerlabyrinth.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sunlessbazaar.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sunlessbazaar.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.nest.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.nest.events",
+      "label": "Exploration Deck"
+    }
+  ]
+}

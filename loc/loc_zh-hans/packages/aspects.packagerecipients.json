@@ -1,0 +1,48 @@
+{
+  "elements": [
+    {
+      "id": "mariner.packagerecipient.northsea.london.morland",
+      "label": "Has to be delivered to Miss Morland"
+    },
+    {
+      "id": "mariner.packagerecipient.northsea.london.agdistis",
+      "label": "Has to be delivered to Mr. Agdistis"
+    },
+    {
+      "id": "mariner.packagerecipient.northsea.amsterdam.veiledlady",
+      "label": "Has to be delivered to The Veiled Lady"
+    },
+    {
+      "id": "mariner.packagerecipient.northsea.copenhagen.harald",
+      "label": "Has to be delivered to Harald Blomkvist"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.marseille.alexia",
+      "label": "Has to be delivered to <Miss. Alexia Bastarache-Corbin>"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.marseille.mfm",
+      "label": "Has to be delivered to Mr. Sereno Sombreuil"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.bizerta.hakim",
+      "label": "Has to be delivered to Hakim Tmar"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.constantinople.nun",
+      "label": "Has to be delivered to <Mother Euphresme>"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.constantinople.tourist",
+      "label": "Has to be delivered to Count Florentin Hunyadi"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.haifa.archeologist",
+      "label": "Has to be delivered to Professor Miriam Sayegh"
+    },
+    {
+      "id": "mariner.packagerecipient.medsea.haifa.dreamer",
+      "label": "Has to be delivered to Zoha"
+    }
+  ]
+}

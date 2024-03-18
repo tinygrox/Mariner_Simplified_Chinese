@@ -1,0 +1,21 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.howtomendcharacter",
+      "label": "Mending the Character of my Soul",
+      "description": "The movements of the great actors in Myth and Wake can inspire and guide me. I must find such an inspiration, and it will show me what to do.",
+      "slots": [
+        {
+          "id": "place",
+          "label": "A Location",
+          "description": "I must find a place that still echoes with a momentous decision, made long ago."
+        },
+        {
+          "id": "story",
+          "label": "A Story",
+          "description": "Great decisions must have been recorded, either in proze or poetry, I must find such a tale."
+        }
+      ]
+    }
+  ]
+}

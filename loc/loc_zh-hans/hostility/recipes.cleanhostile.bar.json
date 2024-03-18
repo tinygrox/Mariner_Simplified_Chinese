@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.cleanhostile.bar.pre",
+      "label": "Tough Crowd",
+      "startdescription": "The crowds here have turned sour to me. My name is a curse here, and I will have trouble finding crewmembers, much less passengers. If I put my best face forward, I might be able to turn the crowd. [Approach this challenge with Heart or Grail.]"
+    },
+    {
+      "id": "mariner.cleanhostile.bar",
+      "label": "Tough Crowd",
+      "startdescription": "The crowds here have turned sour to me. My name is a curse here, and I will have trouble finding crewmembers, much less passengers. If I put my best face forward, I might be able to turn the crowd. [Approach this challenge with Heart or Grail.]"
+    },
+    {
+      "id": "mariner.cleanhostile.bar.success",
+      "label": "Turn the Crowd",
+      "description": "As any performer knows, audiences are fickle. A few well placed words and this one was on my hand again."
+    },
+    {
+      "id": "mariner.cleanhostile.bar.failure",
+      "label": "Unwelcome!",
+      "description": "The drinks I buy are hurled back at my face, and the door slams only inches from it."
+    }
+  ]
+}

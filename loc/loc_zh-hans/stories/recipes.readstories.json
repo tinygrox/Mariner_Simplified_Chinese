@@ -1,0 +1,187 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.readstories.centipede.page.1",
+      "label": "Recounting \"The Travels of the Centipede\"",
+      "startdescription": "<i>Once there was a curious centipede...</i>"
+    },
+    {
+      "id": "mariner.readstories.centipede.page.2",
+      "label": "Recounting \"The Travels of the Centipede\"",
+      "startdescription": "Who wished to see all the things the world had to offer, especially those places people did not want her to go. First she crawled through all the lands of the earth, from her Hometown of Miah, through the land of the Great River, to the Plateau of Leng, and the Eastern Mountain Spine, and the great Plains."
+    },
+    {
+      "id": "mariner.readstories.centipede.page.3",
+      "label": "Recounting \"The Travels of the Centipede\"",
+      "startdescription": "Then She crawled all through the house of the Sun, through the Courts Gold and Red, circled the Orchard Trees, burrowed in the shifting Sands, twisted her body in knots in the Heart-chamber, and then swam through that work of art her other self would paint."
+    },
+    {
+      "id": "mariner.readstories.centipede.page.4",
+      "label": "Recounting \"The Travels of the Centipede\"",
+      "startdescription": "The Painted River ran out of the Mansus, and landed behind the Rain. But the Centepede wanted to go deeper, to the Kingdom of Black Nephrite Lamps. She distracted the Doorwarden, and slipped through the crack under the door. Down, Down she buried, and heared the keening prophecies of the forgotten dead.",
+      "description": "She learned much there, in the lightless underplaces. But the knowledge can be blemish, if it's contents are inky black. The Centipedes crimes, it is said, were as numerous as her tar-stained feet. The Doorwarden barred entrance to the Mansus, but her travels have continued, between the stars and below the skin of the world, places high and low, true and real, all except the one.",
+      "unlockCodexEntries": [
+        "codex.story.centipede"
+      ]
+    },
+    {
+      "id": "mariner.readstories.anansi.page.1",
+      "label": "Recounting \"How Anansi The Spider Came To Own All Stories\"",
+      "startdescription": "<i>Once there were no stories in the world...</i>"
+    },
+    {
+      "id": "mariner.readstories.anansi.page.2",
+      "label": "Recounting \"How Anansi The Spider Came To Own All Stories\"",
+      "startdescription": "Nyame the Skyfather, ruler of all the sunrays touch, was in posession of all the stories, unwilling to share. Anansi decided that he will change this, and goes to Nyame, and asks him for his price, boasting he will pay anything, for he cannot be stayed, and he cannot be exhausted."
+    },
+    {
+      "id": "mariner.readstories.anansi.page.3",
+      "label": "Recounting \"How Anansi The Spider Came To Own All Stories\"",
+      "startdescription": "Nyame was doubtful, but intrigued, and named his price, impossibly high. He wanted four of his most dangerous subjects to be put in their place, and be brought to him. Onini the Python, the Mmoboro Hornets, Osebo the Leopard, and the Fairy Mmoatia. Anansi Smiled, bowed his head and traveled back to earth, to plot."
+    },
+    {
+      "id": "mariner.readstories.anansi.page.4",
+      "label": "Recounting \"How Anansi The Spider Came To Own All Stories\"",
+      "startdescription": "First Anansi captured wise Onini, by tricking her to measure her length through loops of vines he had prepaired. Next were the Mmoboro hornets, for whom he prepaired a hollow gourd. He offered it to them for shelter from the rain, but closed the lid and caught them.",
+      "description": "Then on to Fierce Osebo, who he trapped in a pit, and cudgeled on the head, just when he was offered an escape by Anansi. Last the Furtive fairy, who he lured with sweet drink and a fake face. With all his prizes presented to Nyame, Anansi was awarded all the stories from all the histories. That is why to this day, it is spidersilk from which the threads of The Histories are woven.",
+      "unlockCodexEntries": [
+        "codex.story.anansi"
+      ]
+    },
+    {
+      "id": "mariner.readstories.lorelei.page.1",
+      "label": "Recounting \"The Maiden of the Rhine\"",
+      "startdescription": "<i>The Lorelei sits on her namesake rock, combs her hair and sings...</i>"
+    },
+    {
+      "id": "mariner.readstories.lorelei.page.2",
+      "label": "Recounting \"The Maiden of the Rhine\"",
+      "startdescription": "Seemingly unwittingly, she distracts sailors on the Rhine below, who smash their boats onto the clips. Only then she deigns to look down. She collects the souls of the drowning, and swims down, down into the Kingdom Below River and Hill."
+    },
+    {
+      "id": "mariner.readstories.lorelei.page.3",
+      "label": "Recounting \"The Maiden of the Rhine\"",
+      "startdescription": "She meets up with the Nixes and Undines from all of the Streams of Westphalia and beyond. They dance around the throne of their holly-crowned queen, attended to by the souls of those they have lead astray.",
+      "description": "It ends on the chilling note that the direction of Death is down, and one who dwells their sends up many gifts.",
+      "unlockCodexEntries": [
+        "codex.story.lorelei"
+      ]
+    },
+    {
+      "id": "mariner.readstories.mermaid.page.1",
+      "label": "Recounting \"Voiceless Devotion\"",
+      "startdescription": "<i>A princess from below the waves fell in love with a prince from the wooded shores...</i>"
+    },
+    {
+      "id": "mariner.readstories.mermaid.page.2",
+      "label": "Recounting \"Voiceless Devotion\"",
+      "startdescription": "Aided by the Matron of the Seas, she is persuaded to trade her voice for a transformation of her being. Thus her tail is split and she coughs up brine and gasps for air."
+    },
+    {
+      "id": "mariner.readstories.mermaid.page.3",
+      "label": "Recounting \"Voiceless Devotion\"",
+      "startdescription": "The Prince takes her in, and in her silent devotion, she attempts to win his heart. She danced for his delight, despite the knife-sharp pain she feels with every step, her passion maintains her rhythms."
+    },
+    {
+      "id": "mariner.readstories.mermaid.page.4",
+      "label": "Recounting \"Voiceless Devotion\"",
+      "startdescription": "But to no avail... The prince discards her in favor of a marriage alliance with lady from the Scarlet Church. And as the Prince and his betrothed tie their bonds on doorstep of the church, our heroine is pulled back to the sea. Her sisters call to her, and have brought a knife for her to cut out the heart of the Prince, and snap their marriage ribbons.",
+      "description": "But the mermaid decides to accept her fate, and dissolve into seafoam rather a harming the Prince and his Realm. But in her sacrificicial leap down the cliff she is elevated instead. She ascends as a mighty Eidolon of the Skies, and will earn her soul by serving the world and protecting the virtuous.",
+      "unlockCodexEntries": [
+        "codex.story.mermaid"
+      ]
+    },
+    {
+      "id": "mariner.readstories.debellismurorum.page.1",
+      "label": "Recounting \"War of the Walls\"",
+      "startdescription": "<i>It's a war of many sides, with few winners but many casualities...</i>"
+    },
+    {
+      "id": "mariner.readstories.debellismurorum.page.2",
+      "label": "Recounting \"War of the Walls\"",
+      "startdescription": "Striges fight Undines in the borderlands that seperates the sea from the sky, as fate twines to keep mortal paramours apart or to unite them in seamless unity. The horizon itself is a battlefield."
+    },
+    {
+      "id": "mariner.readstories.debellismurorum.page.3",
+      "label": "Recounting \"War of the Walls\"",
+      "startdescription": "The War of the Walls can be told many ways, with different combatents and different battlefields, but the sides are always the same.",
+      "description": "The Two-One who Dissolve, Horned Axe who Divides. There is no ending, not truly, not until the sea swallows the shore, or Night unwinds from the Day.",
+      "unlockCodexEntries": [
+        "codex.story.debellismurorum"
+      ]
+    },
+    {
+      "id": "mariner.readstories.kerys.page.1",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "<i>There once was a city crowned by the dikes, on the edge of a bitter sea...</i>"
+    },
+    {
+      "id": "mariner.readstories.kerys.page.2",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "It was that sea that they relied upon for their lifelyhood, and that sea that took from them the lives of many of their fishermen."
+    },
+    {
+      "id": "mariner.readstories.kerys.page.3",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "But the king's daughter was thaught in the ways of sorcery in the House of Albion, and she shared her arts with her father. Together they supplicated the sea, and the city prospered. But as their ambitions grew, so grew the sea's hunger. So more and more they gave. Of all these dark tidings, even the birds took note."
+    },
+    {
+      "id": "mariner.readstories.kerys.page.4",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "One day, a stranger came to town, a foreign royal from beyond the sea. He dazzled the king and courted the princess, and then he would leave again, coming and going with the tides. As the seasons passed, their courtship formalized, but then in the height of summer he vanished. Six moons passed without a word."
+    },
+    {
+      "id": "mariner.readstories.kerys.page.5",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "The princess was griefstricken and mad with longing, pining away in her palace. She was unable to perform her duties to her father or to the sea. Then, under the first quarter moon, a kite landed in her window, and delivered a message from her love. She rushed into the nights, to meet him at the sea-gate locks."
+    },
+    {
+      "id": "mariner.readstories.kerys.page.6",
+      "label": "Recounting \"The Doom of Ker Ys\"",
+      "startdescription": "A whisper came to her from beyond the gate. She heeded her heart and did not think twice... not until the white heads of waves came rushing in. The Sea, denied of her ministrations in her lovesick folly, rushed into the cities streets and courtyards, ravenous and cruel. Even the Princess was dragged down into their cruel embrace.",
+      "description": "She would have drowned there, in the seas roiling stomach, as was the lot of all her kith and kin. But a moon beam pierced the water, as the mother of mercy took pity on her. She was plucked from the waters, and served the Lady of Wounds in both this world and beyond.",
+      "unlockCodexEntries": [
+        "codex.story.kerys"
+      ]
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.1",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "<i>In the old days, before the great forests had been logged...</i>"
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.2",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "A great knight sought to find duty in service. His focus was the Cinnabar Cup, sought after by many, in the command of none. He ignored the blowing winds of war, steel against stone, and focussed only on his quest."
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.3",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "But duty can be fickle when it comes to matters of the Heart. The Pine-Knight met a Maiden Queen, in a forest deep and dark. Their romance was honey, but honey drawn from foxglove and thornapples. For the winds of war were turning to a storm of death, as one, two, three, four, five kings fell, and still the war raged on."
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.4",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "The Knight's own Red Queen, when she heard of his dalliance, became irate, for she had kept great plans for him. She weighed her options, her emotions, her problems. Knotting tassles in her hand as she thought. With grim delight, she wrought a new scheme. She cut the knot from her shawll, and send it to the Hawthorn Queen of Stone"
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.5",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "A pact it was, a pact to end the bloodshed. The hawthorne queen did anguish on these tidings. It would mean the end retribution for her fallen sibling kings. But this war was tearing the lands apart, and as a queen, it was her duty to keep it safe. She twisted the knot as she thought, twisted it into new shapes of compliance."
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.6",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "A messanger came to the Honey Queen too. It proclaimed with joy that the war had ended, and that all it would cost was one more life. And that the quest of the Pine-Knight was at an end too, because Duty had found him."
+    },
+    {
+      "id": "mariner.readstories.pineknight.page.7",
+      "label": "Recounting \"The Pine Knight and the Queens\"",
+      "startdescription": "The Maiden Queen trembled like the leaves as she considered what she should do. She could save her lover, quieting him away in the hidden glades of her kingdom. But the cost would be so great, both for her and the world. She decided the only mercy she could offer was for him to die at her side, where he had known most happiness.",
+      "description": "So in her innermost kingdom, upon these stormwrecked coasts, the honey queen tied the final knot, and the tree branches swung, even though the wind dared not to breath. So ended the Pine-Knights Quest for the Cup, and so ended the Wars of Stone, in a tripple knotted noose.",
+      "unlockCodexEntries": [
+        "codex.story.pineknight"
+      ]
+    }
+  ]
+}

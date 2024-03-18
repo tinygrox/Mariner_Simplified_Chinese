@@ -1,0 +1,186 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.northsea.london.morland",
+      "label": "Miss Morland",
+      "description": "A merchant in rare and valuable books."
+    },
+    {
+      "id": "mariner.locations.northsea.london.morland.away",
+      "label": "Miss Morland [away]",
+      "description": "A merchant in rare and valuable books."
+    },
+    {
+      "id": "mariner.locations.northsea.london.morland.hostile",
+      "label": "Miss Morland [hard to meet]",
+      "description": "A merchant in rare and valuable books."
+    },
+    {
+      "id": "mariner.locations.northsea.london.agdistis",
+      "label": "Mr. Agdistis",
+      "description": "The tall and tragic stage director of the Ecdysis Club."
+    },
+    {
+      "id": "mariner.locations.northsea.london.agdistis.away",
+      "label": "Mr. Agdistis [away]",
+      "description": "The tall and tragic stage director of the Ecdysis Club."
+    },
+    {
+      "id": "mariner.locations.northsea.london.agdistis.hostile",
+      "label": "Mr. Agdistis [hard to meet]",
+      "description": "The tall and tragic stage director of the Ecdysis Club."
+    },
+    {
+      "id": "mariner.locations.northsea.london.unmarkedgrave",
+      "label": "An Unmarked Grave",
+      "description": "What remains of the dancer slowly sinks down into the soggy soil.",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Reason to Visit"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.unmarkedgrave.away",
+      "label": "An Unmarked Grave [away]",
+      "description": "What remains of the dancer slowly sinks down into the soggy soil."
+    },
+    {
+      "id": "mariner.locations.northsea.london.ecdysisfake",
+      "label": "The Ecdysis Club",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition.",
+      "slots": [
+        {
+          "id": "verbSong",
+          "label": "Song",
+          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        },
+        {
+          "id": "aspect1",
+          "label": "Instrument"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.ecdysisfake.away",
+      "label": "The Ecdysis Club [away]",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition."
+    },
+    {
+      "id": "mariner.locations.northsea.london.ecdysisclub",
+      "label": "The Ecdysis Club",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
+      "slots": [
+        {
+          "id": "verbSong",
+          "label": "Song",
+          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        },
+        {
+          "id": "aspect1",
+          "label": "Instrument"
+        },
+        {
+          "id": "aspect2",
+          "label": "Trapping"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.ecdysisclub.away",
+      "label": "The Ecdysis Club [away]",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate."
+    },
+    {
+      "id": "mariner.locations.northsea.london.ecdysisclub.hostile",
+      "label": "The Ecdysis Club [hostile]",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.bar",
+      "label": "The Anchor",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.northsea.london.bar.hostile",
+      "label": "The Anchor [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.store",
+      "label": "<Some Supply Store>",
+      "description": "<General Store>"
+    },
+    {
+      "id": "mariner.locations.northsea.london.store.hostile",
+      "label": "<Some Supply Store> [hostile]",
+      "description": "<General Store>",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.london.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

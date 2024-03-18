@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.gossipbrokers",
+      "label": "A Gossipbrokers Favour",
+      "startdescription": "This evening, a neatly written envelop awaits me on the ship. In it is a missive of the Gossipbrokers, informing me that they noticed some of the hubbub growing up around me in town, and they decided to take care of it. It seems it is in their best interest for me to be active in Amsterdam a little longer."
+    }
+  ]
+}

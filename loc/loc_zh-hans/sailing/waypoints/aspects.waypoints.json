@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "id": "mariner.waypoint.north",
+      "label": "North Waypoint"
+    },
+    {
+      "id": "mariner.waypoint.east",
+      "label": "East Waypoint"
+    },
+    {
+      "id": "mariner.waypoint.south",
+      "label": "South Waypoint"
+    },
+    {
+      "id": "mariner.waypoint.west",
+      "label": "West Waypoint"
+    },
+    {
+      "id": "mariner.waypoint.comingfrom",
+      "label": "Coming from here",
+      "description": "Coming from here"
+    }
+  ]
+}

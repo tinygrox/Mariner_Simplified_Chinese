@@ -1,0 +1,134 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.clearexperience.with.grim.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.grim",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.rousing.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.rousing",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.wise.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.wise",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.whimsical.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.whimsical",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.witty.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.witty",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.occult.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.occult",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.romantic.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.romantic",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.tragic.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.tragic",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.apollonian.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.apollonian",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.dionysian.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.dionysian",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.mortal.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.mortal",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.cthonic.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.cthonic",
+      "label": "<>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.clearexperience.with.horomachistry.hint",
+      "label": "<?>",
+      "startdescription": "<?>"
+    },
+    {
+      "id": "mariner.clearexperience.with.horomachistry",
+      "label": "<>",
+      "startdescription": "<>"
+    }
+  ]
+}

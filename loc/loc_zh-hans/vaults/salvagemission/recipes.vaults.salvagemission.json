@@ -1,0 +1,650 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.salvagemission.events.boredom.hintexclusiveattention",
+      "label": "Small Town Jitters",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.boredom",
+      "label": "Small Town Jitters",
+      "startdescription": "I am not made to sit still long, and this dreary backwater harbor has little to offer to keep my Lack-Heart content. I wish to leave... I should calm myself with Winter or fortify myself with Heart"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.boredom.success",
+      "label": "Inner fire",
+      "description": "I call upon an inner store of mental fortitude, and push myself on a little longer. I still have more to do in this town."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.boredom.failure",
+      "label": "Hole in my Chest",
+      "description": "Wherever I wish to go, I find the streets turning back to the waters' edge. The Horizon calls to me... and my Lack-Heart eats at my joys until I answer that call."
+    },
+    {
+      "label": "Explore Backwater Harbor",
+      "id": "mariner.vaults.salvagemission.harbor.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.harbor.task.pre",
+      "label": "Explore Backwater Harbor",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.harbor.exhausted",
+      "label": "Backwater Harbor Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.harbor.drawevent.boredom",
+      "label": "Explore Backwater Harbor"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore.hint",
+      "label": "Commerce or Subterfuge?",
+      "startdescription": "Buried below molting ropes and mottled buoys, I see the glint of brass. A diving bell. I could buy it for a pretty Penny if I bring in the Funds...  Or I could bring my guile and my accomplices and try to spirit it away for free."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore.hintexclusiveattention",
+      "label": "Heavyweight Heist",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore.pre",
+      "label": "Heavyweight Heist",
+      "startdescription": "Buried below molting ropes and mottled buoys, I see the glint of brass. A diving bell. I could buy it for a pretty Penny if I bring in the Funds...  Or I could bring my guile and my accomplices and try to spirit it away for free."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore",
+      "label": "Heavyweight Heist",
+      "startdescription": "Buried below molting ropes and mottled buoys, I see the glint of brass. A diving bell. I could buy it for a pretty Penny if I bring in the Funds...  Or I could bring my guile and my accomplices and try to spirit it away for free."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore.success",
+      "label": "A Labored Walk",
+      "description": "Security is rather lax, since the only thing of value weighs a figurative metric tonne. Yet its weight is no match for us. We carry it to the ship unbothered and unconcerned"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mottleymechanic.explore.failure",
+      "label": "The Embarrassing Light of Day",
+      "description": "After straining ourselves for hours, sunrise finds us only inches away from the front door. The owners come up to us, perplexed. We must suffer a fine and the embarrassment."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.navigate.hintexclusiveattention",
+      "label": "Delving Down the Paper Trail",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.navigate.pre",
+      "label": "Delving Down the Paper Trail",
+      "startdescription": "Every ship, commercial or private, leaves documents and figures in its wake. The harbormaster will not do my work for me however, and the archive is as cold and dusty. These will be long, harrowing hours."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.navigate",
+      "label": "Delving Down the Paper Trail",
+      "startdescription": "Every ship, commercial or private, leaves documents and figures in its wake. The harbormaster will not do my work for me however, and the archive is as cold and dusty. These will be long, harrowing hours."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.navigate.success",
+      "label": "The Glint of Reason",
+      "description": "Between the words, a pattern. Within the pattern, a clue. And from that a direction to sail, and an area to comb."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.navigate.failure",
+      "label": "The Death of Passion",
+      "description": "My mind has become as dusty and disorganized as the archives I dwell in. The world seems frayed and yellowed and dull and disappointing. I have not found what I sought."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.sing.hintexclusiveattention",
+      "label": "Alternative Sources",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.sing.pre",
+      "label": "Alternative Sources",
+      "startdescription": "I could seek my information elsewhere. Memory is left in the wake of waves, carved into the shore. The sea remembers... at least in some histories. If I tune my instrument where the water meets the land, I might find new meanings in the words I sing."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.sing",
+      "label": "Alternative Sources",
+      "startdescription": "I could seek my information elsewhere. Memory is left in the wake of waves, carved into the shore. The sea remembers... at least in some histories. If I tune my instrument where the water meets the land, I might find new meanings in the words I sing."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.sing.success",
+      "label": "Unspoken Answers",
+      "description": "I am left not with certainty, but with a persistent nagging. Such passions as from the doomed and the drowning resonate deeply in rich, cold ocean waters."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.detailsofthewreck.sing.failure",
+      "label": "Unheard promises",
+      "description": "The tide whispers... But its whispers are unreliable. I lose myself in its rhythm and its tones and when next I open my mouth, not even I understand my speech. But it sounds so, so compelling to my ears."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk.hint",
+      "label": "Mingle with the Locals",
+      "startdescription": "With the regularity of the tides, the patrons will stream into this bar and stumble home. If I come with enough cash, I can maybe grease some throats and loosen some lips."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk.hintexclusiveattention",
+      "label": "Mingle with the Locals",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk.pre",
+      "label": "Mingle with the Locals",
+      "startdescription": "With the regularity of the tides, the patrons will stream into this bar and stumble home. No one will know these waters better, and no place is more prone to gossip. If I can get these locals to open up, they could tell more than books ever could."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk",
+      "label": "Mingle with the Locals",
+      "startdescription": "With the regularity of the tides, the patrons will stream into this bar and stumble home. No one will know these waters better, and no place is more prone to gossip. If I can get these locals to open up, they could tell more than books ever could."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk.success",
+      "label": "Facts and Friendship",
+      "description": "People tend to be hesitant to talk to outsiders... but the captain of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ had not been local, and people love to gossip about outsiders, especially those who met a tragic end. At last call, I have the pervasive theories on where the ship went down."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.divebar.talk.failure",
+      "label": "Fraught Fiction",
+      "description": "For a while it seems we are on the right track, but I can notice the snickers that follow any direction we are given. I know for sure I have been played when at the end of the night, the bar tap has been put in my name."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail.hint",
+      "label": "Leave The Harbor",
+      "startdescription": "Where the brackish river meets the briny sea. Unfortunate currents have kept this harbor from growing beyond its humble size. To leave this harbor for the next step in this adventure, I will have to sail the Kite."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail.hintexclusiveattention",
+      "label": "Leave The Harbor",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail.pre",
+      "label": "Leave The Harbor",
+      "startdescription": "Where the brackish river meets the briny sea. Unfortunate currents have kept this harbor from growing beyond its humble size. Now those currents threaten to make me follow the same fate as the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail",
+      "label": "Leave The Harbor",
+      "startdescription": "Where the brackish river meets the briny sea. Unfortunate currents have kept this harbor from growing beyond its humble size. Now those currents threaten to make me follow the same fate as the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail.success",
+      "label": "Tight Sailing",
+      "description": "The sea is never merciful, but today she is forgiving. I am guided through the hidden straits as by a kindly mother. I know I will not return here, but at least my exit was dignified."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.sailout.mariner.sail.failure",
+      "label": "A Scrape and a Bruise",
+      "description": "It makes an ungodly noise, when the Kite scrapes the sandbar hidden just below the surf. But worse than that is the laughter I can hear from the fishermen wives and retired mariners upon the boardwalks and the piers. It will not do my standing with the crew any good."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.windrises.hintexclusiveattention",
+      "label": "The Wind Rises",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.windrises",
+      "label": "The Wind Rises",
+      "startdescription": "The flag stands straight horizontal, and a constant wind tempts the kite to turn its way. We need to tame this weather with Forge, or survive it with Heart."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.windrises.success",
+      "label": "Strong Tailwind",
+      "description": "We leash the wind, and let it serve us instead. With this we will arrive at our destination sooner than expected."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.windrises.failure",
+      "label": "Blown off Course",
+      "startdescription": "We fight against the wind, but at some point we have to bend, and give ourselves."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.fairweather.hintexclusiveattention",
+      "label": "Fair Weather",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.fairweather",
+      "label": "Fair Weather",
+      "startdescription": "The sea is a mercurial mistress, but rarely, she grants opportunity. The weathervane turns in our favor today. If we seize this opportunity, we may reap the benefits. Forge for the will to act or let our Heart beat in tune with the world."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.fairweather.success",
+      "label": "Flawless Sailing",
+      "description": "The weather is crisp, the wind swells our sails. We travel twice as fast this day, and enjoy the journey fourfold."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.fairweather.failure",
+      "label": "Merely Good",
+      "description": "Opportunity slips away, but the weather stays true. We travel at the expected rate, and whistle while we work. A journey to enjoy."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.marinemists.hintexclusiveattention",
+      "label": "Marine Mists",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.marinemists",
+      "label": "Marine Mists",
+      "startdescription": "Today the marine layer is thick as pea soup, and the feeble, ailing sun is not enough to cut through it. We can pierce it with Lantern or intuit the route with Knock."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.marinemists.success",
+      "label": "Navigate Through",
+      "description": "Guided by maps, and tools and what we can see with our eyes and beyond, we have found our way out of the mistbank without harm."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.marinemists.failure",
+      "label": "A Scrape on the Bow",
+      "description": "A horrid groan, and our worries were proven true. We had guessed our location incorrectly, or the sandbanks shifted further than we thought. Now we are oriented again, though our ship's hull bleeds."
+    },
+    {
+      "label": "Explore Misted Reefs",
+      "id": "mariner.vaults.salvagemission.mistedreefs.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mistedreefs.task.pre",
+      "label": "Explore Misted Reefs",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.mistedreefs.exhausted",
+      "label": "Misted Reefs Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mistedreefs.drawevent.fairweather",
+      "label": "Explore Misted Reefs"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mistedreefs.drawevent.windrises",
+      "label": "Explore Misted Reefs"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.mistedreefs.drawevent.marinemists",
+      "label": "Explore Misted Reefs"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unchartedwaters.navigate.hintexclusiveattention",
+      "label": "Chart the Uncharted",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unchartedwaters.navigate.pre",
+      "label": "Chart the Uncharted",
+      "startdescription": "Waters that no company cared to map, where the sun doesn't care to shine and shallows shift often. And here I have to find the unhallowed brine where the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ found its demise."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unchartedwaters.navigate",
+      "label": "Chart the Uncharted",
+      "startdescription": "Waters that no company cared to map, where the sun doesn't care to shine and shallows shift often. And here I have to find the unhallowed brine where the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ found its demise."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unchartedwaters.navigate.success",
+      "label": "We Know The Way",
+      "description": "By our knowledge of the hidden stars above or what we learned from the locals back in town, we do not lose our way."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unchartedwaters.navigate.failure",
+      "label": "Lose our Way",
+      "startdescription": "What I thought was a lighthouse turns out to be a parked automobile. We are not where we should go, and must try again. But first, we drift into eventful waters"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail.hint",
+      "label": "Avoid the Rapids",
+      "startdescription": "There is a navigable channel, but it is narrow... I know the Kite can traverse it, if my sailors follow my commands."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail.hintexclusiveattention",
+      "label": "Avoid the Rapids",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail.pre",
+      "label": "Avoid the Rapids",
+      "startdescription": "There is a navigable channel, but it is narrow, and like Scylla and Charybdis, there are dangers on either side. My crew needs to act precise, and ordered, and disciplined. We can make it through, if they follow my command to the inch."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail",
+      "label": "Avoid the Rapids",
+      "startdescription": "There is a navigable channel, but it is narrow, and like Scylla and Charybdis, there are dangers on either side. My crew needs to act precise, and ordered, and disciplined. We can make it through, if they follow my command to the inch."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail.success",
+      "label": "With Calculated Precision",
+      "description": "With movements precise as a marshall's measurements, we navigate the channel. Orders flow down the chain of command, and together we are pulled out of the danger."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hiddencurrents.mariner.sail.failure",
+      "label": "Mayhem and Misfortune",
+      "description": "It did not happen right away, but order slips to chaos. Before I know it, orders are opposed, a sail flaps aimlessly in the wind, and my ship crashes upon the rocks."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hintneither",
+      "label": "The Final Leg?",
+      "startdescription": "There are steps on a journey that one must take, before a destination is reached. I know I must pass through uncharted waters, and brave the rapid torrents between the isles. If I haven't yet, I am not yet at my destination."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hintuncharted",
+      "label": "The Final Leg?",
+      "startdescription": "There are steps on a journey that one must take, before a destination is reached. I have passed throug the uncharted waters, but not yet braved the rapids."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.hintrapids",
+      "label": "The Final Leg?",
+      "startdescription": "There are steps on a journey that one must take, before a destination is reached. I have braved the rapids, but not yet passed the uncharted waters."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.traveltime.mariner.sail.hintexclusiveattention",
+      "label": "The Final Leg",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.traveltime.mariner.sail.pre",
+      "label": "The Final Leg",
+      "startdescription": "I have found the path, I am past the challenges. Now just to sail to the supposed site of the wreck, and choose a spot to dive."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.traveltime.mariner.sail",
+      "label": "The Final Leg",
+      "startdescription": "I have found the path, I am past the challenges. Now just to sail to the supposed site of the wreck, and choose a spot to dive."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.traveltime.mariner.sail.success",
+      "label": "The Vicinity",
+      "description": "We have arrived, as much as one can when the precise destination is only an estimation. Now follows the gamble which all our preparation has lead towards."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.traveltime.mariner.sail.failure",
+      "label": "Twisted 'Round",
+      "description": "The winds blow unfavorably, and my crew sails unresponsibly, and before we know, we are further behind than we are ahead. I will have to take a part of the journey again."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unassumingsea.navigate.hintexclusiveattention",
+      "label": "Decide The Spot",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unassumingsea.navigate.pre",
+      "label": "Decide The Spot",
+      "startdescription": "Now we either gather the hints and clues we have gathered so far, or we must act on our own intellect, and attempt to pierce the depths by the brightness of our mind alone."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unassumingsea.navigate",
+      "label": "Decide The Spot",
+      "startdescription": "Now we either gather the hints and clues we have gathered so far, or we must act on our own intellect, and attempt to pierce the depths by the brightness of our mind alone."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unassumingsea.navigate.success",
+      "label": "A Decision Made",
+      "description": "We have tallied the facts, and discarded what we view as fiction. We expect the ship's wreck to have ended up right here. But we must descend into darkness to find out if we are right."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.unassumingsea.navigate.failure",
+      "label": "A Decision Made",
+      "description": "We have tallied the facts, and discarded what we view as fiction. We expect the ship's wreck to have ended up right here. But we must descend into darkness to find out if we are right."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationright.explore.hintexclusiveattention",
+      "label": "Let Down the Rig",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationright.explore.pre",
+      "label": "Let Down the Rig",
+      "startdescription": "The chain rattles, and we prepare our rig for the voyage below. We gather whatever could give us help or hope down in the darkness, and we descend."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationright.explore",
+      "label": "Let Down the Rig",
+      "startdescription": "The chain rattles, and we prepare our rig for the voyage below. We gather whatever could give us help or hope down in the darkness, and we descend."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationright.explore.success",
+      "label": "Next to the Ship",
+      "description": "As we lower down, we see it arise below us. The torn and wounded shape of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@. Our rig reaches right besides it, and we are free to explore this quiet grave."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationright.explore.failure",
+      "label": "Unable To Succeed",
+      "description": "We come up gasping for air, for light, for warmth. But the sun is distant, and dim. It cannot warm me from the chill that has already settled around my Lack-Heart."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationwrong.explore.hintexclusiveattention",
+      "label": "Let Down the Rig",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationwrong.explore.pre",
+      "label": "Let Down the Rig",
+      "startdescription": "The chain rattles, and we prepare our rig for the voyage below. We gather whatever could give us help or hope down in the darkness, and we descend."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationwrong.explore",
+      "label": "Let Down the Rig",
+      "startdescription": "The chain rattles, and we prepare our rig for the voyage below. We gather whatever could give us help or hope down in the darkness, and we descend."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationwrong.explore.success",
+      "label": "Down in the Depths",
+      "description": "We reach the bottom of the ocean, and explore carefully that frigid darkness. But there is nothing but sand and ink besides the rig. Then a glimmer is caught in our light. The wreck in the ship. Far in the distance."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.locationwrong.explore.failure",
+      "label": "Unable To Succeed",
+      "description": "We come up gasping for air, for light, for warmth. But the sun is distant, and dim. It cannot warm me from the chill that has already settled around my Lack-Heart."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.crush.hintexclusiveattention",
+      "label": "The Crush of Emptiness",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.crush",
+      "label": "The Crush of Emptiness",
+      "startdescription": "Suddenly, it all comes bearing down on me. I am devastatingly aware of the uncaring vastness of the sea above me, and the weight of each individual icy drop. I could ward it of with bright thoughts or faith in my air in my longs"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.crush.success",
+      "label": "Memories of Daylight",
+      "description": "There is a gleam of hope in the back of our mind, and the darkness recedes far enough for me to continue moving. I mustn’t stay here long. I must stay focussed on my task."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.crush.failure",
+      "label": "The Stare of the Abyss",
+      "description": "It is not that I am gazing into the waters around me. It is that I am staring into nothing. And the nothing around is only matchied by the emptyness inside."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.drowneddead.hintexclusiveattention",
+      "label": "The Drowned Dead",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.salvagemission.events.drowneddead",
+      "label": "The Drowned Dead",
+      "startdescription": "Shapes drift in the darkness. The crew of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@, entangled in strands of kelp and trapped in their final moments of despair. Lantern could give them a guidelight, or Knock could free their bonds."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.drowneddead.success",
+      "label": "Floating Free",
+      "description": "Their bonds slide off and the figures float. We cast our eyes up and watch them rise to the azure light above. Much later, when we ask our cohorts on the ship, they will not have seen a single body surface."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.events.drowneddead.failure",
+      "label": "The Toll for the Death.",
+      "description": "A roll of underwater currents, and the shapes disappear down into the murk. Were they ever even there? But what is clear is that in their leaving, they have taken that vital part of me."
+    },
+    {
+      "label": "Explore The Wreck of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@",
+      "id": "mariner.vaults.salvagemission.shipwreck.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.shipwreck.task.pre",
+      "label": "Explore The Wreck of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.shipwreck.exhausted",
+      "label": "The Wreck of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.shipwreck.drawevent.crush",
+      "label": "Explore The Wreck of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.shipwreck.drawevent.drowneddead",
+      "label": "Explore The Wreck of the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.lightlesshold.explore.hintexclusiveattention",
+      "label": "Gather the Scraps",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.lightlesshold.explore.pre",
+      "label": "Gather the Scraps",
+      "startdescription": "Something may be down there. But carrying the salvageable goods will be arduous labor, and will cost us a precious few breaths... If we get any out at all."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.lightlesshold.explore",
+      "label": "Gather the Scraps",
+      "startdescription": "Something may be down there. But carrying the salvageable goods will be arduous labor, and will cost us a precious few breaths... If we get any out at all."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.lightlesshold.explore.success",
+      "label": "Salvaged Bounty",
+      "description": "We labor our way through the tilted hallways, and wade through half digested debris in the belly of the ship. But with salvageable goods in tow we emerge back on deck, and tie them to our rope."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.lightlesshold.explore.failure",
+      "label": "Jammed in a Doorway",
+      "description": "Most boxes were rotten, most barrels were shot. When we finally found a salvagable barrel, it got jammed in the door when we carried it out. We had to smash it so we could return back to the tilted deck."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.clamcrustedsafe.navigate.hintexclusiveattention",
+      "label": "Open the Safe",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.clamcrustedsafe.navigate.pre",
+      "label": "Open the Safe",
+      "startdescription": "The work conditions are, to be understated, not ideal here. Either approach will be difficult. But with the safe weighing a literal tonne, there is no way for us to move it. We select our tools, and begin."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.clamcrustedsafe.navigate",
+      "label": "Open the Safe",
+      "startdescription": "The work conditions are, to be understated, not ideal here. Either approach will be difficult. But with the safe weighing a literal tonne, there is no way for us to move it. We select our tools, and begin."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.clamcrustedsafe.navigate.success",
+      "label": "Cracked the Safe",
+      "description": "The safe swings open, and the insides, so long protected, now are exposed to the hungry sea. We gather it quickly before she claims it as her price."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.clamcrustedsafe.navigate.failure",
+      "label": "Wasted Time",
+      "description": "After the safe has survives the bite of salt and water for so long, did we really think our futile ministrations were going to be any different?"
+    },
+    {
+      "id": "mariner.vaults.salvagemission.captainsquarters.navigate.hintexclusiveattention",
+      "label": "Loot the Chambers of a Fallen Peer",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.captainsquarters.navigate.pre",
+      "label": "Loot the Chambers of a Fallen Peer",
+      "startdescription": "I must consider only what useful items I might find, and not how closely it resembles my own quarters, my own desk and my own chair."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.captainsquarters.navigate",
+      "label": "Loot the Chambers of a Fallen Peer",
+      "startdescription": "I must consider only what useful items I might find, and not how closely it resembles my own quarters, my own desk and my own chair."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.captainsquarters.navigate.success",
+      "label": "A Glint in the Gloom",
+      "description": "I search as much with my gloved fingers as with my blinded eyes. From beneath a chewed up, water torn drape I uncover something, small, sterling, and shining still. I take my prize and leave this haunted place."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.captainsquarters.navigate.failure",
+      "label": "A Meeting of Eyes",
+      "description": "As I stir up the water that has been stagnant for a long time, its current stirs up what remained of this room's occupant. I meet its gaze, and through my helmet, I suddenly feel all the water come crashing down on me."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.abyssalplains.explore.hintexclusiveattention",
+      "label": "Traverse to the Wreck",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.abyssalplains.explore.pre",
+      "label": "Traverse to the Wreck",
+      "startdescription": "Below the sea lies a desert, where your eyes strain for light and each movement is an ordeal.. The shipwreck is the only landmark we have, a shaped shadow in the formless darkness. We set off."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.abyssalplains.explore",
+      "label": "Traverse to the Wreck",
+      "startdescription": "Below the sea lies a desert, where your eyes strain for light and each movement is an ordeal.. The shipwreck is the only landmark we have, a shaped shadow in the formless darkness. We set off."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.abyssalplains.explore.success",
+      "label": "At the Foot of the Wreck",
+      "description": "Vague contours become solid, and the slick seafloor gets interrupted by the sloped shape of the wreck. We have reached her. Now, our true task begins."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.abyssalplains.explore.failure",
+      "label": "A Stumbling Journey",
+      "description": "Each step is a struggle, each moment an eternity. We get halfway to giving up before we muster the courage again. But this took a long time, and we breathed fast."
+    },
+    {
+      "id": "mariner.vaults.salvagemission.drown",
+      "label": "The Agony Below",
+      "startdescription": "My body struggles, trying to find one last gasp of livegiving breath. But all my trashing and clawing will not even make a ripple on the waters surface."
+    }
+  ]
+}

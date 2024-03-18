@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.salvagemission.1",
+      "label": "Depleting Levels",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nThe clock is beginning to tick."
+    },
+    {
+      "id": "mariner.cosmeticreputation.salvagemission.2",
+      "label": "Shallow Breaths",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nI must savor what air I hold in my longs, before I can hold no more."
+    },
+    {
+      "id": "mariner.cosmeticreputation.salvagemission.3",
+      "label": "Empty tanks",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nMy body is aching for air and open space. The corners of my vision are beginning to shiver."
+    },
+    {
+      "id": "mariner.cosmeticreputation.salvagemission.4",
+      "label": "Final Vapors",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nStars are beginning to dance in the darkness. Not long now. Not much longer at all."
+    }
+  ]
+}

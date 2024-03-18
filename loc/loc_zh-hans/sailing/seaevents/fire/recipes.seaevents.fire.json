@@ -1,0 +1,43 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.fire",
+      "label": "Fire in the Hull",
+      "startdescription": "A lantern spilled, and a pool of burning oil in the depths of the ship. If we do not act quickly, the fire might continue to spread until nothing of the Kite is left. I could order to dampen the fire, or drown it out with buckets from the sea. [Use Winter or Grail to approach this event, or throw able-bodied men it's way to contain it.]",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.fire.outcome.success",
+      "label": "The Flames Last Whimper",
+      "startdescription": "We have managed to decrease the flames until they are nothing but some glowing timber, and even that soon ceases to spark."
+    },
+    {
+      "id": "mariner.sail.seaevents.fire.outcome.failure.cargoburnt",
+      "label": "Cargo Damaged",
+      "startdescription": "Some cargo was lost to the flames."
+    },
+    {
+      "id": "mariner.sail.seaevents.fire.outcome.failure.killedcrew",
+      "label": "Lost Someone",
+      "startdescription": "No horror as visceral as the smell of burning flesh."
+    },
+    {
+      "id": "mariner.sail.seaevents.fire.outcome.failure.shipdamage",
+      "label": "Ship Damaged",
+      "startdescription": "Ship sustained a wound."
+    }
+  ]
+}

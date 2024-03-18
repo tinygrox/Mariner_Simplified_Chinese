@@ -1,0 +1,53 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.northsea.faketheater.empty.hint",
+      "label": "A Stage Expectant",
+      "startdescription": "The Ecdystis club is empty, but somehow it feels smaller during the day, even with the daylight safely behind curtains."
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater.hint",
+      "label": "A Request and a Challenge",
+      "startdescription": "Mr Agdistis sits in the front row, eyes closed as he listens. He had made his desire known to me. An Ode to his beloved, Marinette. I do not know her, but I know the sadness with which he speaks the name."
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater",
+      "label": "The Turning Point",
+      "startdescription": "The melody flows, combining fadou charm with a crooner's sentiment. Now I must conjure up the words... [Combine the mournful wailing of Winter with the Direction of Desire, Passion and Obsession to complete the Performance.]",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "What are our energies aimed at?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater.success.pre",
+      "label": "Ode To Marinette",
+      "startdescription": "There walks a woman, \nWhose feet are dry \nThrough the wastes, the wastes\nThe wastes of the wold \n\nHer feet are dry \nHer hands are cold \nBut her smile, her smile \nHer smile of endless glee \n\nOh Mistress Marinette \nYou know not what you do to me \nOh bewired queen of mine \nI know not what you could do to me."
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater.failure.pre",
+      "label": "Ode to Marinette?",
+      "startdescription": "I improvise, basing myself on people I have met and the places I have been. But somehow, it all feels too common, too flat."
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater.successs",
+      "label": "A Standing Invitation",
+      "description": "Mr Agdistis' weeping does not stop when my song ends. He waves me away, but chases me down before I leave the club. \"You must come again to the club and sing to me of her again. No, not now, I could not bear it.\" He steadies himself, with a hand on his chest as if feeling his own heartbeat. \"Let me know when you are in town, that we may schedule a performance on our Grand Stage. There you might be able to truly achieve something with your music.\"",
+      "updateCodexEntries": {
+        "codex.agdistis": {
+          "add": [
+            "codex.agdistis.unlockedecdysis"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.sing.northsea.faketheater.failure",
+      "label": "Intent Unfulfilled",
+      "description": "Mr Agdistis opens his eyes, and shakes his head. \"You are not yet where you could be. Again.\""
+    }
+  ]
+}

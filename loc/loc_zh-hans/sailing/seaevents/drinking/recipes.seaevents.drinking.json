@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.drinking",
+      "label": "Drunken Mates",
+      "startdescription": "It is known that sailors like a drink when they are on shore, but when that behavior follows the ship to sea, trouble comes in its wake. My ship stinks of gin and malcontent. I could solve this with stern authority of Winter or the opposition of Edge.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.drinking.outcome.success",
+      "label": "The Specter of Discipline",
+      "startdescription": "I have smashed every bottle I could find, and have made those responsible pour over the deck for the shattered glass. They may despise me, but the ship will run with military precision."
+    },
+    {
+      "id": "mariner.sail.seaevents.drinking.outcome.drinkingfailure",
+      "label": "Spirits on Deck",
+      "startdescription": "They may nod along to my speeches, but they all have a bottle stashed for their shifts. The discipline has been broken, and it will take time to rebuild it."
+    }
+  ]
+}

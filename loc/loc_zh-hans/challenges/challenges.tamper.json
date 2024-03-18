@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.tamper",
+      "label": "Tamper with an Apparatus",
+      "startdescription": "These designs have an intended way of working. I have other intentions in in mind. We can accomplish this with discordant Moth or entropic Winter.",
+      "description": "These designs have an intended way of working. I have other intentions in in mind. We can accomplish this with discordant Moth or entropic Winter.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.tamper.winter.high",
+      "label": "Rust and Rot",
+      "startdescription": "All things end. My touch is bitter snow, and after me, only silence. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.tamper.winter.med",
+      "label": "Bleach and Blister",
+      "startdescription": "All things fail. My touch is hatred. After me, there will be a whimper and a whine and then a gurgling rattle of death.  We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.tamper.winter.low",
+      "label": "Crack and Curdle",
+      "startdescription": "All things falter. My touch is cold, my actions calculated. After me this machine will be less than it was. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.tamper.moth.high",
+      "label": "The Roads That Chaos Walk",
+      "startdescription": "All things ache for change. Strain no more, little ones, we will set you free. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.tamper.moth.med",
+      "label": "The Maneuvres of Abbandon",
+      "startdescription": "All things yearn to change. Any moment the smallest particles could scatter like a swarm at a slight agitation. And we can be very agitating. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.tamper.moth.low",
+      "label": "The Movements of Mischief",
+      "startdescription": "All things desire change. The engineer might have dreamt up a great contraption, but it would just as gladly be parts. And gladly we will make it so. We may yet succeed."
+    }
+  ]
+}

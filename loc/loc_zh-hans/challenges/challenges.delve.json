@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.delve",
+      "label": "Delving To Hidden Depths.",
+      "startdescription": "Our path leads through c'thonic depths. There is a way down, even if I must make it myself. Approach this with the practicality of Forge or the voluptuousness of Grail.",
+      "description": "Our path leads through c'thonic depths. There is a way down, even if I must make it myself. Approach this with the practicality of Forge or the voluptuousness of Grail.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.delve.grail.high",
+      "label": "Ministrations of Parting",
+      "startdescription": "We coax ourselves into the earth. The earth shall open to us as it does to the Beachcomber. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.delve.grail.med",
+      "label": "Yielding Touches",
+      "startdescription": "We ply ourselves into the earth, and like so many others, it yields to our touch. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.delve.grail.low",
+      "label": "Soft Demands",
+      "startdescription": "We wriggle our way down, where our greed and curiosity lead us.  We may yet succeed"
+    },
+    {
+      "id": "mariner.challenge.delve.forge.high",
+      "label": "The Diamond Road",
+      "startdescription": "Down is the direction of the molten core. If anything is in my way, I shall shatter it like the Forge shattered the Flint. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.delve.forge.med",
+      "label": "The Graphite Roads",
+      "startdescription": "Down is the direction of secret fire. If there is no path, I shall forge one.  We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.delve.forge.low",
+      "label": "The Coal Roads",
+      "startdescription": "Down is the direction of earthly wealth. If obstacles are in my way, I will break them.  We may yet succeed"
+    }
+  ]
+}

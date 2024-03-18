@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.combinetofindlocationin.northsea",
+      "label": "Pull a Thread",
+      "startdescription": "If I weigh the local news I have scavenged in bars against the snippets I have obtained from my contacts, I may be able to make new connections, find new opportunities and discover truly extraordinary places."
+    },
+    {
+      "id": "mariner.combinetofindlocationin.medsea",
+      "label": "Pull a Thread",
+      "startdescription": "If I weigh the local news I have scavenged in bars against the snippets I have obtained from my contacts, I may be able to make new connections, find new opportunities and discover truly extraordinary places."
+    }
+  ]
+}

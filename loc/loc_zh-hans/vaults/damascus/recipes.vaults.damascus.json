@@ -1,0 +1,797 @@
+{
+  "recipes": [
+    {
+      "label": "Explore Imperial Museum of the Near East",
+      "id": "mariner.vaults.damascus.museum.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.museum.task.pre",
+      "label": "Explore Imperial Museum of the Near East",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.damascus.explore.museum.exhausted",
+      "label": "Imperial Museum of the Near East Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.damascus.museum.drawevent.guards",
+      "label": "Explore Imperial Museum of the Near East"
+    },
+    {
+      "id": "mariner.vaults.damascus.museum.drawevent.throngs",
+      "label": "Explore Imperial Museum of the Near East"
+    },
+    {
+      "id": "mariner.merge.book",
+      "label": "Stitch together the Book",
+      "description": "<Four sheets become one. A story now whole, even if the language barrier is still in surmountable>"
+    },
+    {
+      "id": "mariner.consider.imago.mystery",
+      "label": "<Remember the Details>",
+      "startdescription": "<I think back on the three accounts I read, and the three houses I visited. What details stand out...>",
+      "description": "<From the account of ..., the other members of the House suspected Matthias may have hidden something inside the walls of the Damascene Branch, but they feared him too much too investigate. All they knew, is that Matthias disappeared to hunt. \"On nights wreathed in mist, when the Damascene Halls were deserted...\". There may be more to investigate there.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.transcribing.pre",
+      "label": "<Transcription Begins>",
+      "startdescription": "Hand to paper, the process of transcribing the page has begun."
+    },
+    {
+      "id": "mariner.vaults.damascus.transcribing.going",
+      "label": "<Transcription in Progress>",
+      "startdescription": "The scratching of paper, the squinting of eyes, the rolling of sweat."
+    },
+    {
+      "id": "mariner.vaults.damascus.transcribing.end",
+      "label": "<The Final Line>",
+      "startdescription": "The final line, the final word, the final symbol and the final sigh of relief."
+    },
+    {
+      "id": "mariner.vaults.damascus.hint.all",
+      "label": "<The Writing on the Walls: More?>",
+      "startdescription": "Might there be more to do with these old stones? I can see vague traces of glyphs on the edges of the bricks. It is hard to tell, and harder to investigate with the eyes of the public and guards upon me. If there is something for me to do, I could not do it now."
+    },
+    {
+      "id": "mariner.vaults.damascus.hint.guidance",
+      "label": "The Writing on the Walls: Too Crowded",
+      "startdescription": "The bird statue points to the englyphed section of the walls, but I cannot recognise the script. I will not find out unless I am able to get my hands on the walls itself… And that is unlikely during opening hours. This mystery will have to wait for the right opportunity when the room is cleared or night has fallen."
+    },
+    {
+      "id": "mariner.vaults.damascus.stepthrough",
+      "label": "Secret Threshold",
+      "startdescription": "We trace the hooked glyphs with our fingers, focussing on the cracked between the bricks. Closer and closer our focus grows, and larger and larger seems the vacuous darks between the bricks, until it seems larger than me, larger than us, until it is the dark that swallows us."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.navigate.hintexclusiveattention",
+      "label": "The Writing on the Wall",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.navigate.pre",
+      "label": "The Writing on the Wall",
+      "startdescription": "In four displays the pages have been spread out, and pressed to the glass, the aramaic letters dappled pattern on the finer grain of vellum. Three displays are open, attracting spectators like flies, but the fourth is hidden behind curtains of black velvet. Curate, contain, censure. If I wish to learn the story contained, each page needs to be copied. Let’s see what we are working with."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.navigate",
+      "label": "The Writing on the Wall",
+      "startdescription": "In four displays the pages have been spread out, and pressed to the glass, the aramaic letters dappled pattern on the finer grain of vellum. Three displays are open, attracting spectators like flies, but the fourth is hidden behind curtains of black velvet. Curate, contain, censure. If I wish to learn the story contained, each page needs to be copied. Let’s see what we are working with."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.navigate.success",
+      "label": "A Message from History",
+      "description": "Over a millennium ago, some sage set up countless nights to pen down this story, to gain access to an organization, thrice chained. Now its pages are displayed here, unnamed, untranslated, with a quarter of the work hidden from the public’s eye."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.navigate.failure",
+      "label": "A Message from History",
+      "description": "Over a millennium ago, some sage set up countless nights to pen down this story, to gain access to an organization, thrice chained. Now its pages are displayed here, unnamed, untranslated, with a quarter of the work hidden from the public’s eye."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.explore.hintexclusiveattention",
+      "label": "The Writing on the Walls",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.explore.pre",
+      "label": "The Writing on the Walls",
+      "startdescription": "In the muted light coming from the fog-choked moon, we discover script etched into the bricks of the House. The walls were rebuilt here with such care… could the secrets of Matthias have been brought with it? There are the faint edges of glyphs visible on the edges of bricks. Where will this pattern lead me?"
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.explore",
+      "label": "The Writing on the Walls",
+      "startdescription": "In the muted light coming from the fog-choked moon, we discover script etched into the bricks of the House. The walls were rebuilt here with such care… could the secrets of Matthias have been brought with it? There are the faint edges of glyphs visible on the edges of bricks. Where will this pattern lead me?"
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.explore.success",
+      "label": "<Trace the Glyphs>",
+      "description": "<We follow the glyphs, more with our fingers then our sighs. with dusky charcoal, the glyphs shadow is caught on paper. So far, their meaning allude us, even the name of the language or script impossible to guage>"
+    },
+    {
+      "id": "mariner.vaults.damascus.walls.explore.failure",
+      "label": "That Hooked Snare",
+      "description": "We follow the lined glyphs, but lose ourselves in its curves, hooks and angles. We follow it, and follow it, and then light begins to glimmer in the corner of our eyes, and excited shouts. We lost ourselves in the snare until we where found by guards, and something of us remains there as we are taken away. As long as I cannot guard myself against Hyksian Snares."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.navigate.hintexclusiveattention",
+      "label": "The Dissected Walls: Transcription",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.navigate.pre",
+      "label": "The Dissected Walls: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.navigate",
+      "label": "The Dissected Walls: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.navigate.success",
+      "label": "Hidden World Proliferating",
+      "description": "The work has begun. The careful carving on the paper, the blind calligraphy. Now, these are just shapes and loops, a locked treasure, now multiplying. As this work continues, we should safeguard it against interruption."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.navigate.failure",
+      "label": "Blind Scratchings, Erratic Lines",
+      "description": "The process is not fast, nor flawless. We are not specialists at this, but we cannot know which mistake might be catastrophic. So we will work slowly, meticulously, and when we are unsure, we will do it again."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore.hint",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "If I throw all caution to the wind, I could take this page, from behind the velvet curtains, if everyone looked elsewhere. This would be risky, and have lasting impact on my reputation."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore.hintexclusiveattention",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore.pre",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore.success",
+      "label": "Stowed Away",
+      "description": "one swift rip and the first act of the Matthias and Imago disappears in my jacket. Nobody saw it was me, but all see the empty frame on the wall and my description will be recognised by the authorities."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1.explore.failure",
+      "label": "Instant Alarm",
+      "description": "As soon as my fingers clutch the fingers, a guards wandering eye catches mine. Instantly, shouts of alarm ring through the building."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.navigate.hintexclusiveattention",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.navigate.pre",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.navigate",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.navigate.success",
+      "label": "Hidden World Proliferating",
+      "description": "The work has begun. The careful carving on the paper, the blind calligraphy. Now, these are just shapes and loops, a locked treasure, now multiplying. As this work continues, we should safeguard it against interruption."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.navigate.failure",
+      "label": "Blind Scratchings, Erratic Lines",
+      "description": "The process is not fast, nor flawless. We are not specialists at this, but we cannot know which mistake might be catastrophic. So we will work slowly, meticulously, and when we are unsure, we will do it again."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore.hint",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "If I throw all caution to the wind, I could take this page, from behind the velvet curtains, if everyone looked elsewhere. This would be risky, and have lasting impact on my reputation."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore.hintexclusiveattention",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore.pre",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore.success",
+      "label": "Stowed Away",
+      "description": "one swift rip and the second act of the Matthias and Imago disappears in my jacket. Nobody saw it was me, but all see the empty frame on the wall and my description will be recognised by the authorities."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2.explore.failure",
+      "label": "Instant Alarm",
+      "description": "As soon as my fingers clutch the fingers, a guards wandering eye catches mine. Instantly, shouts of alarm ring through the building."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.navigate.hintexclusiveattention",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.navigate.pre",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.navigate",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.navigate.success",
+      "label": "Hidden World Proliferating",
+      "description": "The work has begun. The careful carving on the paper, the blind calligraphy. Now, these are just shapes and loops, a locked treasure, now multiplying. As this work continues, we should safeguard it against interruption."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.navigate.failure",
+      "label": "Blind Scratchings, Erratic Lines",
+      "description": "The process is not fast, nor flawless. We are not specialists at this, but we cannot know which mistake might be catastrophic. So we will work slowly, meticulously, and when we are unsure, we will do it again."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore.hint",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "If I throw all caution to the wind, I could take this page, from behind the velvet curtains, if everyone looked elsewhere. This would be risky, and have lasting impact on my reputation."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore.hintexclusiveattention",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore.pre",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore.success",
+      "label": "Stowed Away",
+      "description": "one swift rip and the third act of the Matthias and Imago disappears in my jacket. Nobody saw it was me, but all see the empty frame on the wall and my description will be recognised by the authorities."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3.explore.failure",
+      "label": "Instant Alarm",
+      "description": "As soon as my fingers clutch the fingers, a guards wandering eye catches mine. Instantly, shouts of alarm ring through the building."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate.hint",
+      "label": "The Writing on the Wall: Unveiling",
+      "startdescription": "I cannot access the final pages of Matthias… Not until I convince a curator to part the velvet curtains for me. Before the copying can begin, I must take a curator there."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate.hintexclusiveattention",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate.pre",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate",
+      "label": "The Writing on the Wall: Transcription",
+      "startdescription": "The pages pinned to this wall hold a story I wish to know, but they are written in aramaic, and not readily published in full. But with a lot of patience, and some skilled eyes and fingers, we could copy every letter, and keep each intention intact."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate.success",
+      "label": "Hidden World Proliferating",
+      "description": "The work has begun. The careful carving on the paper, the blind calligraphy. Now, these are just shapes and loops, a locked treasure, now multiplying. As this work continues, we should safeguard it against interruption."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.navigate.failure",
+      "label": "Blind Scratchings, Erratic Lines",
+      "description": "The process is not fast, nor flawless. We are not specialists at this, but we cannot know which mistake might be catastrophic. So we will work slowly, meticulously, and when we are unsure, we will do it again."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk.hint",
+      "label": "The Writing on the Wall: Unveiling",
+      "startdescription": "I cannot access the final pages of Matthias… Not until I convince a curator to part the velvet curtains for me."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk.hintexclusiveattention",
+      "label": "The Writing on the Wall: Unveiling",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk.pre",
+      "label": "The Writing on the Wall: Unveiling",
+      "startdescription": "I have my curator curious, but unconvinced. The consensus on a censor is sensible, they might offer.  It seems I will never get the time to copy the whole piece, so I will have to extract every drop of the story from them, as they try to lecture instead of regale."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk",
+      "label": "The Writing on the Wall: Unveiling",
+      "startdescription": "I have my curator curious, but unconvinced. The consensus on a censor is sensible, they might offer.  It seems I will never get the time to copy the whole piece, so I will have to extract every drop of the story from them, as they try to lecture instead of regale."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk.success",
+      "label": "Beyond Ink",
+      "description": "I do not copy, I take notes. They are natural orators, and with pointed questions, I guide the lecture into the shape of a narrative flow. The longer they talk, the more they get into it, and more than a few other guests stick around to watch and listen. As they reach their thrilling conclusion, a small applaus can be heard. I parted ways with the curator, as we both got what we wanted."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.talk.failure",
+      "label": "Left Unattended",
+      "description": "The curtains part, and the  lecture begins… but soon falters. Perhaps the curator suddenly gleaned our intentions may not be purely academic. The scholar reassesses and reconsiders, and suddenly scholarly pursuits are exchanged for self preservation. He backs away with an excuse, and I am left to copy… But I am sure a guard may arrive soon."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore.hint",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "If I throw all caution to the wind, I could take this page, from behind the velvet curtains, if everyone looked elsewhere. This would be risky, and have lasting impact on my reputation."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore.hintexclusiveattention",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore.pre",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore",
+      "label": "The Writing on the Wall: Larceny",
+      "startdescription": "With the coast seemingly clear, I can make my move. But even if people do not notice it right away, they will notice it gone later. This would give me a lasting reputation throughout the Empire."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore.success",
+      "label": "Stowed Away",
+      "description": "Four precise slices, and a whisper of velvet, and the last act of the Matthias and Imago disappears in my jacket. Nobody noticed, but they will eventually, and my description will be recognised by the authorities."
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4.explore.failure",
+      "label": "Instant Alarm",
+      "description": "As soon as my fingers clutch the fingers, a guards wandering eye catches mine. Instantly, shouts of alarm ring through the building."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.navigate.hintexclusiveattention",
+      "label": "Commune with the White Heron",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.navigate.pre",
+      "label": "Commune with the White Heron",
+      "startdescription": "The House of Lethe was not known as a religious organization, nor does this coincide with any of the gods canonical. The plaque besides the statue discourages further speculation… But I could open up my heart, and see what I can find in those empty bird skull eyes."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.navigate",
+      "label": "Commune with the White Heron",
+      "startdescription": "The House of Lethe was not known as a religious organization, nor does this coincide with any of the gods canonical. The plaque besides the statue discourages further speculation… But I could open up my heart, and see what I can find in those empty bird skull eyes."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.navigate.success",
+      "label": "Recognition",
+      "description": "I recognise the bird who sang, the flutanist who carved the singing bones, mourning dove and the keeper of the names. But to know is to be known. While he will have kept my name tucked in his feathers irregardless, now his gaze is fixed upon me. I shiver in dusty stone-heat."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.navigate.failure",
+      "label": "Grim Certainty",
+      "description": "I cannot connect with this entity, but I am left with the absolute certainty that once the time is there, he will know me."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.explore.hintexclusiveattention",
+      "label": "Puzzle Out the Function of the White Heron",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.explore.pre",
+      "label": "Puzzle Out the Function of the White Heron",
+      "startdescription": "The House of Lethe was not known as a religious organization, nor does this coincide with any of the gods canonical. The plaque besides the statue discourages further speculation… but some information is around, in the plagues and the objects. Perhaps we can puzzle through the gaps of history and censure, and define its function."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.explore",
+      "label": "Puzzle Out the Function of the White Heron",
+      "startdescription": "The House of Lethe was not known as a religious organization, nor does this coincide with any of the gods canonical. The plaque besides the statue discourages further speculation… but some information is around, in the plagues and the objects. Perhaps we can puzzle through the gaps of history and censure, and define its function."
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.explore.success",
+      "label": "Truth in Form",
+      "description": "There are elements on this statue that do not match its design. Keyhole shaped gaps between the ivory inlay. The beak, angled to the left, as are it's taloned fingers. What is it pointing at? Would what it was indicating still be there? Was the statue even placed back where it was?"
+    },
+    {
+      "id": "mariner.vaults.damascus.statue.explore.failure",
+      "label": "Form for Form's Sake",
+      "description": "Perhaps this is just art for art's sake, or more banal still, religious. As ever with an item that archeologists are unsure of its use, the plague describes its function as ritualistic. This is about all I will learn here today."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.talk.hintexclusiveattention",
+      "label": "Engage a Curator",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.talk.pre",
+      "label": "Engage a Curator",
+      "startdescription": "If I show myself engaging and bright, I could see if I can attract one of the Curators who works at the museum. They will have access to certain things the public does not, and may be interested in sharing with an enthusiastic dilettante."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.talk",
+      "label": "Engage a Curator",
+      "startdescription": "If I show myself engaging and bright, I could see if I can attract one of the Curators who works at the museum. They will have access to certain things the public does not, and may be interested in sharing with an enthusiastic dilettante."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.talk.success",
+      "label": "A Professorial So-and-So",
+      "description": "The professor finds our presence engaging, and our questions flattering. They have taken a moment to help us, but their time is limited, and their interest can wane."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.talk.failure",
+      "label": "Hasty Help",
+      "description": "Someone came to lend aid to the questions of the public, but they would clearly rather be elsewhere. I cannot engage them for long. I can attempt to make use of them, but I have to hope we are not interrupted."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.explore.hintexclusiveattention",
+      "label": "Create a Distraction",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.explore.pre",
+      "label": "Create a Distraction",
+      "startdescription": "I could have one of my crewmembers create a distraction in the crowd. They will assuredly be removed from the premises, but it could assure a period of uninterrupted time for us to perform other operations."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.explore",
+      "label": "Create a Distraction",
+      "startdescription": "I could have one of my crewmembers create a distraction in the crowd. They will assuredly be removed from the premises, but it could assure a period of uninterrupted time for us to perform other operations."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.explore.success",
+      "label": "Muffled Arguments",
+      "description": "From just far enough away, I can hear a hubbub start and slowly build in intensity. It keeps the guards engaged, and forms a crowd that keeps the room from filling up too much. I have a break to accomplish what I need."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.explore.failure",
+      "label": "A Commotion and a Conclusion",
+      "description": "I can hear the commotion started by my crewmember, and I can hear it escalate quicker than planned. Soon I can hear the sound of the guards, and the sound of my friend dragged off the premises. I also see the guards craning the crowd, looking who might have been associated with the display of disorder."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.sing.hintexclusiveattention",
+      "label": "Work the Crowd",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.sing.pre",
+      "label": "Work the Crowd",
+      "startdescription": "There is enough of a crowd here to work the Orphean Arts. If I need any enhancement to accomplish what I need, I can gather them from the crowds."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.sing",
+      "label": "Work the Crowd",
+      "startdescription": "There is enough of a crowd here to work the Orphean Arts. If I need any enhancement to accomplish what I need, I can gather them from the crowds."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.sing.success",
+      "label": "Rising like Dust",
+      "description": "Between the cabinets and the the crowds, power laces itself around like specks, invisible but in sunlight. people will take note, but hopefully, they will not notice."
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds.sing.failure",
+      "label": "All Kinds of Attention",
+      "description": "All eyes are on me for a moment, and there is nervous, uncertain applaise. But all eyes includes the eyes of the guards..."
+    },
+    {
+      "id": "mariner.vaults.damascus.events.eyes.hintexclusiveattention",
+      "label": "<Watchful Eyes>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.damascus.events.eyes",
+      "label": "<Watchful Eyes>",
+      "startdescription": "<The guards of this tomb of treasures have materialized in the corners of the room, wielding an air of authority and eyes of Argus. you can approach this event with Moth and Winter>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.eyes.success",
+      "label": "<Glazed by Boredom>",
+      "description": "<When the crowds move like a flock of sheep or flight of starlings, it’s easy to lose yourself in the pattern, instead of seeing the individuals. The focus of my watchers has been broken, and they move on to the rest of their route.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.eyes.failure",
+      "label": "<Identified>",
+      "description": "<Security materializes behind one of my men as a shadow, and politely, but insistently, direct them towards the exit.>",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Crewmember",
+          "description": "One of our own."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.events.throngs.hintexclusiveattention",
+      "label": "<Throngs of Guests>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.damascus.events.throngs",
+      "label": "<Throngs of Guests>",
+      "startdescription": "<The Masses enter, and with them their bodies, noises and demands. This tide poses an possibility of distraction for those on my staff who are concentrating, or specialists I have attracted to my cause. I can aid in this with Knife-Bright Lantern or Candle Sharp Edge.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.throngs.success",
+      "label": "<Hold the Line>",
+      "description": "<I intervene, intercept, interject, and keep make sure the focus of those around me is not broken for am moment.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.throngs.failure",
+      "label": "<Cracks>",
+      "description": "<With bumps elbows and disharmoneous chatter. with stepping on foots and asking for attention, attention slips away where we need it to stay taught.>",
+      "slots": [
+        {
+          "id": "curator",
+          "label": "Curator",
+          "description": "their attention is being frayed."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.events.sweep.hintexclusiveattention",
+      "label": "<Swooping in>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.damascus.events.sweep",
+      "label": "<Swooping in>",
+      "startdescription": "<More guards have been drawn here, like gulls to garbage. They stride through the crowds, two by two, conspicuous but polite. They look each person in the eyes… It will take a lot of Moths' evasiveness to avoid them now, or a stern stoicism like Winter.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.sweep.success",
+      "label": "<Passed Over>",
+      "description": "<Me and my crew are still as statues, inconspicuous as dust. We are passed by like furniture, as the guards filter out of the room for now.  But they may come back unless they apprehend someone to give the blame to.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.sweep.failure",
+      "label": "<Swept Away>",
+      "description": "<Some of my crew have been irregular or undesirable, the same in the eyes of many authorities, and are taken out of the buildings. Since a museum is closer to a vault than a prison, they will not have capacity to detain them, but access can be denied. My crew will wait for me outside.>",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Crewmember",
+          "description": "One of our own."
+        },
+        {
+          "id": "victim2",
+          "label": "Crewmember",
+          "description": "One of our own."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.events.emptying.hintexclusiveattention",
+      "label": "<Emptying the Museum>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.damascus.events.emptying",
+      "label": "<Emptying the Museum>",
+      "startdescription": "<Polite announcements have turned into shouts in several languages. This ward is closed until further notice. Everyone please clear the building calmly but immediately. It will be very hard to remain. We must find some forgotten corner out of sight and slink away with the powers of Knock or Moth.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.emptying.success",
+      "label": "<Stowed Away>",
+      "description": "<We laid low, and now the room is empty, of guards and of guests. But This will not remain so long, especially once we take action again.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.events.emptying.failure",
+      "label": "<Flushed Out>",
+      "description": "<The further we move, the less a person and more a crowd. We flush out into the street where we pool in a confused cacophony,before slowly dispersing. I reconvene with my men, but we will have to wait until this story clears before we attempt to enter again.>"
+    },
+    {
+      "label": "Explore <Pinned Collection>",
+      "id": "mariner.vaults.damascus.collection.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.collection.task.pre",
+      "label": "Explore <Pinned Collection>",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.damascus.explore.collection.exhausted",
+      "label": "<Pinned Collection> Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.navigate.hintexclusiveattention",
+      "label": "Puzzle At Ages Past",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.navigate.pre",
+      "label": "Puzzle At Ages Past",
+      "startdescription": "In a room without moisture or airflow, impermeable to bug and beast, paper, vellum and papyrus are maintained with greater stability then in many an archive, they are however, neither sorted nor labeled, but left as if the owner might anytime return. I must now riffle through the notes, pages, books and identify what is of interest... unfortunately they are written in a scala of languages, all of which dead and none of which I have mastered."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.navigate",
+      "label": "Puzzle At Ages Past",
+      "startdescription": "In a room without moisture or airflow, impermeable to bug and beast, paper, vellum and papyrus are maintained with greater stability then in many an archive, they are however, neither sorted nor labeled, but left as if the owner might anytime return. I must now riffle through the notes, pages, books and identify what is of interest... unfortunately they are written in a scala of languages, all of which dead and none of which I have mastered."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.navigate.success",
+      "label": "A Pattern in Madness",
+      "description": "I study the papers... not what just the symbols, but the quality of the paper, how they are spread on the desks, the inks used. I determine what are notes and drafts, and what is, it seems, a nearly completed work, carefully kept. I gather up all the a"
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.navigate.failure",
+      "label": "Confounded and Confined",
+      "description": "At long last, I realize that there are too many layers of obfuscation between me and what i seek. The mess of the desk, the languages, the time, and the fine layer of dust wafting in my face. A sense of hopeless overcomes me in this lightless, airless space. Why am I trespassing in a place i cannot understand?."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.explore.hintexclusiveattention",
+      "label": "Rummage Through the Scraps of History",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.explore.pre",
+      "label": "Rummage Through the Scraps of History",
+      "startdescription": "Between shriveled parchment and writing implements, lie other miscellanea and eclectica. But Mattias was a hunter and a trapper, and we cannot be sure if some wards or snares are not still placed on this desk. I will act as if I am sure there are many, and find out what is save to take."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.explore",
+      "label": "Rummage Through the Scraps of History",
+      "startdescription": "Between shriveled parchment and writing implements, lie other miscellanea and eclectica. But Mattias was a hunter and a trapper, and we cannot be sure if some wards or snares are not still placed on this desk. I will act as if I am sure there are many, and find out what is save to take."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.explore.success",
+      "label": "Pluck a Paper-Weight",
+      "description": "With understanding, feeling and a not not to be neglected amount of luck, I evaluate which objects to take and hwich to leave. I end up with a smattering of objects that museums would pay a ransom for, will be fuel to the flame of my occult pursuits."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk.explore.failure",
+      "label": "Ancient Hex",
+      "description": "I gather all that I can, but soon I will discover I was a fool. What I thought to be an innocuous objects, carried with it an ancient curse. Is this Mattias work? Or Perhaps a Moth Name attempting to counteract him. I will never know, but an ancient malaise is clings to my shadow, and it will bloom once we are back in sunlight once again"
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.sing.hintexclusiveattention",
+      "label": "What Lingers?",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.sing.pre",
+      "label": "What Lingers?",
+      "startdescription": "This is spot is the most sacrosanct of Mattias inner sanctum. Few places are as personal as the bed you feel safe in, and few things are as intense as what Mattias accomplished here. Echoes of that act remain... We may wish to see if we could harmonize, to see what we can learn about the pair."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.sing",
+      "label": "What Lingers?",
+      "startdescription": "This is spot is the most sacrosanct of Mattias inner sanctum. Few places are as personal as the bed you feel safe in, and few things are as intense as what Mattias accomplished here. Echoes of that act remain... We may wish to see if we could harmonize, to see what we can learn about the pair."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.sing.success",
+      "label": "Pursuit, Loss, Transformation",
+      "description": "These Echoes are of carnal things. The hunter, the prey, the chase, the turnabout. Hatred, longing, obsession, desire, connection. The chase was over when the quarry no longer fled, and the hunter no longer tracked. Parlay became dalliance became passion. And then a final flight, with wings clipped and flesh shed. Together now, to Higher and Brighter places."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.sing.failure",
+      "label": "Taken To Far",
+      "description": "I can align my tempo to the echoes, but they tier me from my time and place. This room is a hot coffin, with outside my former brethren, congregating on my banishment. The only way out is inwards, but her betrayed siblings and cousins lie in wait below those lightless boughs. I feel the the cold steel, and I feel the hot cut. only once i hear the snapping of scissors echoing of tree boughs, do I manage to free myself of Mattias."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.explore.hintexclusiveattention",
+      "label": "What Remains?",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.explore.pre",
+      "label": "What Remains?",
+      "startdescription": "if I search the bedding of Mattias, I may find out something he left behind. Few things can be taken into the Mansus after all, and fewer things can be taken into death."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.explore",
+      "label": "What Remains?",
+      "startdescription": "if I search the bedding of Mattias, I may find out something he left behind. Few things can be taken into the Mansus after all, and fewer things can be taken into death."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.explore.success",
+      "label": "The Last of Mattias",
+      "description": "between the reeds, we find the remnants of Mattias and Imago final act in the wake. Locks of shorn hair, crumpled membranes cut at the root, and one and half ounces of shriveled flesh. Next to them, the implement of the sacrifice."
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed.explore.failure",
+      "label": "The Last Caress",
+      "description": "I rummage behind the pillows, dig my fingers between the reeds, until a sharp pain causes me to recoil. I have found what I was looking for, but its blade ever sharp, took a knick out of my fingers. It is not much of an injury, but my finger now aches for seperation. What may be lost...."
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned.explore.hintexclusiveattention",
+      "label": "Picking at Insect Wings",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned.explore.pre",
+      "label": "Picking at Insect Wings",
+      "startdescription": "These remnants of Mattias' quarries are fragile, not meant to be maintained in the Wake. Upon disruption, they might dissolve, but with carefull handling and the proper tools, we could could fold one of the wings unto our care."
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned.explore",
+      "label": "Picking at Insect Wings",
+      "startdescription": "These remnants of Mattias' quarries are fragile, not meant to be maintained in the Wake. Upon disruption, they might dissolve, but with carefull handling and the proper tools, we could could fold one of the wings unto our care."
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned.explore.success",
+      "label": "Trophy from a Trophy Hoard",
+      "description": "I walk through the gallery of limpid bandages, each rising at my breath. With, care I select a pair that seems well enough to travel. They vibrate under my exhale, still pinned at each tip. I control my breath,, and watch each scale catch the light like flashing knives. I bend, and fold, and fold again. What remains is small enough to fit in a pack."
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned.explore.failure",
+      "label": "Fragile as Broken Trust",
+      "description": "We cannot find the right vibration, and touch tears through the sheets like parting morning mists. With each attempts our hands shake more, and in the end nothing is left but the last dispersing vapors, but those severed wings beat still within my skull."
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack.explore.hintexclusiveattention",
+      "label": "Collect the Implements",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack.explore.pre",
+      "label": "Collect the Implements",
+      "startdescription": "The tools still glint in the light, even though they carry strange stains. Some of these may be useful to me, others might be valuable. But we should be careful while handling them, and sometimes have cutting edges in unexpected places."
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack.explore",
+      "label": "Collect the Implements",
+      "startdescription": "The tools still glint in the light, even though they carry strange stains. Some of these may be useful to me, others might be valuable. But we should be careful while handling them, and sometimes have cutting edges in unexpected places."
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack.explore.success",
+      "label": "A Grim Haul",
+      "description": "With care and linnen cloths, we fold items of interest into our inventory."
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack.explore.failure",
+      "label": "Four Tendons Cut",
+      "description": "A fresh smell of copper fills the air, and the ancient bronze tools are painted crimson once again. I hold my shaking hand, as blood drips from between my fingers."
+    }
+  ]
+}

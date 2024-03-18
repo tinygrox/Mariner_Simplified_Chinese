@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.suspicion.makehostile",
+      "slots": [
+        {
+          "id": "location",
+          "label": "Location"
+        }
+      ]
+    }
+  ]
+}

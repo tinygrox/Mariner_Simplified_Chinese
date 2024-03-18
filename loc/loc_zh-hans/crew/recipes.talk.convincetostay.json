@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.talk.convincecrewtostay",
+      "label": "Bargain to Convince a Crewmember to Stay",
+      "startdescription": "They're thinking about it..."
+    },
+    {
+      "id": "mariner.talk.convincecrewtostay.success",
+      "label": "I Convinced a Crewmember to Stay",
+      "description": "They'll stay a little longer, and see what my service brings them."
+    },
+    {
+      "id": "mariner.talk.convincecrewtostay.failure",
+      "label": "Failed to Convince a Crewmember to Stay",
+      "description": "My offer did not sway them this time."
+    }
+  ]
+}

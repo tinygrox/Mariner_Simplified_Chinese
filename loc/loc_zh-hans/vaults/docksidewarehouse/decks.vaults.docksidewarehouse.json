@@ -1,0 +1,27 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.crookedalley.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.craneyard.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.craneyard.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.warren.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.docksidewarehouse.explore.warren.events",
+      "label": "Exploration Deck"
+    }
+  ]
+}

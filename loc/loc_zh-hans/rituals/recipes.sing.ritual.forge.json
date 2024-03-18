@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.forge.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.forge.start",
+      "label": "Perform a covert Forge Ritual in an Industrious Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.forge",
+      "label": "Perform a covert Forge Ritual in an Industrious Space",
+      "startdescription": "What I have brought is only part of the ritual. Below the iron and the ash, I need to bury an object fresh from the forge.",
+      "description": "Music brightens, Influence blossoms. An errant raindrop sizzles on my skin. I take care not to touch strangers, for fear their flesh will blister."
+    }
+  ]
+}

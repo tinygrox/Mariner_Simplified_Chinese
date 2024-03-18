@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ship.kite",
+      "label": "风筝号",
+      "description": "用绳索和木材制成的野兽，领我们漂洋过海。",
+      "slots": [
+        {
+          "id": "destination",
+          "label": "目的地",
+          "description": "我们的下一个目的地。"
+        }
+      ]
+    }
+  ]
+}

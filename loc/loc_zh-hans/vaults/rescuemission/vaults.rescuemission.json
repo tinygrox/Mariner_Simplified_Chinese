@@ -1,0 +1,503 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.rescuemission.trail",
+      "label": "A Trail...",
+      "description": "Notes on the cargo, speculations on the route, indication on how the ship was stowed."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.resonance",
+      "label": "A Resonance...",
+      "description": "I can feel it from under the horizon. Like a low hum, lower than breathing, lower than the ocean's roll."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.notion",
+      "label": "A Notion...",
+      "description": "Locally this is as solid as fact… Venture further and it would be dismissed as biased speculation. [This can be used to pass the Rapids or help find where the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ went down.]"
+    },
+    {
+      "id": "mariner.vaults.rescuemission.supplies",
+      "label": "Supplies",
+      "description": "Those things the mortal engine requires for fuel and maintenance."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.harbor",
+      "label": "Backwater Harbor",
+      "description": "Where a near-nameless tributary flows into a mist-clogged sea. This is where the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ has last been seen. So this is where our search begins."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.generalstore",
+      "label": "General store",
+      "description": "Sometimes a good store is just a good store. But it holds stores of goods which are good to store.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.detailsofthewreck",
+      "label": "Details of the Wreck",
+      "description": "We have some details about the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@'s last journey. Some scraps of paper, some lists of names and goods. Somewhere here, we could find the hints to the location of its crew.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.radiotower",
+      "label": "Radio Tower",
+      "description": "A spindly tower of latticed steel. Here the S.O.S. was received that informed us that the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@'s wreck had survivors.  The received message is more static than sound, but perhaps I can discover some hidden depth within the tones.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.divebar",
+      "label": "Downtrodden Dive Bar",
+      "description": "Everyone who is anyone in this town,either passes through here, or is passed as a topic over the tongues of patrons.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "cash",
+          "label": "Cash",
+          "description": "funds for the drinks that will lubricate any social occassion."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.sailout",
+      "label": "Sail Out",
+      "description": "At some point, I just have to head out. With clues or without, I could follow the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@'s wake, and triangulate the place she went down.",
+      "slots": [
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "shipslot",
+          "label": "My Ship",
+          "description": "To travel the sea, I require my vessel"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.distance1",
+      "label": "Past the Uncharted Waters",
+      "description": "A distance travelled, a leg traversed. [I have passed the Uncharted Waters.]"
+    },
+    {
+      "id": "mariner.vaults.rescuemission.distance2",
+      "label": "Past the Hidden Currents",
+      "description": "A distance travelled, a leg traversed. [I have passed the Hidden Currents.]"
+    },
+    {
+      "id": "mariner.vaults.rescuemission.mistedreefs",
+      "label": "Misted Reefs",
+      "description": "It is no wonder the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@ went down here. The fractured rocks peek from the water like broken teeth, but only when they are not covered by a suffocating sea fog."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.unchartedwaters",
+      "label": "Uncharted Waters",
+      "description": "These are the Waters that no company cared to map, where the sun doesn’t care to shine and where the shallows often shift. ",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.hiddencurrents",
+      "label": "Hidden Currents",
+      "description": "Among these many fractured islands in this fractal coast, the currents are unpredictable and strange. Our path leads us to a narrow passage way filled with churning water and gleaming rocks.",
+      "slots": [
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "shipslot",
+          "label": "My Ship",
+          "description": "To travel the sea, I require my vessel"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.traveltime",
+      "label": "The Distance",
+      "description": "There are steps on a journey that must be taken, before a destination is reached.",
+      "slots": [
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail4",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail5",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "shipslot",
+          "label": "My Ship",
+          "description": "To travel the sea, I require my vessel"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.fractalcoast",
+      "label": "A Fractal Coast",
+      "description": "A distress signal was sent, somewhere from this fractured fractal coast. Can I find where it was send from before there is no more reason to find it?",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate4",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate5",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate6",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.locationright",
+      "label": "An Unassuming Island",
+      "description": "One island among the many, which our triangulations have divined as the location of the survivors.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.locationwrong",
+      "label": "An Unassuming Island",
+      "description": "One island among the many, which our triangulations have divined as the location of the survivors.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.survivor",
+      "label": "Survivor",
+      "description": "Shipwrecked, starving, scrappy, sick.<br><br>[This card will affect some obstacles and events of this Adventure from the board.]"
+    },
+    {
+      "id": "mariner.vaults.rescuemission.shore",
+      "label": "The Unknown Interior",
+      "description": "Rocky shores, dense forests and sheer cliffs. While this island might be habitable, it does not seem hospitable. Now to hope the helpless shipwrecked crew has survived until now."
+    },
+    {
+      "id": "mariner.vaults.rescuemission.trails",
+      "label": "The Island Game Trails",
+      "description": "Paths wind through the forest and over the plains, hewn out by the rotations of the grazers finding their way through the seasons. Anyone traversing this island would follow these paths.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.hut",
+      "label": "Woodsman's Hut",
+      "description": "Clinging to the slopes of the rocky interior, we find a little cottage of timber, with a padlocked door and boarded window. We can see scratch and batter marks on the exterior, but it does not seem like the threshold has been breached.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.treasureshore",
+      "label": "The Treasure-Sown Shore",
+      "description": "These islands are known for shipwrecks. These shores are known for their salvage, and the locals are known for combing the beaches for whatever they might find.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.encampment",
+      "label": "The Pitiful Encampment",
+      "description": "Ramshackle huts between windshorn trees. The folks inside are hardly in any better condition than the shelter they fashioned. A sorry lot, hardly able to stand from malnourishment and exhaustion. \n But Alive. ",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.grim",
+      "label": "The Grim and Grizzled",
+      "description": "While a shore dweller might think this lot ill-capable or unlucky, any sailor knows a different truth. They survived. They were spared by the sea and scraped together a life on these unforgiving shore.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.rescuemission.setoff",
+      "label": "Set Off for Home",
+      "description": "The final lap of our journey, is going all the way back. Luckily the path always feels shorter when the way is known.",
+      "slots": [
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    }
+  ]
+}

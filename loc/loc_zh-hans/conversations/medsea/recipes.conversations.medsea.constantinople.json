@@ -1,0 +1,106 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.<>",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.musicknock",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<You wish to discuss with me the Strength of Liturgy?>\"",
+      "description": "\"<Knock truely is the one above all, or rather, the one between. There is no message without the medium. A sherperds shouts are useless if they cannot reach his flock. Keep Knock as your intent, and your message can carry into the Lower Skies, and call to you the spirits that dwell there.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.musicwrongforge",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<You wish to discuss with me the Strength of Liturgy>\"",
+      "description": "\"<I may tinker now and again, but I am not an adept of the mysteries of flame, but the teachings of the Leashed Flame did not make it to constantinople, not in any History, the Sisterhood made sure of that. I heard the French kept some element of their ancient enemy alive, in secret vaults or secret verse, stolen power studied.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.musicwronglantern",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<You wish to discuss with me the Strength of Liturgy>\"",
+      "description": "\"<The words of Light and Glory? Well I see why you would think of me. But my church is not dedicated to Sol Invictus, not in this history at least. I would seek those mysteries more eastwards, where the Sun's rule is still remembered most fiercely.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.chest",
+      "label": "<Ask for help with a Ward>",
+      "startdescription": "\"<A Ward on a Chest?>\"",
+      "description": "\"Went to plunder the holy lands, did you? Oh, Egypt this time. Well even if it's not holy to me it is holy to someone, and has been, for a long time. And some of those sanctities still hold, such as on that treasure of yours. I will help you, if only to spare you of the terrors that befall you when you open it un supervised... and perhaps to sate my own curiosities. Bring to me the proper implements, we can open it together, here in my shop.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.hyksos",
+      "label": "<Ask for Euphresme about the strange glyphs>",
+      "startdescription": "\"Found a Script you are unfamiliar with?\"",
+      "description": "\"<I am afraid I cannot help you. My studies have focussed on greek, cyrillic and it derivates, this seems far older then my ken. \""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.halfheart",
+      "label": "<Talk to mother Euphresme about the Half Heart>",
+      "startdescription": "\"<Do I know about Half-Hearts?>\"",
+      "description": "\"The term was never uttered here, but what you describe sounds familair. One my my sisters, placed in my care against her will. She withered in captivity, pining at the window for sea and song.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.nun.lackheart",
+      "label": "<Talk to Mother Euphresme about the Darkness Inside>",
+      "startdescription": "\"<Life eats away at you, does it now?>\"",
+      "description": "\"Now Imagine you lived as long as me. So many edges have gotten sanded away, does this wreck of a soul still resemble the young woman I once was. But I like to view it more as the ages leaving a patia each layer adding to lustre of my soul.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.songmoth",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"Seeking to tease out the powers more felt then understood, are you?\"",
+      "description": "\"Moth's dances are not jus directed by a single dancemaster, but take inspiration from many muses. With moth as an intend, you can muddle the mind, under the Moths wild guidance, or you can hide your steps from pursuers, offering them to the Velvet for save keeping. But my favorite is the Vagabonds Dance, aimed at the Direction of The Sun, which reinacts some fragment of her revenge on Miah.\"."
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.songlantern",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"Seeking to tease out the powers more felt then understood, are you?\"",
+      "description": "\"Ach, that song of Light.... Light has faded, has it not? And does the world not look dramatic when the sun is low and the shadows lengthen... It is said that in her guise of the Laughting-Trush, the vagabond was a close confidant of the Su nin Splendor. But then all guises where banned from the House. I too was banned from my House, until I was the last one left to steward it... But there too, I am letting shadows lengthen. Lantern is the direction of Authority, Rule and the High noon Sun\"."
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.songedge",
+      "label": "<>Discuss the Power of my Songs",
+      "startdescription": "\"Seeking to tease out the powers more felt then understood, are you?\"\"",
+      "description": "\"The Songs of Battle. Do you hear the thunder of the drums? It seems they sound through Europe so often now, nein? I do not miss my time as an Officer. Ofcourse, that army does not even exist anymore. Still, those drums and trumpets try to rouse something in you no? Nationalism, Idealism, Vigor. That is Edge's Intent.\"."
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.hyksos",
+      "label": "<Discuss the Glyphs with Florentin>",
+      "startdescription": "\"Found something of note on your ramblings?\"",
+      "description": "\"Well I don't think my answers will delight you today.\" Florentin smiles his beaming smile. \"Have I ever encountered these? Yes. But do I know what they are? No, not really.\" He shrugs apologetically \"All I know is that when it shows up, I am unlikely to advance much farther. I am not like my mistress yet\"."
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.<>",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.chest",
+      "label": "Discuss the Warded Chest with Florentin",
+      "startdescription": "\"What is that? You brought me a present? I jest! I jest...\"",
+      "description": "\"hmm, quite thoroughly wrapped. And knowing what I know, those hooked markings mean trouble. And chains I avoid whenever I can... But I know who may be able to help. Have you met Mother Euphresme? She knows most things about most things, and she can usually be tempted with curiosity.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.halfheart",
+      "label": "<Ask Count Hunyadi after Half-Hearts>",
+      "startdescription": "\"<Yes, I am familiar with the term>\"",
+      "description": "\"Even amongst the disorganised ranks of the Vageries, the Half-Hearts hold special significance, setting of on a pilgrimage quite singular. If you are truely on such a path, you might find yourself a point of interest to other Pilgrims on the Vagabonds path. You might find yourself becoming a port of Pilgrimage soon.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.vagabonddedication",
+      "label": "<Talk to Count Hunyadi about my Path>",
+      "startdescription": "\"<So you are a Halfheart, and you made your choice?>\"",
+      "description": "\"I am glad to hear you chose the path of the Clever Mistress. Every Pilgrimage is unique, but few will see such sites as you will. I have to admit a degree of jealousy!\""
+    },
+    {
+      "id": "mariner.conversations.medsea.constantinople.tourist.twinsdedication",
+      "label": "<Talk to Count Hunyadi about my Path>",
+      "startdescription": "\"<So you are a Halfheart, and you made your choice?>\"",
+      "description": "\"A pity, such a grand voyage could have been ahead of you. But still, I wish you luck on your journey, none the less. I hope you find your Other Half.\""
+    }
+  ]
+}

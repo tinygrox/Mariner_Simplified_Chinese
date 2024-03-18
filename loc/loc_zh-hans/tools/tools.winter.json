@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.winter.1",
+      "label": "Shroud",
+      "description": "This cloth is stained with bad memories, but its air cannot be denied.",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.2",
+      "label": "Improved Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.3",
+      "label": "Glorious Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.specialisation",
+          "label": "Specialisation",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.4_1",
+      "label": "Exalted Singed Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.4_2",
+      "label": "Exalted Tattered Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.5_1",
+      "label": "Mythical Singed Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.winter.5_2",
+      "label": "Mythical Tattered Shroud",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

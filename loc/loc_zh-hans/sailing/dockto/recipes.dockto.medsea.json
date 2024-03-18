@@ -1,0 +1,59 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.dockto.medsea.marseille",
+      "label": "Docking to Marseille",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.bizerta",
+      "label": "Docking to Bizerta",
+      "startdescription": "Bizerta lies in the crest between a lake of Emerald and a sea of Saphire. Of it's many docks, harbors and marina's, we dock in the Vieux Port"
+    },
+    {
+      "id": "mariner.dockto.medsea.constantinople",
+      "label": "Docking to Constantinople",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.haifa",
+      "label": "Docking to Haïfa",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.docksidewarehouse",
+      "label": "Docking at Dockside Warehouse",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.salvagemission",
+      "label": "Docking at Salvage Mission",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.rescuemission",
+      "label": "Docking at Rescue Mission",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.thebes",
+      "label": "Docking at The Theban Branch",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.aleppo",
+      "label": "Docking at The Allepene Branch",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.damascus",
+      "label": "Docking at The Damascene Branch",
+      "startdescription": "Docking!"
+    },
+    {
+      "id": "mariner.dockto.medsea.bizertamorgue",
+      "label": "Docking at <The Bizerta Morgue>",
+      "startdescription": "Docking!"
+    }
+  ]
+}

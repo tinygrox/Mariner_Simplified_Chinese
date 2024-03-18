@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.study",
+      "label": "A Problem to Study",
+      "startdescription": "This task requires time and deep thought. I can approach it either with studiousness of Lantern or the intensity of Winter.",
+      "description": "This task requires time and deep thought. I can approach it either with studiousness of Lantern or the intensity of Winter.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.study.lantern.high",
+      "label": "A Brilliant Focus",
+      "startdescription": "I will shape my mind into lens to process information. It brightens the information that passes through it. I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.study.lantern.med",
+      "label": "A Shining Focus",
+      "startdescription": "I will shape my mind into lens to process information. Clear and strong, I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.study.lantern.low",
+      "label": "A Singular Focus",
+      "startdescription": "I will shape my mind into lens to process information. If it does not crack, I may succeed."
+    },
+    {
+      "id": "mariner.challenge.study.winter.high",
+      "label": "Still Concentration",
+      "startdescription": "Inside my mind, thoughts crystalize in perfect form. I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.study.winter.med",
+      "label": "Silent Concentration",
+      "startdescription": "Inside my mind, thoughts sing like settling ice. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.study.winter.low",
+      "label": "Quiet Concentration",
+      "startdescription": "Inside my mind, thoughts settle like snowflakes. I may succeed."
+    }
+  ]
+}

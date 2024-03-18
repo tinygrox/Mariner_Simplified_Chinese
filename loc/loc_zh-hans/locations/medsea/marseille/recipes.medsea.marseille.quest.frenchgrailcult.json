@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.tooearly",
+      "label": "<Too Early>",
+      "startdescription": "\"Why the long face? Why do you ask? Why do you care?\">",
+      "description": "\"\"",
+      "unlockCodexEntries": [
+        "codex.alexia"
+      ],
+      "updateCodexEntries": {
+        "codex.frenchgrailcult": {
+          "add": [
+            "codex.frenchgrailcult.1"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "elements": [
+    {
+      "id": "mariner.crew.traits.charming",
+      "label": "Charming",
+      "description": "A charming sailor is quickly befriended, rarely trusted but easily forgiven."
+    },
+    {
+      "id": "mariner.crew.traits.shifty",
+      "label": "Shifty",
+      "description": "This sailor has a nose for deals that are lucrative, clandestine and less than legal."
+    },
+    {
+      "id": "mariner.crew.traits.engaging",
+      "label": "Engaging",
+      "description": "A winning smile and a wicked sense of humor. This sailor will help attract a more adventurous crew."
+    },
+    {
+      "id": "mariner.crew.traits.goodfortuned",
+      "label": "Good-Fortuned",
+      "description": "There is something unsettling about a sailor without tales of hardships. But we are willing to forgive them to gain some of that quiet for our coming voyages."
+    },
+    {
+      "id": "mariner.crew.traits.entertaining",
+      "label": "Entertaining",
+      "description": "Quick to laugh and make other laugh in turn."
+    },
+    {
+      "id": "mariner.crew.traits.unpleasant",
+      "label": "Unpleasant",
+      "description": "One who isn't liked is easy to blame."
+    },
+    {
+      "id": "mariner.crew.traits.crude",
+      "label": "Crude",
+      "description": "A social lack of subtlety can be the death of many a business deal."
+    },
+    {
+      "id": "mariner.crew.traits.clumsy",
+      "label": "Clumsy",
+      "description": "As likely to cause damage as to repair it."
+    },
+    {
+      "id": "mariner.crew.traits.cowardly",
+      "label": "Cowardly",
+      "description": "With one who has a reputation like this on my ship, I am unlikely to attract a more adventurous sort of sailor."
+    },
+    {
+      "id": "mariner.crew.traits.unlucky",
+      "label": "Unlucky",
+      "description": "When this crewmember takes a watch, fate is more keen to act."
+    },
+    {
+      "id": "mariner.crew.traits.rambunctious",
+      "label": "Rambunctious",
+      "description": "This sailor will not improve my standing in ports."
+    },
+    {
+      "id": "mariner.crew.traits.craven",
+      "label": "Craven",
+      "description": "This sailor has strong opinions on where a sailor's nose should and should not belong. They will refuse to Explore the unfamiliar."
+    },
+    {
+      "id": "mariner.crew.traits.loyal",
+      "label": "Loyal",
+      "description": "Now that this sailor has joined the crew, only death could convince them to part."
+    },
+    {
+      "id": "mariner.crew.traits.boozy",
+      "label": "Boozy",
+      "description": "Easily tempted by chinking glass."
+    },
+    {
+      "id": "mariner.crew.traits.illomened",
+      "label": "Ill-omened",
+      "description": "A cloud hangs over this one, and the ships they voyaged with."
+    },
+    {
+      "id": "mariner.crew.traits.wanted",
+      "label": "Wanted",
+      "description": "This crewmember has the furtive eyes of someone chased, though they will not share their story with me."
+    },
+    {
+      "id": "mariner.crew.traits.superstitious",
+      "label": "Superstitious",
+      "description": "Easily affected by supernatural experiences."
+    }
+  ]
+}

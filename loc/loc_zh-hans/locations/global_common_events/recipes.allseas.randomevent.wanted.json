@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.allseas.randomevent.wanted",
+      "label": "On Our Trail",
+      "startdescription": "One of my crew had a past they would have preferred to leave behind, but it has caught up to them now. Their bad name is spreading to the Kite, and it might be wise to leave here soon."
+    }
+  ]
+}

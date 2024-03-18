@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.rats",
+      "label": "Rats on the Beams",
+      "startdescription": "Any ship has the odd pest, but the infestation on the kite has grown out of proportion. We need to manage it, and now. [Approach this challenge with Moth or Knock.]",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.rats.outcome.success",
+      "label": "Extermination",
+      "startdescription": "With venom, with traps, with tricks and with ingenuity, we make the tight spaces inhospitable to them. We quell their numbers until they can no longer act so bold."
+    },
+    {
+      "id": "mariner.sail.seaevents.rats.outcome.failure",
+      "label": "Tide of Vermin",
+      "startdescription": "We cannot stem the tide, and some of our cargo is lost to the onslaught."
+    }
+  ]
+}

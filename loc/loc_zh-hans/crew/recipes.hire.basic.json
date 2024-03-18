@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.bar.recruit.hirebasic",
+      "label": "Recruit a Simple Worker?",
+      "startdescription": "This one isn't really specialised in anything, but is willing to work for a small price."
+    }
+  ]
+}

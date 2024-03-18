@@ -1,0 +1,194 @@
+{
+  "elements": [
+    {
+      "id": "codex.hours",
+      "label": "The Hours",
+      "description": "The Sailors call them the Fortunes. The gnostics call them the Demiurges. The scholars call them the Hours. They're the rumour behind the waves, the refraction of solar rays, the voices conducting occult prayers. The sentient forces of nature that might actually be the hidden rulers of our world, some whisper late at night."
+    },
+    {
+      "id": "codex.hours.vagabond",
+      "label": "The Centipede",
+      "description": "I've met Morland. My head spins from what she told me-\n\nShe told me of one the Hours: the Centipede. She's said to be a Vagabond, barred from “The House”, where They Dwell. Everywhere else, she's been. Morland thinks following her Example could actually be a way out of this muted world and into some “Truer” place."
+    },
+    {
+      "id": "codex.hours.twins",
+      "label": "\"The Twins\"",
+      "description": "Agdistis told me I had a split soul, and it reminded me of a fable from lake Fucino.\n\nA pair who was born incomplete, each carrying half of the same soul. They are said to have pulled on eachother like the ocean on the moon, to tug at eachother like the waves at the shore. They sought to unite, even before they ever knew the other's name."
+    },
+    {
+      "id": "codex.hours.ringyew",
+      "label": "The Ring-Yew",
+      "description": "Among sailors, there are few rules as universal as the absolute prohibition to use yew wood to build the cabins of a ship, lest they be brought to dark, moonlight-dappled woods in their dreams. It is said to anger the “Ring-Yew”, sometimes called “Queen of the Wood” or “Malachite”. She is the Tree and The Hive, the Honey and the Sting.@#codex.hours.ringyew.1|The Queen in the Woods loved deeply in the story of the Pine Knight, but I don't think the Malachite is a being of love, not like mortals know it.\n\nIn the end she chose to sacrifice her lover, complying with Red Desire and Cold Revenge. I wonder if she regretted it...@"
+    },
+    {
+      "id": "codex.nature",
+      "label": "My Nature",
+      "description": "<>"
+    },
+    {
+      "id": "codex.nature.lackheart",
+      "label": "Lack-Heart",
+      "description": "There is a pit in my chest, A maw above my gut. If I do not feed it with fresh experiences, it begins to consume me. If I stick around too long, my blood runs cold and my joy starts to fade. So back out onto the sea I go."
+    },
+    {
+      "id": "codex.nature.halfheart",
+      "label": "Half-Heart",
+      "description": "They called me a Half-Heart: Morland, Agdistis and some others before. A split soul. All I know is that something is missing. That my senses are on edge like an exposed nerve."
+    },
+    {
+      "id": "codex.ascensions.constellate",
+      "label": "[Constellate]",
+      "description": "There is a tugging at my soul, a half that wants to be whole..."
+    },
+    {
+      "id": "codex.ascensions.constellate.character",
+      "label": "[Constellate] Mending Character",
+      "description": "Before one does anything, one must first decide to do that thing. My Soul has been torn, and If I want to no longer be dragged by the tides of life, but find my strength of Character, and mend it.\n\n\n@#codex.ascensions.twins.character.solvedhowto|I have found my inspiration in the secret story of the Thunderskin, Ascended Wind, robbed of his agency. A knot of choices, schemes, intentions lead to his Ascension. I will invoke those choices, those schemes, and Enact this great drama upon the stage.#codex.ascensions.twins.character.mended|I have mended my Character, and have made a choice with the utmost clarity. I will pursue the path to becoming whole, and I will find my Missing Half.#|Any mending of the Soul would be an Orphean Act, but which one? I will discover the answers where I always do, in the world, and the stories it holds.@"
+    },
+    {
+      "id": "codex.ascensions.exemplum",
+      "label": "[Exemplum]",
+      "description": "The world can be a haze of soot and rain. Can I follow the path to a brighter place?"
+    },
+    {
+      "id": "codex.ascensions.exemplum.hiraezh",
+      "label": "@#codex.ascensions.exemplum.hiraezh.solvedmystery|[Exemplum] The Sunken City of Ker Ys#codex.ascensions.exemplum.hiraezh.solvedvault|[Exemplum] Hiraezh#|[Exemplum] A Sunken City@",
+      "description": "@#codex.ascensions.exemplum.hiraezh.solvedmystery|The world can be a haze of soot and rain. Do I wish to follow the Centipede's Pilgrimage? Morland has informed me of its first step: I am to visit a Sunken City, and learn its story there.\n\nThe Sunken City mentioned is the city of Ker Ys, and I have learned the mood of the winds that can carry me there, and the conditions under which the city surfaces.#codex.ascensions.exemplum.hiraezh.solvedvault|I have taken the first step on the pilgrimage of the Centipede. She has led me to Ker Ys, to hear the tale of Old Mother Anguish. She has taught me of her Hiraezh, and the meaning of irrevocable loss. I carry that sentiment in my flesh, my blood and my bones, and even my Lack-Heart cannot drain me of its knowledge.#|The world can be a haze of soot and rain. Do I wish to follow the Centipede's Pilgrimage? Morland has informed me of its first step: I am to visit a Sunken City, and learn its story there. But first: <color=yellow>I must scour story, song and sea to find it.</color>@"
+    },
+    {
+      "id": "codex.performance.base",
+      "label": "[The Arts] Orphean Magick",
+      "description": "The Stage is a temple, and with the audience as both congregation and holy vessel, I can try to reach beyond the Real with my performances. [For now, only some Performances are available, and only those with the Intent of Edge, Winter, and Lantern."
+    },
+    {
+      "id": "codex.performance.conversation.morland",
+      "label": "[The Arts]",
+      "description": ""
+    },
+    {
+      "id": "codex.performance.conversation.harald.winter",
+      "label": "[The Arts] Harald on Winter",
+      "description": "Winters are not that harsh here, not like our neighbors to the north. Here, the Intent of Winter can still be a kindness: a wiping of the slate, a quieting of the noise. I have not sought what lies under the Direction of Winter. But perhaps... Let me know if you find what lies there."
+    },
+    {
+      "id": "codex.performance.conversation.harald.heart",
+      "label": "[The Arts] Harald on Heart",
+      "description": "The Direction of Heart I studied. It is referenced in all of my most famous works. It contains in itself the Largest and the Smallest, the most real and the most Ephemeral. In it's Direction, it represents both the infinity of the sky and the infinity of the self. If Heart is your Intent, it is like the supportive breath of life. It will sustain and maintain your Direction, if possible."
+    },
+    {
+      "id": "codex.performance.conversation.harald.lantern",
+      "label": "[The Arts] Harald on Lantern",
+      "description": "\"the Lantern of Enlightenment, Hekate's seeking torches... Lantern, like the Watchman Illuminates. If something remains obscured to you, try affecting it with the intent of Lantern. \""
+    },
+    {
+      "id": "codex.performance.conversation.harald.grail",
+      "label": "[The Arts] Harald on Grail",
+      "description": "\"Cybele's ministrations I never mastered. Those perform better at more private stages I think, unless you want to get infamous for debauchery.\" He rolls his shoulder. \"Perhaps a vaudevillian can help you further?\""
+    },
+    {
+      "id": "codex.performance.conversation.harald.moth",
+      "label": "[The Arts] Harald on Moth",
+      "description": "\"Moth? Moth is the distraction. Moth is that which clings to you, buzzes around. Moth is the distractions of nature, the miseries of the world. if you are chased by a shadow that you wish to expose or expell, your direction should be aimed at Moth.\""
+    },
+    {
+      "id": "codex.performance.conversation.veiledlady.moth",
+      "label": "[The Arts] Veiled Lady on Moth",
+      "description": "\"Moth guides what hunts and stalks us. Our doubts, our fears, our shadow, our past. Any negativity still clinging to your clothes or hair. With the Intent of Lantern and the Direction of Moth, you can reveal the nature of a curse that has latched on to you. To Quell the curse, you will need to change your Intention, but keep the Direction the same.\""
+    },
+    {
+      "id": "codex.performance.conversation.veiledlady.grail",
+      "label": "[The Arts] Veiled Lady on Grail",
+      "description": "\"The acts of Grail? And here I picked up that your Heart belonged to antother? Oh I tease mon chéri. The Intent of Grail is to charm, subsume the will of another with their desire to please you. If you wish to set of in that Direction though... well... You allready are, in a way. In the Direction of Grail lies both the Sea, and it' drowning waters, as well as the depths of your Desire itself.\""
+    },
+    {
+      "id": "codex.performance.conversation.veiledlady.winter",
+      "label": "[The Arts] Veiled Lady on Winter",
+      "description": "\"I do not like to deal with Winter. I have come quite close enough to death, thank you. The Winter Direction is a dangerous road... one for the desperate or the desolate. One who believes they have lost all may seek to pursue it further...\""
+    },
+    {
+      "id": "codex.performance.conversation.veiledlady.lantern",
+      "label": "[The Arts] Veiled Lady on Lantern",
+      "description": "\"The Light of Lantern was never mine to persue, I have much preferred the kindness of shadows. But just like my dances, the Direction of lantern is also one of Revelation.\""
+    },
+    {
+      "id": "codex.performance.conversation.agdistis.grail",
+      "label": "[The Arts] Agdistis on Grail",
+      "description": "\"Our Arts are even less precise than those performed by aspirants and scholars. Take the weather, for example. If your Direction in a Performance is aimed at Grail, Paired with an Intent of Edge, You can Rouse Storms from Sea and Sky. To quell storms however, both Direction and Intent change... \""
+    },
+    {
+      "id": "codex.performance.conversation.agdistis.moth",
+      "label": "[The Arts] Agdistis on Moth",
+      "description": "\"The Club does do Performances in the Old Path, though they focus on dance, not music. If Sulochana had been here... Perhaps you can seek out another shedder of skins to elaborate on these mysteries?\""
+    },
+    {
+      "id": "codex.performance.conversation.agdistis.edge",
+      "label": "[The Arts] Agdistis on Edge",
+      "description": "\"We try for a particular ambiance here at the Ecdysis club, and the clanging of blades is rarely a part of that. Still, if you perform with the Intent of Edge, you can rouse many things beyond mere battle lust.\""
+    },
+    {
+      "id": "codex.performance.conversation.agdistis.heart",
+      "label": "[The Arts] Agdistis on Heart",
+      "description": "\"The Revolutions of the Heart are what I studied the deepest, though the pursuit left it scars on both my body and soul. Many of the Powers of the Wood and sea share their interest in Heart, but it most closely connected to its Patron Hour, The Storm Relentless. With the right performance, the Sky can be commanded, by pairing this Direction with what it springs from.\""
+    },
+    {
+      "id": "codex.story.centipede",
+      "label": "[Story] The Travels of the Centipede",
+      "description": "Once there was a curious centipede...\n\nWho wished to see all the things the world had to offer, especially those places people did not want her to go. First she crawled through all the lands of the earth, from her Hometown of Miah, through the land of the Great River, to the Plateau of Leng, and the Eastern Mountain Spine, and the great Plains.\n\nThen She crawled all through the house of the Sun, through the Courts Gold and Red, circled the Orchard Trees, burrowed in the shifting Sands, twisted her body in knots in the Heart-chamber, and then swam through that work of art her other self would paint.\n\nThe Painted River ran out of the Mansus, and landed behind the Rain. But the Centepede wanted to go deeper, to the Kingdom of Black Nephrite Lamps. She distracted the Doorwarden, and slipped through the crack under the door. Down, Down she buried, and heared the keening prophecies of the forgotten dead.\n\nShe learned much there, in the lightless underplaces. But the knowledge can be blemish, if it's contents are inky black. The Centipedes crimes, it is said, were as numerous as her tar-stained feet. The Doorwarden barred entrance to the Mansus, but her travels have continued, between the stars and below the skin of the world, places high and low, true and real, all except the one."
+    },
+    {
+      "id": "codex.story.anansi",
+      "label": "[Story] How Anansi The Spider Came To Own All Stories",
+      "description": "Once there were no stories in the world...\n\nNyame the Skyfather, ruler of all the sunrays touch, was in posession of all the stories, unwilling to share. Anansi decided that he will change this, and goes to Nyame, and asks him for his price, boasting he will pay anything, for he cannot be stayed, and he cannot be exhausted.\n\nNyame was doubtful, but intrigued, and named his price, impossibly high. He wanted four of his most dangerous subjects to be put in their place, and be brought to him. Onini the Python, the Mmoboro Hornets, Osebo the Leopard, and the Fairy Mmoatia. Anansi Smiled, bowed his head and traveled back to earth, to plot.\n\nFirst Anansi captured wise Onini, by tricking her to measure her length through loops of vines he had prepaired. Next were the Mmoboro hornets, for whom he prepaired a hollow gourd. He offered it to them for shelter from the rain, but closed the lid and caught them.\n\nThen on to Fierce Osebo, who he trapped in a pit, and cudgeled on the head, just when he was offered an escape by Anansi. Last the Furtive fairy, who he lured with sweet drink and a fake face. With all his prizes presented to Nyame, Anansi was awarded all the stories from all the histories. That is why to this day, it is spidersilk from which the threads of The Histories are woven."
+    },
+    {
+      "id": "codex.story.lorelei",
+      "label": "[Story] The Maiden of the Rhine",
+      "description": "The Lorelei sits on her namesake rock, combs her hair and sings...\n\nSeemingly unwittingly, she distracts sailors on the Rhine below, who smash their boats onto the clips. Only then she deigns to look down. She collects the souls of the drowning, and swims down, down into the Kingdom Below River and Hill.\n\nShe meets up with the Nixes and Undines from all of the Streams of Westphalia and beyond. They dance around the throne of their holly-crowned queen, attended to by the souls of those they have lead astray.\n\nIt ends on the chilling note that the direction of Death is down, and one who dwells their sends up many gifts."
+    },
+    {
+      "id": "codex.story.mermaid",
+      "label": "[Story] Voiceless Devotion",
+      "description": "A princess from below the waves fell in love with a prince from the wooded shores...\n\nAided by the Matron of the Seas, she is persuaded to trade her voice for a transformation of her being. Thus her tail is split and she coughs up brine and gasps for air.\n\nThe Prince takes her in, and in her silent devotion, she attempts to win his heart. She danced for his delight, despite the knife-sharp pain she feels with every step, her passion maintains her rhythms.\n\nBut to no avail... The prince discards her in favor of a marriage alliance with lady from the Scarlet Church. And as the Prince and his betrothed tie their bonds on doorstep of the church, our heroine is pulled back to the sea. Her sisters call to her, and have brought a knife for her to cut out the heart of the Prince, and snap their marriage ribbons.\n\nBut the mermaid decides to accept her fate, and dissolve into seafoam rather a harming the Prince and his Realm. But in her sacrificicial leap down the cliff she is elevated instead. She ascends as a mighty Eidolon of the Skies, and will earn her soul by serving the world and protecting the virtuous."
+    },
+    {
+      "id": "codex.story.debellismurorum",
+      "label": "[Story] War of the Walls",
+      "description": "It's a war of many sides, with few winners but many casualities...\n\nStriges fight Undines in the borderlands that seperates the sea from the sky, as fate twines to keep mortal paramours apart or to unite them in seamless unity. The horizon itself is a battlefield.\n\nThe War of the Walls can be told many ways, with different combatents and different battlefields, but the sides are always the same.\n\nThe Two-One who Dissolve, Horned Axe who Divides. There is no ending, not truly, not until the sea swallows the shore, or Night unwinds from the Day. "
+    },
+    {
+      "id": "codex.story.kerys",
+      "label": "[Story] The Doom of Ker Ys",
+      "description": "There once was a city crowned by the dikes, on the edge of a bitter sea...\n\nIt was that sea that they relied upon for their lifelyhood, and that sea that took from them the lives of many of their fishermen. \n\nBut the king's daughter was thaught in the ways of sorcery in the House of Albion, and she shared her arts with her father. Together they supplicated the sea, and the city prospered. But as their ambitions grew, so grew the sea's hunger. So more and more they gave. Of all these dark tidings, even the birds took note.\n\nOne day, a stranger came to town, a foreign royal from beyond the sea. He dazzled the king and courted the princess, and then he would leave again, coming and going with the tides. As the seasons passed, their courtship formalized, but then in the height of summer he vanished. Six moons passed without a word.\n\nThe princess was griefstricken and mad with longing, pining away in her palace. She was unable to perform her duties to her father or to the sea. Then, under the first quarter moon, a kite landed in her window, and delivered a message from her love. She rushed into the nights, to meet him at the sea-gate locks.\n\nA whisper came to her from beyond the gate. She heeded her heart and did not think twice... not until the white heads of waves came rushing in. The Sea, denied of her ministrations in her lovesick folly, rushed into the cities streets and courtyards, ravenous and cruel. Even the Princess was dragged down into their cruel embrace.\n\nShe would have drowned there, in the seas roiling stomach, as was the lot of all her kith and kin. But a moon beam pierced the water, as the mother of mercy took pity on her. She was plucked from the waters, and served the Lady of Wounds in both this world and beyond."
+    },
+    {
+      "id": "codex.story.pineknight",
+      "label": "[Story] The Pine Knight and the Queens",
+      "description": "In the old days, before the great forests had been logged...\n\nA great knight sought to find duty in service. His focus was the Cinnabar Cup, sought after by many, in the command of none. He ignored the blowing winds of war, steel against stone, and focussed only on his quest.\n\nBut duty can be fickle when it comes to matters of the Heart. The Pine-Knight met a Maiden Queen, in a forest deep and dark. Their romance was honey, but honey drawn from foxglove and thornapples. For the winds of war were turning to a storm of death, as one, two, three, four, five kings fell, and still the war raged on.\n\nThe Knight's own Red Queen, when she heard of his dalliance, became irate, for she had kept great plans for him. She weighed her options, her emotions, her problems. Knotting tassles in her hand as she thought. With grim delight, she wrought a new scheme. She cut the knot from her shawll, and send it to the Hawthorn Queen of Stone\n\nA pact it was, a pact to end the bloodshed. The hawthorne queen did anguish on these tidings. It would mean the end retribution for her fallen sibling kings. But this war was tearing the lands apart, and as a queen, it was her duty to keep it safe. She twisted the knot as she thought, twisted it into new shapes of compliance.\n\nA messanger came to the Honey Queen too. It proclaimed with joy that the war had ended, and that all it would cost was one more life. And that the quest of the Pine-Knight was at an end too, because Duty had found him.\n\nThe Maiden Queen trembled like the leaves as she considered what she should do. She could save her lover, quieting him away in the hidden glades of her kingdom. But the cost would be so great, both for her and the world. She decided the only mercy she could offer was for him to die at her side, where he had known most happiness.\n\nSo in her innermost kingdom, upon these stormwrecked coasts, the honey queen tied the final knot, and the tree branches swung, even though the wind dared not to breath. So ended the Pine-Knights Quest for the Cup, and so ended the Wars of Stone, in a tripple knotted noose."
+    },
+    {
+      "id": "codex.auntieekster",
+      "label": "[N. Sea] Auntie Ekster",
+      "description": "Below the city of amsterdam lies a labyrinth of waterways and walkways, built upon the water management system of this undrowned city. To that lightless place sinks down what cannot be tolerated by light of day, and among the thieves, renegades and smugglers, operates a gang of adepts lead by Auntie Ekster. She has pilfered a trinket from the Veiled Lady.\n\n\n@#codex.auntieekster.founddesire.lantern|While passing through the Bazaar, I met merchants who told me  her latest known desire was a lantern Trapping.\n\n\n@@#codex.auntieekster.founddesire.forge|While passing through the Bazaar, I met merchants who told me  her latest known desire was a forge Trapping.\n\n\n@@#codex.auntieekster.founddesire.edge|While passing through the Bazaar, I met merchants who told me  her latest known desire was a edge Trapping.\n\n\n@@#codex.auntieekster.founddesire.winter|While passing through the Bazaar, I met merchants who told me  her latest known desire was a winter Trapping.\n\n\n@@#codex.auntieekster.founddesire.heart|While passing through the Bazaar, I met merchants who told me  her latest known desire was a heart Trapping.\n\n\n@@#codex.auntieekster.founddesire.grail|While passing through the Bazaar, I met merchants who told me  her latest known desire was a grail Trapping.\n\n\n@@#codex.auntieekster.founddesire.moth|While passing through the Bazaar, I met merchants who told me  her latest known desire was a moth Trapping.\n\n\n@@#codex.auntieekster.founddesire.knock|While passing through the Bazaar, I met merchants who told me  her latest known desire was a knock Trapping.\n\n\n@@#codex.auntieekster.stolering|I stole back the ring that was stolen from the Veiled Lady@@#codex.auntieekster.negotiatedring|I dangled what Auntie desired before her, and got her to part with the Ring.@"
+    },
+    {
+      "id": "codex.agdistis",
+      "label": "[N. Sea] The Ecdysis Club and its Manager",
+      "description": "A tall, handsome, soft-spoken greek. He is the dancemaster at the Ecdysis club in London. The reputation of the club is known, but what do people know about its purveyors?\n\n\n@#codex.agdistis.unlockedecdysis|I have a standing invitation to perform at the Ecdysis club. Agdistis has challenged me to pursue the Orphean Arts there, and see what I can accomplish with my songs.#|Agdistis has expressed interest in my development as an artist. If I impress him with the right songs, he will open up  the stage to me.@\n\n\n@#codex.agdistis.throwndoll|Agdistis requested for me to drop a treasured idol into the ocean. It has brought to my mind the importance of Character, of making decisions of your own, and not just letting the world lead you.\n\nI sense that power in me is broken. If I wish to pursue the path of becoming whole, I must find a way within my means to recover this. I am sure I will find it, out there in the world's memory.#codex.agdistis.givendoll|Agdistis has come to me with a request. He wishes for me to <color=yellow>drop a doll into the ocean</color>. He has told me he wishes to move forward, but from what? I dread to imagine.@"
+    },
+    {
+      "id": "codex.veiledlady",
+      "label": "[N. Sea] The Charming Creature of Amsterdam",
+      "description": "@#codex.veiledlady.2|Miss Morland asked me to deliver a letter to this peculiar character. I didn't hear much from her, only echoes... Some say she's an avatar of desire itself. Others that she's unnaturally graceful but that something's wrong in her eyes, like she's been beyond the Veil and never really truly returned. I don't know what to think...yet.\n\n\nI've met her. She's...troubling. She's trouble, too, no doubt about that. She barely touched the envelope I gave her and immediately requested I help her. She wants her ring back. The ring is said to have been stolen by some kind of competitor of the Desire's emanations, in a different interpretation.\n\nShe told me of where they dwell: somewhere underneath Amsterdam's sewers.\n\n\nI brought her the ring; it softened her eyes like I never saw before, before she stowed it away. She rewarded me with everything a composer could hope for.\n\n<i>Who is she, really? She's the wine. She's the infinite unveiling of a charm dancer. She's the silhouette of someone in the distance, seen through the blur of a drunken eyesight.</i>#codex.veiledlady.1|Miss Morland asked me to deliver a letter to this peculiar character. I didn't hear much from her, only echoes... Some say she's an avatar of desire itself. Others that she's unnaturally attractive but that something's wrong in her eyes, like she's been beyond the Veil and never really truly returned. I don't know what to think...yet.\n\n\nI've met her. She's...troubling. She's trouble, too, no doubt about that. She barely touched the envelope I gave her and immediately requested I help her. <color=yellow>She wants her ring back</color>. The ring is said to have been stolen by some kind of competitor of the Desire's emanations, in a different interpretation.\n\nShe told me of where they dwell: somewhere underneath <color=yellow>Amsterdam's sewers</color>.\n\n\n#|Miss Morland asked me to deliver a letter to this peculiar character. I didn't hear much from her, only echoes... Some say she's an avatar of desire itself. Others that she's unnaturally attractive but that something's wrong in her eyes, like she's been beyond the Veil and never really truly returned. I don't know what to think...yet.\n\n\n@"
+    },
+    {
+      "id": "codex.harald",
+      "label": "[N. Sea] Harald Blomkvist",
+      "description": "@#codex.harald.voicelessdevotion|I have met Harald Blomkvist, Composer-Adept who has given up the craft. In his prime he wrote several inspired pieces, but he is most well known is his debut, “Voiceless Devotion”.#|I have met Harald Blomkvist. I remember seeing his name above the theater doors. I remember seeing it there less so, of late. Some of his performances were said to portray the Truth of Things.@\n\n\n@#codex.harald.solvedmystery|He has asked me to find his muse, but all I could recover was the end of her story. Her pursuit of change led her first to the Ecdysis club in London, and then to an unmarked grave in the Great North Wood.#|He has asked me to find his muse, a Dancer-Adept, seeking to walk “The Old Way”, apparently. I still have to uncover what that is, and where this “Shedder’s Club” can be found.@"
+    },
+    {
+      "id": "codex.houseoflethe",
+      "label": "[Med. Sea] House of Lethe",
+      "description": "@#codex.miriam.questgiven|secret1#|1@\n\n\n@#codex.miriam.pursuitlosstransformation|secret#|2@\n\n\n@#codex.miriam.mattiaswitness|secret#|3@\n\n\n@#codex.miriam.pursuitlosstransformation|secret#|4@"
+    }
+  ]
+}

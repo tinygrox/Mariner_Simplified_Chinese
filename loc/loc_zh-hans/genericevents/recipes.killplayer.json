@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.genericevents.injurecrewmember.killplayer",
+      "label": "No One Left But Me",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.genericevents.injurecrewmember.killplayer.nooneleft",
+      "label": "No One Left But Me",
+      "startdescription": "<>"
+    }
+  ]
+}

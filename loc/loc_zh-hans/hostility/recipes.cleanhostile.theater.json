@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.cleanhostile.theater.pre",
+      "label": "Blackened Name",
+      "description": "My name is infamous, and staging me might spell more trouble than the theater director thinks is worth. I may be able to convince them that any publicity is good publicity, however.  [Adres this challenge with Grail or Knock.]"
+    },
+    {
+      "id": "mariner.cleanhostile.theater",
+      "label": "Blackened Name",
+      "description": "My name is infamous, and staging me might spell more trouble than the theater director thinks is worth. I may be able to convince them that any publicity is good publicity, however.  [Adres this challenge with Grail or Knock.]"
+    },
+    {
+      "id": "mariner.cleanhostile.theater.success",
+      "label": "False Witness",
+      "description": "we vow to make a show, critiques be damned. the director says they hope they won't regret this. I do not say that I am confident they will"
+    },
+    {
+      "id": "mariner.cleanhostile.theater.failure",
+      "label": "Careful Heads Prefale",
+      "description": "\"They regret to inform me\" -Of course, they always regret. \"that they cannot engage me at this moment.\" I am assured that they fully support me, ofcourse, that I simply must return when public opinion has turned."
+    }
+  ]
+}

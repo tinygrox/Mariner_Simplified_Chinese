@@ -1,0 +1,89 @@
+{
+  "elements": [
+    {
+      "id": "mariner.crew.traits.bright",
+      "label": "Bright",
+      "description": "A remarkable conversationalist. They will help attract a more clever sort of sailor from the bars."
+    },
+    {
+      "id": "mariner.crew.traits.handy",
+      "label": "Handy",
+      "description": "Willing to lend a hand even when the ship is docked in the wharves."
+    },
+    {
+      "id": "mariner.crew.traits.whistling",
+      "label": "Whistling",
+      "description": "This sailor knows some of the tunes of the Raconteur Network. Packages will more easily find their way to me."
+    },
+    {
+      "id": "mariner.crew.traits.noisy",
+      "label": "Noisy",
+      "description": "With stomping boots and endless bodily noises, it is taxing to carry a tune near them. This may affect my dealings with the Raconteur Network."
+    },
+    {
+      "id": "mariner.crew.traits.mute",
+      "label": "Mute",
+      "description": "If speaking is silver and silence is gold, this sailor's tongue is gilded."
+    },
+    {
+      "id": "mariner.crew.traits.landlubber",
+      "label": "Landlubber",
+      "description": "Regardless of their skills, this one will never be a true sailor."
+    },
+    {
+      "id": "mariner.crew.traits.singleminded",
+      "label": "Singleminded",
+      "description": "This sailor is uninterested to think beyond it's regular duties."
+    },
+    {
+      "id": "mariner.crew.traits.rhythmless",
+      "label": "Rhythmless",
+      "description": "Perhaps they never learned, perhaps their Chor was stripped from them, but this sailor cannot carry a tune to save their life."
+    },
+    {
+      "id": "mariner.crew.traits.envowed",
+      "label": "Envowed",
+      "description": "Envowed to the Grail's Sacrosanct."
+    },
+    {
+      "id": "mariner.crew.traits.initiated",
+      "label": "Initiated",
+      "description": "Initiated into the Mysteries of the Moth."
+    },
+    {
+      "id": "mariner.crew.traits.inspired",
+      "label": "Inspired",
+      "description": "Inspired by the Teachings of The Lantern."
+    },
+    {
+      "id": "mariner.crew.traits.inducted",
+      "label": "Inducted",
+      "description": "Inducted into the Practices of the Forge."
+    },
+    {
+      "id": "mariner.crew.traits.conscripted",
+      "label": "Conscripted",
+      "description": "Constripted to the Cause of the Edge."
+    },
+    {
+      "id": "mariner.crew.traits.consecrated",
+      "label": "Consecrated",
+      "description": "Consecrated under Winter's Rule."
+    },
+    {
+      "id": "mariner.crew.traits.oathbound",
+      "label": "Oathbound",
+      "description": "Oathbound into Heart's Chorus."
+    },
+    {
+      "id": "mariner.crew.traits.sanctified",
+      "label": "Sanctified",
+      "description": "Sanctified by the ministrations of Knock."
+    },
+    {
+      "id": "mariner.crew.traits.cannibal",
+      "label": "<Cannibal>",
+      "description": "<>"
+    }
+  ]
+}

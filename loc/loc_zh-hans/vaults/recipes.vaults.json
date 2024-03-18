@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.destroywasted",
+      "label": "Wasted Opportunity",
+      "startdescription": "Wasted Opportunity",
+      "description": "Opportunity Wasted"
+    }
+  ]
+}

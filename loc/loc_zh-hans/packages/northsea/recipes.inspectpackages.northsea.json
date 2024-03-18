@@ -1,0 +1,204 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.inspectpackage.northsea.morland.1",
+      "label": "Inspecting: Bundle of notes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: no names, under any circumstances."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.2",
+      "label": "Inspecting: Ivory Box",
+      "description": "This package has travelled a lot. Looking at the stamps on it, it already went to several places in this sea alone : I can see Amsterdam, and Copenhagen."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.3",
+      "label": "Inspecting: Ivory Cylinder",
+      "description": "I can see the top words of the attached note. It appears to be written in latin."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.4",
+      "label": "Inspecting: Metallic Box",
+      "description": "The only sign of an adress to the recipient is the marking of the initials M.M.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.5",
+      "label": "Inspecting: Ivory Cylinder",
+      "description": "I can see the top words of the attached note. It appears to be written in latin."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.6",
+      "label": "Inspecting: Ivory Cylinder",
+      "description": "The only sign of an adress to the recipient is the marking of the initials M.M.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.7",
+      "label": "Inspecting: Bundle of notes",
+      "description": "This package has travelled a lot. Looking at the stamps on it, it already went to several places in this sea alone : I can see Amsterdam, and Copenhagen."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.8",
+      "label": "Inspecting: Wooden Cylinder",
+      "description": "The only sign of an adress to the recipient is the marking of the initials M.M.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.9",
+      "label": "Inspecting: Bundle of notes",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Madam. Do not contact us again.\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.morland.10",
+      "label": "Inspecting: Bundle of notes",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Madam. Don't talk about this to anyone !\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.1",
+      "label": "Inspecting: Bundle of notes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Knock on the stage door after performances are over.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.2",
+      "label": "Inspecting: Wooden Box",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Knock on the stage door after performances are over.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.3",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "This package has travelled a lot. Looking at the stamps on it, it already went to several places in this sea alone : I can see Amsterdam, and Copenhagen."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.4",
+      "label": "Inspecting: Ivory Cylinder",
+      "description": "An oddly heavy box marked only as 'Costumes'"
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.5",
+      "label": "Inspecting: Bundle of notes",
+      "description": "This package has travelled a lot. Looking at the stamps on it, it already went to several places in this sea alone : I can see Amsterdam, and Copenhagen."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.6",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "The only sign of an adress to the recipient is the marking of the initials E. C. G. A.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.7",
+      "label": "Inspecting: Bundle of notes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Knock on the stage door after performances are over.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.8",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Knock on the stage door after performances are over.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.9",
+      "label": "Inspecting: Metallic Box",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Sir. Take care of it.\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.agdistis.10",
+      "label": "Inspecting: Ivory Cylinder",
+      "description": "A small bundle of papers with a note \"For my old partner, an update on the Lady of Wires\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.1",
+      "label": "Inspecting: Metallic Box",
+      "description": "The only sign of an adress to the recipient is the marking of the initials V.L.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.2",
+      "label": "Inspecting: Bundle of notes",
+      "description": "I can see the top words of the attached note. It appears to be written in Dutch."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.3",
+      "label": "Inspecting: Bundle of notes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Send her my love, and tell her I remember her still.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.4",
+      "label": "Inspecting: Ivory Box",
+      "description": "I can see the top words of the attached note. It appears to be written in French."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.5",
+      "label": "Inspecting: Wooden Box",
+      "description": "A small, delicate box, possibly for jewelry. \"Tell her she broke my heart, and that I can't wait to see her again.\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.6",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "I can see the top words of the attached note. It appears to be written in Jawa."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.7",
+      "label": "Inspecting: Wooden Cylinder",
+      "description": "The only sign of an adress to the recipient is the marking of the initials V.L.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.8",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Send her my love, and tell her I remember her still.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.9",
+      "label": "Inspecting: Ivory Box",
+      "description": "The only sign of an adress to the recipient is the marking of the initials V.L.M.H.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.veiledlady.10",
+      "label": "Inspecting: Bundle of envelopes",
+      "description": "The only sign of an adress to the recipient is the marking of the initials V.L.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.1",
+      "label": "Inspecting: Metallic Box",
+      "description": "I can see the top words of the attached note. It appears to be written in Russian."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.2",
+      "label": "Inspecting: Ivory Box",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Sir. Don't talk about this to anyone !\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.3",
+      "label": "Inspecting: Wooden Box",
+      "description": "I can see the top words of the attached note. It appears to be written in Russian."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.4",
+      "label": "Inspecting: Wooden Cylinder",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Sir. Take care of it.\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.5",
+      "label": "Inspecting: Wooden Cylinder",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Sir. Don't talk about this to anyone !\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.6",
+      "label": "Inspecting: Wooden Box",
+      "description": "This package has travelled a lot. Looking at the stamps on it, it already went to several places in this sea alone : I can see amsterdam, and london."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.7",
+      "label": "Inspecting: Metallic Box",
+      "description": "The only sign of an adress to the recipient is the marking of the initials H.B.."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.8",
+      "label": "Inspecting: Ivory Box",
+      "description": "There is a note sticked to the package. It reads: \"We took a lot of risks for this to get to you, Sir. Do not contact us again.\""
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.9",
+      "label": "Inspecting: Metallic Cylinder",
+      "description": "A note comes attached to the package, adressed to the courier. It reads: Tell him I look forward to hearing his new work."
+    },
+    {
+      "id": "mariner.inspectpackage.northsea.harald.10",
+      "label": "Inspecting: Wooden Cylinder",
+      "description": "The only sign of an adress to the recipient is the marking of the initials H.B.."
+    }
+  ]
+}

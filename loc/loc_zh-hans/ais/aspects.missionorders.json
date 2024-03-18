@@ -1,0 +1,8 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ais.missionorder",
+      "label": "AI Agent Mission Order"
+    }
+  ]
+}

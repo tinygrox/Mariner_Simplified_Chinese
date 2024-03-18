@@ -1,0 +1,276 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tunes.forgeheart",
+      "label": "The Tune of Industry",
+      "description": "Hammers slam, fire roars, foremen yell warnings and instructions. This district thrums with the roar of living metal.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.forgeheart.long",
+      "label": "The Tune of Industry",
+      "description": "Hammers slam, fire roars, foremen yell warnings and instructions. This district thrums with the roar of living metal.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.grailedge",
+      "label": "The Tune of the Market",
+      "description": "The honey-laced voices of the merchants mix with the metal clink of coin against coin. Here, each transaction is a battle, each smile sharp as knives.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.grailedge.long",
+      "label": "The Tune of the Market",
+      "description": "The honey-laced voices of the merchants mix with the metal clink of coin against coin. Here, each transaction is a battle, each smile sharp as knives.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.heartgrail",
+      "label": "The Tune of the Docks",
+      "description": "Never quiet, wether it's bars and saloons beckoning the sailors landwards, or water lapping at the quay, beckoning them back to sea.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.heartgrail.long",
+      "label": "The Tune of the Docks",
+      "description": "Never quiet, wether it's bars and saloons beckoning the sailors landwards, or water lapping at the quay, beckoning them back to sea.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.knocklantern",
+      "label": "Church bells",
+      "description": "The bright and crisp sound calling a flock to the promise of enlightenment.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.knocklantern.long",
+      "label": "Church bells",
+      "description": "The bright and crisp sound calling a flock to the promise of enlightenment.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.winterlantern",
+      "label": "The Hush of the Library",
+      "description": "The russle of paper, the dull thud of a book returned to its proper place on the proper shelf. Sacred Semi-Silence Serves Studious Souls.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.winterlantern.long",
+      "label": "The Hush of the Library",
+      "description": "The russle of paper, the dull thud of a book returned to its proper place on the proper shelf. Sacred Semi-Silence Serves Studious Souls.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.winterknock",
+      "label": "A Funeral Dirge",
+      "description": "The shuffle of feet, watched by downcast eyes. You might expect a widow's wail, but you are just as likely to hear nothing at all.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.winterknock.long",
+      "label": "A Funeral Dirge",
+      "description": "The shuffle of feet, watched by downcast eyes. You might expect a widow's wail, but you are just as likely to hear nothing at all.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.mothedge",
+      "label": "The Tune of the Underworld",
+      "description": "Hushed conversation, careful footsteps. A dull thud comes from an alley, as a shingle slides from the roof.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.mothedge.long",
+      "label": "The Tune of the Underworld",
+      "description": "Hushed conversation, careful footsteps. A dull thud comes from an alley, as a shingle slides from the roof.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.mothheart",
+      "label": "The Tune of the Bars",
+      "description": "The echoes of laughter promise the impossible merriment of others. There is music in the air, and the dancing will not stop, not yet.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration or Story",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tunes.mothheart.long",
+      "label": "The Tune of the Bars",
+      "description": "The echoes of laughter promise the impossible merriment of others. There is music in the air, and the dancing will not stop, not yet.",
+      "slots": [
+        {
+          "id": "inspiration",
+          "label": "Inspiration",
+          "description": "In what manner do I want to engage with this Tune?"
+        },
+        {
+          "id": "trapping",
+          "label": "Trapping",
+          "description": "power begets power"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.friendlyrace",
+      "label": "A Friendly Race",
+      "startdescription": "Another vessel sails the same course as us. As is natural for us seamen, we decide on a friendly competition, to test our skills. [Approach this challenge with Heart or Edge.]",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.friendlyrace.outcome.windsuccess",
+      "label": "Victory and Reward",
+      "startdescription": "The competition pushes our efforts, and the wind rewards us. We sail the distance in half the time expected."
+    },
+    {
+      "id": "mariner.sail.seaevents.friendlyrace.outcome.success",
+      "label": "Victory!",
+      "startdescription": "We surpass our rivals, and leave them in our wake. They leave us with visceral emotions however, known to hunters, sailors and adventurers alike."
+    },
+    {
+      "id": "mariner.sail.seaevents.friendlyrace.outcome.terriblefailure",
+      "label": "A Crash!",
+      "startdescription": "All efforts focussed on the race, both parties do not wish to give eachother the space to make their turn. Our ships graze eachother before pulling apart. While the crew flings insults, the captains simply share a look of pained embarrassment."
+    },
+    {
+      "id": "mariner.sail.seaevents.friendlyrace.outcome.failure",
+      "label": "Second Place",
+      "startdescription": "We give it our all, but our competors edge out the distance. As we trail behind, they wave their good byes from the bow, and we give them a joyous salute."
+    }
+  ]
+}

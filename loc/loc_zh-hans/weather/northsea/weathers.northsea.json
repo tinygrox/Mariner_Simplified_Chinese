@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "id": "mariner.weathers.northsea.mist.1",
+      "label": "朦胧薄雾",
+      "description": "灰蒙蒙的雾气盖住了所有的声音。"
+    },
+    {
+      "id": "mariner.weathers.northsea.mist.2",
+      "label": "朦胧薄雾",
+      "description": "灰蒙蒙的雾气盖住了所有的声音。"
+    },
+    {
+      "id": "mariner.weathers.northsea.rain.1",
+      "label": "淅沥小雨",
+      "description": "安静的雨声。"
+    },
+    {
+      "id": "mariner.weathers.northsea.rain.2",
+      "label": "淅沥小雨",
+      "description": "安静的雨声。"
+    },
+    {
+      "id": "mariner.weathers.northsea.wind.1",
+      "label": "呼啸风声",
+      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+    },
+    {
+      "id": "mariner.weathers.northsea.wind.2",
+      "label": "呼啸风声",
+      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+    },
+    {
+      "id": "mariner.weathers.northsea.storm.1",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.northsea.storm.2",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.northsea.storm.3",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.northsea.storm.4",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.northsea.clear.1",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.northsea.clear.2",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.northsea.clear.3",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.northsea.snow.1",
+      "label": "Ice Sings",
+      "description": "Ice snaps in the river. Sometimes it is hours between notes."
+    },
+    {
+      "id": "mariner.weathers.northsea.snow.2",
+      "label": "Ice Sings",
+      "description": "Ice snaps in the river. Sometimes it is hours between notes."
+    },
+    {
+      "id": "mariner.weathers.northsea.bright.1",
+      "label": "Bright Day's Bustle",
+      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+    },
+    {
+      "id": "mariner.weathers.northsea.bright.2",
+      "label": "Bright Day's Bustle",
+      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+    },
+    {
+      "id": "mariner.weathers.northsea.smog.1",
+      "label": "The Hiss of Smog",
+      "description": "Hateful vapors opress upon the lungs; The vengeful offspring of mankind's most glorious work."
+    },
+    {
+      "id": "mariner.weathers.northsea.smog.2",
+      "label": "The Hiss of Smog",
+      "description": "Hateful vapors opress upon the lungs; The vengeful offspring of mankind's most glorious work."
+    },
+    {
+      "id": "mariner.weathers.northsea.clear.performancespecial",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.northsea.storm.performancespecial",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    }
+  ]
+}

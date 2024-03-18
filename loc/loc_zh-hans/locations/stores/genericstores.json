@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.nostorehere",
+      "label": "No Store Discovered Here",
+      "description": "I have not found a Store in this city yet. But I know that any port worth their salt must have one. [I can find a Store by exploring with my Half-Heart]"
+    },
+    {
+      "id": "mariner.nostoreatsea",
+      "label": "At sea",
+      "description": "There is no Store available to me here."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.northsea.unmarkedgrave.empty.hint",
+      "label": "Visit The Grave of the Dancer?",
+      "startdescription": "I could visit that forlorn hill in the woods beyond London. Why do I want to though?"
+    },
+    {
+      "id": "mariner.explore.northsea.unmarkedgrave.lackheart",
+      "label": "Visit The Grave of the Dancer",
+      "startdescription": "I could visit that forlorn hill in the woods beyond London to soak up their ambiance.",
+      "description": "The air is rich with petrichor and the sweet decay of woodland soil. Only so few people will remember the live of the Dancer. Fewer still remember that she is buried here. And when even those pass still she will remain. still and unmoving below the loam."
+    },
+    {
+      "id": "mariner.explore.northsea.unmarkedgrave.agdistis",
+      "label": "Visit The Grave of the Dancer with Agdistis",
+      "startdescription": "I could visit that forlorn hill in the woods beyond London, and I invite Agdistis along",
+      "description": "He places a wreath of wildflowers on the mound. \"I always bring flowers.\" The small flowers allready collect dampness from the mornings mists. Soon they too might wilt and rot, but for now, they are bespeckled with diamonds."
+    }
+  ]
+}

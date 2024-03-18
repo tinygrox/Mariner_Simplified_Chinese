@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.lantern.1",
+      "label": "Compass",
+      "description": "It does not know the way, but it helps finding it.",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.2",
+      "label": "Improved Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.3",
+      "label": "Glorious Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.specialisation",
+          "label": "Specialisation",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.4_1",
+      "label": "Exalted Truthtelling Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.4_2",
+      "label": "Exalted Seas’ Wish Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.5_1",
+      "label": "Mythical Truthtelling Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.lantern.5_2",
+      "label": "Mythical Seas’ Wish Compass",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

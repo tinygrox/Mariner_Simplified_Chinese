@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.edge.1",
+      "label": "Axe",
+      "description": "It implies a practical use as well as a sinister one.",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.2",
+      "label": "Improved Axe",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.3",
+      "label": "Glorious Axe",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.specialisation",
+          "label": "Specialisation",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.4_1",
+      "label": "Exalted Executioner's Axe",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.4_2",
+      "label": "Exalted Commanders Gleam",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.4",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.5_1",
+      "label": "Mythical Executioner's Axe",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.tool.edge.5_2",
+      "label": "Mythical Commanders Gleam",
+      "description": "",
+      "slots": [
+        {
+          "id": "tool.upgrade.1",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.2",
+          "label": "Trapping",
+          "description": "<>"
+        },
+        {
+          "id": "tool.upgrade.3",
+          "label": "Trapping",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

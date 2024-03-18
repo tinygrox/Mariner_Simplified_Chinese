@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.discoverwharf.northsea.london",
+      "label": "Discovered the Local Wharf",
+      "description": "I have found the street that smells like oil and wood chips."
+    },
+    {
+      "id": "mariner.discoverwharf.northsea.amsterdam",
+      "label": "Discovered the Local Wharf",
+      "description": "I have found the street that smells like oil and wood chips."
+    },
+    {
+      "id": "mariner.discoverwharf.northsea.copenhagen",
+      "label": "Discovered the Local Wharf",
+      "description": "I have found the street that smells like oil and wood chips."
+    }
+  ]
+}

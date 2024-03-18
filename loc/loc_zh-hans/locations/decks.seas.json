@@ -1,0 +1,28 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.locations.northsea.ports",
+      "label": "North Sea Locations"
+    },
+    {
+      "id": "mariner.decks.locations.northsea.alldestinations",
+      "label": "North Sea Locations"
+    },
+    {
+      "id": "mariner.decks.locations.northsea.discoverable",
+      "label": "North Sea Locations"
+    },
+    {
+      "id": "mariner.decks.locations.medsea.ports",
+      "label": "Mediterranean Sea Locations"
+    },
+    {
+      "id": "mariner.decks.locations.medsea.alldestinations",
+      "label": "Mediterranean Sea Locations"
+    },
+    {
+      "id": "mariner.decks.locations.medsea.discoverable",
+      "label": "Mediterranean Sea Locations"
+    }
+  ]
+}

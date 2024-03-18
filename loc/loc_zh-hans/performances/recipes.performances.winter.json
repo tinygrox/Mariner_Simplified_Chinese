@@ -1,0 +1,40 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.winter.hint",
+      "label": "Hint: A Quieting Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Winter."
+    },
+    {
+      "id": "mariner.performances.winter.start",
+      "label": "Perform a Show laced with the Intent of Winter",
+      "startdescription": "These performances have two outcomes, I have been told. Some audience members weep silently, but many feel numb, as if their soul is smothered by the white weight of snow."
+    },
+    {
+      "id": "mariner.performances.winter.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.winter.heart.success.1",
+      "label": "Today We Mourn",
+      "startdescription": "Quiet the clocks, stops the gallows swinging<br>Shutter the windows, still the bells a-ringing<br>Today we mourn a king<br><br>Freeze the forests, break the waves to mirrors flat<br>Shroud the sky, veil the sun in pale regret<br>Today we mourn the oldest king<br>"
+    },
+    {
+      "id": "mariner.performances.winter.heart.success.2",
+      "label": "Today We Mourn",
+      "startdescription": "No more shall the forest rustle, no more shall the mountains quake<br> No more shall he set the reeds a shiver, no more plains shall rumble in his wake<br><br>Quell the usurpers rumble<br>Let not a single fall leave tumble<br>Today we mark a loss the world has had<br>For the thunderking is dead"
+    },
+    {
+      "id": "mariner.performances.winter.moth.success.1",
+      "label": "Yuki to Ame",
+      "startdescription": "Snow hides bloodstained earth<br>Or spring showers rinse the soil<br>Both seasons cleanse me"
+    }
+  ]
+}

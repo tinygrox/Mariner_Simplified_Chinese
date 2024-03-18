@@ -1,0 +1,799 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.sunkencity.token.terror.appears",
+      "label": "A Sea of Fright",
+      "startdescription": "We have sailed out of the common routes and onto tides much fiercer. Here, an enternal storm swirls around hole in the sea's surface. Sailors are hearty folk, but this experience lies beyond their ken.",
+      "description": "A first panicked whimper can be heard on the deck, though it is is impossible to tell where it originated from. But soon the panic will spread, oil-slick quick..."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.terror.windup",
+      "label": "Rising Terror",
+      "startdescription": "Panic is gripping around my ship like wildfire, and just like a spreading flame, it is probable to sink us, ship, crew and all.",
+      "description": "Static crackles through the air, and one of my sailors is about to snap."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.terror.wardedoff",
+      "label": "Unperturbed",
+      "startdescription": "Horror has no grip on a heart filled with purpose.",
+      "description": "Stalward, through grit and mettle, the crew remains balanced even on the edge of the abyss."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.terror.attack",
+      "label": "The Breaking Point",
+      "startdescription": "A spray of salt hits over the edge of the ship, and something shifts in the mentality of my men... one has reached his point of no return.",
+      "description": "White knuckles grip the railing as if to break it. One more sailor will respond to my commands no longer.",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Pillar of Salt",
+          "description": "Whimpering or raving, or stuck in awe-struck petrification, this sailor is no use to anyone anymore"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.mariner.haltable.wintersong.pre",
+      "label": "A Perilous Tranquility",
+      "startdescription": "Until my breath runs out, this song will maintain the stability of the plane, the portal and the passage. The Moon herself will stand guard."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.mariner.haltable.wintersong.cycle",
+      "label": "A Perilous Tranquility",
+      "description": "Even now a note lingers...",
+      "slots": [
+        {
+          "id": "song",
+          "label": "Moon",
+          "description": "Only under a peculiar moon, is the passage down stable. But her light cannot aid me where I am going."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.mariner.haltable.ship.pre",
+      "label": "Left Above",
+      "startdescription": "I have left my ship above."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.mariner.haltable.ship.cycle",
+      "label": "Left Above",
+      "description": "I have left my ship above.",
+      "slots": [
+        {
+          "id": "ship",
+          "label": "My Ship",
+          "description": "My vessel across the seas."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.stormtakesus.hintexclusiveattention",
+      "label": "Storm Takes us!",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.events.stormtakesus",
+      "label": "Storm Takes us!",
+      "startdescription": "A dangerous eddy in the water is suddenly met with a violent shift in the storm. The swell of water threatens to overtake us. [Approach this challenge with Forge or Heart.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.stormtakesus.success",
+      "label": "Reasserted Control",
+      "description": "The current strong, but my crew is trained. Everyone is in their place and the ship's course is righted."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.stormtakesus.failure",
+      "label": "Man overboard!",
+      "description": "Through the listing ship and the snapping lines, one of our crewmembers is swept of the ship. We see them go down between the waves, and then see them no more."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagulls.hintexclusiveattention",
+      "label": "Seagull Choir",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.events.seagulls",
+      "label": "Seagull Choir",
+      "startdescription": "Thousands of swirling seagulls in an ever-tightening spiral follow the currents below, as the birds too plunge themselves into the depths. Our ship is on course with the cacophonous choir. [Approach this challenge with Moth or Winter.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagulls.success",
+      "label": "Weather the beaks and talons",
+      "description": "We plug our ears and duck low, and when sailstunned birds drop on deck we quickly over them back to the storm and the sea. We make it through, and continue with our journey unscathed"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagulls.failure",
+      "label": "Rapt in the sky",
+      "description": "Our attention was rapt, eyes raised. As the flurry of white birds screached overhead before it streaked down below. I wished to soar away with them, and it took everything I had to return our attentions to sailing."
+    },
+    {
+      "label": "Explore At the Abyss' Edge",
+      "id": "mariner.vaults.sunkencity.edge.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.edge.task.pre",
+      "label": "Explore At the Abyss' Edge",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.edge.exhausted",
+      "label": "At the Abyss' Edge Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.edge.drawevent.stormtakesus",
+      "label": "Explore At the Abyss' Edge"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.edge.drawevent.seagulls",
+      "label": "Explore At the Abyss' Edge"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.makesupersitious",
+      "label": "A Seed of Fear",
+      "description": "A fear has found purchase in this sailor's heart, and soon it will blossom into Terror. They will still be capable, but they will not be capable of standing up to Events tinged by the Mansus or the Woods."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors.talk.hintexclusiveattention",
+      "label": "Embolden my crew",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors.talk.pre",
+      "label": "Embolden my crew",
+      "startdescription": "They may be scared, but they are sailors still, and I, their captain. If I press my authority I can remind them of their duty, and they may overcome their fright."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors.talk",
+      "label": "Embolden my crew",
+      "startdescription": "They may be scared, but they are sailors still, and I, their captain. If I press my authority I can remind them of their duty, and they may overcome their fright."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors.talk.success",
+      "label": "Steeled Resolve",
+      "description": "Their mouths tighten into a resolute grimace, their eyes narrow, focussing on the task at hand. They will not let their captain down. They will follow their captain into the abyss."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.sailors.talk.failure",
+      "label": "Fraying Nerves",
+      "description": "My crew looks at that wretched hole, than at each other, and come to a silent accord. They do not want to come down, and may abandon me at any moment."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.sing.hintexclusiveattention",
+      "label": "Stabilize the Portal",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.sing.pre",
+      "label": "Stabilize the Portal",
+      "startdescription": "By some confluence of the moon and the tides and whims of an Hour, a whirling whirlpool has laid Ker Ys dry at the bottom of the Channel. But it is not a stable, and the churning winds and waters threaten the Kite. If I go down, the ship would be in danger. [Fulfilling this task will take your Winter song, it will not be returned to you for the entirety of The Sunken City.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.sing",
+      "label": "Stabilize the Portal",
+      "startdescription": "By some confluence of the moon and the tides and whims of an Hour, a whirling whirlpool has laid Ker Ys dry at the bottom of the Channel. But it is not a stable, and the churning winds and waters threaten the Kite. If I go down, the ship would be in danger. [Fulfilling this task will take your Winter song, it will not be returned to you for the entirety of The Sunken City.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.sing.success",
+      "label": "A Tranquility",
+      "description": "The world needs not listen to pleas of a sailor, but in this place, at this time, it listens. Perhaps it has been rendered receptive by the same power that has rend the seas. Perhaps the moon is feeling kind today. Regardless, the moon settles right above the whirlpool, and will not move, not for a while."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.sing.failure",
+      "label": "The Unwilling World",
+      "description": "This time, my voice is lost to the storm. This time, the ocean seems to vast to hear me. This time, a tip-tap feeling on the back of my skull that tells me to try, try, try again, and make my voice heard."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.mariner.sail.hintexclusiveattention",
+      "label": "Maneuver the ship",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.mariner.sail.pre",
+      "label": "Maneuver the ship",
+      "startdescription": "We must maneuver to where we can let down a cable into the hole, but where our ship can remain save while we are down exploring. This will require a tricky configuration of sails and anchors and currents and wind."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.mariner.sail",
+      "label": "Maneuver the ship",
+      "startdescription": "We must maneuver to where we can let down a cable into the hole, but where our ship can remain save while we are down exploring. This will require a tricky configuration of sails and anchors and currents and wind."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.mariner.sail.success",
+      "label": "A Delicate Balance",
+      "description": "The anchors have found purchase, and with the lines taut, the ship now hangs close to the edge. From our overhanging mast, a cable can be lowered. Our way down is set..."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.mariner.sail.failure",
+      "label": "A Slip and a Crack",
+      "description": "The anchor dragged and then slipped. The ship lurched, the sail snapped and a great creaking of wood and canvas. The Kite has sustained an injury in this attempt, and there is no option but to try again."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.explore.hintexclusiveattention",
+      "label": "Descend Into the Depths",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.explore.pre",
+      "label": "Descend Into the Depths",
+      "startdescription": "While this is not the normal diving experience, much of the anticipation is the same... and the dread. This will just as much be a challenge mentally as it is physically."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.explore",
+      "label": "Descend Into the Depths",
+      "startdescription": "While this is not the normal diving experience, much of the anticipation is the same... and the dread. This will just as much be a challenge mentally as it is physically."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.explore.success",
+      "label": "Step on the Seafloor",
+      "description": "Down we go into darkness. Time and distance have no meaning during the descent. Then, pale shapes arise in the darkness. Broken-teeth buildings of ancient, waterbitten stone. We descend between them, and step onto the silty sand."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.siphon.explore.failure",
+      "label": "Panic and Confusion",
+      "description": "Halfway down the line jossles, and someone loses their grip. We hear nothing of them again, until there is a soft thud below. We take a moment to recover and then must continue our descent."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.horror.appears",
+      "label": "Churning Darkness",
+      "startdescription": "The walls of water encircle the city. The sight of an endless expense of water is familiar to me, as is the feeling of being drawn towards it."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.horror.windup",
+      "label": "Sink-silt Horror",
+      "startdescription": "One would think the fear of a wall of water is it coming crashing down. More insidious, however is my urge to walk to its edge. To stare into its ripples of black on black."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.horror.wardedoff",
+      "label": "Protected",
+      "startdescription": "Memories of joy are my shield now, and the expectation of brighter times my lantern."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.token.horror.attack",
+      "label": "Depths of Despair",
+      "startdescription": "Horror is the fear of that which you can't tear your eyes away from.",
+      "description": "The gloom has slid through my pupils and settled in my stomach like a restless sea."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagull.hintexclusiveattention",
+      "label": "Seagull Choir",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.events.seagull",
+      "label": "Seagull Choir",
+      "startdescription": "The churning walls of water get masked by the throngs of birds, coalescing on our position. We stand at the nadir of their spiral and here they plunge down onto the soggy seafloor. Their beaks break open the earth, but they just as easily could break into us too. [Approach this challenge with Moth or Winter.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagull.success",
+      "label": "Settle the Flock",
+      "description": "A great quiet falls over the scene, the featherstorm lessening till the last remaining seastern drifts gently down, settling on the white-blanketed sea floor. We move gently, stepping only where there is sand. The birds watch."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.seagull.failure",
+      "label": "Rapt at the Earth",
+      "description": "All around us, the earth is raked by beaks, as more and more land to open the earth. It’s unnervingly hard to resist the urge to bring my own face to the salt, and more unnerving still that I know what I’ll find there would be delectable."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.specters.hintexclusiveattention",
+      "label": "Specters of Ker Ys",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.events.specters",
+      "label": "Specters of Ker Ys",
+      "startdescription": "The city is empty. No person could have survived its fall. But as our movements leave an impression on the salt-caked stone, so too have the citizens of ker ys left hollow outline in the air where they once walked. [Approach this challenge with winter of Lantern.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.specters.success",
+      "label": "A Protective Nimbus",
+      "description": "The pain of the past might burn still, but it is distant. I will keep the Unmourned at a distance with the sneer of cold command on my furrowed brow and the brightness of my torch."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.specters.failure",
+      "label": "Crumbling Will",
+      "description": "They wish they were. Interrupted, then. Now, stuck. No life left to go about."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.tidepools.hintexclusiveattention",
+      "label": "Stygian Tide Pools",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.events.tidepools",
+      "label": "Stygian Tide Pools",
+      "startdescription": "Around a weathered black stone, seawater is regurgitated from many C’thonic openings to a deeper place. We must survive the dark, whipping waters from these weeping wells. [Approach this with Grail or Heart.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.tidepools.success",
+      "label": "Ageless Sailor-rites",
+      "description": "The channel has been sailed for millennia and old rites mouthed on the waters above are remembered below. We murmur the Bretonic-Latin to placate the Linfern: the Lares and Lemures who have been neglected since before the Bretons landed these shores."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.events.tidepools.failure",
+      "label": "Tribute to the Dei Manes",
+      "description": "The tide comes in, strong enough to draw water and blood beneath the skin. Even the cold brine is not enough to numb us to its flaying flow. When the tide reverses, the tidepool swallows it all, taking its tithe with it."
+    },
+    {
+      "label": "Explore Waterlogged Ruins",
+      "id": "mariner.vaults.sunkencity.city.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.city.task.pre",
+      "label": "Explore Waterlogged Ruins",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.city.exhausted",
+      "label": "Waterlogged Ruins Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.city.drawevent.seagull",
+      "label": "Explore Waterlogged Ruins"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.city.drawevent.specters",
+      "label": "Explore Waterlogged Ruins"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.city.drawevent.tidepools",
+      "label": "Explore Waterlogged Ruins"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains.explore.hintexclusiveattention",
+      "label": "Scavenge The Remains",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains.explore.pre",
+      "label": "Scavenge The Remains",
+      "startdescription": "This will not be a matter of speed. It is a challenge to traverse the salt-sharpened streets, each step a scar. Most portcullises will yield no rewards, yet, again and again we must venture into darkness and sift for treasure with our bleeding hands."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains.explore",
+      "label": "Scavenge The Remains",
+      "startdescription": "This will not be a matter of speed. It is a challenge to traverse the salt-sharpened streets, each step a scar. Most portcullises will yield no rewards, yet, again and again we must venture into darkness and sift for treasure with our bleeding hands."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains.explore.success",
+      "label": "Something of Use",
+      "description": "We have plucked something from between the sands that has not been digested by the oceans yet. Some remnants of this town's history... There may be others."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.cityremains.explore.failure",
+      "label": "Creeping Darkness",
+      "startdescription": "The work is exhausting, stressful, and in the end, we bring nothing back from the darkness beside the dark and creeping fears that wormed their way into our hearts."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall.sing.hintexclusiveattention",
+      "label": "Ward of the Influence of a Drowning Power",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall.sing.pre",
+      "label": "Ward of the Influence of a Drowning Power",
+      "startdescription": "I know that nameless emptiness that calls from the abyss. On my worst days, it would lead me to the ship's edge, to stare into the darkness. But through my Half-Hearts pulse I can wrench myself away from that, so too can I protect my crew from this."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall.sing",
+      "label": "Ward of the Influence of a Drowning Power",
+      "startdescription": "I know that nameless emptiness that calls from the abyss. On my worst days, it would lead me to the ship's edge, to stare into the darkness. But through my Half-Hearts pulse I can wrench myself away from that, so too can I protect my crew from this."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall.sing.success",
+      "label": "Echoes Of Home",
+      "description": "My song reverberates through the city, speaking of the lands above and the lives we left behind. The grinding waters were pressed to the background until we could hardly hear it at all."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.inkwall.sing.failure",
+      "label": "A Memory Surfaces",
+      "description": "As I try to sing, I see a shadow move in the water, black on black. My heart, that wound within my chest, turns as cold and empty as in my darkest days. A shiver travels through my body, and my voice dies in my throat."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.all",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. But I need more, the memory made history of made manifest."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.cup",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found one of the memories I need."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.links",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found one of the memories I need."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.pair",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found one of the memories I need."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.nopair",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found two pentiments of Ker Ys Narrative. One more awaits me in the darkness."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.nocup",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found two pentiments of Ker Ys Narrative. One more awaits me in the darkness."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.hint.nolinks",
+      "label": "Find The Place Where The Story Ended?",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. I have found two pentiments of Ker Ys Narrative. One more awaits me in the darkness."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend.navigate.hintexclusiveattention",
+      "label": "Find The Place Where The Story Ended",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend.navigate.pre",
+      "label": "Find The Place Where The Story Ended",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. Now I must find where the Sorceress-Princess doomed her city, and see what awaits me there."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend.navigate",
+      "label": "Find The Place Where The Story Ended",
+      "startdescription": "Through the tales I've heard I know what happened, through the songs I learn what was felt. Now I must find where the Sorceress-Princess doomed her city, and see what awaits me there."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend.navigate.success",
+      "label": "Theft of Sights",
+      "description": "All that I see is mine thereafter for eternity. Soon I have pilfered enough sights to reconstruct a map of the city of old. I cannot be exhausted, and I lead my crew to our next encounter."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.storiesend.navigate.failure",
+      "label": "Wrong Turns",
+      "description": "Confidently I lead my people on, but every turn seemed to lead back on itself, and we found our own footsteps pressed on salt-crusted cobblestones leading ahead of us."
+    },
+    {
+      "label": "Explore The Broken Lock",
+      "id": "mariner.vaults.sunkencity.seawall.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.seawall.task.pre",
+      "label": "Explore The Broken Lock",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.sunkencity.explore.seawall.exhausted",
+      "label": "The Broken Lock Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.explore.hintexclusiveattention",
+      "label": "Sneak Past the Blubberthing",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.explore.pre",
+      "label": "Sneak Past the Blubberthing",
+      "startdescription": "It is just lying there... writhing and moaning. Perhaps we do not have to engage at all. Perhaps we can just sneak past it, sneak out of the seagate, through the lock."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.explore",
+      "label": "Sneak Past the Blubberthing",
+      "startdescription": "It is just lying there... writhing and moaning. Perhaps we do not have to engage at all. Perhaps we can just sneak past it, sneak out of the seagate, through the lock."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.explore.success",
+      "label": "Through the Sea Gate.",
+      "description": "While the being is large as an orca, its head is as a pea upon its body. We can easily traverse its blind corners, while  its mournful weepings cover our steps."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.explore.failure",
+      "label": "An Unfortunate End",
+      "description": "Just before we got halfway through, it rolled over. The screams of our backmost companion quickly get stifled by the smooth skin. His voice is lost before his arms have been crushed between the weight. The behemoth settles right on top of what remains of our companion."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.sing.hintexclusiveattention",
+      "label": "Sooth the Blubberthing",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.sing.pre",
+      "label": "Sooth the Blubberthing",
+      "startdescription": "I loathe to approach it, but perhaps we can sooth it, just like great beasts are soothed by soft music. We just need to quiet it long enough for my crew to pass."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.sing",
+      "label": "Sooth the Blubberthing",
+      "startdescription": "I loathe to approach it, but perhaps we can sooth it, just like great beasts are soothed by soft music. We just need to quiet it long enough for my crew to pass."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.sing.success",
+      "label": "Orphean Victory",
+      "description": "The thing closes its lids, but its eyes bulge so far they cannot fully close. Still... it seems contented. It’s wretched face seems more human now: old, lonely, regretful."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.blubberthing.sing.failure",
+      "label": "Drowned out",
+      "description": "As soon as we approached it started shouting. Our music could not overcome its cacophony. We did not speak its language, but I fear we understood too much of his words. We are rooted in place, slowly sinking into the muck. Our heart is heavy before we regain our motor function and dash past it blubbering form."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers.explore.hintexclusiveattention",
+      "label": "Gather an Ingredient of Great Power",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers.explore.pre",
+      "label": "Gather an Ingredient of Great Power",
+      "startdescription": "If I can collect some of the wood splinters, I could put their powers to use. But to touch them is to know pain. We must endure its admonitions in the laborious process of collecting them"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers.explore",
+      "label": "Gather an Ingredient of Great Power",
+      "startdescription": "If I can collect some of the wood splinters, I could put their powers to use. But to touch them is to know pain. We must endure its admonitions in the laborious process of collecting them"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers.explore.success",
+      "label": "A Pocket Full of Power",
+      "description": "In an inner pocket, we now carry a collection of ancient, sea-soaked wood. Underneath my clothing, my skin is beginning to ache. I expect to have been opened before sunrise."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.slivers.explore.failure",
+      "label": "Thousand Needle Aches",
+      "description": "We could not bear it. We crumpled to the floor like discarded poetry, as our fingers and eyes were opened and our insides flooded forth. We stain the seafloor with our liquids, but it can never be stained worse than it is."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge.navigate.hintexclusiveattention",
+      "label": "Indulge my Worse Nature",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge.navigate.pre",
+      "label": "Indulge my Worse Nature",
+      "startdescription": "There is no need to go here. My objective is the city, not the sea. But I have felt a presence beyond these walls, one that has haunted me from below for all my life.. If I approach, I do so only for myself, and at great risk."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge.navigate",
+      "label": "Indulge my Worse Nature",
+      "startdescription": "There is no need to go here. My objective is the city, not the sea. But I have felt a presence beyond these walls, one that has haunted me from below for all my life.. If I approach, I do so only for myself, and at great risk."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge.navigate.success",
+      "label": "A Promise",
+      "description": "The best way to perceive it is to close my eyes. His movements cause a ripple that leaves an ache in my bone. To my query his answer is simple. Yes, the one who isn’t here is."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.wallsedge.navigate.failure",
+      "label": "A Reminder",
+      "description": "What moves in the deep did not deign to acknowledge me. Perhaps it knows I will seek his mercy eventually. My pleas have only strengthened its hold over me, and his rejection only deepened the fractures in my soul."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.wasted",
+      "label": "Wasted Words",
+      "description": "She looks past me, back at the city and the cetacean shape which languishes at the broken gate. I should more carefully consider my words."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.pre",
+      "slots": [
+        {
+          "id": "Topic",
+          "label": "First Topic",
+          "description": "I can ask the Old Mother Anguish after one of the artifacts i found here. "
+        }
+      ],
+      "label": "Parlay with a Name of the Mother",
+      "startdescription": "Do I wish to ask the Old Mother after a treasure I found?"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.pair.pre",
+      "label": "Parlay with a Name of the Mother",
+      "startdescription": "Do I wish to ask The Old Mother after the statue?"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.pair",
+      "label": "The One, the Two",
+      "description": "She holds the statue between two fingers but stares over our shoulder, back at the gate and what lies beyond. \"We were a pair, him and me. We rose together in the Albian House. I should have known what was coming... He cared not for Glory, only Power. The Mansus is not a place for love, not even filial love.\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.gapingcup.pre",
+      "label": "Parlay with a Name of the Mother",
+      "startdescription": "Do I wish to ask The Old Mother after the Cup?"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.gapingcup",
+      "label": "The Providence, The Essurience",
+      "description": "She stares at the bowl, but does not touch it. \"The Sea is always queen in towns like these. In those days that meant Her, and Her many gifts. Oh but what a gift they were! The more we worshipped, the more she gave. The more we got, the more we craved. A violent conclusion was inevitable.\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.links.pre",
+      "label": "Parlay with a Name of the Mother",
+      "startdescription": "Do I wish to ask the old Mother after the loveknots?"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.firsttopic.links",
+      "label": "The Love, The Lie",
+      "description": "Her skin is like folded paper, but her fingers are strong. \"This once meant the world to me. My love... My love, my love, my love from beyond the sea. In ages past, I've wondered if it was always them, and not just that final night. It hardly matters now...\" She hands the token back, acid-etched fingerprints mar the wound bands."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.edge.pre",
+      "label": "Ask After Justice?",
+      "startdescription": "\"You wish to know about righteous retribution?\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.edge",
+      "label": "The Day of Reckoning",
+      "description": "\"There was a break between the triple goddesses of the sea. The Two-One opposed the Tide-Queen. They wished her Vitulation to be a stillbirth, to repay past crimes and prevent worse harm. I was merely the needle; who cares if your tool bleeds? Only the Mother of Mercy.\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.knock.pre",
+      "label": "Ask After Mercy?",
+      "startdescription": "\"You wish to know about the lessons that arise from wounds?\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.knock",
+      "label": "The Path Forward",
+      "description": "\"She opens the path to grant access for this vigil, though it is I who decided not to pass the gates into the city again. I have no need. I travel not to remember what is lost, but what arises after. Compassion, understanding, mercy. This is not a painless path, but it is mine.\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.moth.pre",
+      "label": "Ask After Loss?",
+      "startdescription": "\"You wish to know about the pain caused by a loss that can never be recovered?\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.moth",
+      "label": "Trapped Behind Glass",
+      "description": "\"Something is not truly lost until it is forgotten, but nothing that is not experienced is ever alive. Suns may set and Moons may rise, but I will never hear the songs of my hometown again. That <i>Hiraezh</i> is mine forever. I commemorate what cannot be undone.\""
+    },
+    {
+      "id": "mariner.vaults.sunkencity.oma.secondtopic.pre",
+      "slots": [
+        {
+          "id": "Topic",
+          "label": "Second Topic",
+          "description": "A Topic to discuss, represented by one of my songs."
+        }
+      ],
+      "label": "Talk about one Last Subject?",
+      "startdescription": "One more question I can ask..."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.start",
+      "label": "A Dismissal",
+      "startdescription": "\"This tale is done now. Take it for your mistress. But know that the town may not appreciate the theft. They have so little left.\" She points a finger crooked like viper's fang. Before my head is turned, she dissolves into starlight."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.tidesturn",
+      "label": "Tide Turns",
+      "startdescription": "Without Anguish, memory holds no power over reality. I can see the walls start slipping, The moon is poised to move. This intermezzo is close to ending. I must retreat to the world above, soon..."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.beast.hintexclusiveattention",
+      "label": "The Beast Enraged",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.gauntlet.beast",
+      "label": "The Beast Enraged",
+      "startdescription": "As this world is slipping away again, its king roars in challenge. It cannot abide losing everything, not again. The Blubberthing trashes and turns and threatens our way forward with its mass. [Approach this challenge with Moth or Grail.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.beast.success",
+      "label": "Catharsis",
+      "description": "Undulating and ululating, threshing its body in a horrific dance of grief. Its swollen form shrivels as tears and spittle fly in all directions. In the end, nothing is left besides seafoam, nothing besides its echoing wail."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.beast.failure",
+      "label": "The Press of Flesh",
+      "description": "Its beady eyes show recognition, and it honks and slobbers with great exuberance. Its lumbering form attempts to consume the statue, and our hand with it. We manage to pull away, but we will not forget it's eyes, it's touch, it's fluids."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.streets.hintexclusiveattention",
+      "label": "Spiteful Streets",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.gauntlet.streets",
+      "label": "Spiteful Streets",
+      "startdescription": "The white-dusted cobblestones are marred with our ramblings, and our way back is not hard to find. Our footsteps have attracted the spirits of the city, which flank our passage as the grim audience to an illicit parade. [Approach this challenge with Heart or Winter.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.streets.success",
+      "label": "Words Granted",
+      "description": "My song has the tune of a childhood lullaby, but the words are in a tongue I do not speak, taken from memory that is not mine, from a power I do not serve."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.streets.failure",
+      "label": "Stolen Voice",
+      "description": "It is not a dirge, nor a march, I cannot find the words, but the dead sing with rotted voices. We are tear-blinded and finger-chilled, as we reach the line back up to the ship. Our company is less than it was. The city has claimed a new voice for its choir."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.ascent.hintexclusiveattention",
+      "label": "The Ascent",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.sunkencity.gauntlet.ascent",
+      "label": "The Ascent",
+      "startdescription": "Above us, the light is shrinking. The tunnel collapses, and the moon flees our sight. Even now the water is lapping at our feet, as the city is smothered again by a blanket of waves. [Approach this challenge with Knock or Edge.]"
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.ascent.success",
+      "label": "The Sea Settles",
+      "description": "As we rise, the water chases. The tunnel becomes a waterfall, and crushing weight threatens us from all sides, until the light above is needlethin and the roar is all-consuming. And then… a sudden stillness, as we emerge on the moon kissed midnight sea."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.ascent.failure",
+      "label": "Crashing Weight",
+      "description": "The thundering waters from above slow our ascent, and the slower we travel, the more the waters cover us. The light is lost when we are still far from the surface, and we hold our breath as we hold on to line. Most of us emerge, gasping and red-eyed and bone-drenched. Most of us do."
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.talesend",
+      "label": "Tide Turns",
+      "startdescription": "The Crew re-emerged, far-eyed and exhausted. I stand at the helm, as I feel a hundred-legged shiver travel up my spine.",
+      "achievements": [
+        "mariner.achievements.hiraezh"
+      ]
+    },
+    {
+      "id": "mariner.vaults.sunkencity.gauntlet.moralfound",
+      "label": "Moral Found",
+      "startdescription": "As the pinpricks tap at the inside of my skull, a voice congratulates me.",
+      "description": "I now carry details of a story with me only known by the secret gods. There are more stories to find. I shall not be stayed."
+    }
+  ]
+}

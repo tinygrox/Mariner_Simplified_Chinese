@@ -1,0 +1,457 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.upgradesongwith.nature.alreadyused",
+      "label": "Using the same inspiration again?",
+      "startdescription": "The soul is not sustained on the familiar. I cannot mine the same source twice. My music might become trite, or even worse, predictable."
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.lantern",
+      "label": "Upgrade lantern song with Nature Inspiration",
+      "startdescription": "Those who think Ideals cannot be found in nature, have not looked up at at the sky, during day or night. I will let it imprint on my retina and compose my song around that perfect circle.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.forge",
+      "label": "Upgrade forge song with Nature Inspiration",
+      "startdescription": "The heat of the forge was not the first heat in the world. the engine was not the first form of motion. Nature itself presses forward, ever changing, it only needs a mortal hand to guide it. Today however, I will let nature guide mine.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.edge",
+      "label": "Upgrade edge song with Nature Inspiration",
+      "startdescription": "A man can only know themselves when opposed, and on some days one can feel there is no truer opposition to mankind than nature. I will write an anthem that will inspire you to take up arms against impossible odds.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.winter",
+      "label": "Upgrade winter song with Nature Inspiration",
+      "startdescription": "Starting this song seems an impossibility, for I loathe to besmirch the perfect snow-white blankness of the page. In the end, I only commit the notes to memory, but there they shall remain for all eternity.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.heart",
+      "label": "Upgrade heart song with Nature Inspiration",
+      "startdescription": "The world is a song thats sings eternal, with rhythms expressed in rain and wind and thundering heartbeats. I shall touch them briefly in this composition, and portray a fragment of their intensity,",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.grail",
+      "label": "Upgrade grail song with Nature Inspiration",
+      "startdescription": "The sweet, the salt, the deep, the bright. This song is inspired by all that we crave for, all that that is to vast and too intense for us too behold.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.moth",
+      "label": "Upgrade moth song with Nature Inspiration",
+      "startdescription": "Finding the right notes for this song is always a hunt. A hunt of the wind between the leaves, of grey paws through greyer mist. I learn that I do not need to understand what I see, and I do not need to see to understand.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.nature.knock",
+      "label": "Upgrade knock song with Nature Inspiration",
+      "startdescription": "The moon is a sliver outside my window, and has granted me a new understanding. I do not pen down, I slice. I carve from the sheet what is not needed, and my notes can be found in the spaces in between.",
+      "achievements": [
+        "mariner.achievements.firstusednatureinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.lantern",
+      "label": "Upgrade lantern song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.forge",
+      "label": "Upgrade forge song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.edge",
+      "label": "Upgrade edge song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.winter",
+      "label": "Upgrade winter song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.heart",
+      "label": "Upgrade heart song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.grail",
+      "label": "Upgrade grail song with Muse Inspiration",
+      "startdescription": "I am full of memories of her, but I shall not make my inspiration plain. She has thaught me that desire is as much what you hold back as what you give.",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.moth",
+      "label": "Upgrade moth song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.muse.knock",
+      "label": "Upgrade knock song with Muse Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmuseinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.lantern",
+      "label": "Upgrade lantern song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.forge",
+      "label": "Upgrade forge song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.edge",
+      "label": "Upgrade edge song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.winter",
+      "label": "Upgrade winter song with Melody Inspiration",
+      "startdescription": "I am inspired by all of the whole score, but I the magic I capture is from the final notes, and the silence that follows.",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.heart",
+      "label": "Upgrade heart song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.grail",
+      "label": "Upgrade grail song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.moth",
+      "label": "Upgrade moth song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.melody.knock",
+      "label": "Upgrade knock song with Melody Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedmelodyinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.lantern",
+      "label": "Upgrade lantern song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.forge",
+      "label": "Upgrade forge song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.edge",
+      "label": "Upgrade edge song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.winter",
+      "label": "Upgrade winter song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.heart",
+      "label": "Upgrade heart song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.grail",
+      "label": "Upgrade grail song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.moth",
+      "label": "Upgrade moth song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.location.knock",
+      "label": "Upgrade knock song with Location Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedlocationinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.lantern",
+      "label": "Upgrade lantern song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.forge",
+      "label": "Upgrade forge song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.edge",
+      "label": "Upgrade edge song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.winter",
+      "label": "Upgrade winter song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.heart",
+      "label": "Upgrade heart song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.grail",
+      "label": "Upgrade grail song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.moth",
+      "label": "Upgrade moth song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.instrument.knock",
+      "label": "Upgrade knock song with Instrument Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedinstrumentinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.lantern",
+      "label": "Upgrade lantern song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.forge",
+      "label": "Upgrade forge song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.edge",
+      "label": "Upgrade edge song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.winter",
+      "label": "Upgrade winter song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.heart",
+      "label": "Upgrade heart song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.grail",
+      "label": "Upgrade grail song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.moth",
+      "label": "Upgrade moth song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.experience.knock",
+      "label": "Upgrade knock song with Experience Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedexperienceinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.lantern",
+      "label": "Upgrade lantern song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.forge",
+      "label": "Upgrade forge song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.edge",
+      "label": "Upgrade edge song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.winter",
+      "label": "Upgrade winter song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.heart",
+      "label": "Upgrade heart song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.grail",
+      "label": "Upgrade grail song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.moth",
+      "label": "Upgrade moth song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    },
+    {
+      "id": "mariner.upgradesongwith.urstory.knock",
+      "label": "Upgrade knock song with Urstory Inspiration",
+      "startdescription": "",
+      "achievements": [
+        "mariner.achievements.firstusedurstoryinspiration"
+      ]
+    }
+  ]
+}

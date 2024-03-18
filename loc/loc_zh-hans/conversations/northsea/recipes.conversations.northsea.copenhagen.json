@@ -1,0 +1,164 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.opera",
+      "label": "A Recollection and a Reprise",
+      "startdescription": "\"You want to know about my opera?\"",
+      "description": "\"I'm sure you can find the score somewhere, but don't bother. It's trite, and an embarrassment to the artform.\" His eyes follow the curves in the plaster on the ceiling. \"But I'll talk the libretto through with you. It was an adaptation, yes, but an adaptation to a truer form.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.ecdysis",
+      "label": "Ask after the Ecdysis Club",
+      "startdescription": "\"A Club in London?\"",
+      "description": "\"I don't know it. But I don't travel across the sea if I can help it. Sea voyages do not agree with me.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.ecdysisfake",
+      "label": "Ask after the Ecdysis Club",
+      "startdescription": "\"A Club in London?\"",
+      "description": "\"I don't know it. But I don't travel across the sea if I can help it. Sea voyages do not agree with me.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.newscandinavian",
+      "label": "Ask about the New Scandinavian Theatre",
+      "startdescription": "\"You want to know about the New Scandinavian?\"",
+      "description": "\"Allthough I am most lauded for my traditional pieces, I have ventured into the experimental as well. They have staged some of my more... inspired work\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.mystery",
+      "label": "Ask Harald after his Muse",
+      "startdescription": "\"Do you have News yet? No?\"",
+      "description": "\"I do not know how much more to tell you... She is a wild girl, but wise. We spoke of performances often, and what one must give of themself for art. She followed those powers from the silver-wooded dreams. She spoke of Blackflax, and the steps she must take... But I do not know where she would go, on the Continent or beyond.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.knot",
+      "label": "Discuss the Manifold Knot",
+      "startdescription": "\"You have brought a trinket to show me?\"",
+      "description": "\"Delicate... Fine... I would venture this was a memorial... a keepsake, to remember one by. I hope it was always treasured.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.corpseflower",
+      "label": "Discuss the Corpse flowers",
+      "startdescription": "\"A flower that bloomed in Eddanger Forest?\"",
+      "description": "\"They are so dear... so delicate. and they grew on corpses you say? Tell me all about how you found them.\"[This Questline will continue outside North Sea]"
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.halfheart",
+      "label": "Ask after Half Hearts?",
+      "startdescription": "\"A person with a split soul?\"",
+      "description": "\"A common motif, especially in the melodramatic musings of the romantics, or the high minded drama's of the ancient greeks. But what I know of souls they have many parts, not only two. So how would such a split occur?\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.lackheart",
+      "label": "Ask after Broken Hearts?",
+      "startdescription": "\"You wish to talk about Heartbreak?\"",
+      "description": "\"There are many kinds of heartbreak, I reccon. But I was never spurned or discarded... I simply misplaced my beloved, and found that nothing could fill the hole that that left in me.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.character",
+      "label": "On Moving Forward",
+      "startdescription": "\"You wish to talk to me about moving on?\"",
+      "description": "He stares at me, but I am not sure he sees me. \"To move on without closure... I do not carry that Edge in me, nor do I have the Heart to push myself forward without answers. No... someone must commemorate my love, and I shall shoulder that burden.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.constellate",
+      "label": "On Constellation",
+      "startdescription": "\"You are seeking someone as well?\"",
+      "description": "\"You seem determined... I wish you all the luck I never found...\" He tries a smile, but it's wan like the sun through cloudcover. \"The choice alone seems to have emboldened you allready. Good luck, friend\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicheart",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"The Direction of Heart I studied. It is referenced in all of my most famous works. It contains in itself the Largest and the Smallest, the most real and the most Ephemeral. In it's Direction, it represents both the infinity of the sky and the infinity of the self. If Heart is your Intent, it is like the supportive breath of life. It will sustain and maintain your Direction, if possible.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.harald.heart"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicwinter",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"Winters are not that harsh here, not like our neighbors to the north. Here, the Intent of Winter can still be a kindness: a wiping of the slate, a quieting of the noise. I have not sought what lies under the Direction of Winter. But perhaps... Let me know if you find what lies there.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.harald.winter"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicwronggrail",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"Cybele's ministrations I never mastered. Those perform better at more private stages I think, unless you want to get infamous for debauchery.\" He rolls his shoulder. \"Perhaps a vaudevillian can help you further?\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.harald.grail"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicwronglantern",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"the Lantern of Enlightenment, Hekate's seeking torches... Lantern, like the Watchman Illuminates. If something remains obscured to you, try affecting it with the intent of Lantern. \"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.harald.lantern"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicwrongmoth",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"Moth? Moth is the distraction. Moth is that which clings to you, buzzes around. Moth is the distractions of nature, the miseries of the world. if you are chased by a shadow that you wish to expose or expell, your direction should be aimed at Moth.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.harald.moth"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.musicwrong",
+      "label": "The Art of Composition",
+      "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
+      "description": "\"You think to highly of me. I truly was a much more common artist than you think. I never traversed down these Directions, or composed with that Intent. I cannot help you.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.eddanger",
+      "label": "Discuss a Local Legend",
+      "startdescription": "\"You wish to discuss Eddanger Skov?\"",
+      "description": "\"The stories of that place go back to before this land was properly civilised. It's a place of stories. Huldra, Nixen, things that crawl or flutter. Not much like the Havfrue that my city is known for. My favorite of the Eddanger tales, however, ties it to the Thunderskin, but the most reliable tie it to the Ring-Yew.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.mermaid",
+      "label": "Discuss Voiceless Devotion",
+      "startdescription": "\"You seek my opinion on one of the Old Tales?\"",
+      "description": "\"My rendition of this story will be what I am remembered for, but I wonder how much of the audience will catch the echoes of the Truer story layered beneath.\" He gazes out the window, at the clouds chasing through the sky. \"To suffer is mortal, but to survive is divine.\"",
+      "updateCodexEntries": {
+        "codex.harald": {
+          "add": [
+            "codex.harald.voicelessdevotion"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.pineknight",
+      "label": "Discuss the Ballad of the Pine Knight",
+      "startdescription": "\"You seek my opinion on one of the Old Tales?\"",
+      "description": "\"Ach, Fludd's greatest work. Though I have never found an satisfactory english translation.\" He leans forward, more animated than you have seen him before. \"Did you know... some tellings of the tale put the Honey Queens hidden kingdom, here, on this peninsula?\" His eyes are far off, to some experience I can't follow him. Then he snaps back, seemingly ashamed of his reverie. \"But I suppose each place will carry folklore like that.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.songwinter",
+      "label": "Play a song for the Maestro?",
+      "startdescription": "\"You want to talk about the Arts?\"",
+      "description": "He listens with his eyes closed, his face a pale mask. Only when I am done he opens his eyes. \"I have heard those notes before... I hear them in the songs I never wish to work on. You may have a braver soul than mine, or a more honest one.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.songwrong",
+      "label": "Play a song for the Maestro?",
+      "startdescription": "\"You want to talk about the Arts?\"",
+      "description": "\"He listens with his eyes closed, his brow furrowed in a frown. He shakes his head when I am done \"I'm sorry. I have heard nothing of value today.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.copenhagen.harald.kerys",
+      "label": "Ask After the Sunken City",
+      "startdescription": "\"You wish to talk to me about sea shanties and myths?\"",
+      "description": "\"I know the stories of the Norwegian Coast, The Hellegat, Skagerrak and the East Sea. No such city is found here. Our Old Gods live in the forests, and on the mountain tops.\""
+    }
+  ]
+}

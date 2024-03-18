@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.agents.ship.theathenian.controller",
+      "label": "The Athenian",
+      "description": "<This is the Athenian, a hunter ship.>"
+    },
+    {
+      "id": "mariner.agents.ship.theathenian",
+      "label": "The Athenian",
+      "description": "<This is the Athenian, a hunter ship.>"
+    }
+  ]
+}

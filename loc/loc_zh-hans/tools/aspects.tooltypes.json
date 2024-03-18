@@ -1,0 +1,36 @@
+{
+  "elements": [
+    {
+      "id": "mariner.tool.lantern",
+      "label": "Lantern Tool"
+    },
+    {
+      "id": "mariner.tool.forge",
+      "label": "Forge Tool"
+    },
+    {
+      "id": "mariner.tool.edge",
+      "label": "Edge Tool"
+    },
+    {
+      "id": "mariner.tool.winter",
+      "label": "Winter Tool"
+    },
+    {
+      "id": "mariner.tool.heart",
+      "label": "Heart Tool"
+    },
+    {
+      "id": "mariner.tool.grail",
+      "label": "Grail Tool"
+    },
+    {
+      "id": "mariner.tool.moth",
+      "label": "Moth Tool"
+    },
+    {
+      "id": "mariner.tool.knock",
+      "label": "Knock Tool"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.thebes.explore.riverbanks.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.thebes.explore.riverbanks.events",
+      "label": "Exploration Deck"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "recipes": [
+    {
+      "label": "Explore Luxor River Banks",
+      "id": "mariner.vaults.thebes.riverbanks.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.thebes.riverbanks.task.pre",
+      "label": "Explore Luxor River Banks",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.thebes.explore.riverbanks.exhausted",
+      "label": "Luxor River Banks Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.thebes.riverbanks.drawevent.others",
+      "label": "Explore Luxor River Banks"
+    },
+    {
+      "id": "mariner.vaults.thebes.riverbanks.drawevent.scales",
+      "label": "Explore Luxor River Banks"
+    },
+    {
+      "id": "mariner.vaults.thebes.riverbanks.drawevent.colossus",
+      "label": "Explore Luxor River Banks"
+    },
+    {
+      "id": "mariner.reveal.chest.hint",
+      "label": "Unseal The Warded Chest?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. Not even the water dared to disturb it's sanctity, and so for me to attempt it unassisted would be foolish.>"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.nonothing",
+      "label": "Unseal The Warded Chest?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I will need the right tool to pry open its latches, and the right trappings to unseam its seals.>"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.notoolnoperson",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have found the trappings to evoke the rites of opening, but I still need to tools to pry the >"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.notrappingnoperson",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have found the tool I needed, and the right trappings to unseam its seals.>"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.nopersonnotool",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have been warned that the wards are strong, and I should not attempt it without being under Mother Euphresme's Guidance.>"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.notool",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have found the trappings to evoke the rites of opening, but I still need to tools to pry the >"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.notrapping",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have found the tool I needed, and the right trappings to unseam its seals.>"
+    },
+    {
+      "id": "mariner.unlatch.chest.hint.noperson",
+      "label": "Unseal The Warded Box?",
+      "startdescription": "<This box is sealed, with nails, with wrappings, and with a embossed script. I have been warned that the wards are strong, and I should not attempt it without being under Mother Euphresme's Guidance.>"
+    },
+    {
+      "id": "mariner.unlatch.chest",
+      "label": "Unseal The Warded Box",
+      "startdescription": "I have layed down my tools on oiled parchment, as Euphresme sanctified the space with tooth and venom. Her eyes glitter as her lips curl into the first incantations. I stand ready to assist.",
+      "description": "<Some parts of the ritual feel like a holy sacrament, other parts like a harrowing ceaserian surgery or a tense dismantling of a device. Euphresme is High Priestess, Head Nurse, engineer. Most items are extracted, all except for the book. But she keeps open the lid while I hastefully make a copy.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.bend.explore.hintexclusiveattention",
+      "label": "Dive Down The Deeper Bend",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.thebes.bend.explore.pre",
+      "label": "Dive Down The Deeper Bend",
+      "startdescription": "The river is deep here, and fast flowing. You cannot tell what the bottom hides, and somewhere, it hides the slice of thebes, lost to the histories."
+    },
+    {
+      "id": "mariner.vaults.thebes.bend.explore",
+      "label": "Dive Down The Deeper Bend",
+      "startdescription": "The river is deep here, and fast flowing. You cannot tell what the bottom hides, and somewhere, it hides the slice of thebes, lost to the histories."
+    },
+    {
+      "id": "mariner.vaults.thebes.bend.explore.success",
+      "label": "A Glimmer of the City",
+      "description": "Down and down, fighting the current and keeping an eye out for slinking predators. We go until we worry our longs will give out, and trail the river bottom like tilapia. There! The glint of marble. The curve of stone, sunken below water and silt and sand."
+    },
+    {
+      "id": "mariner.vaults.thebes.bend.explore.failure",
+      "label": "Swayed by the Current",
+      "description": "We dive down, but the currents are strong. We lose both are cool and our cool on the way, and we have to abort and dive back up, but we arise in troubled waters..."
+    },
+    {
+      "id": "mariner.vaults.thebes.branch.navigate.hintexclusiveattention",
+      "label": "Break Into the Theban Branch",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.thebes.branch.navigate.pre",
+      "label": "Break Into the Theban Branch",
+      "startdescription": "Most wards have washed away, but the door is still shut with a strength beyond the mundane. This is compounded by our muscles slowed in the water, and our longues pressed down by the weight."
+    },
+    {
+      "id": "mariner.vaults.thebes.branch.navigate",
+      "label": "Break Into the Theban Branch",
+      "startdescription": "Most wards have washed away, but the door is still shut with a strength beyond the mundane. This is compounded by our muscles slowed in the water, and our longues pressed down by the weight."
+    },
+    {
+      "id": "mariner.vaults.thebes.branch.navigate.success",
+      "label": "Rewarded",
+      "description": "The door yields, and we flow into the room with the waters of the rivers. Now a rapid exploration ensues, all scramble against the increasingly pressing feeling against our lungs."
+    },
+    {
+      "id": "mariner.vaults.thebes.branch.navigate.failure",
+      "label": "Warded Off",
+      "description": "We bust in, but slow and sluggish, and triggering some ward long held on this place. We take what we can and leave, but even as we dry off the damp of the water, a chill remains."
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds.navigate.hintexclusiveattention",
+      "label": "Root around in the Slick and Roots",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds.navigate.pre",
+      "label": "Root around in the Slick and Roots",
+      "startdescription": "With the water to our knee or to our navel or up to our chest, we have to seek what still remains in the silt. The reeds are surprisingly sharp, and the roots fight our digging fingers.  We have to sink our arms into the  silt to the elbow, as feet threaten to slip into the muck."
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds.navigate",
+      "label": "Root around in the Slick and Roots",
+      "startdescription": "With the water to our knee or to our navel or up to our chest, we have to seek what still remains in the silt. The reeds are surprisingly sharp, and the roots fight our digging fingers.  We have to sink our arms into the  silt to the elbow, as feet threaten to slip into the muck."
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds.navigate.success",
+      "label": "A Clue",
+      "description": "My hand brought something to the surface. I wash it off clay and muck and slick."
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds.navigate.failure",
+      "label": "Frustration and Exhaustion",
+      "description": "The work is hard, the conditions unpleasant, and musquitos make every moment worse than the one before. While we come up with a prize, it has left my crew exhausted, and having much more work then this will drive them away from my employment."
+    },
+    {
+      "id": "mariner.vaults.thebes.events.nile.hintexclusiveattention",
+      "label": "<Up the Nile>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.thebes.events.nile",
+      "label": "<Up the Nile>",
+      "startdescription": "<I must travel to the Egyptian Thebes, that is to say the city of Luxor. The river has been well traveled for millenia with ships from all over the great green. If I mess up here, news will spread fast, and any pursuer will find my scent.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.nile.success",
+      "label": "Needle and Thread",
+      "description": "<We weave our way between ships powered by muscle, wind and steam, while traveling up the long green lint that has been draped off the North African coast.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.nile.failure",
+      "label": "<An Unpleasant Business>",
+      "description": "<We make our way up the Nile, but it does not go without its issues.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.scales.hintexclusiveattention",
+      "label": "<Scales In The Water>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.thebes.events.scales",
+      "label": "<Scales In The Water>",
+      "startdescription": "<The Egyptians have lived on the Nile for millenia, but its oldest inhabitants have bobbed on that river for millenia more. The siblings of scale: watersnakes, crocodiles and their brethren have come to investigate our investigation. We must fend them off or else call upon the proper authorities to ward them off. >"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.scales.success",
+      "label": "Dissolving Back into the Dark",
+      "description": "<The shapes again merge with the water and the night. We are clear of the reptilians ire for now.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.scales.failure",
+      "label": "<Snapping Maws>",
+      "description": "<A rush in the water, a viselike jaw snaps shut. The crocodile retreats with its prey and we are now with one less than we were before. >"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.colossus.hintexclusiveattention",
+      "label": "<The Colossus>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.thebes.events.colossus",
+      "label": "<The Colossus>",
+      "startdescription": "<Our small dinghy or our splashing selves have attracted the ire of the king of the river. We must flee, or defend ourselves… Once a Hippo has been enraged, it does not lose interest of its own accord.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.colossus.success",
+      "label": "Pounding Heart, Quiet Waters",
+      "description": "<One does not defeat a hippopotamus, not without specialist weaponry. But we have discouraged it to further attack our investigation. It disappears into the night.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.colossus.failure",
+      "label": "<The Rampage Continues>",
+      "description": "<It changes, it rocks the boat, it rams those in the water. It will exact its toll on us until we drive it away, or leave the area all together. >"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.ships.hintexclusiveattention",
+      "label": "<Ships in the Night>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.thebes.events.ships",
+      "label": "<Ships in the Night>",
+      "startdescription": "<Late night cargo, or lantern lit river cruises. The Nile in Luxor is rarely quiet, even in the depths of night. We must hide our operations here, or else the authorities will be called.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.ships.success",
+      "label": "Passing By",
+      "description": "<Lanterns hooded, voices down. The ships pass without taking note of our activities.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.ships.failure",
+      "label": "<Spreading News >",
+      "description": "<Those on the boats will spread the news to those on shore, and soon the authorities will be alerted.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.party.hintexclusiveattention",
+      "label": "<Search Party>",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.thebes.events.party",
+      "label": "<Search Party>",
+      "startdescription": "<Police ships have been sent out onto the river to investigate untowards activities. The authorities do not look too kindly to looters of ancient tombs, not even those that have been lost to the river. We will have to hide, or talk our way out of the situation.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.party.success",
+      "label": "Diverted attention",
+      "description": "<We have diverted the attention away from us, perhaps the river will be a little more quiet now. >"
+    },
+    {
+      "id": "mariner.vaults.thebes.events.party.failure",
+      "label": "<Caught in the Lights>",
+      "description": "<We are caught in a white circle, trapped in visibility. Even diving down into the river soon loses its attractiveness as an exit. Consequences will follow. >"
+    }
+  ]
+}

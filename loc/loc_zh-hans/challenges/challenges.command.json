@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.command",
+      "label": "Command My Crew",
+      "startdescription": "This is the time where leadership is needed. This is the time where a failure of any crewmember could mean a failure of my mission. I could evoke the balanced Winter or the undeniable Edge.",
+      "description": "This is the time where leadership is needed. This is the time where a failure of any crewmember could mean a failure of my mission. I could evoke the balanced Winter or the undeniable Edge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.command.winter.high",
+      "label": "Auroral Authority",
+      "startdescription": "Conducted to my command, my ship is as certain  as rhyme and as unstuppable as dawns advances. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.command.winter.med",
+      "label": "Wordless Authority",
+      "startdescription": "I need not speak, just a glance and the crew falls into place. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.command.winter.low",
+      "label": "Quiet Authority",
+      "startdescription": "If I cannot be unbalanced, so too can my crew not get flustered. We may yet succeed"
+    },
+    {
+      "id": "mariner.challenge.command.edge.high",
+      "label": "Venerated Command",
+      "startdescription": "They cannot hesitate. If they all act with my intent, our ship will turn into a creature with unbridled ferocity. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.command.edge.med",
+      "label": "Unifying Command",
+      "startdescription": "They cannot doubt me, if they are to be my many limbs. And the dosen arms of my body are storng, and growing stronger still. We will likely succed."
+    },
+    {
+      "id": "mariner.challenge.command.edge.low",
+      "label": "Fierce Command",
+      "startdescription": "Not a moment my crew can question me. Together, we will conquer hell and high water. We may yet succeed"
+    }
+  ]
+}

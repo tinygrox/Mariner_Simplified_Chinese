@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.special.start.northsea.london.quest.marinettedoll",
+      "label": "A Bittersweet Request",
+      "startdescription": "As I leave the club, Mr. Agdistis invites me to join him.<br><br><i>\"When we first met, I noticed something torn in you. Your soul aches, wounded, bleeding into the world like an ink on the waters surface. Some of these wounds...I know about them. Though yours is a birthwound and mine a broken cog...\"</i>"
+    },
+    {
+      "id": "mariner.northsea.london.quest.marinettedoll.start.2",
+      "startdescription": "<i>\"I knew someone, once. She changed my life, but not how she was meant to.\"</i><br><br>Agdistis trails off as his eyes gaze into the past.<br><br><i>\"At the most important time, I couldn't follow through. Since then I cannot not go forward, nor can I let go. She holds my heart, instead of who it was promised to. And now...I need you to do this for me.\"</i>"
+    },
+    {
+      "id": "mariner.northsea.london.quest.marinettedoll.start.3",
+      "description": "He hands me a little bundle wrapped in red satin cloth.<br><br><i>\"Please, let go of this memory for me, at the heart of a violent storm. Let it be utterly mangled and consumed by the waves. Help me break this stasis I have stayed in for so long. I hope it will illuminate your own next step. Please take it.\"</i>",
+      "updateCodexEntries": {
+        "codex.agdistis": {
+          "add": [
+            "codex.agdistis.givendoll"
+          ]
+        }
+      }
+    }
+  ]
+}

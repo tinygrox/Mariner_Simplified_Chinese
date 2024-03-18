@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.eddangerforest.risen.loop",
+      "slots": [
+        {
+          "id": "defender1",
+          "label": "Defender",
+          "description": "Someone I commit to repel the Risen."
+        },
+        {
+          "id": "defender2",
+          "label": "Defender",
+          "description": "Someone I commit to repel the Risen."
+        },
+        {
+          "id": "defender3",
+          "label": "Defender",
+          "description": "Someone I commit to repel the Risen."
+        }
+      ],
+      "label": "The Risen Puppet Approaches",
+      "startdescription": "Its steps are silent, graceful and inhuman. Its broken-doll limbs are steered and strengthened by ivy vines, its skin protrudes with brambles. It neither breathes nor talks, but its wasp-nest chest drones. It readies to strike.",
+      "description": "It stalks behind us for a moment, but soon the vinestrings draw tight, and the risen must return to court."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.risen.freeattack",
+      "label": "It Lunges",
+      "startdescription": "No one could - or wanted to resist the sheer horror that this thing is and risk losing their life. But as we stood there, frozen by fear, it lunged towards one of us.",
+      "description": "It stalks behind us for a moment, but soon the vinestrings draw tight, and the risen must return to court."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.risen.hurtsdefender",
+      "label": "It Grabbed One",
+      "startdescription": "Watch out, the vines also come from this direction-",
+      "description": "It stalks behind us for a moment, but soon the vinestrings draw tight, and the risen must return to court."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.risen.disassembled",
+      "label": "Risen Regenerating",
+      "startdescription": "We have seperated limb from limb, and tore lose the vines that bound it. But here in the Ring Yew Heartlands, they will never want for raw materials. Allready the vines are growing, allready the fallen form is renewed... Must must whatever we came here to do, and quickly.",
+      "description": "It stalks behind us for a moment, but soon the vinestrings draw tight, and the risen must return to court."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.risen.repelled",
+      "label": "Risen Repelled",
+      "startdescription": "With a tug it is pulled away from us, towards the tree. Again its broken dancer steps circle our group.",
+      "description": "It stalks behind us for a moment, but soon the vinestrings draw tight, and the risen must return to court."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.makesupersitious",
+      "label": "A Seed of Fear",
+      "description": "A fear has found purchase in this sailor's heart, and soon it will blossom into Terror. They will still be capable, but they will not be capable of standing up to Events tinged by the Mansus or the Woods."
+    }
+  ]
+}

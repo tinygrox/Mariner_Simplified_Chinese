@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.heart.hint",
+      "label": "Hint: A Sustaining Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Heart."
+    },
+    {
+      "id": "mariner.performances.heart.start",
+      "label": "Perform a Show laced with the Intent of Heart",
+      "startdescription": "Halfway through the performance, the first audience member joined in with the chorus. Now, we all sing with one voice, with no edge between one voice and the next."
+    },
+    {
+      "id": "mariner.performances.heart.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    }
+  ]
+}

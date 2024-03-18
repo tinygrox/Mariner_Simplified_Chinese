@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.perceive",
+      "label": "Sight and Insight",
+      "startdescription": "A challenge of perception or understanding, which I can tackle with the bright Lantern or the intuitive Knock.",
+      "description": "A challenge of perception or understanding, which I can tackle with the bright Lantern or the intuitive Knock.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.perceive.lantern.high",
+      "label": "Golden Eyes",
+      "startdescription": "Behind my eyes, a sun. I need not look, for the truth is in me allready. I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.perceive.lantern.med",
+      "label": "Silver Eyes",
+      "startdescription": "Behind my eyes, a lamp. Ony truth withstands my gaze. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.perceive.lantern.low",
+      "label": "Amber Eyes",
+      "startdescription": "Behind my eyes, a candle, and it's flickers reveal the true path forward. I may succeed."
+    },
+    {
+      "id": "mariner.challenge.perceive.knock.high",
+      "label": "Hallowed Insight",
+      "startdescription": "Inside my skull, a door is shattered. The path is clear. I will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.perceive.knock.med",
+      "label": "Deep Insight",
+      "startdescription": "Inside my skull, a door stands open, and I know what is obscured or lost. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.perceive.knock.low",
+      "label": "Creeping Insight",
+      "startdescription": "Inside my skull, a door stands ajar, and sometimes insights slip through. I may find what I am looking for."
+    }
+  ]
+}

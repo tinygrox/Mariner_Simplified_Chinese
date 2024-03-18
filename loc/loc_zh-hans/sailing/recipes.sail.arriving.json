@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.arriving.docking",
+      "label": "Arriving",
+      "startdescription": "Arriving to port."
+    }
+  ]
+}

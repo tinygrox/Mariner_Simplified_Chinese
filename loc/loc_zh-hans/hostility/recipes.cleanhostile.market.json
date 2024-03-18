@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.cleanhostile.market.pre",
+      "label": "Shuttered Doors",
+      "startdescription": "My mercantile contacts cannot be seen associating with me, and have therefor shuttered their window and barred their door. If I wish to trade, I must find my way in unobserved."
+    },
+    {
+      "id": "mariner.cleanhostile.market",
+      "label": "Shuttered Doors",
+      "startdescription": "My mercantile contacts cannot be seen associating with me, and have therefor shuttered their window and barred their door. If I wish to trade, I must find my way in unobserved."
+    },
+    {
+      "id": "mariner.cleanhostile.market.success",
+      "label": "Commerce finds a Way",
+      "description": "Every proper shop has a backroom window to leave open for just the right kind of unexepcted visitor."
+    },
+    {
+      "id": "mariner.cleanhostile.market.failure",
+      "label": "No Route of Access",
+      "description": "The shadows are not our friends today. We are spotted on the roof of a nearby window, and trouble starts anew."
+    }
+  ]
+}

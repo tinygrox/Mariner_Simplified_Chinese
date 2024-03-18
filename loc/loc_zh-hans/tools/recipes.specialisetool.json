@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.specialisetool.with.lantern",
+      "label": "<Infuse Tool With the lantern Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.forge",
+      "label": "<Infuse Tool With the forge Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.edge",
+      "label": "<Infuse Tool With the edge Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.winter",
+      "label": "<Infuse Tool With the winter Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.heart",
+      "label": "<Infuse Tool With the heart Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.grail",
+      "label": "<Infuse Tool With the grail Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.moth",
+      "label": "<Infuse Tool With the moth Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    },
+    {
+      "id": "mariner.specialisetool.with.knock",
+      "label": "<Infuse Tool With the knock Specialisaton>",
+      "startdescription": "<>",
+      "description": "<It is done.>"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.instrument.plain.lantern",
+      "label": "Theremin",
+      "description": "Its tunes live on the ether alone; Are these the tones that angels sing?"
+    },
+    {
+      "id": "mariner.instrument.plain.forge",
+      "label": "Organ",
+      "description": "More an apparatus than a tool. Brass pipes and polished copper, it contorts the air into sound."
+    },
+    {
+      "id": "mariner.instrument.plain.edge",
+      "label": "Brass",
+      "description": "For Valor, Victory of Funeral, its song carries echoes of battle."
+    },
+    {
+      "id": "mariner.instrument.plain.winter",
+      "label": "Bell",
+      "description": "Its call marks the silence."
+    },
+    {
+      "id": "mariner.instrument.plain.heart",
+      "label": "Drum",
+      "description": "The oldest instrument, the most familiar rhythms."
+    },
+    {
+      "id": "mariner.instrument.plain.grail",
+      "label": "Guitar",
+      "description": "Cradled on your lap, this instrument can be your perfect accompaniment"
+    },
+    {
+      "id": "mariner.instrument.plain.moth",
+      "label": "Violin",
+      "description": "An instrument made for lilting tunes, to describe changing moods or changing seasons."
+    },
+    {
+      "id": "mariner.instrument.plain.knock",
+      "label": "Sitar",
+      "description": "Through these strings, give your audience a taste of your experiences, an understanding of your view."
+    }
+  ]
+}

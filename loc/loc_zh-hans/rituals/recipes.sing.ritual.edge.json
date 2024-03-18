@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.edge.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.edge.start",
+      "label": "Perform a covert Edge Ritual in a Competitive Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.edge",
+      "label": "Perform a covert Edge Ritual in a Competitive Space",
+      "startdescription": "There are symbols to draw on significant body parts: the forehead, the shoulder blade, the left hand. The knives are only symbolic, but if the ritual takes effect, having a weapon close might prove prudent.",
+      "description": "Music brightens, Influence blossoms. It reverberates from me like unheard echoes, cats hiss and voices rise in anger."
+    }
+  ]
+}

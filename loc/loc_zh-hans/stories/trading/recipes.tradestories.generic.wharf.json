@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tradestory.generic.wharf",
+      "label": "Trade My Story With Others at the Wharf",
+      "startdescription": "If I settle at the Wharf, I could listen to the stories that grow larger each time they are retold.",
+      "description": "Stories rebound and revolve here, it is a back and forth between participants, and each story takes a step above the last. As they collaboratively climb to a baudy creak of incredulity, and I cannot help but smile."
+    }
+  ]
+}

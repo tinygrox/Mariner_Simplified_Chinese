@@ -1,0 +1,147 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.solve.mystery.imago",
+      "label": "<Cross Examining the History of Matthias and the Imago>",
+      "startdescription": "<We have gathered three accounts of the encounter between Matthias and the Violet Imago, Name of the Moth. Each Teller may change the details, but together the corpus may reveal the underlying truth.>",
+      "description": "<Among each version, certain sentiments are shared, Between each version, differences stand out...>"
+    },
+    {
+      "id": "mariner.solve.mystery.imago.hint.notenoughbooks",
+      "label": "<Cross Examining the History of Matthias and the Imago: Not Comprehensive>",
+      "startdescription": "<These stories tell me much, but they do not tell me all. I do not know enough to filter the truth from the embalishments, to guess the tone of voice from words recorded a century later.>"
+    },
+    {
+      "id": "mariner.dreamer.convert.aramaic.infinite",
+      "label": "",
+      "startdescription": ""
+    },
+    {
+      "id": "repeated.translation",
+      "label": "Inquire for another copy of the Translation of the Imago",
+      "startdescription": "Were you careless or just greedy? No mind. I can circumvent the wards again, but this time, I ask for a donation for the supplies. This drafty old building doesn't keep itself standing, you know.",
+      "description": "The motions are measured, the incantation precise. after painful minutes the chest can be opened once more, and once more, I must hastily copy the script. Afterwards she rubs her hands together and tells me to be sure I get what I need out of it.",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金",
+          "description": "Recompense for services rendered. Alms offered."
+        },
+        {
+          "id": "funds2",
+          "label": "资金",
+          "description": "Recompense for services rendered. Alms offered."
+        },
+        {
+          "id": "funds3",
+          "label": "资金",
+          "description": "Recompense for services rendered. Alms offered."
+        }
+      ]
+    },
+    {
+      "id": "mariner.archeologist.convert.aramaic.first",
+      "label": "Conversation and Education",
+      "startdescription": "\"You found something at the Lethian Sites?\"",
+      "description": "\"I see...\". Well I do not have the time to translate these, but thankfully, that is what teacher assistants are for. If you leave them with me for a few days, I will give you a translation."
+    },
+    {
+      "id": "mariner.archeologist.convert.aramaic.second",
+      "label": "Conversation and Education",
+      "startdescription": "\"Another find? My assistant will be thrilled\"",
+      "description": "\"Appearantly his translation did the rounds amongst the faculty. It wcaused quite the stir. If this gains any more infamy, I will have to act as my own supprecion bureau. I have even seen some doodles of the illustrations between my students notes.\""
+    },
+    {
+      "id": "mariner.archeologist.convert.aramaic.third",
+      "label": "Conversation and Education",
+      "startdescription": "\"Completed the set?\" She smiles wryly. \"I am scared and elated.\"",
+      "description": "\"\"She sighs.\"I get a new addition to our newly inaugurated 'Ocluded' Section. The Secrets within the other volumes were a bit too appealing. We want to avoid drawing the attention of the eyes of the greater authority to our university, so we restrict access and have a stern policy regarding scissors on campus. I'll show you the conviscated selection we have gathered as I set my T.A. to work."
+    },
+    {
+      "id": "mariner.archeologist.convert.aramaic.witness",
+      "label": "Conversation and Education",
+      "startdescription": "\"One more? How did you manage that?\"",
+      "description": "\"A personal account from Matthias? An extraodinary source, for a multitude of reasons... I will make sure you ge a proper translation.\""
+    },
+    {
+      "id": "mariner.archeologist.convert.infinite",
+      "label": "Conversation and Education",
+      "startdescription": "\"Another find? I will call up the regulars.\"",
+      "description": ""
+    },
+    {
+      "id": "mariner.archeologist.output.loss",
+      "label": "On Matthias and Imago: Loss Translated",
+      "description": "\"We discussed the translation, which caused the young man some blushing, I might add. But this is a univeristy, and we live in a modern world.\""
+    },
+    {
+      "id": "mariner.archeologist.output.transformation",
+      "label": "On Matthias and Imago: Transformation Translated",
+      "description": "\"These books have been cause for further study for me. Not just on the practices of the House of Lethe, but also on the House of the Sun.\""
+    },
+    {
+      "id": "mariner.archeologist.output.pursuit",
+      "label": "On Matthias and Imago: Pursuit Translated",
+      "description": "\"This issue caused quite a stir amongst the students. Late night coiffeuring it seems.\" her spoon clinks against her glass. \"I have not ventured the step yet. Perhaps once the semester is over...\""
+    },
+    {
+      "id": "mariner.archeologist.output.witness",
+      "label": "On Matthias and Imago: Witness Translated",
+      "description": "\"Well, sorry that took a while. I was determined to do this one myself, but it took a while to find the time. I wanted to make sure I made plenty of copies too, ofcourse. It appears to be a diary, or a set of personal notes. It begins with Mattias observing that he has been challenged by the Imago, and eagerly accepting this challenge. Then there is a lot of back and forth between them, with some fascinating implications for daily life in 10th century before christ in damascus... and a lot of dreamscape battles. Mattias found himself outmatched in the woods, so decided to track iamgo in the wake. He describes a route that she flies along the coast when the moon is in her first quarter, and the winds are rising. \"In Reverie for past desolations...\" Unsure what he means by that, but more practically, he things she can be caught then, on a vessel loading with enough Moth.\""
+    },
+    {
+      "id": "mariner.dreamer.convert.aramaic.first",
+      "label": "Shade and Sharing",
+      "startdescription": "You need something translated from aramaic? Not my mother tongue, but I have encounted it enough now, both mad ravings and profound realisations.",
+      "description": "It was the second language I thought myself, after Hebrew and before Mandeic. But it was learning English that took me the longest. Hand me the work and buy me a meal, and I will supply you with a translation, and then you can compliment me on my language skills."
+    },
+    {
+      "id": "mariner.dreamer.convert.aramaic.second",
+      "label": "Shade and Sharing",
+      "startdescription": "Another aramaic Translation?",
+      "description": "Keeping me sharp huh? I haven't read much aramaic since I was in the Zagros Mountains with the Last Hunters. Also the last time I have worn chest binders. Oh well... Buy me a cool drink to toast the good memories and wash away the bad ones while I work on your translation."
+    },
+    {
+      "id": "mariner.dreamer.convert.aramaic.third",
+      "label": "Shade and Sharing",
+      "startdescription": "You completed the set? Great!",
+      "description": "I am glad. I have gotten invested... Hunting in the Woods, climbing in the House. There is beauty in the struggle and in the sacrifice."
+    },
+    {
+      "id": "mariner.dreamer.convert.infinite",
+      "label": "Shade and Sharing",
+      "startdescription": "Something else need translating?",
+      "description": "Well, you know the drill! You supply sweets, I supply the translations..."
+    },
+    {
+      "id": "mariner.dreamer.output.router",
+      "slots": [
+        {
+          "id": "funds",
+          "label": "资金",
+          "description": "Enough to buy a libation and a treat."
+        }
+      ]
+    },
+    {
+      "id": "mariner.dreamer.output.loss",
+      "label": "Matthias and Imago: Loss Translated",
+      "description": "\"Here it is, fully translated. Gruesome stuff. I can commend them for willing to sacrifice so much, but the details make my skin crawl\""
+    },
+    {
+      "id": "mariner.dreamer.output.transformation",
+      "label": "On Matthias and Imago: Transformation Translated",
+      "description": "\"into the fire they fly...\" Zoha's eyes are far, shining. \"Risen beyond our sight... But not beyond ours, perhaps\" She raises her eyes up at the sun filtering through the palm leaves and sighs."
+    },
+    {
+      "id": "mariner.dreamer.output.pursuit",
+      "label": "On Matthias and Imago: Pursuit Translated",
+      "description": "\"The Woods... all too familiar. I cannot imagine going there to hunt, though. It seems perverse to choose that darkness, instead of guiding Light.\""
+    },
+    {
+      "id": "mariner.dreamer.output.witness",
+      "label": "On Matthias and Imago: Witness Translated",
+      "description": "\"Well that was quite more of a challenge. Not only a much older script, but much worse caligraphy, and if I can be honest, grammar. But it was illuminating... Matthias was meticulous, obsessive. They clashed in the Woods, but as she had a natural advantage there, he sought to lay a trap for her. He studied his prey closely, discovered things of her history from times before the languages he speaks was even common place. This way, he discovered a pattern in her behavior, that on nights when the moon was in her first quarter, she would ride the winds from the verdent crescent past the isle of cypresses. He claims you could catch her, on a ship laden with enough Moth. After that... well let's say they exited that \""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.first",
+      "label": "An Invitation from the Maestro",
+      "startdescription": "I Arrive at a house as joyous as a mausoleum. Inside awaits Harald Blomkwist, a once renowned musical virtuoso. Now, however, he sits in eerie silence. But he is appearantly willing to break that silence to offer me a job.",
+      "description": "\"She was taken from me, and now I cannot find her.\" Harald limps through the sun room towards piano. \"She is a dancer, my muse. Knew as much about the Suns' House as I did. I think she tried to tell me where she went... But I do not understand it. Can you find her for me?\" He collects scribbled musical notes strewn on the piano. \"I need her.\"",
+      "unlockCodexEntries": [
+        "codex.harald"
+      ]
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.success",
+      "label": "The Old Way Out",
+      "startdescription": "I consider the Ecdysiasts riddle.",
+      "description": "I understand now that she was crawling in her skin. I understand that Sulochana helps artists such as her, sometimes. I need to find out how far she went down the Old Way."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingsong",
+      "label": "A Missing Muse... Missing Song",
+      "startdescription": "I am close to finding Harald's muse. I know she went to the Ecdysis Club. But no one there is forthcoming with information. They won't share the secret unless I understand what desires drove her."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingplace",
+      "label": "A Missing Muse... Missing Place",
+      "startdescription": "I am close to finding Harald's Muse. I understand what impulses drove her to find the Old Way. I need to find where she started her search for Change. Where is The Shedder's Club?"
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingsongandaway",
+      "label": "A Missing Muse...Missing Song",
+      "startdescription": "Harald has asked me to find his Muse... I suspect she may have passed through the Ecdysis Club, but I must be there to investigate further."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint..missingsongawayfake",
+      "label": "A Missing Muse... Too Far",
+      "startdescription": "Harald has asked me to find his Muse... I suspect she may has visited the Ecdysis Club, but I must be there to investigate further."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.awayfake",
+      "label": "A Missing Muse... Too Far",
+      "startdescription": "I am close to finding Harald's Muse. I understand what impulses drove her to find the Old Way. I suspect she may have passed through the Ecdysis Club, but I must be there to investigate further."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingsongfake",
+      "label": "A Missing Muse... Unwilling to Talk",
+      "startdescription": "Harald has asked me to find his Muse... I suspect she may has visited the Ecdysis Club, but they are unwilling to talk to an outsider. Perhaps I should take up Agdistis offer and Perform."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.fake",
+      "label": "A Missing Muse... Unwilling to Talk",
+      "startdescription": "I am close to finding Harald's Muse. I understand what impulses drove her to find the Old Way. I suspect she may has visited the Ecdysis Club, but they are unwilling to talk to an outsider. Perhaps I should take up Agdistis offer and Perform."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingsongandfakehostile",
+      "label": "A Missing Muse... Missing Song",
+      "startdescription": "Harald has asked me to find his Muse... I suspect she may has visited the Ecdysis Club, but they are unwilling to talk to an outsider. Perhaps I should take up Agdistis offer and Perform. But with the Club observed like this, I cannot easily visit to pursue this further."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.fakehostile",
+      "label": "A Missing Muse... Missing Place",
+      "startdescription": ""
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.missingsongandhostile",
+      "label": "A Missing Muse... Missing Song",
+      "startdescription": ""
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint.hostile",
+      "label": "A Missing Muse... Missing Place",
+      "startdescription": "I am close to finding Harald's muse. I know she went to the Ecdysis Club, and I think I know her motives. But with the Club observed like this, I cannot easily visit to pursue this further."
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.mystery.hint",
+      "label": "Haralds Missing Muse",
+      "startdescription": "Harald has asked me to find his Muse... how to begin? Where would she go? What drove her?"
+    },
+    {
+      "id": "mariner.northsea.copenhagen.haraldmuse.unmarkedgrave",
+      "label": "The Worst News",
+      "startdescription": "\"What aren't you telling me? I can see in your face that you have found her. Spit it out!\" his face melts from anger to tears. \"I need to know.\"",
+      "description": "\"She's gone?\" He falls with his face in his hands. \"What's the point then...\" He sobs once, twice, three times, and then returns to silence for a while. \"The music. Take it, please. I cannot bare to write another note.\"",
+      "achievements": [
+        "mariner.achievements.haraldsmuse"
+      ],
+      "updateCodexEntries": {
+        "codex.harald": {
+          "add": [
+            "codex.harald.solvedmystery"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.northsea.london.halfheart",
+      "label": "Exploring London",
+      "startdescription": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+    },
+    {
+      "id": "mariner.explore.northsea.london.lackheart",
+      "label": "Exploring London With An Open Soul",
+      "startdescription": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.london.lackheart.foundtune",
+      "label": "Found Tune in London",
+      "description": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.london.lackheart.foundpackage",
+      "label": "Met a Member of the Network in London",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    },
+    {
+      "id": "mariner.explore.northsea.amsterdam.halfheart",
+      "label": "Exploring Amsterdam",
+      "startdescription": "Under high gables, through small alleys I pass, Across many bridges, past wide canals, I go. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+    },
+    {
+      "id": "mariner.explore.northsea.amsterdam.lackheart",
+      "label": "Exploring Amsterdam With An Open Soul",
+      "startdescription": "Under high gables, through small alleys I pass, Across  many bridges, past wide canals, I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.amsterdam.lackheart.foundtune",
+      "label": "Found Tune in Amsterdam",
+      "description": "Under high gables, through small alleys I pass, Across  many bridges, past wide canals, I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.amsterdam.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Amsterdam",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    },
+    {
+      "id": "mariner.explore.northsea.copenhagen.halfheart",
+      "label": "Exploring Copenhagen",
+      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+    },
+    {
+      "id": "mariner.explore.northsea.copenhagen.lackheart",
+      "label": "Exploring Copenhagen With An Open Soul",
+      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.copenhagen.lackheart.foundtune",
+      "label": "Found Tune in Copenhagen",
+      "description": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+    },
+    {
+      "id": "mariner.explore.northsea.copenhagen.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Copenhagen",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    }
+  ]
+}

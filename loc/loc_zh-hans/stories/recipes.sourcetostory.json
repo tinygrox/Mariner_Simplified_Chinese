@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sourcetostory.lorelei",
+      "label": "Learning Down The River She Slinks",
+      "startdescription": "This piece is much longer than the Lorelei, and written in the style of rhyming childrens stories. It does not leave the Lorelei sitting on her rock, but follows her down into her ark kingdom below river and hill.",
+      "description": "The verse grows darker when the Lorelei goes beneath the waves, and more scholarly. The writer introduces a parade of other water sprites of european and scandinavian folklore, all in servious of the same capricious queen. They are are her gifts to the surface world."
+    },
+    {
+      "id": "mariner.sourcetostory.debellismurorum.hint",
+      "label": "Beyond My Understanding",
+      "startdescription": "While I speak many languages passingly, a full text written in Latin is beyond my ken. I should find someone who could translate it for me."
+    },
+    {
+      "id": "mariner.sourcetostory.pineknight.hint",
+      "label": "Beyond My Understanding",
+      "startdescription": "While I speak many languages passingly, a full text written in Latin is beyond my ken. I should find someone who could translate it for me."
+    },
+    {
+      "id": "mariner.sourcetostory.kerys.hint",
+      "label": "Beyond My Understanding",
+      "startdescription": "I understand plenty of French, at least the harbor-patois and jargon of the lands touched by the Empire where the sun never sets.. But this mix of academic and florid French is beyond me. I should find someone who could translate it for me.>"
+    }
+  ]
+}

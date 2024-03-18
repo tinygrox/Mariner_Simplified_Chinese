@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.allseas.randomevent.fight",
+      "label": "Fisticuffs on the Docks",
+      "startdescription": "One of my crew has a high-strung temperament, and recently it has snapped. Blows where traded, and this has not come to the good of my good name, or the health of the crew."
+    }
+  ]
+}

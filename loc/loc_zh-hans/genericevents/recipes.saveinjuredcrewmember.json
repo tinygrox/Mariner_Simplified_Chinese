@@ -1,0 +1,41 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.saveinjuredcrewmember",
+      "label": "Bring the Medical Kit!",
+      "startdescription": "\"Bring the medical kit, quick!\""
+    },
+    {
+      "id": "mariner.saveinjuredcrewmember.attempt",
+      "label": "Trying to Save Someone",
+      "startdescription": "<Attempt to save, using heart aspect>",
+      "slots": [
+        {
+          "id": "help1",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to save this person."
+        },
+        {
+          "id": "help2",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to save this person."
+        },
+        {
+          "id": "help2",
+          "label": "Help",
+          "description": "Which implements are available to help attempting to save this person."
+        }
+      ]
+    },
+    {
+      "id": "mariner.saveinjuredcrewmember.success",
+      "label": "<Crewmember Saved>",
+      "description": "<Crewmember saved>"
+    },
+    {
+      "id": "mariner.saveinjuredcrewmember.failure",
+      "label": "<Crewmember Died>",
+      "description": "Muscles go tense, then slack forever.<br><br>One less able body to man the Kite."
+    }
+  ]
+}

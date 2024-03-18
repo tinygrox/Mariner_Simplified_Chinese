@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.trappings.lantern.1",
+      "label": "The Trappings of Lantern Communions",
+      "description": "Amber and polished mirrors. The whitest candle wax and hollowed eggshells. Origami stars."
+    },
+    {
+      "id": "mariner.trappings.forge.1",
+      "label": "The Trappings of Forge Praxis",
+      "description": "Shaved iron. A baked clay pot filled with ash. Nine sacred woods, to burn as fuel for the future."
+    },
+    {
+      "id": "mariner.trappings.edge.1",
+      "label": "The Trappings of Edge Practices",
+      "description": "Viridian war paint. Ritual knives. Spent bullets."
+    },
+    {
+      "id": "mariner.trappings.winter.1",
+      "label": "The Trappings of Winter Solemnities",
+      "description": "Graveyard earth. Polished bone. Idols of forgotten gods."
+    },
+    {
+      "id": "mariner.trappings.heart.1",
+      "label": "The Trappings of Heart Ceremonies",
+      "description": "Hand drums and pinecones. A stag's heart and a boar's skin. A string of pearls, pink and white."
+    },
+    {
+      "id": "mariner.trappings.grail.1",
+      "label": "The Trappings of Grail Sacraments",
+      "description": "Red berries and honey. A baby's caul and a mother's cord. Stained cups and scraped plates."
+    },
+    {
+      "id": "mariner.trappings.moth.1",
+      "label": "The Trappings of Moth Rituals",
+      "description": "Dried flowers and potent leaves. Strange poppets and forgotten treasures. A set of childrens' teeth"
+    },
+    {
+      "id": "mariner.trappings.knock.1",
+      "label": "The Trappings of Knock Rites",
+      "description": "Locks and lockpicks. Venoms and hawthorne. A scalpel and a snakeskin."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.sequencetoken",
+      "label": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.sequencetoken"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.sequencetoken",
+      "label": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.sequencetoken"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.sequencetoken",
+      "label": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.sequencetoken"
+    }
+  ]
+}

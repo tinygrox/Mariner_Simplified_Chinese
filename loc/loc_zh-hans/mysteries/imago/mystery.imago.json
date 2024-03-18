@@ -1,0 +1,71 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.imago",
+      "label": "Tale of Matthias and the Imago",
+      "description": "<The Mansus is not a place for lovers, but an Adept and a Monster fled those rules and chose love anyway, ascending higher and brighter. Why? What spurred them on? It is a feeling I cannot place yet, but if I steal this story, I could then curl my tongue to name it.>",
+      "slots": [
+        {
+          "id": "Missing.book",
+          "label": "Object",
+          "description": "<I wish to learn more of Matthias and Imago, but their story passed long ago. I will have probably have to seek the memory that does not die.>"
+        },
+        {
+          "id": "Missing.book",
+          "label": "Object",
+          "description": "<I wish to learn more of Matthias and Imago, but their story passed long ago. I will have probably have to seek the memory that does not die.>"
+        },
+        {
+          "id": "Missing.book",
+          "label": "Object",
+          "description": "<I wish to learn more of Matthias and Imago, but their story passed long ago. I will have probably have to seek the memory that does not die.>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.mysteries.imago.solved",
+      "label": "Tale of Matthias and the Imago: Solved",
+      "description": "<Among each version, certain sentiments are shared: Matthias and the Imago where enemies, Matthias and the Imago fell in love. Matthias and the Imago sacrificed of themselves for that love. Between each version, differences stand out... Matthias defied his Order to hunt Moth-spawn, while Imago challenged him as penance for her straying loyalty, they payed for their love in blood, but where rewarded with burning passion.>"
+    },
+    {
+      "id": "mariner.matthiasamethystloss",
+      "label": "On Matthias and the Amethyst Imago: Loss",
+      "description": "An account of an occult romance. A certain Para, son of Aaron, claims to have written this in a single day and a single night as part of his initiation into the Damascene branch of the House of Lethe - that tight-disciplined order of immortals who reject their past and future."
+    },
+    {
+      "id": "mariner.matthiasamethystlossaramaic",
+      "label": "On Matthias and the Amethyst Imago: Loss",
+      "description": "The diagrams and illustrations, even across the centuries, are elegant, hypnotic, occasionally erotic. In Aramaic."
+    },
+    {
+      "id": "mariner.matthiasamethystpursuit",
+      "label": "On Matthias and the Amethyst Imago: Pursuit",
+      "description": "An account of an occult romance. A certain Mek claims to have written this in a single night as part of his initiation into the Theban branch of the House of Lethe - that order of immortals who used the arts of water to conceal themselves."
+    },
+    {
+      "id": "mariner.matthiasamethystpursuitaramaic",
+      "label": "On Matthias and the Amethyst Imago: Pursuit",
+      "description": "The diagrams and illustrations, even across the centuries, are elegant, hypnotic, occasionally erotic. In Aramaic."
+    },
+    {
+      "id": "mariner.matthiasamethysttransformation",
+      "label": "On Matthias and the Amethyst Imago: Transformation",
+      "description": "An account of an occult romance. A certain Iyavogos claims to have written this in a single night as part of his initiation into the Aleppine branch of the House of Lethe - that order of immortals who would not pledge themselves to any Hour."
+    },
+    {
+      "id": "mariner.matthiasamethysttransformationaramaic",
+      "label": "On Matthias and the Amethyst Imago: Transformation",
+      "description": "The diagrams and illustrations, even across the centuries, are elegant, hypnotic, occasionally erotic. In Aramaic."
+    },
+    {
+      "id": "mariner.matthiasamethystwitness",
+      "label": "On The Amethyst Imago by Matthias",
+      "description": "An account of a fateful hunt. A certain Matthias seems to have written this in his final months in the Wake charting the mutual maneauvering between him and a Moth Name, The Violet Imago - it chronicles their pursuits, their feints and their eventual courting."
+    },
+    {
+      "id": "mariner.matthiasamethystwitnessaramaic",
+      "label": "On The Amethyst Imago by Matthias",
+      "description": "The diagrams and illustrations, even across the centuries, are elegant, hypnotic, occasionally erotic. In Aramaic."
+    }
+  ]
+}

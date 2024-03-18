@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.cleanhostile.wharf.pre",
+      "label": "Press Gangs",
+      "startdescription": "Some harbor press gangs have decided I am no longer welcome to conduct business on their turf. They suggest I leave town, quickly. [Adress this challenge with Forge or Edge.]"
+    },
+    {
+      "id": "mariner.cleanhostile.wharf",
+      "label": "Press Gangs",
+      "startdescription": "Some harbor press gangs have decided I am no longer welcome to conduct business on their turf. They suggest I leave town, quickly. [Adress this challenge with Forge or Edge.]"
+    },
+    {
+      "id": "mariner.cleanhostile.wharf.success",
+      "label": "A Show of Strength",
+      "description": "I part them like a wave and leave them crawling in my wake."
+    },
+    {
+      "id": "mariner.cleanhostile.wharf.failure",
+      "label": "Outmuscled",
+      "description": "Their wiry, stained overalls form a wall as insurmountable as reinforced concrete. I must retreat, and try again later."
+    }
+  ]
+}

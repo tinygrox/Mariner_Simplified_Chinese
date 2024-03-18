@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.influences.heart",
+      "label": "A Joyous Vibration",
+      "description": "A peal of laugther, a pulse of energy, a bubbling charm. [Gathering this influence around you can protect you from the ravages of Heartache]"
+    },
+    {
+      "id": "mariner.influences.grail",
+      "label": "A Persisting Glamour",
+      "description": "Trailed by whispers, accentuated by a gasp for breath. [Having gathered this Influence around you will aid you in finding Passengers for the ship]"
+    },
+    {
+      "id": "mariner.influences.forge",
+      "label": "Echoes Of Action",
+      "description": "Even a cooling engine still shivers and thrums. [Having gathered this Influence around you will aid you when the Kite is wounded]"
+    },
+    {
+      "id": "mariner.influences.lantern",
+      "label": "A Clarion Air",
+      "description": "A thoughtful hum, considered words, awed silence. [Having gathered this Influence around you will aid you in attracting clever crewmembers]"
+    },
+    {
+      "id": "mariner.influences.moth",
+      "label": "An Edge Of Static",
+      "description": "Just beyond perception, wings beat within the skull. [Having gathered this Influence around you will aid you once Authorities have their eyes on you]"
+    },
+    {
+      "id": "mariner.influences.winter",
+      "label": "A Deafening Repose",
+      "description": "I carry a silence that others hesitate to break. [Having gathered this Influence around you will aid you in having an uneventful voyage once you set sail]"
+    },
+    {
+      "id": "mariner.influences.edge",
+      "label": "A Lingering Thrill",
+      "description": "If a challenge is not accepted, your domination is. [Having gathered this Influence around you will aid you attracting an adventurous crew]"
+    },
+    {
+      "id": "mariner.influences.knock",
+      "label": "A Ring Of Insight",
+      "description": "Lies flounder, voices waver, even silence is a door to truth. [Having gathered this Influence around you will aid you collecting Packages when exploring the streets with an open heart]"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "recipes": [
+    {
+      "startdescription": "My Lack-Heart seeks new experiences...",
+      "id": "mariner.tide.heartache",
+      "slots": [
+        {
+          "id": "wanderlust",
+          "label": "Wanderlust"
+        }
+      ],
+      "label": "A Cleft Heart Aching"
+    },
+    {
+      "startdescription": "Colors begins to drain, as my Lack-Heart begins to gnaw at my insides.",
+      "id": "heartacheactive",
+      "description": ".",
+      "slots": [
+        {
+          "id": "feelings",
+          "label": "Feelings"
+        }
+      ],
+      "label": "Splinters of Sorrow"
+    },
+    {
+      "startdescription": "my veneer of functionality is cracking, revealing I am just a shell of a person housing a deep, dark pit in my chest.",
+      "id": "heartachewarning",
+      "description": "Not much longer...",
+      "label": "Cracks in Conviction"
+    },
+    {
+      "startdescription": "my Heartache is healing",
+      "id": "heartacheabate",
+      "description": "I appease my Lack-Heart with my recent happy memories, reconstructing the self that slowly drained within.",
+      "label": "Stemming the Flood"
+    },
+    {
+      "label": "Hollowed Like an Empty Shell",
+      "description": "All of my joy, charm and desires have drained into the pitt that was once my heart. I am not gone, but I do not intend to travel much farther either. I will settle here, eaking out a shallow, grey existance on this shallow, grey sea.",
+      "startdescription": "The world is muting to browns and greys as sounds muffle into noise. [The Heart-ache token will lead to a game over now, unless you supply it with a thrill.]",
+      "id": "heartachedeath",
+      "slots": [
+        {
+          "id": "feelings",
+          "label": "Feelings"
+        }
+      ]
+    },
+    {
+      "startdescription": "I have patched up my sorrow, and once again have found the path towards the light",
+      "id": "heartachedefeated",
+      "description": "Heartache mended.",
+      "label": "A Homecoming of Colour."
+    }
+  ]
+}

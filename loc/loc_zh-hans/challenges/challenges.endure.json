@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.endure",
+      "label": "Withstand a Challenge",
+      "startdescription": "This challenge is going to take its toll. A lesser person may fall, but I have withstood worse. I could approach this with the vim of Heart or the seniority of Edge.",
+      "description": "This challenge is going to take its toll. A lesser person may fall, but I have withstood worse. I could approach this with the vim of Heart or the seniority of Edge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.endure.edge.high",
+      "label": "Indomitable scars",
+      "startdescription": "I have conquered worse before. The Colonel's lessons are carved upon my skin. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.endure.edge.med",
+      "label": "Resilient Scars",
+      "startdescription": "I have survived worse before, and in my bones and in my soul I carry scars that cannot be deepened. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.endure.edge.low",
+      "label": "Straining Scars",
+      "startdescription": "I have weathered worse before. I'll remember the tricks I learned from those encounters. We may yet succed."
+    },
+    {
+      "id": "mariner.challenge.endure.heart.high",
+      "label": "Unbroken",
+      "startdescription": "Like the grand Ring-Yew, who encircles and renews, I will weather this storm. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.endure.heart.med",
+      "label": "Unbent",
+      "startdescription": "Like the shifting reeds, who bend but do not break, I'll weather this storm. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.endure.heart.low",
+      "label": "Unbowed",
+      "startdescription": "Like the battered pines, who bleed resin, I will weather this storm. We may yet succeed."
+    }
+  ]
+}

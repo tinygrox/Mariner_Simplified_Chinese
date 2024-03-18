@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.repairtool.cannotinvault",
+      "label": "Send Tools for Repairs?",
+      "startdescription": "I cannot repair my tools of power while in the field, without someone of expertese nearby. It must wait until i am back in town."
+    },
+    {
+      "id": "mariner.repairtool.cannotatsea",
+      "label": "Send Tool for Repairs?",
+      "startdescription": "I cannot repair my tools of power while sailing across the sea, without someone of expertese underm y command. It must wait until i am back in town."
+    },
+    {
+      "id": "mariner.repairtool",
+      "label": "Send Tool for Repairs",
+      "startdescription": "I know a local craftsman who can bring this tool back to its functional stage.",
+      "description": "Not as good as new, even better. I asked the worker to keep a few of the dents and notches it had gained in its last use. Tools need to be tended to regularly, but their memory should never be erased."
+    }
+  ]
+}

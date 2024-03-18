@@ -1,0 +1,300 @@
+{
+  "elements": [
+    {
+      "id": "mariner.crew.basic",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.basic.opportunity",
+      "label": "招募机会：普通船员",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.basic.opportunity.free",
+      "label": "招募机会：普通船员 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.navigator",
+      "description": "\"我会看星位，还能跟你们讲出上面每一颗星星的故事。噢当然，我还能导航。\""
+    },
+    {
+      "id": "mariner.crew.specialist.navigator.opportunity",
+      "label": "招募机会：导航员",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.navigator.opportunity.free",
+      "label": "招募机会：导航员 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.canoneer",
+      "description": "\"你只需要告诉我该将这些玩意儿对准哪里就可以了。\""
+    },
+    {
+      "id": "mariner.crew.specialist.canoneer.opportunity",
+      "label": "招募机会：炮手",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.canoneer.opportunity.free",
+      "label": "招募机会：炮手 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.privateer",
+      "description": "\"我最会打枪了。\""
+    },
+    {
+      "id": "mariner.crew.specialist.privateer.opportunity",
+      "label": "招募机会：二等兵",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.privateer.opportunity.free",
+      "label": "招募机会：二等兵 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.carpenter",
+      "description": "\"我工具用的很熟练。\""
+    },
+    {
+      "id": "mariner.crew.specialist.carpenter.opportunity",
+      "label": "招募机会：木工",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.carpenter.opportunity.free",
+      "label": "招募机会：木工 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.cook",
+      "description": "\"我会让你们的人精神抖擞且快乐的度过难关。\""
+    },
+    {
+      "id": "mariner.crew.specialist.cook.opportunity",
+      "label": "招募机会：厨师",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.cook.opportunity.free",
+      "label": "招募机会：厨师 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.diver",
+      "description": "\"送我下去就行，最好是没人到达过的。\""
+    },
+    {
+      "id": "mariner.crew.specialist.diver.opportunity",
+      "label": "招募机会：潜水员",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.diver.opportunity.free",
+      "label": "招募机会：潜水员 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.mate",
+      "description": "\"甲板就是我的家。\""
+    },
+    {
+      "id": "mariner.crew.specialist.mate.opportunity",
+      "label": "招募机会：大副",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.mate.opportunity.free",
+      "label": "招募机会：大副 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.officer",
+      "description": "\"我会保证船上的秩序。\""
+    },
+    {
+      "id": "mariner.crew.specialist.officer.opportunity",
+      "label": "招募机会：长官",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.officer.opportunity.free",
+      "label": "招募机会：长官 [免费]",
+      "description": "这个人会同意加入我们。"
+    },
+    {
+      "id": "mariner.crew.specialist.conman",
+      "description": "\"我从来没有被定过罪，我也会确保你不会被定罪。\""
+    },
+    {
+      "id": "mariner.crew.specialist.conman.opportunity",
+      "label": "招募机会：骗子",
+      "description": "这个人会同意加入我们……但需要一定的代价。",
+      "slots": [
+        {
+          "id": "funds1",
+          "label": "资金"
+        },
+        {
+          "id": "funds2",
+          "label": "资金"
+        },
+        {
+          "id": "funds3",
+          "label": "资金"
+        },
+        {
+          "id": "funds4",
+          "label": "资金"
+        }
+      ]
+    },
+    {
+      "id": "mariner.crew.specialist.conman.opportunity.free",
+      "label": "招募机会：骗子 [免费]",
+      "description": "这个人会同意加入我们。"
+    }
+  ]
+}

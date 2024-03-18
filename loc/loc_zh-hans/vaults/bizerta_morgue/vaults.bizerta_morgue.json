@@ -1,0 +1,12 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.bizerta_morgue.body",
+      "label": "<Body>"
+    },
+    {
+      "id": "mariner.vaults.bizerta_morgue.bodyfindings",
+      "label": "<Body Findings>"
+    }
+  ]
+}

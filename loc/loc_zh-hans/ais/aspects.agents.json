@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ais.agents.id",
+      "label": "Agent ID"
+    },
+    {
+      "id": "mariner.agentcontroller",
+      "label": "AI Agent Controller"
+    },
+    {
+      "id": "mariner.agent",
+      "label": "AI Agent"
+    }
+  ]
+}

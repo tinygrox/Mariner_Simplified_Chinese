@@ -1,0 +1,629 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.damascus.diaphanous.sheets",
+      "label": "<>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.vaults.damascus.bird",
+      "label": "<bird>",
+      "description": "<The Lethians, who seperated themselves from the affairs of the House, hold sacred a certain bird who holds vigil at gravesights and laments the dead. Why this breach in their own sturdy rules? Because the Elegiast allowed them something they desired even more?>"
+    },
+    {
+      "id": "mariner.vaults.damascus.page1_totake",
+      "label": "<First Part of Matthias and the Imago: Loss>",
+      "description": "<Copied scribbled notes, in hopefully recognisable aramaic. I should see if any of my contacts can assist me in translating the story.>",
+      "slots": [
+        {
+          "id": "pages2",
+          "label": "Other Pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages3",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages4",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.page2_totake",
+      "label": "<Second Part of Matthias and the Imago: Loss>",
+      "description": "<Copied scribbled notes, in hopefully recognisable aramaic. I should see if any of my contacts can assist me in translating the story.>",
+      "slots": [
+        {
+          "id": "pages2",
+          "label": "Other Pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages3",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages4",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.page3_totake",
+      "label": "<Third Part of Matthias and the Imago: Loss>",
+      "description": "<Copied scribbled notes, in hopefully recognisable aramaic. I should see if any of my contacts can assist me in translating the story.>",
+      "slots": [
+        {
+          "id": "pages2",
+          "label": "Other Pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages3",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages4",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.page4_totake",
+      "label": "<Final Part of Matthias and the Imago: Loss>",
+      "description": "<The final section of the book has been deemed too dangerous for public viewing, even when they are written in a language dead to the vulgar masses.>",
+      "slots": [
+        {
+          "id": "pages2",
+          "label": "Other Pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages3",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        },
+        {
+          "id": "pages4",
+          "label": "Other pages",
+          "description": "The other pages that together make up Loss."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.glyphs.hidden",
+      "label": "Rubbings of Markings in an Unfamiliar Script",
+      "description": "A dark imitation of the glyphs found at the walls of the Damascene branch of the house of Lethe. They hold a strange appeal."
+    },
+    {
+      "id": "mariner.vaults.damascus.glyphs",
+      "label": "Hyksian Glyphs",
+      "description": "Even these mere shadows of a Hyksian ward carry with them a dangerous allure. I know not what they mean, but still I trace the lines with my fingers on moments lost in reveries."
+    },
+    {
+      "id": "mariner.vaults.damascus.empty",
+      "label": "<Empty>",
+      "description": "<The room is cleared, and as so often in empty spaces that once bustled, the air is laced with a sense of awkwardnes, like a conversation interrupted.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.distraction",
+      "label": "Distraction",
+      "description": "<No Eyes on me, for a moment, I could take a clandestine action, if I act quickly.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.guidance",
+      "label": "<Statues Guidance>",
+      "description": "<Directions, hidden in plain sight. Some-one was very clever to hide a secret in such a central structure, or very arrogant."
+    },
+    {
+      "id": "mariner.vaults.damascus.curator",
+      "label": "<Curator>",
+      "description": "<All experts love to hear themselves talk about their specialty. But all academics also see their own time as incomparably valuable, so their patience is limited.>"
+    },
+    {
+      "id": "mariner.vaults.damascus.museum",
+      "label": "Imperial Museum of the Near East",
+      "description": "While the content is curated, the display feels more focussed on available space than history or context. The walls are mounted with trophies from times and places hunted throughout history. But in this chaos, stands the White Room. walls, ceiling and contents of the Damascene Branch of the House of Lethe  all reassembled in a feat of architectural taxidermy."
+    },
+    {
+      "id": "mariner.vaults.damascus.walls",
+      "label": "The Dissected Walls",
+      "description": "The walls of the Damascene branch have been dissected and then reassembled here, brick by brick, with commendable attention to detail, but perhaps not a lot of decorum. The greatest treasure of the house is displayed here, an original volume of a book  from the house of Lethe.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore4",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore5",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.pages1",
+      "label": "<First Spread of Matthias and the Imago: Loss>",
+      "description": "<Priceless historical artifact, but without speaking the language, just irregular pattern on a diaphanous sheet.>",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.pages2",
+      "label": "<Second Spread of Matthias and the Imago: Loss>",
+      "description": "<Priceless historical artifact, but without speaking the language, just irregular pattern on a diaphanous sheet.>",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.pages3",
+      "label": "<Third Spread of Matthias and the Imago: Loss>",
+      "description": "<Priceless historical artifact, but without speaking the language, just irregular pattern on a diaphanous sheet.>",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.pages4",
+      "label": "<The Final Spread of Matthias and the Imago: Loss>",
+      "description": "<The Final Section of the book has been deemed too dangerous for public viewing, even when they are written in a language dead to the vulgar masses.>",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.statue",
+      "label": "The Avian Statue",
+      "description": "Ivory inlay over coarse sandstone, this statue is winged and beaked, yet still appears more man than bird. The House of Lethe was not known as an religious organization in Damascus., and the plague mentions the statue was commissioned by a member called Matthias.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.crowds",
+      "label": "The Many-faced Crowd",
+      "description": "The curators, the security guards, the teeming public. Each carries its own opportunities but each also has its attention on the art, or anything untowards that might happen.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "influence",
+          "label": "Additional Charms",
+          "description": "I could attract a curator just like I attract any bright member of my crew."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.removed_basic",
+      "label": "Removed Crewmember",
+      "description": "They will wait for me outside, but their role in this caper is over."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.navigator",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.canoneer",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.privateer",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.carpenter",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.cook",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.diver",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.mate",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.officer",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.vaults.damascus.removed.conman",
+      "label": "removed Crewmember",
+      "description": "Someone spotted us. This one wasn't as lucky as the others."
+    },
+    {
+      "id": "mariner.tools.shears",
+      "label": "Alakapurine Shears, Pre-Used",
+      "description": "<Used to shed what is no longer of use.>"
+    },
+    {
+      "id": "mariner.trappings.implements",
+      "label": "<Implements of Mattias>",
+      "description": "<More reviled then the arts of ending are the arts of agony. these tools are proud as wolf fangs>"
+    },
+    {
+      "id": "mariner.diaphenous.sheets",
+      "label": "Diaphenous Sheet",
+      "description": "<nearly all of the scales have flakes off,, and what is left a delicate sheet, sheer as a whisper, real as remorse>"
+    },
+    {
+      "id": "mariner.vaults.damascus.collection",
+      "label": "<Pinned Collection>",
+      "description": "In a hidden place, carved between the gaps if the bricks, Matthias has carved himself a space to keep his trophies and his tools. With neither doors nor windows, it is dark as a tomb, but unseen, papery things rustle at our movements."
+    },
+    {
+      "id": "mariner.vaults.damascus.desk",
+      "label": "Still Desk",
+      "description": "Mattias, while a hunter, killer and scoundrel, was still a Letheian, who take their scholarly pursuits serious by nature. Here Matthias must have read, paced, sketched, risen in elation, collapsed in despair.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.lastbed",
+      "label": "The Last Bed",
+      "description": "When their involvement had gotten Mattias excommunicated from the House of Lethe, and got the Imago banished from the Woods, both collected what they needed before their final Voyage. Perhaps this is where Matthias spend his final moments in the Flesh.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.pinned",
+      "label": "The Pinned Collection",
+      "description": "Along the walls, gossamer wings hang, impaled by eroded copper nails.A few are still pulled taught, but most hang like shredded rags. When we move they catch air currents in desperate dances, as if still attempting to tear free.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.damascus.weaponrack",
+      "label": "Mattias' Implements",
+      "description": "The sharps and the straps, traps and binds. Implements to pry and poke and sever and disect. There were the tools of the trade of Matthias the Hunter.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    }
+  ]
+}

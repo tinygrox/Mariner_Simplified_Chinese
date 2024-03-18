@@ -1,0 +1,73 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.paintedwaterfall",
+      "label": "The Painted Waterfall",
+      "description": "There is said to be a painted waterfall at the oceans' edge. Some think the captains of lost vessels sail their ships upstream to a brighter place.",
+      "slots": [
+        {
+          "id": "song1",
+          "label": "Story of Distances",
+          "description": "<song>"
+        },
+        {
+          "id": "song2",
+          "label": "Song of Truths",
+          "description": "<song>"
+        },
+        {
+          "id": "song3",
+          "label": "Remains of Nothing",
+          "description": "<song>"
+        },
+        {
+          "id": "song4",
+          "label": "Memories of All",
+          "description": "<song>"
+        },
+        {
+          "id": "song5",
+          "label": "Song of Falsehoods",
+          "description": "<song>"
+        },
+        {
+          "id": "song6",
+          "label": "Song of Mysteries",
+          "description": "<song>"
+        },
+        {
+          "id": "song7",
+          "label": "Nowhere Reflections",
+          "description": "<song>"
+        },
+        {
+          "id": "song8",
+          "label": "Ferezeref's Folly",
+          "description": "<song>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.mysteries.whisperer",
+      "label": "The Siren-song of the Depths",
+      "description": "Where do they go? Those who take that final step and disappear out on the frigid sea? Logic may say they would end washed up on a foreign shore, but sailor wisdom tells us they go Nowhere. [This Mystery can be Further explored outside of the North Sea.]",
+      "slots": [
+        {
+          "id": "missing.place",
+          "label": "Missing Place",
+          "description": "this mystery requires a location"
+        },
+        {
+          "id": "Missing.song",
+          "label": "Missing Song",
+          "description": "this mystery requires a song"
+        },
+        {
+          "id": "Missing.song",
+          "label": "Missing Object",
+          "description": "this mystery requires an item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.raid",
+      "label": "A Raid at the Club",
+      "startdescription": "As the performance was getting underway, a flurry of whispers spread through the club. A police raid was on it's way. We were ushered through the backrooms and out into the alleyway, and dispersed, like moths to the night."
+    }
+  ]
+}

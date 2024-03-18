@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tradestory.constantinople.tourist",
+      "label": "<Trade stories with the Count>",
+      "startdescription": "\"<Ofcourse! What a pleasure to be asked... though I no not always wait for the invitation.>\"",
+      "description": "<This story is a common one accross the various branches of Pilgrims and Vageries. Come! listen, and assess.>\""
+    }
+  ]
+}

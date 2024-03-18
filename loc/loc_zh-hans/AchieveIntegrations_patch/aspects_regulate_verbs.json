@@ -1,0 +1,54 @@
+{
+  "elements": [
+    {
+      "id": "modded_dream_allowed",
+      "label": "安宁",
+      "description": "我所能梦见的"
+    },
+    {
+      "id": "modded_dream_forbidden",
+      "label": "不安",
+      "description": "我所不能梦见的"
+    },
+    {
+      "id": "modded_explore_allowed",
+      "label": "可探索",
+      "description": "我所能探索的"
+    },
+    {
+      "id": "modded_explore_forbidden",
+      "label": "不可探索",
+      "description": "我所不能探索的"
+    },
+    {
+      "id": "modded_study_allowed",
+      "label": "可研究",
+      "description": "我所能研究的"
+    },
+    {
+      "id": "modded_study_forbidden",
+      "label": "不可研究",
+      "description": "我所不能研究的"
+    },
+    {
+      "id": "modded_talk_allowed",
+      "label": "可谈话",
+      "description": "我所能与之交谈或谈论的"
+    },
+    {
+      "id": "modded_talk_forbidden",
+      "label": "不可谈话",
+      "description": "我所不能与之交谈或谈论的"
+    },
+    {
+      "id": "modded_work_allowed",
+      "label": "可作业",
+      "description": "我所能做的"
+    },
+    {
+      "id": "modded_work_forbidden",
+      "label": "不可作业",
+      "description": "我所不能做的"
+    }
+  ]
+}

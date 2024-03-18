@@ -1,0 +1,130 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.lackheart",
+      "label": "<Ask about my Lackheart>",
+      "startdescription": "\"<A hole in your heart?>\"",
+      "description": "\"<I can relate with that. All things that you start with a shining passion can tarnish in time. Family, Career, Status. They go from the goals you chase to the chains weighing you down. I could envy you, how you can just drop everything and set off.>\" She smiles and leans to the side, towards her window. \"But luckily my office looks out over the sea. She can balance me, when my ambitions overtake me\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.halfheart",
+      "label": "<Ask about my Halfheart>",
+      "startdescription": "\"<You want to ask about something called a Half-Heart? Let me check our codexes>\"",
+      "description": "\"<The term does enter the records once or or twice, in a poetic language of the Arabic Golden Age, or a sobriquet of characters at the edge of relevance of the Assyrian Dynasties. But neither of those are my specialities.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.vagabonddedication",
+      "label": "<Talk to professor Sayegh about my Path>",
+      "startdescription": "\"That is a ambition I can stand behind.\"",
+      "description": "\"Pursuing hidden secrets, give voices to lost stories of the past. That is what brought me to Archeology originally, and now that the Secret side of the Histories is revealed, I feel that desire surge in my once more.\" She smiles and looks whistfully out the window.\"Sometimes this office I worked so hard for feels now like a trap.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.twinsdedication",
+      "label": "<Talk to professor Sayegh about my Path>",
+      "startdescription": "\"<The Splitting and the Mending...>\"",
+      "description": "\"Once, the ailments of the Soul would have been considered medicine. Last year, I would have dismissed it as superstition. But now the Secret Histories have been revealed to me, and I am still sorting through former superstitions and certainties to see which to keep and which to discard. So... If you say your Heart needs Mending... I wish godspeed to you.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.song",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<The Magic in Music?>\"",
+      "description": "\"<They are deeply intwined, in many cultures. But I do not have mcuh of an Orphian Arts. But I am learning about all the Invisible Arts, to look into what I otherwise neglected. I have learned of Libraries, who secure the knowledge that cannot remain in the wider world. the closest is to here is Yeshiva Tigris, but the Crossrow may contain more infromation on the topic.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.chest",
+      "label": "<Discuss the Warded Chest with Professor Sayegh>",
+      "startdescription": "\"<A find in the Theban Branch?>\"",
+      "description": "\"I am not sure I can help with this. Until a few months ago, I would have said the only worry that came from taking this from an Egyptian tomb is the the anger of the locals. now... I am unsure how to determine the reality of a ward, or where to look to how to counteract it. This is more esotheric then my knowledge extends now.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.<>",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.weather",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.archeologist.hyksos",
+      "label": "<Discuss the Unknown Glyphs with Professor Sayegh>",
+      "startdescription": "\"Unknown Script in the Damascene Branch? Let us see if it is also unknown to me.\"",
+      "description": "Soon after, the table is a patchwork of books, reference sheets and scriptoria\"\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.twins.dedication",
+      "label": "<The Self, the Fractured>",
+      "startdescription": "\"You seek to mend your Soul?\"",
+      "description": "\"<The self is composed of different parts in different traditions. Three elements, 5 instars, 7 marks... but most scholars seem to agree on nine. I have been told my Fet is strong by my Character is stronger still... Perhaps we can help eachother. You help me with my pursuits, and I help you with yours.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.vagabond.dedication",
+      "label": "<The Secret Pilgrimage>",
+      "startdescription": "<\"you are another one of them, huh?>",
+      "description": "She scrumples up her face.\"<I have traveled far and wide and 'Vageries' are weverywhere, on their endless pilgrmages, trying to sniff out the scent of the Vagabonds Footsteps in the dust. That path was never for me. My is aimed up, and at the one place the Vagabond is barred from.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.pinned.collection.reward",
+      "label": "<Show the Diaphenous Sheet>",
+      "startdescription": "<\"What do you have there?\">",
+      "description": "She reaches for it, and her touch does not shred it further. She holds it up to her face, her cheeks, her lips. The membrame shivers from her breath.\"look how it breaks the light. I think these are the colours I cannot see in the bleak darkness of the Woods.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.music.knock",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "<\"I learned about song magic here and there, even beyond the usual chanting...\">",
+      "description": "\"<Knock is both the invitation and the exploration, the Lesion and the lesson. Sing with the Intent of Knock and call Spirits or Entities towards you... Paired with the direction of Forge it calls forth a being from the scorching desert winds.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.music.lantern",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "<\"I learned about song magic here and there, even beyond the usual chanting...\">",
+      "description": "\"I don';t know as much as I wish about the Intricacies of Lantern, be it in the orphic, suffic or heterodox traditions. But I know lanterns intent is to reveal and clarify, and it's direction is that of the Sun's Authority, and it's mortal counterparts.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.music.edge",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "<\"I learned about song magic here and there, even beyond the usual chanting...\">",
+      "description": "\"<While I have lived at the Edges for most of my life, I have mostly kept my nose clean, and prefer to avoid direct confrontations. Maybe ask someone who is more at home in dark dealings, or one who strives to oppose them?>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.halfheart",
+      "label": "<Discuss my Halfheart>",
+      "startdescription": "<\"You say you are a Half Heart?\">",
+      "description": "\"<I figured you might be, you got the look. I have met others, once or twice, heard a couple others mentioned. You don't seem to last very long... Though maybe they just slip out of sight. I am not one to keep in contact.>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.lackheart",
+      "label": "<Discuss my Lackheart>",
+      "startdescription": "<\"You cannot dream, can you?>",
+      "description": "\"<That what I heard of your kind. Barred fom the Mansus, or perhaps just incapable as long as your soul remains incom0plete. I am so sorry. You are cut off from the House, The woods and the Bounds... I don't even have the words to describe what you are missing. Radiance and Wonder...\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.<vagabonddedication>",
+      "label": "<Discuss my path with Zoha>",
+      "startdescription": "\"<Not you as well?>\" She scrunches up her face.",
+      "description": "\"Vageries are absolutely everywhere. on their endless Pilgrimages. Trying to sniff out the scen of her Footsteps in the dust,. No thank you, not for me. My goal is aimed up. But perhaps we can be of aid to eachother, helping eachother into strange places.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.<twinsdedication>",
+      "label": "<Discuss My Path with Zoha>",
+      "startdescription": "\"<You wish to mend your Soul?>\"",
+      "description": "\"The Self is made of different numbers of parts in diffferent traditions. Three elements, five instars, seven marks. But most reliable scholars seem to agree on nine... I have been told my Fet is strong, but my Character is stronger.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.zoha",
+      "label": "<>",
+      "startdescription": "<>",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.haifa.dreamer.hyksos",
+      "label": "<Discuss the Unknown Glyphs with Zoha>",
+      "startdescription": "\"Something you encountered you do not understand? Show me, and maybe I can help!\"",
+      "description": "She smiles and shakes her head. \"I have seen some of these before, and been told not to look at them. But those blessed teachers did not feel the need to expound much more. Might be dangerous, so mind your self.\""
+    }
+  ]
+}

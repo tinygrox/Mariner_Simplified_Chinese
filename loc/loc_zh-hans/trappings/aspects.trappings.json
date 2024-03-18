@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.trapping",
+      "label": "Trapping",
+      "description": "Those items, ingredients and implements that imbue a ritual with its quintessence."
+    },
+    {
+      "id": "mariner.trapping.worth",
+      "label": "Worth",
+      "description": "This is valuable, if I can find who values it."
+    }
+  ]
+}

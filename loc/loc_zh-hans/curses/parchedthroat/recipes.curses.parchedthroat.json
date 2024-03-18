@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.curses.parchedthroat.sleep",
+      "label": "@#mariner.curses.concealer|Concealed Curse#|Parched Throat Curse@",
+      "startdescription": "@#mariner.curses.concealer|This curse is concealed.#|The Parched Throat Curse is approaching...@"
+    },
+    {
+      "id": "mariner.curses.parchedthroat",
+      "startdescription": "The Parched Throat Curse is approaching..."
+    },
+    {
+      "id": "mariner.curses.parchedthroat.end",
+      "label": "Parched Throat Curse Clearing",
+      "description": "Scattered like soft sand..."
+    }
+  ]
+}

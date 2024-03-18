@@ -1,0 +1,12 @@
+{
+  "elements": [
+    {
+      "id": "mariner.waypoint.from.northsea.to.medsea",
+      "label": "To the Med. Sea through Gibraltar"
+    },
+    {
+      "id": "mariner.waypoint.from.medsea.to.northsea",
+      "label": "To the North Sea through Gibraltar"
+    }
+  ]
+}

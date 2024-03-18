@@ -1,0 +1,495 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.ekstersnest.clue",
+      "label": "Clue",
+      "description": "A piece of poetry, a scratched symbol. Determining the password into the Bazar requires skill, knowledge and ingenuity."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.silverflorin",
+      "label": "Silver Florin",
+      "description": "\"Money opens all doors\" is not just an aphorism here."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth",
+      "label": "Sewer Labyrinth",
+      "description": "The network of canals and waterways stretches as much below ground as above. Hidden somewhere here is a secret market selling illicit goods. From there operates a gang of adept-thieves who specialise in owning what has been dispossessed.",
+      "slots": [
+        {
+          "id": "clueslot1",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        },
+        {
+          "id": "clueslot2",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        },
+        {
+          "id": "clueslot3",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        },
+        {
+          "id": "clueslot4",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        },
+        {
+          "id": "clueslot5",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        },
+        {
+          "id": "clueslot6",
+          "label": "Clue to the Riddle",
+          "description": "A map split into parts. the more clues I find, the more likely I am to reach the labyrinth's conclusion."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls",
+      "label": "Riddles on the Walls",
+      "description": "To ensure the wrong people can’t find the bazaar, the entrance is hidden. To ensure the right people can enter it, they left clues to find your way in.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground",
+      "label": "Others Underground",
+      "description": "Voices just around the corner. Other travelers to the Bazaar? I could approach this issue in different ways, and each carries a risk...",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "cashslot1",
+          "label": "资金",
+          "description": "Financial encouragement"
+        },
+        {
+          "id": "cashslot2",
+          "label": "资金",
+          "description": "Financial encouragement"
+        },
+        {
+          "id": "cashslot3",
+          "label": "资金",
+          "description": "Financial encouragement"
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend",
+      "label": "Labyrinth's End",
+      "description": "The place where travel ends. The entrance is here, barely an indent in the stone. But behind the door is a guardian, who expects to be paid only in Silver Florins.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash",
+      "label": "Smugglers Stash",
+      "description": "As we search the tunnel walls for the tell-tale graffiti showing us the way, we instead notice an area, suspiciously free of dust and grime. Upon examination we find a hidden shelf, a locked smugglers cache.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sunlessbazaar",
+      "label": "Sunless Bazaar",
+      "description": "A sprawling cluster of tents, stalls and bivouacs. Here filters down what cannot be sold by daylight above. It is said that somewhere in this network of tunnels and market-canals a gang of adepts operate from here, who are favored by two Hours of Grail."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird",
+      "label": "A Little Bird",
+      "description": "Between the lavish stalls with banners of silk and brochade, a dull-eyed child sits behind a vegatable box, displaying trickets and scrap for ware. The doodats do not interest me, but if the child is one of Aunties Little Birds, it could lead me to the entrance of the Nest.",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "Bargaining Chip",
+          "description": "What trinket or treasure do I offer to the Little Bird?"
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing",
+      "label": "A Shape Disappearing Between the Canvas...",
+      "description": "The little bird is flitting away. Perhaps, if I am quick enough, I can follow them to their Nest",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant",
+      "label": "The Gossipbrokers",
+      "description": "Most stalls deal in valuables or finance, but the gossipbrokers fare is Reputation. More precious than either, especially since it is so precariously hard to restore.",
+      "slots": [
+        {
+          "id": "funds",
+          "label": "资金"
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant",
+      "label": "A Merchant of Want",
+      "description": "In between great oak casks and fine-necked glass distillers sits a merchant who specialises in desires. They keep it bottled up in many vintages for many tastes, With the right incentives, they can perhaps be persuaded to reveal the needs of a certain corvine client.",
+      "slots": [
+        {
+          "id": "intel",
+          "label": "Intelligence to Trade",
+          "description": "If I part with these ritches in potentia, this merchant can enlighten me on the needs of Auntie Ekster."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant",
+      "label": "Seller of Songbirds",
+      "description": "In the eves of a large vaulted room, a salesman with an immaculate reputation can be found. She is called a seller of songbirds, but she rather be known as a seller of Birdsong. Between the cages and the chirping larks, she can be convinced to exchange stories for.",
+      "slots": [
+        {
+          "id": "story1",
+          "label": "A Tale to Trade",
+          "description": "Multiplied when traded, exhausted when sold."
+        },
+        {
+          "id": "story2",
+          "label": "A Tale to Trade",
+          "description": "Multiplied when traded, exhausted when sold."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant",
+      "label": "Merchants at the Fringe",
+      "description": "In canvas-clad corners of this cavernous compound, exists a commerce of curiosities. Here, power is traded for power.",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "My Offer to Trade",
+          "description": "A Trapping to trade for another."
+        },
+        {
+          "id": "funds",
+          "label": "资金",
+          "description": "An Incentive to sweeten the deal."
+        },
+        {
+          "id": "song",
+          "label": "Intent",
+          "description": "What do I seek to acquire?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind",
+      "label": "Corridors Behind",
+      "description": "An unassuming curtain leads to the Eksternest, the hideout-cum-shrine-cum-drugden from which Auntie Ekster operates. Even from outside the sweet air makes my eyes water and my mind thrum.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.birdeyedaid",
+      "label": "Bird-eyed Aid",
+      "description": "A pocket was singled out to me, on Aunties grey overcoat. If I catch her unaware, I could pilfer it quick and easy."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.crystaltoneward",
+      "label": "A Crystal-Tone Ward",
+      "description": "There is only one thing influencing the mind of my crew, and that is their captain.<br><br>[This card will affect some obstacles and events of this Adventure from the board.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.nest",
+      "label": "The Eksternest",
+      "description": "Loaded with pillows and beaded curtains, this is a cozy hole in the ground in which to languish with your treasures. The air has a shiver from more than just the narcotic smoke. This place is beneath the gaze of the Hours."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds",
+      "label": "Auntie Little Birds",
+      "description": "She calls them her little sparrows, or swallows, or doves. The little Birds are wide-eyed boys and girls, Auntie has a place for the misplaced and the overlooked. They congregate here, bringing little trinkets, and then fade into pillows, staring silently.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze",
+      "label": "The Sweetapple Haze",
+      "description": "The only requirements for what is thrown on the pyres here, is that the ingredients are rare, and the sensations they bring even rarer. This peculiar blend is known to include flowers from the Rending Mountains, and an effusion found on hands of certain dreamers.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.ring",
+      "label": "A Misplaced Ring",
+      "description": "Someone very much wants this back."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.asleep",
+      "label": "Auntie Ekster [Asleep]",
+      "description": "A middle-aged woman with magpie-hair lies in a puddle of cushions, coats and shawls. From a thousand pockets blink a million little treasures. Her breathing is softer than a whisper. Should I just take what I want? Or do I wish to negotiate with Auntie Ekster.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.awake",
+      "label": "Auntie Ekster [Awake]",
+      "description": "Peering at me from beneath a giant overcoat is a bright-eyed woman with magpie-hair. From a thousand pockets blink a million little treasures. Her fingers are never still, her mouth is never smiling. Should I attempt to negotiate with her? Or do I wish to lull her into a more comfortable state.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "desire",
+          "label": "Bargaining Trapping",
+          "description": "I could bargain for a Trade with Auntie Ekster. But do I have what she desires?"
+        }
+      ]
+    }
+  ]
+}

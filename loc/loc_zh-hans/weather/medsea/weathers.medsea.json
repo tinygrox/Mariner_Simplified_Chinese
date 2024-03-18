@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "id": "mariner.weathers.medsea.mist.1",
+      "label": "Mists Muffle",
+      "description": "All sounds muffled by a haze of grey."
+    },
+    {
+      "id": "mariner.weathers.medsea.mist.2",
+      "label": "Mists Muffle",
+      "description": "All sounds muffled by a haze of grey."
+    },
+    {
+      "id": "mariner.weathers.medsea.rain.1",
+      "label": "The Rain's Patter",
+      "description": "The quiet cacophony of rain."
+    },
+    {
+      "id": "mariner.weathers.medsea.rain.2",
+      "label": "The Rain's Patter",
+      "description": "The quiet cacophony of rain."
+    },
+    {
+      "id": "mariner.weathers.medsea.wind.1",
+      "label": "Winds Whistle",
+      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+    },
+    {
+      "id": "mariner.weathers.medsea.wind.2",
+      "label": "Winds Whistle",
+      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+    },
+    {
+      "id": "mariner.weathers.medsea.storm.1",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.medsea.storm.2",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    },
+    {
+      "id": "mariner.weathers.medsea.clear.1",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.medsea.clear.2",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.medsea.clear.3",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.medsea.bright.1",
+      "label": "Bright Day's Bustle",
+      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+    },
+    {
+      "id": "mariner.weathers.medsea.bright.2",
+      "label": "Bright Day's Bustle",
+      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+    },
+    {
+      "id": "mariner.weathers.medsea.scorch.1",
+      "label": "The Whistle Of The Sirocco",
+      "description": "The winds flow here mercilesly from where the Sun's rule is still felt most oppressively."
+    },
+    {
+      "id": "mariner.weathers.medsea.scorch.2",
+      "label": "The Whistle Of The Sirocco",
+      "description": "The winds flow here mercilesly from where the Sun's rule is still felt most oppressively."
+    },
+    {
+      "id": "mariner.weathers.medsea.hot.1",
+      "label": "The Hum Of Heat",
+      "description": "The air wavers. Even sound does not escape such heat unchanged."
+    },
+    {
+      "id": "mariner.weathers.medsea.hot.2",
+      "label": "The Hum Of Heat",
+      "description": "The air wavers. Even sound does not escape such heat unchanged."
+    },
+    {
+      "id": "mariner.weathers.medsea.trade.1",
+      "label": "Trade Winds' Bellows",
+      "description": "Unrelenting, unified, unceasing. The sound of air moving with purpose."
+    },
+    {
+      "id": "mariner.weathers.medsea.trade.2",
+      "label": "Trade Winds' Bellows",
+      "description": "Unrelenting, unified, unceasing. The sound of air moving with purpose."
+    },
+    {
+      "id": "mariner.weathers.medsea.clear.performancespecial",
+      "label": "A Blank Sky",
+      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+    },
+    {
+      "id": "mariner.weathers.medsea.storm.performancespecial",
+      "label": "A Storm Howls",
+      "description": "The sky's drum beats a furious rhythm."
+    }
+  ]
+}

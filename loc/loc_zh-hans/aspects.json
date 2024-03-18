@@ -1,0 +1,88 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cycle",
+      "label": "Element used by the tide to count the passing of time."
+    },
+    {
+      "id": "mariner.docked",
+      "label": "Docked",
+      "description": "We're officially docked here."
+    },
+    {
+      "id": "mariner.destination",
+      "label": "Destination",
+      "description": "A place we can sail to."
+    },
+    {
+      "id": "mariner.destination.locked",
+      "label": "Unavailable Destination",
+      "description": "For some reason, this place isn't available to us."
+    },
+    {
+      "id": "mariner.seaevent",
+      "label": "Sea Event",
+      "description": "A possible event at sea."
+    },
+    {
+      "id": "mariner.tune",
+      "label": "Tune",
+      "description": "All songs start with the first notes."
+    },
+    {
+      "id": "mariner.mystery",
+      "label": "Mystery",
+      "description": "Something paradoxical or confusing. But there is something here, if I can figure out the way to the truth."
+    },
+    {
+      "id": "mariner.song",
+      "label": "Song",
+      "description": "Carries themes below meaning."
+    },
+    {
+      "id": "mariner.story",
+      "label": "Story",
+      "description": "Carries meaning beyond words."
+    },
+    {
+      "id": "mariner.story.source",
+      "label": "Story Source",
+      "description": "I can learn a story from here"
+    },
+    {
+      "id": "mariner.letter",
+      "label": "Letter",
+      "description": "A letter to deliver to someone."
+    },
+    {
+      "id": "mariner.influence",
+      "label": "Manifested Influences",
+      "description": "An influence over people and the local environment, most commonly made manifest by music."
+    },
+    {
+      "id": "mariner.crowd",
+      "label": "Crowd",
+      "description": "All these noses turned the same way... This turns into power in the hands of a radical or of an artist."
+    },
+    {
+      "id": "mariner.topic",
+      "label": "Topic",
+      "description": "A topic of conversation."
+    },
+    {
+      "id": "mariner.curses.concealer",
+      "label": "Curse Concealer",
+      "description": "This is a concealer element used to conceal curses."
+    },
+    {
+      "id": "notyetmuse",
+      "label": "Potential Muse",
+      "description": "This person has what it takes to inspire me."
+    },
+    {
+      "id": "mariner.vaults.help.passive",
+      "label": "Passive Benefit",
+      "description": "Some assistance is granted without it being actively sought."
+    }
+  ]
+}

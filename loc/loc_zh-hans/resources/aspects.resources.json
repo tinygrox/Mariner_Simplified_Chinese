@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cargo",
+      "label": "<Cargo>",
+      "description": "\"It's not the empty space that's useful, it's whatever of worth we can stow in there.\" - One-Eyed Steve"
+    }
+  ]
+}

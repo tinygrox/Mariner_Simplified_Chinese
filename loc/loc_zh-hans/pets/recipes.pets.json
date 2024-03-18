@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.pets.givepet",
+      "label": "<Retrieve Pet?>",
+      "startdescription": "<Wanna retrive the little precious? Or maybe talk about something?>"
+    },
+    {
+      "id": "mariner.offerpet.nospace",
+      "description": "<no space on board. I'll keep it there for now>"
+    }
+  ]
+}

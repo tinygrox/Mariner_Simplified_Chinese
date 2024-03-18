@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.curses.bleachedheart.sleep",
+      "label": "@#mariner.curses.concealer|Concealed Curse#|Bleached Heart Curse@",
+      "startdescription": "@#mariner.curses.concealer|This curse is concealed.#|The Bleached Heart Curse is approaching...@"
+    },
+    {
+      "id": "mariner.curses.bleachedheart",
+      "startdescription": "The Bleached Heart Curse is approaching..."
+    },
+    {
+      "id": "mariner.curses.bleachedheart.end",
+      "label": "Bleached Heart Curse Clearing",
+      "description": "Fleeting like morning mists..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.solve.mystery.whatnow.imago",
+      "label": "<The Language of Forbidden Love>",
+      "startdescription": "<The Language of Forbidden Love>",
+      "description": "<The Mansus is not a place for lovers, but an Adept and a Monster fled those rules and chose love anyway, ascending higher and brighter. Why? What spurred them on? It is a feeling I cannot place yet, but if I steal this story, I could then curl my tongue to name it.>"
+    },
+    {
+      "id": "mariner.solve.mystery.whatnow.imago.hint.nobook",
+      "label": "<The Language of Forbidden Love?>",
+      "startdescription": "<Zoha told me about this peculiar rumour on love and the occult. Why does it resonate so much?>"
+    },
+    {
+      "id": "mariner.solve.mystery.whatnow.imago.hint.nostory",
+      "label": "<The Language of Forbidden Love?>",
+      "startdescription": "<This book speaks of a set of characters that seem to live a peculiar love. But why is this love so special?>"
+    }
+  ]
+}

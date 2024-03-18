@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.suspicion.grabnotoriety",
+      "label": "Collecting Information",
+      "startdescription": "News of my exploits is reaching the wrong people...",
+      "slots": [
+        {
+          "id": "notoriety",
+          "label": "Notoriety"
+        }
+      ]
+    },
+    {
+      "id": "mariner.suspicion.wantedmanrecognized",
+      "label": "Crew Recognised",
+      "description": "Someone has recognised one my crewmembers..."
+    },
+    {
+      "id": "mariner.suspicion.activatesuspicion",
+      "label": "Activating suspicion in absence of notoriety..."
+    }
+  ]
+}

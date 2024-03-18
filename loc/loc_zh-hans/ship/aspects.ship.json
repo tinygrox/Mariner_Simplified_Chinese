@@ -1,0 +1,33 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ship",
+      "label": "Ship"
+    },
+    {
+      "id": "mariner.ship.holdsize",
+      "label": "Hold Size",
+      "description": "In a properly stowed ship, no space is wasted, no thing out of place."
+    },
+    {
+      "id": "mariner.ship.cabinsize",
+      "label": "Cabin Size",
+      "description": "A ship is never spatious, but there is a cramped comfort in its confines."
+    },
+    {
+      "id": "mariner.ship.damage",
+      "label": "A Wound of Timber",
+      "description": "Mortal wounds spill salted liquid, a ship's leaks let it in. Both will be fatal in the end."
+    },
+    {
+      "id": "mariner.ship.patched",
+      "label": "<Patched>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.ship.durability",
+      "label": "Durability",
+      "description": "How many breaches can this hull bear?"
+    }
+  ]
+}

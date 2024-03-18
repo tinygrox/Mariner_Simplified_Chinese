@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.heart.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.heart.start",
+      "label": "Perform a covert Heart ritual in a Sleepless Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.heart",
+      "label": "Perform a covert Heart ritual in a Sleepless Space",
+      "startdescription": "My dance steps will seem unorthodox to the crowd, but  I must truly beware if they see the organs within my dripping hands.",
+      "description": "Music brightens, Influence blossoms. My feet strain to keep up with my racing heartbeat. All around me, the dancers begin to follow my rhythms too."
+    }
+  ]
+}

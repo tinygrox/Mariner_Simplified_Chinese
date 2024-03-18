@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.damascus.1",
+      "label": "Idle Interest",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\n<the air is laced with polite disinterest, both from the visitors and the guards.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.damascus.2",
+      "label": "<Eyes Fixed>",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\n<Heckles have been raised, haunches elbowed, and all gaurds stand at attention.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.damascus.3",
+      "label": "<Actively Scanning>",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\n<They know they are looking for something, and some may even know it is me.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.damascus.4",
+      "label": "<High Alarm>",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\n<Our group is identified, and calls are made for our seizure>"
+    }
+  ]
+}

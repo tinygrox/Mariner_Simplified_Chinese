@@ -1,0 +1,218 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.northsea.london.morland.vabagondtempatation",
+      "label": "The First Step",
+      "startdescription": "\"Oh, yes, the first step.\"",
+      "description": "\"The route changes over the years, but I like to keep in the know of the first stop, to send any aspirants I meet in the right direction. Seek a place that isn't, where the sea has conquered the land.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.vagabondtemptationreminder",
+      "label": "Ask again after the Pilgrimage",
+      "startdescription": "\"Again?\"",
+      "description": "\"The way changes, now and again. But I always pay mind to stay informed on the first step. I told you where it is, now go take it.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.vagabonddedication",
+      "label": "Tell of my Exploits",
+      "startdescription": "\"On the way, are we?\"",
+      "description": "\"Now we are in uncharted waters! I have no idea where she will have you travel next. But I cannot wait to find out. Now tell me everything of your first step...\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.twinstemptation",
+      "label": "A Different Path",
+      "startdescription": "\"You want to abandon the pilgrimage?\"",
+      "description": "She frowns. \"You would leave it all behind? The mysteries beyond the skin of the world, the Pilgrimage, the Brightness behind the stories? And for what... Companionship?\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.twinsdedication",
+      "label": "A Different Path",
+      "startdescription": "\"So you went your own way...\"",
+      "description": "\"Oh well, there goes my shot at hearing the greatest gossips right from the source.\" she sighs. \"I shall have to sate my curiosity with snippets a little longer.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.sunkencity",
+      "label": "Asking after the Sunken City",
+      "startdescription": "\"Trying to find a place that isn't?\"",
+      "description": "\"The Sunken City... must lie somewhere near Kerisham, I gather, but I don't know exactly where. That's an issue for you to navigate. You Half-Hearts are more sensitive for special places like that.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.paintedwaterfall",
+      "label": "Asking after the Painted Waterfall",
+      "startdescription": "\"Trying to skip to end of the tale, are we?\"",
+      "description": "\"The Painted Waterfall is where pilgrimages such as yours can end. If you stick your nose in the right wrong places, if you strum up some stories to share, and if you don't get hindered by something as inconvenient as death.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.dancer",
+      "label": "Asking After a Dancer",
+      "startdescription": "\"A foreign dancer girl?\"",
+      "description": "\"Those aren't scarce. Try the Gaiety... She's an Adept you say? There was one of those, recently... I think Sulochana took her under her wings.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.halfheart",
+      "label": "Ask after my Half-Heart",
+      "startdescription": "\"You want to talk to me about Heartbreak?\"",
+      "description": "\"Don't fuss. Everyone has something. If we'd make a big deal over every unhappy artist, the empire would grind to a halt. Just make the best of your sensitivity. Let it guide you to places that others might miss.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.lackheart",
+      "label": "Ask after my Lack-Heart",
+      "startdescription": "\"You think a part of your soul is missing?\"",
+      "description": "\"Hmm... You seem functional enough, so I doubt you are really missing one of the Nine. But knowing what you are... Perhaps some fraction of each part is seperated from you. I'm not sure. If you wish to learn more about this, perhaps visit a library.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.music",
+      "label": "Discuss my songs with Miss Morland",
+      "startdescription": "\"You wish to talk to me about the Orphean Arts?\"",
+      "description": "\"I am not a specialist, But I have seen a Performance or two in my days. I know to start a ritual that way it must occur in a Dionysian Temple: A Theater. The Ritual itself is guided by two princples... Intent First, followed by Direction. With Intent is declared how you wish to affect the world, where Direction declares the sphere of influence, or the target.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.character",
+      "label": "Ask after the Mending of my Soul",
+      "startdescription": "\"You are trying to find out how to heal your fractured Soul?\"",
+      "description": "\"I find the answers I seek in books, most of the time. Those I can't find there I find in the world.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.slip",
+      "label": "Ask after the Train Time",
+      "startdescription": "\"What do you have there?\"",
+      "description": "\"Kerisham? I haven't been, but I have heard much about it. \"Nothing ever changed in Kerisham Town\" they say.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.debellismurorum",
+      "label": "Tea and Translation",
+      "startdescription": "\"Did you find something interesting for me? Come in then.\"",
+      "description": "\"Ah, yes, a classic. The translated work is easier to sell, but I think I can find a buyer for this one too.\" She pours me another cup of steaming Earl Grey. \"But you did not bring me this just for the stipend, did you... let me alleviate your curiosity. It's a good story... relevant to you in more ways than one.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.morland.pineknight",
+      "label": "Tea and Translation",
+      "startdescription": "\"Did you find something interesting for me? Come in then.\"",
+      "description": "\"Quite the collectable piece, for the right buyers. And I think I have just the one browsing my shop of late...\" She mixes three sugars into my tea. \"But this is not a story to tell without on an empty stomach, or in the gloomy dark. Stoke up the hearth for me, and I'll begin.\"",
+      "updateCodexEntries": {
+        "codex.hours.ringyew": {
+          "add": [
+            "codex.hours.ringyew.1"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.sunkencity",
+      "label": "Asking after the Sunken City",
+      "startdescription": "\"A city at the bottom of the sea?\"",
+      "description": "\"No I do not know of such a place, allthough the name sounds familiar... Perhaps I have heard it in a dream.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.twinstemptation",
+      "label": "Ask about the Path to becoming Whole",
+      "startdescription": "\"You want to talk about your Path?\"",
+      "description": "\"What you are missing is not gone. You just have to find it to become whole. Step by step. Part by part.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.twinsdedication",
+      "label": "Part By Part",
+      "startdescription": "\"On your way...\"",
+      "description": "\"Part by part, Step by step. You soul was torn, but you can stitch it back together. That will draw you closer to your other half. If you make it all the way, you can be as one again.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.vagabondtemptation",
+      "label": "Another Path?",
+      "startdescription": "\"You wish to know about another path?\"",
+      "description": "\"That is another path open to Half-Hearts, not quite the intended route, I don't think. A lonely one, as well.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.vagabonddedication",
+      "label": "Another Path Taken.",
+      "startdescription": "\"So you have pivoted in another direction.\"",
+      "description": "\"I hope it brings you all that you seek.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.dancer",
+      "label": "Asking after a Dancer",
+      "startdescription": "He regards me coolly. \"You wish to know about a performer at the Club?\"",
+      "description": "\"We have many performers, who come and go for many reasons. But they all appreciate my confidentiality. I will not say more to an outsider, who does not understand our Ways.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.lackheart",
+      "label": "Asking after my Condition",
+      "startdescription": "\"You want to know what I know about your Condition?\"",
+      "description": "\"Not much, I'm afraid. I met another long ago, who had the same look in her eyes. The same... Hunger.\" He taps my chest. \"In there. When she lingered here I watched her wither like a caged bird, until she left again. And on and on. Coming and going like the tides. Years later I saw her oncemore, arms entwined with another like her. She said she found her other half."
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.fakeclub",
+      "label": "Asking after the Club",
+      "startdescription": "\"The Club? What do you want to know?\"",
+      "description": "\"I am not the founder, nor the owner, but I do feel a certain responsible for the club, and those who passes through. I'd love to see you on our stage again.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.club",
+      "label": "Asking after the Club",
+      "startdescription": "\"The Club? What do you want to know?\"",
+      "description": "\"I am not the founder, nor the owner, but I do feel a certain responsible for the club, and those who passes through. I'd love to see you on our stage again.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.unmarkedgrave",
+      "label": "How It Ended.",
+      "startdescription": "\"Have you visited yet?\"",
+      "description": "Agdistis is clearing paper snake-skins and prop vines of the stage.\"She was on her path. Sulochana guided her, not me. Do not ask me where it went wrong, I will not say. But we gave her the rites she deserved, in the end.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.musicstorm",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
+      "description": "\"Our Arts are even less precise than those performed by aspirants and scholars. Take the weather, for example. If your Direction in a Performance is aimed at Grail, Paired with an Intent of Edge, You can Rouse Storms from Sea and Sky. To quell storms however, both Direction and Intent change... \"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.agdistis.grail"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.musicwrongedge",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
+      "description": "\"We try for a particular ambiance here at the Ecdysis club, and the clanging of blades is rarely a part of that. Still, if you perform with the Intent of Edge, you can rouse many things beyond mere battle lust.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.agdistis.edge"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.musicwrongheart",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
+      "description": "\"The Revolutions of the Heart are what I studied the deepest, though the pursuit left it scars on both my body and soul. Many of the Powers of the Wood and sea share their interest in heart, but it most closely connected to its Patron Hour, The Storm Relentless. With the right performance, the Sky can be commanded, by pairing this Direction with what is springs from.\"",
+      "unlockCodexEntries": [
+        "codex.performance.conversation.agdistis.heart"
+      ]
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.musicwrongmoth",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
+      "description": "\"The Club does do Performances in the Old Path, though they focus on dance, not music. If Sulochana had been here... Perhaps you can seek out another shedder of skins to elaborate on these mysteries?\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.musicwrong",
+      "label": "Discuss the Power of my Songs",
+      "startdescription": "\"You wish to discuss a song of Power with me?\"",
+      "description": "\"I am not a specialist on such manners. I fear to misconstrue it's intricasies. You should seek another tutor.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.character",
+      "label": "The Mending of the Heart",
+      "startdescription": "\"You are Seeking to Mend your Character?\"",
+      "description": "\"Character... one of the Nine. If you seek to heal it hrough the Orphean Arts, you must find the right inspiration first. Search the stories for tales of great choices and decission points. Agency gained and lost. \" He shrugs. \"I cannot make the choice for you. It must be meaningfull to you.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.songheart",
+      "label": "Play a song for the Dance Master",
+      "startdescription": "\"You want to sing a song for me?\"",
+      "description": "After the song is through, Agdistis sits smiling, though his eyes are liquid.\"It's a cruel joy, isn't it? To give of oneself to enact eternity. Oh, but how gladly we give.\""
+    },
+    {
+      "id": "mariner.conversations.northsea.london.agdistis.songwrong",
+      "label": "Play a song for the Dance Master",
+      "startdescription": "\"You want to sing a song for me?\"",
+      "description": "\"It's pretty. It has potential. But it could be more. Come to the club, and I'll set up a real performance for it, with a proper stage-setting, and a proper crowd. And then you can show me what you can accomplish.\""
+    }
+  ]
+}

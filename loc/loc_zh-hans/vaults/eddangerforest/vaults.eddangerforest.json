@@ -1,0 +1,293 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.eddangerforest.laws",
+      "label": "The Doorstep Laws",
+      "description": "The Saga-tales and Fishwife Wisdoms are in accord on how to treat the Unseen Folk. The Dream-dwelling Hillfolk shall not impede me if I follow these old rules of cordiality and hospitality."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.riverkey",
+      "label": "River Unwound",
+      "description": "What was looped is now uncoiled. What was a lock is now a road."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.guidance",
+      "label": "Guidance of Pearls",
+      "description": "The seabreeze follows me, laces between my fingers, to remind both me and observing parties who I belong to."
+    },
+    {
+      "id": "mariner.vaults.eddanger.resin",
+      "label": "Spiteful Resin",
+      "description": "Still, within its amber brilliance, a stubborn hatred for machines lies. Do not allow this close to the cogs of any machine you care about"
+    },
+    {
+      "id": "mariner.vaults.eddanger.machineparts",
+      "label": "Eager Parts",
+      "description": "Scraps of machines, whose movement has been halted for decades. They ache to act."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.wall",
+      "label": "The Forest Wall",
+      "description": "The coast here has been swallowed by the Forest. The trees weave a thick canopy right up to the waterline, dark and impenetrable."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.coast",
+      "label": "The Coast",
+      "description": "More familiar to me than the dark embrace of the forest, is the open expanse of sea and sky. I could take a moment to align myself to its rhythms and affirm my affiliation to the powers that guide me there.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.edge",
+      "label": "The Twilight Edge",
+      "description": "I could venture into the borderlands, but not far enough to lose my bearings. Here I would always find my way as I take my first step into those sylvan depths.",
+      "slots": [
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.camp",
+      "label": "The Resin Soaked Camp",
+      "description": "Near the waters' edge lies a logging camp, which was discarded when the situation became untenable.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.river",
+      "label": "The River Mouth",
+      "description": "At this river mouth, the strangest waters collect from a hundred little streams, flowing from the countless secret places in the depths of the Eddanger forest.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.insight",
+      "label": "Botanical Insight",
+      "description": "Considerations of resources and relays. Of bodies and of stems and trunks and vines. And of where to snip and where to prune, if it comes to that. <br><br>[This card will affect some obstacles and events of this Adventure from the board.]"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.favor",
+      "label": "Whimsical Blessings",
+      "description": "My actions seem to have pleased the Yew. But favor never last for one so fickle. I should act on it quickly."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruit",
+      "label": "The Merry-Red Berries",
+      "description": "Such delight is contained in their form, their shade, their flesh... But each contains shriveled black heart, lethal as venom."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.flower",
+      "label": "Corpse-Bloom Cutting",
+      "description": "Life from death is as natural as death after life. As long as we provide the flowers of soil and meat, it will remain in bloom."
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.treasure",
+      "label": "Manyfold Knot",
+      "description": "An item sacred to a certain religious sect. I know they venerated the Ring-Yew, among others. In between the many contortions of the iron bands, I can see a heart. Is it trapping it, or protecting it?"
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.glade",
+      "label": "The Innermost Glade",
+      "description": "After the crowded forest, always rustling and chirping with things unseen, this glade is completely quiet. In its center stands the matriarch of the woods, and the forest floor around is carpeted with flowers. "
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.nooks",
+      "label": "The Taking Nooks",
+      "description": "The Old Yew at the center of the glade is surrounded by the supplicant dead. Their arms still stretch out, with rotting fingers trapped between the many pleads and folds of her bark.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.corpses",
+      "label": "The Blooming Corpses",
+      "description": "In the glade, especially at the base of the Heart Tree, the forest floor is littered with corpses. Adventurers, revelers, lost souls, all now forever languishing in the Honey-Tree's court, flower-crowned and rotten.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.eddangerforest.fruits",
+      "label": "The Berries in the Boughs",
+      "description": "Between blue needles of the Mother Yew, bright red treasures blink. The fruits from a sacred yew have many miraculous properties asigned to them in myth and story, beside their profane toxicity.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    }
+  ]
+}

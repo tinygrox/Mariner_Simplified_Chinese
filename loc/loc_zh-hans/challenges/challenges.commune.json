@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.commune",
+      "label": "Commune With A Presence",
+      "startdescription": "If I cast my mind out, and bear my soul to my suroundings, I could contact the conscience which resides here. I could use the uniting heart or the mistifying moth.",
+      "description": "If I cast my mind out, and bear my soul to my suroundings, I could contact the conscience which resides here. I could use the uniting heart or the mistifying moth.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.commune.heart.high",
+      "label": "Unending, Unlimited, Unbounding",
+      "startdescription": "My tongue tastes the air, and the air touches the world around. Through this path there are no barriers between what is within me and what is without. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.commune.heart.med",
+      "label": "An Open Communication",
+      "startdescription": "I open like a shell, and the worldsoul moves my mind the the sea polishes pearls. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.commune.heart.low",
+      "label": "An Open Connection",
+      "startdescription": "I open like a blossom and the whipping winds may whisper secrets to my soul. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.commune.moth.high",
+      "label": "Half-Fealt Truths",
+      "startdescription": "I speak with the tongue of the birds, like mages and madmen before me. We wil almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.commune.moth.med",
+      "label": "Half-Understood Messages",
+      "startdescription": "Raindrops write their tales on the water. It is folly to read them, so I will read them perfectly. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.commune.moth.low",
+      "label": "Half-Heard Whispers",
+      "startdescription": "The stirring of leaves tells me the opinions of the wind. of course, the wind is a notorious liar. We may yet succeed."
+    }
+  ]
+}

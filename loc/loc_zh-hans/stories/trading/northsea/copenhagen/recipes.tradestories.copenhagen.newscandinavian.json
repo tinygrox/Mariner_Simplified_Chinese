@@ -1,0 +1,10 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tradestory.copenhagen.newscandinavian",
+      "label": "An Evening at the New Scandinavian",
+      "startdescription": "I could catch a show at the New Scandinavian. Few runs are very long, so every show is a surprise, and every show is a challenge.",
+      "description": "A cacophony, a revelation? These performances are never straightforward, and even rarely clear what they are alluding too."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.leaving.hint.localactivity",
+      "label": "Cannot Leave",
+      "startdescription": "I am too entangled here... I cannot set sail until I tie up my affairs."
+    },
+    {
+      "id": "mariner.sail.mainloop",
+      "label": "Sailing",
+      "startdescription": "What might find us next upon the sea?",
+      "slots": [
+        {
+          "id": "action",
+          "label": "<Action?>",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.openseamainloop",
+      "label": "Sailing",
+      "startdescription": "What might find us next upon the sea? [OPEN SEA]",
+      "slots": [
+        {
+          "id": "action",
+          "label": "<New Course? Action?>",
+          "description": "<>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.postevent",
+      "movements": {
+        "~/tabletop": [
+          "mariner.crew",
+          "mariner.song",
+          "tool",
+          "mariner.inspiration.nature",
+          "mariner.lackheart",
+          "mariner.halfheart"
+        ]
+      }
+    },
+    {
+      "id": "mariner.sail.sinking",
+      "label": "The World Shrinks",
+      "startdescription": "The pressure of all the ocean is pushing itself through the skin of my ship. The ends' approach is dreadfully quick, and numbingly slow."
+    },
+    {
+      "id": "mariner.sail.sinkingfromevents",
+      "label": "The World Shrinks",
+      "startdescription": "The pressure of all the ocean is pushing itself through the skin of my ship. The ends' approach is dreadfully quick, and numbingly slow."
+    }
+  ]
+}

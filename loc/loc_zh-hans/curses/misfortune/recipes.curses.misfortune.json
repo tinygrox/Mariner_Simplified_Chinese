@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.curses.misfortune.sleep",
+      "label": "@#mariner.curses.concealer|Concealed Curse#|Curse of Misfortune@",
+      "startdescription": "@#mariner.curses.concealer|This curse is concealed.#|The Curse of Misfortune is approaching...@"
+    },
+    {
+      "id": "mariner.curses.misfortune",
+      "startdescription": "The Curse of Misfortune is approaching..."
+    },
+    {
+      "id": "mariner.curses.misfortune.applyeffect.notoriety",
+      "label": "Serendipitous Notoriety",
+      "startdescription": "My name is mentioned in the wrong company for the wrong reasons. This time, my rising infamy has little to do with me."
+    },
+    {
+      "id": "mariner.curses.misfortune.applyeffect.wound.dread",
+      "label": "Unexpected Dread",
+      "startdescription": "Nightmares cling to me like cogwebs."
+    },
+    {
+      "id": "mariner.curses.misfortune.applyeffect.wound.fascination",
+      "label": "<getting fascination wound>",
+      "startdescription": "<getting fascination wound>"
+    },
+    {
+      "id": "mariner.curses.misfortune.applyeffect.longing",
+      "label": "<getting longing on a crewmember>",
+      "startdescription": "<getting longing on a crewmember>"
+    },
+    {
+      "id": "mariner.curses.misfortune.end",
+      "label": "Curse of Misfortune Curse Clearing",
+      "description": "Hollow like echoed laughter..."
+    }
+  ]
+}

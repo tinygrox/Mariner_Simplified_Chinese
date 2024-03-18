@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.sailingthere",
+      "label": "Sailing to a place connected to Mediterranean Sea",
+      "description": "Sailing to a place connected to Mediterranean Sea, so we should unlock things of this sea when arriving"
+    },
+    {
+      "id": "mariner.locations.medsea.presentthere",
+      "label": "Present in Mediterranean Sea",
+      "description": "Present in Mediterranean Sea (unavailable, might get deleted in the future)"
+    }
+  ]
+}

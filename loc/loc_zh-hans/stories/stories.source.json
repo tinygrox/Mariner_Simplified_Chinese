@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "id": "mariner.stories.lorelei.source",
+      "label": "Down The River She Slinks",
+      "description": "A poetic rebuttal to Clemens Brentano's Lorelei"
+    },
+    {
+      "id": "mariner.stories.debellismurorum.source",
+      "label": "De Bellis Murorum",
+      "description": "An eighteenth-century epic poem by the pseudonymous 'Solipsistos', in its original Latin. Perhaps Morland will find this interesting."
+    },
+    {
+      "id": "mariner.stories.mermaid.source",
+      "label": "Poster for \"Devotion of the Voiceless Havfrue\"",
+      "description": "A debut operetta inspired by a statue in the hometown of its composer."
+    },
+    {
+      "id": "mariner.stories.pineknight.source",
+      "label": "The Orchid Transfigurations, Vol 2",
+      "description": "A sixteenth-century alchemical fever-dream, attributed to Robert Fludd, frequently banned for the disturbing allure of its illustrations. This is in the original Latin."
+    },
+    {
+      "id": "mariner.stories.kerys.source",
+      "label": "L'Ancien Conte de Ker Ys.",
+      "description": "While the french romanticists may have \"recovered\" the story, it was never forgotten on the coasts and islands of the english channel. This book contains a collection of those stories, written in a mix of academic and rural french. I should enlist a francophone to help me unravel the words."
+    }
+  ]
+}

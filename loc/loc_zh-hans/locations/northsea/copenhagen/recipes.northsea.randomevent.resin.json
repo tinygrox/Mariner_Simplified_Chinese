@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.resin",
+      "label": "<The Endless Hunger of Artistry>",
+      "startdescription": "<As I visit mr Ibn Yahya shop and revel in the smells of sawdust and lacquer. Baruch gestures for me when the shop is empty. \"I could use another batch of that ingredient you collected for me. Could you visit the woods again and bring back another batch of resin?\""
+    }
+  ]
+}

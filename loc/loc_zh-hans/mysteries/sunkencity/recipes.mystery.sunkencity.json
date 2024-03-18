@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.navigate.mystery.sunkencity.success",
+      "label": "The Secret of Ker Ys",
+      "startdescription": "The Where, the Why, the Who",
+      "description": "I have studied the story of the sunken city of Ker Ys. I know the location of the hamlet on the English Coast which spawned from the sunken city. And I can feel within me that all consuming desire... (or that desire to consume all?) If I hold these in my brain, my lips and my heart, I can now find the path to Ker Ys.",
+      "updateCodexEntries": {
+        "codex.ascensions.exemplum.hiraezh": {
+          "add": [
+            "codex.ascensions.exemplum.hiraezh.solvedmystery"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.navigate.mystery.sunkencity.hint.missingstory",
+      "label": "A Sunken City... Missing Story",
+      "startdescription": "I am close to understanding the secret of Ker Ys. I need to hear more tales about what happened there, so I can taste the truth on the wind as I sail."
+    },
+    {
+      "id": "mariner.navigate.mystery.sunkencity.hint.missingsong",
+      "label": "A Sunken City... Missing Song",
+      "startdescription": "I am close to understanding the secret of Ker Ys. I need to understand the passions that led the sorcerous princess to invite the drowning waters in. Can I also long with such ferocity?"
+    },
+    {
+      "id": "mariner.navigate.mystery.sunkencity.hint.missingitem",
+      "label": "A Sunken City...Missing Item",
+      "startdescription": "I am close to understanding the secret of Ker Ys. I need something to help me narrow down the location. Perhaps I can find a scrap from its history?"
+    },
+    {
+      "id": "mariner.navigate.mystery.sunkencity.hint",
+      "label": "A Sunken City?",
+      "startdescription": "Somewhere between the White Island and The Republic, a city is said to have been lost to the sea. Some say it was surrendured willingly, from a lover's wilful whisper. Somewhere on this sea, I must be able to find more information."
+    }
+  ]
+}

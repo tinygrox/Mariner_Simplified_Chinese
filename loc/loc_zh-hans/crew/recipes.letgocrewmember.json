@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.letgocrewmember",
+      "startdescription": "I offer them a severence and cross out their names in the Kite's books.",
+      "description": "They take their money and their sack, and walk  the gangplank for the last time."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.medsea.marseille.halfheart",
+      "label": "Exploring Marseille",
+      "startdescription": "<Under the Relentless Riviera Sun, we walk streets hazed by the fermented smells of the Mediterranean, The afternoon sometimes brings the relief of a thunderstorm down from the mountains, to wash away the sins of the day.>"
+    },
+    {
+      "id": "mariner.explore.medsea.marseille.lackheart",
+      "label": "Exploring Marseille With An Open Soul",
+      "startdescription": "<Under the Relentless Riviera Sun, we walk streets hazed by the fermented smells of the Mediterranean, The afternoon sometimes brings the relief of a thunderstorm down from the mountains, to wash away the sins of the day.>"
+    },
+    {
+      "id": "mariner.explore.medsea.marseille.lackheart.foundtune",
+      "label": "Found Tune in Marseille",
+      "description": "<Under the Relentless Riviera Sun, we walk streets hazed by the fermented smells of the Mediterranean, The afternoon sometimes brings the relief of a thunderstorm down from the mountains, to wash away the sins of the day.>"
+    },
+    {
+      "id": "mariner.explore.medsea.marseille.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Marseille",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    },
+    {
+      "id": "mariner.explore.medsea.bizerta.halfheart",
+      "label": "Exploring Bizerta",
+      "startdescription": "<From the Old Harbor, the many-coloured houses and the cool breeze of the water gives way white buildings and loud bazaars. If I apply my charm, I may find extrordinary peoples, places, or opportunities.>"
+    },
+    {
+      "id": "mariner.explore.medsea.bizerta.lackheart",
+      "label": "Exploring Bizerta With An Open Soul",
+      "startdescription": "<From the Old Harbor, the many-coloured houses and the cool breeze of the water gives way white buildings and loud bazaars. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur.>"
+    },
+    {
+      "id": "mariner.explore.medsea.bizerta.lackheart.foundtune",
+      "label": "Found Tune in Bizerta",
+      "description": "<From the Old Harbor, the many-coloured houses and the cool breeze of the water gives way white buildings and loud bazaars. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur.>"
+    },
+    {
+      "id": "mariner.explore.medsea.bizerta.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Bizerta",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    },
+    {
+      "id": "mariner.explore.medsea.constantinople.halfheart",
+      "label": "Exploring Constantinople",
+      "startdescription": "<The first choice in exploring Constantinople... Which continent do you wish to discover? The city is a crossroads and a bridge. And after that first choice, many more. If I apply my charm, I may find extrordinary peoples, places, or opportunities.>"
+    },
+    {
+      "id": "mariner.explore.medsea.constantinople.lackheart",
+      "label": "Exploring Constantinople With An Open Soul",
+      "startdescription": "<The first choice in exploring Constantinople... Which continent do you wish to discover? The city is a crossroads and a bridge. And after that first choice, many more. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur.>"
+    },
+    {
+      "id": "mariner.explore.medsea.constantinople.lackheart.foundtune",
+      "label": "Found Tune in Constantinople",
+      "description": "<The first choice in exploring Constantinople... Which continent do you wish to discover? The city is a crossroads and a bridge. And after that first choice, many more. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur.>"
+    },
+    {
+      "id": "mariner.explore.medsea.constantinople.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Constantinople",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    },
+    {
+      "id": "mariner.explore.medsea.haifa.halfheart",
+      "label": "Exploring Haïfa",
+      "startdescription": "<From the harbor of Haifa, every way to travel is a climb. But after a day of exploring, you can around to the sunset sea, and see all encounters the city gave you laid down below you.>"
+    },
+    {
+      "id": "mariner.explore.medsea.haifa.lackheart",
+      "label": "Exploring Haïfa With An Open Soul",
+      "startdescription": "<From the harbor of Haifa, every way to travel is a climb. But after a day of exploring, you can around to the sunset sea, and see all encounters the city gave you laid down below you.>"
+    },
+    {
+      "id": "mariner.explore.medsea.haifa.lackheart.foundtune",
+      "label": "Found Tune in Haïfa",
+      "description": "<From the harbor of Haifa, every way to travel is a climb. But after a day of exploring, you can around to the sunset sea, and see all encounters the city gave you laid down below you.>"
+    },
+    {
+      "id": "mariner.explore.medsea.haifa.lackheart.foundpackage",
+      "label": "Met a Member of the Network in Haïfa",
+      "description": "The city is rife with tale-tellers. Nannies rambling about tales for a coin, sailors with their belly full of stories and liquid, old beggars and young peddlers. As I explore, one of them locks eyes with me. They stare at me with glintful eyes and let a package stick out of their pocket."
+    }
+  ]
+}

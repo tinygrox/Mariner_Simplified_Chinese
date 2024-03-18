@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.fight",
+      "label": "A Fight on the Kite",
+      "startdescription": "Raised fists and raised voices. I leave my quarters to find my men squared off on the deck, solving their grievances in a manner that is older than human speech. I could still their actions with Winters authority, or break them apart with the force of Edge.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.fight.outcome.success",
+      "label": "Authority Restored",
+      "startdescription": "Their fighting spirits have withered before my gaze. Whatever petty complaint, it has been put aside. The sailors are moved to different shifts, and they will not continue their argument until they touch shore again."
+    },
+    {
+      "id": "mariner.sail.seaevents.fight.outcome.specialfailure",
+      "label": "United in the End",
+      "startdescription": "It ended with a strange sort of harmony, as the blades of quarrelsome crewmembers both found purchase, and they shared together their last breaths."
+    },
+    {
+      "id": "mariner.sail.seaevents.fight.outcome.failure",
+      "label": "A Roused Air",
+      "startdescription": "We managed to break the fight apart, but the argument lingers. Everyone is taking sides, and my crew has lost its sense of cohesion."
+    }
+  ]
+}

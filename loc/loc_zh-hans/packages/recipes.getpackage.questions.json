@@ -1,0 +1,466 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.lantern.1",
+      "label": "Fathers' Eyes",
+      "startdescription": "A story about the Sun and the Moon, both eyes of the same godhead. Each of the stars are their courtiers, and mortals below could look up and watch wisdom bleed down from the sky. But unsatisfied with the drops of wisdom they recieved on earth, they invented Dreaming, and forged a pathway up into the sky. [Respond with a Lantern Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.lantern.2",
+      "label": "Sun's shadow",
+      "startdescription": "A story about a great king, who ruled as steward of the gods on the earth. An extension of them, not a representation, but a shadow. All that this flat world can contain [Respond with a Lantern Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.forge.1",
+      "label": "Island Maker",
+      "startdescription": "The Story of the Goddess of the Vulcano, who was loved and who was feared. She destroyed the land, and gave it sparks of life. With her fire-stick she summoned the old, blind fire of the earth. All around the island you can still find examples of her craft. [Respond with a Forge Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.forge.2",
+      "label": "The Devil and the Blacksmith",
+      "startdescription": "The Story of the blacksmith, who bargained with a God-from-Below. She promised him her service, if in trade she would gain the power of the forge, the power to make and remake all. He granted her her boon, but in repayment she used her power to shatter him, and ascended from his lair.  [Respond with a Forge Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.edge.1",
+      "label": "War of the Fishes",
+      "startdescription": "The Story of a war fought under the sea. It was fought between all the large fish against their smaller kin. The Shark fought the Minnow, the whale against the haddock, the narwhal against the pufferfish. But even with all the strength of the great fish, they could not defeat the guile, tactics or tools of their kin. And so a begrudging stalemate was reached below the waves. [Respond with a Edge Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.edge.2",
+      "label": "the Teaching of a Hero",
+      "startdescription": "The Story of a young warrior, send to the northern reaches, to be trained at a Fortress of Shades, on an isle of rock and salt. His mistress teaches him the blade, and lends him the slaying spear. It is in her honor that he takes up the weapon to defend the land against her sister, but her defeat will lead to his downfall... [Respond with a Edge Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.winter.1",
+      "label": "The Mistake of Death",
+      "startdescription": "Once, when the world was young, Chameleon was send from above to tell mortals not to fear death, and let them know where their souls would go. but the hare Kalulu thought the mortals could not wait on slow chameleon, and decided to bring them the news himself. But he got the words jumbled, and told them to fear death, nowhere their souls would go. When Chamelieon reach earth, it was allready to late. The direction of death was down. [Respond with a Winter Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.winter.2",
+      "label": "The Bird Whose Song Remembered",
+      "startdescription": "Tells a story about Cavurra, who traveled all his life, and worked hard to build up wealth. When he was old and rich, he returned to the village of his birth, to bring gifts and share in his accomplishments. But on the road, two men of his village grew envious of his riches and slew him. They came to town and claimed it was their wealth. But a lamenting bird from the bushes gave them away. He had seen the murder, and sang elegies for Cavurra, who name he would not let forget. [Respond with a Winter Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.heart.1",
+      "label": "The Parrot and the Orchard",
+      "startdescription": "About a parrot who flew over the seven oceans and braved the four winds to reach an orchard with mango-trees of golden light. There all parrots eat of the fruits to gain youth and vigor. But the parrot did not think they deserved this gift for themselves. Instead, he carried it home to the priest who took care of it, for he thought them more deserving. But even that brahman did not think themselves worthy, and decided to gift it to the king. The king considered to gift, but decided not to eat the mango, but instead plant it in his garden, and shared the gift with all the kingdom. [Respond with a Heart Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.heart.2",
+      "label": "Malaika and Pearls of Love",
+      "startdescription": "Once, there was a poor, but kind man. He took care of his community, but could not find a partner. He decided to carve a woman from wood to keep him company. He placed his mothers pearl around their neck, and the woman came to life! Malaika loved her kind man, but her beauty held danger too. A king saw her, and stole her away to marry her. With her Husband begging the king, who would not be swayed, Malaika thought of a plan. She begged the king to just return the pearls, and then the king could take her with him. So the king threw the pearls to the ground, and with that the spell broke. [Respond with a Heart Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.grail.1",
+      "label": "Flesh and Loyalty",
+      "startdescription": "A story about a man, who always ate the children his wife would bear him. To save her progeny, the clever woman hid her last son in the baobab tree, and fed him every day, in secret. When he was grown, the man discovered his son, and chased him into a honey-bearing tree. But a boy sang a song that called forth four dogs, and together they devoured the devourer. [Respond with a Grail Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.grail.2",
+      "label": "The Wife who Never Ate",
+      "startdescription": "A story about a young woman who arrived in a small town. She was the most beautiful woman they had even seen, and a rich, miserly man decided to take her as his wife. She never ate, and worked diligently, so he was very content, but he did not understand why his stores of rice were lowering. One day, he spied on her in the house, and saw he unlatch her hair, and grow a mouth hidden on the back of her skull. [Respond with a Grail Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.moth.1",
+      "label": "Blood and Silt and Froth",
+      "startdescription": "The story where a god was murdered, and his body carved and thrown into the flooding river. His winged wife, took flight and sail and collected every piece of him, except that most precious. From tide and foam and bandages he was reborn, and that which he had given now flooded the river every year. What can be lost, but still be man reborn. [Respond with a Moth Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.moth.2",
+      "label": "Taranga's Holy Hairs",
+      "startdescription": "The story of a mother named Taranga, and the child she bore to early. It was sickly and small, and she cut off her own hair to wrap it in. She went to the ocean surf, and begged the question if her child would live or die. A moment later, the surf had stolen it away, and raised it among the seabirds and the fishes and the spirits of the deep. But the sea is too salty for a mortal, and one day he would return to the world of man, Maui of Tarangi holy hairs. [Respond with a Moth Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.knock.1",
+      "label": "The Gifts of Night",
+      "startdescription": "A story of the man, E Mkong, who dove into the river and rose in the land where snakes walk like men. There he was gifted the secret knowledge of fire. He took it back to earth and with the fire came the night, to separate days from each other and allow men to dream. [Respond with a Knock Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.knock.2",
+      "label": "Trick-born, Robber-Queen",
+      "startdescription": "A story of the  youngest of seven daughters. She leaves the home she grew up in, and becomes an apprentice of the robbers that have terrorized her county. They lay before her the challenges to steal the oxen, which she does with guile and trickery. After that she is chosen as the robber-leader, and she drives the band away. Then she returns the robbed riches and the tricked oxen and the robber-house is left empty. [Respond with a Knock Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.romantic.1",
+      "label": "The Lasting Love of Quas and Laila",
+      "startdescription": "The story of two youngsters, who fell in love in their village on the edges of rock and sand. Their fate should have been to grow old and happy and insignificant, if the stars had been only kinder. Now she was carried off to another life with another man, in the north, and he languished in the desert. But he left, carved into the rock, three verses of poetry so famous that Laila and his love are still remembered today. [Respond with a Romantic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.romantic.2",
+      "label": "The Love of the Cut Sleeve",
+      "startdescription": "The story of an emperor, who loved his companion so dearly, that he could not do anything to bother him. One day, his companion had fallen asleep as they reposed so that the emperor’s clothing was caught under. Rather than wake up his lover, he took a knife and cut off the embroidered silks. He held court for the day with a sleeve of cut silk, and all could witness his devotion. [Respond with a Romantic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.grim.1",
+      "label": "la Llorona",
+      "startdescription": "The story of a weeping woman, who is sometimes seen on the waterfronts and river-sides. What does she weep for? Her children, lost to her forever, or is it simply hunger that drives her wailing. One thing that is for sure, is that children should not wander too far from their mothers at the waterfront, for whatever her dark desire, the weeping woman may claim them. [Respond with a Grim Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.grim.2",
+      "label": "King In Darkness",
+      "startdescription": "The story of a king ruled in a kingdom of darkness, but hated that darkness, and he reviled our world for its light. So he sends out a hound to steal for him the sun. It’s great maw darkened it in our sky, but the sun's fire rebuffed it.. Another hound goes after the moon, many nights in a row, but when only  a sliver remains, the hound cougs it back up. its cold mirror surface rebuffs its bites. [Respond with a Grim Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.rousing.1",
+      "label": "Maui Steals the Secret of Fire",
+      "startdescription": "One day, Maui wished to learn the secrets of fire from the lands of the ancestors. He went to his grandmother, the fire goddess Mahuika to beg for flame. 10 times, she ripped of a fingernail to produce flame, and 10 times he ‘accidentally’ doused it in the river. In her anger, she challenged him to a duel, and in his craftiness, he challenged her for the secrets to produce flame. They clashed in a contest of strength, and with his powers of transformation, he won secrets of fire and brought it to his mortal kin. [Respond with a Rousing Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.rousing.2",
+      "label": "The Princes of Serendip and the Monstrous Hand",
+      "startdescription": "Once upon a time, there were three princes, journeying from the Land of Serendip. One day, when they were in the employ of a great Sjah, they were sent to fight a monster that was terrorizing the coast. 5 headed and giant it was, and it had slain all champions that had opposed it. But the youngest prince watched the monster, and simply raised two fingers, in the signal of victory. Each head perished before his brazen piety. [Respond with a Rousing Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.wise.1",
+      "label": "The Princes of Serendip and Forced Succession",
+      "startdescription": "Once the king of Serendip had three sons, taught in his court by scholars, advisors and wise men. The king decided to test their wisdom, and declared his intention to retire, and told his sons to decide who should rule. They all declined in turn, stating it improper to rule with an elder relative ahead in the line. They passed this test, but the king feigned anger and banished all three from his court. Because while the answer was fair in the eyes of law and morals, he saw they needed a worldly education as well. [Respond with a Wise Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.wise.2",
+      "label": "The Shipwrecked Sailor",
+      "startdescription": "After a Shipwreck, a sailor arrives on the island ruled by a giant Snake, the last member of his tribe after a rain of stars whiped the other seventyfive from existance. The Snake regales him with gifts and comforts, and the sailor promises that, while he cannot repay him now, he will tell the Pharaoh of the snakes generocity, and the pharaoh will reward him in turn. Days later, the sailor is rescued by a passing ship, and tells of his miraculous journey to the pharaoh. [Respond with a Wise Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.whimsical.1",
+      "label": "Fox and Crow",
+      "startdescription": "The story of a fox that bullied a crow, and how the bird got its revenge. A lazy fox made his nest next to a crows nest. Under thread of eating the crows eggs, he first extorted the bird for food, then drink, then a bed. The bird supplied him with a cooked chicken, a water pale, and then the down from his own nest. The the fox requested laughter, and the bird brought him to the hunman village, playing tricks on the men and woman there. But in his antics he lead the village dogs right to fox. [Respond with a Whimsical Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.whimsical.2",
+      "label": "Why the Kookaburra Laughs",
+      "startdescription": "Once, in the dreamtime the Kookaburra was a very stern and dignified bird. One day, the Kookaburra was dosing, as a snake lay on a stone below. The kookaburra battled to convince his stomach he didn't need to eat another snake, as a wagtail landed on the stone. It hopped around, until it hopped right into the snakes mouth. the snake seemed contented, until it coiled and recoiled, and spit up the wagtail, carrying a frog in its mouth. The Kookaburra considered he would have almost eaten a snake, which contained a wagtail which contained a frog. And that strange proposed occurance caused the kookaburra such merriment that they are laughing to this day. [Respond with a Whimsical Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.witty.1",
+      "label": "Tricking the Dokkaibi",
+      "startdescription": "Of a man, who found his house haunted by a dokkaebi. But instead of fearing the goblin, he decided to use its own cleverness to trick it. They talked and shared their life, and eventually the monster admitted his one fear was blood, and the man told him the one thing he feared was money. The next day, the man bought a bag of oxen blood, and dumped it on the dokkaebi, and in revenge the goblin dumped a sack of gold onto the man. [Respond with a Witty Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.witty.2",
+      "label": "The Princes of Serendip and the Queen",
+      "startdescription": "Of three princes, from the kingdom of Serendip. One day, on their travels, they arrive at the court of a virgin queen. Her father has declared that only a clever suitor could court her, and a challenge to test them. The oldest prince was tasked to divide 5 snake eggs fairly between the queen, her advisor and himself. After consideration he gave 3 to the queen, 1 to the advisor and 1 for himself. When asked, he explained that since the men carried a pair of eggs in the folds of their pants, this division was only fair. [Respond with a Witty Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.occult.1",
+      "label": "Kitling Ripe Gets Around",
+      "startdescription": "The story of a cat-thing called Kitling Ripe, and her journeys for her other grandmother. The clever little thing interrupts the dealings of seven wood-witches, and steals from each site. With her prizes, she wakes her other grandmother from her grave by dancing on the loam. [Respond with a Occult Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.occult.2",
+      "label": "The Golden General and the Secrets of betrayal",
+      "startdescription": "Have you heard of the general that was trained by a god? In the greatest stories, the Shadowless Empire armies were led by a boy of gold, who got trained in the arts of cunning and strategy by the Scarred Man of Perseids. After that education, he led the empire to victory after victory… until the Perseids came to attack. He refused to fight those aligned to his master… The King of Kings needed him, and in a gamble, taught him the secret of oath breaking. It did not serve the king well, as the general betrayed not once but twice, and left the empire behind. [Respond with a Occult Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.tragic.1",
+      "label": "The Twelve Works",
+      "startdescription": "A story of a man, who battlelust-blind slew his own family. He is known for twelve heroic works, but could he be called a hero, when they were all enacted in penance for his great misdeed? [Respond with a Tragic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.tragic.2",
+      "label": "The Waiting Wives",
+      "startdescription": "In a brutal war, with the Dynasty to the North, all the men of the village where taken of to war. The women of the village would visit the cliffs, and stare out over the sea, waiting for their men returns. As day passed nad the winds buffeted them, the days turned to nights, and the seasons turned. The woman remained, but where no longer there. Now a row of rocks could be seen, ever vigilant over the unforgiving sea. [Respond with a Tragic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.apollonian.1",
+      "label": "Pan Twardowski",
+      "startdescription": "A Noble of Krakow made a deal with a Demon of flame, a deal for skill and knowledge. He became a famous advisor for the king, knowledged in crafting and astrology, and he conjured the dead in a mirror. When the price of the deal came due, the demon came to collect him for his service. After his Prayer, Mary of Reflected Glory intervened, and the Devil dropped Pan. He Landed on the Moon, where he remains to this day, in the house of his mistress. [Respond with a Apollonian Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.apollonian.2",
+      "label": "The Alchemist Who Flew to Heaven",
+      "startdescription": "In the Middle Kingdom lived an official, skilled in the arts of gunpowder and light. As he saw the fire arrows ascend into the sky, he fealt inspired he could reach Heaven this way as well. he deviced a Chair, with fourty-seven strapped to it. After he took seat, he lit each flower of fire in a great conflagration. when the smoke cleared, both the chair and official where gone. [Respond with a Apollonian Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.dionysian.1",
+      "label": "How Beer was Invented",
+      "startdescription": "Sekhmet, Goddess of War and Slaughter, descended to Earth thirsting for blood. Those few who survived her rampage knew they had to trick her. They brewed a red beer of the wheat of the land, and one man called the goddess, offering her the vats as the blood of his people. She drunk, and drowsy and sleepy, she stumbled home. This is how beer saved humanity, and why it is drunk at celebrations. [Respond with a Dionysian Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.dionysian.2",
+      "label": "How the Fletcher became a Cannibal",
+      "startdescription": "Once, a fletcher knicked a finger on a stone arrowhead. He sucked on the finger and delighted by the taste, knibbled on his flesh until there was nothing left on his bones. Then, still hungry, he continued to consume every person in his village. His wife and son escaped, and fled grass-tip quiet. But the Cannibal-fletcher still chased them. They found refuge with the Tabacco-eaters, who slew the fletcher by piercing his last remaining flesh, his beating heart, with one of his own arrow-heads. [Respond with a Dionysian Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.mortal.1",
+      "label": "The Hero of Harlem",
+      "startdescription": "One evening, a boy, strolling alongside the dike on his way home, noticed that a leak had sprung in it. Knowing the danger that posed, if the hole were to widen or the dike to wash away, the boy pushed his forearm into the hole, plugging it. He could not leave, knowing it would spell doom to his town. So all night he stood there, until he was found by farmers in the morning. [Respond with a Mortal Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.mortal.2",
+      "label": "The Magnolia Warrioress",
+      "startdescription": "Once, the call came for all families of the middle kingdom to send a man from their family to defend the borders. The Hua family had no sons, and Old Father Hua prepared to go to war. But his intrepid daughter Magnolia stole his armaments, bound her hair and her body, and went in his stead. As a boy now, Magnolia won many victories, and he rose through the ranks of the army. In the end, he rejected a permanent office, unbound their body and returned to her family. [Respond with a Mortal Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.cthonic.1",
+      "label": "Baba Yaga Visits in the Night",
+      "startdescription": "In the Old Country, if you live too close to the Woods Without End, you have to honor the Baba Yaga. If she visits, do not look at the glint her iron teeth, or the movements her long fingers. Simply let her count your spoons, and if the number pleases her, she will soon be on her way. [Respond with a C'thonic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.cthonic.2",
+      "label": "Maui Travels to the Land of the Ancestors",
+      "startdescription": "Once, Maui the great warrior wished to know who his father was. He begged his mother Taranga, but she would not budge. But then he tricked her into returning to the Land of the Ancestors, and he followed her through her secret ways in the guise of a bird. Down he descended, past silent oceans and great nephrite trees. [Respond with a C'thonic Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.horomachistry.1",
+      "label": "The Feast of the Gods",
+      "startdescription": "At the close of any era, the Gods hold a great feast... The Crow sits with the Moonsickle, and the Lilyking dances with the Double-Edged. They will discard it when they are done, as they do with everything beneath their notice. [Respond with a Horomachistry Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    },
+    {
+      "id": "mariner.getpackage.question.ask.aspectbased.horomachistry.2",
+      "label": "The Corrivality",
+      "startdescription": "Many times you can find the same people opposing each other on different battlefields. In a real way, all those battles are one, and each participant is just an avatar of the same dyad. Samson and goliath, revolution versus order, recruit opposing veteran, scars versus strength. [Respond with a Horomachistry Story.]",
+      "slots": [
+        {
+          "id": "story",
+          "label": "An Answer"
+        }
+      ]
+    }
+  ]
+}

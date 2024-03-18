@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {
+      "id": "mariner.instrument",
+      "label": "Instrument",
+      "description": "This isn't a simple tool, nor is it just a craft. It commands the air and conjures sound. [The first instrument can be stored for free, \"as part of your personal space on board\". Any additional instrument occupies one hold space.]"
+    }
+  ]
+}

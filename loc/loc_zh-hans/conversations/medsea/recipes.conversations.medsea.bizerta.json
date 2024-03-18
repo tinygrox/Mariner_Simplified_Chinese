@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.chest",
+      "label": "<Discuss the Warded Chest with Hakim>",
+      "startdescription": "\"<What do you have for me?>\"",
+      "description": "\"I am not sure what I could do with this... I only dabble, and this is beyond mere dabblings. I have seen similar artifacts when i studied in Alexandria. I doubt you got permission to take it. Those glyphs are Hyksosan, and that image is clearly a version of the Elegiast. While he is not the unkindest hour, his power over wards are significant. I would take this to someone versed in spiritual matters, and confident in their abilities.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.hyksos",
+      "label": "Discuss the Unknown Glyphs with Hakim",
+      "startdescription": "\"<You seek my help in a scholarly pursuit? I shall endeavor to supply.>\"",
+      "description": "Hakim looks at the markings for only a few moments, before recoiling harshly and folding the paper with a decided hand. \"I do know this script, from the time I spend studying the deeper mysteries in Alexandria. You have copied an Hyksosan ward there. Reading it itself can be dangerous, so I dare not look to close... But it seems like a threat, or possible an invitation.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.songwinter",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<I never enrolled in the conservatory, but I can share what I learned in my studies.>\"",
+      "description": "<\"Winter may seem far here, but the desert nights are bitter cold. and in that bleak expanse of pale starlight, the dead can come to mind with crisp clarity. If you aim your music at the direction of Winter, the dead can be influenced. reanimated, parlayed, quieted, if paired with the appropriate Intent.\">"
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.songmoth",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<I never enrolled in the conservatory, but I can share what I learned in my studies.\"",
+      "description": "<\"The songs of Moth? I hear prague I heard it expressed as the songs the wind plays through deep forest. but that is not the language the wind speaks here. Knotwingknot is a rare visitor here, and usually the Imago drives her winds past our windows. Perhaps talk to someone on the Continent.\">"
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.<>",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"\""
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.halfheart",
+      "label": "<Ask about my Halfheart>",
+      "startdescription": "\"<A split soul? A common motif...>\"",
+      "description": "\"You can find the split soul in literature, folklore, philosophy. Plato himself thought that all humans in the world where halved beings, and the Egyptians recognised several parts of course. I wonder, with enough anatomical ans metaphysical knowledge, could a split soul be stitched together like the body can be? Would that have been what my friend had been pursuing?\""
+    },
+    {
+      "id": "mariner.conversations.medsea.bizerta.hakim.lackheart",
+      "label": "<Ask after Inner Darkness>",
+      "startdescription": "\"<Emptyness in your life can spring from many sorrows.>\"",
+      "description": "\"Grief, the grind of life., a loss of purpose, a loss of self. I am watching the world burn, and I just hope that under the soot lies something better. I build mysekf up through education, travel and modern thought. But what certainty do I have is that what I gain is better then what I leave behind?\""
+    }
+  ]
+}

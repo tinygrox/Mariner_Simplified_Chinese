@@ -1,0 +1,900 @@
+{
+  "elements": [
+    {
+      "id": "mariner.song.lantern.composing",
+      "label": "I am composing a Lantern Song"
+    },
+    {
+      "id": "mariner.song.lantern.1",
+      "label": "A Bright Motif",
+      "description": "I find myself whistling this while I ponder a difficult problems. The insight it brings is often as sharp as its thrills",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.2",
+      "label": "Étude de Gloria",
+      "description": "This is the practice that perfect makes.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.3",
+      "label": "The Lily Kings Sonnata ",
+      "description": "This song starts softly, rising consistently in both tone and timbre, until it crescendo's in incredibly pure whistle-tones. It is famous for waking rousing addicts from their stupor, yet dangerous for a too receptive mind.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.lantern.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.composing",
+      "label": "I am composing a Forge Song"
+    },
+    {
+      "id": "mariner.song.forge.1",
+      "label": "A Blazing Motif",
+      "description": "Something to hum while working. Quickens the fingers and emboldens the mind.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.2",
+      "label": "An Incandescent Cadence",
+      "description": "Some songs express new ideas, others inspire them. This song is the tinder that sparks revolutions.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.3",
+      "label": "Brigid's Chant",
+      "description": "She whispered these words to the fire, she did. She speaks them to the steel, she does. She shouts them to end the night, she will.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.forge.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.composing",
+      "label": "I am composing a Edge Song"
+    },
+    {
+      "id": "mariner.song.edge.1",
+      "label": "A Vengeful Motif",
+      "description": "Usually whistled through gritted teeth, accompagnied only by cracking knuckles.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.2",
+      "label": "A Valkyrian Hymn",
+      "description": "Rise up! For your battle is not over. Rise up, for your war has not been won. As long as you have breath in you, rise up and hiss this to your enemies.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.3",
+      "label": "The Issian March",
+      "description": "The song recounts the many reasons the army heading to Issus had for fighting, the betrayal, the lies, the villainy of enemy. It ends with an ironic or chilling reprise in which the same lines are sung by the opposing forces.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.edge.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.composing",
+      "label": "I am composing a Winter Song"
+    },
+    {
+      "id": "mariner.song.winter.1",
+      "label": "A Mournful Motif",
+      "description": "These dull dark tones remind me of all I have lost, yet tears refuse to roll down my face.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.2",
+      "label": "A Chilly Elegy",
+      "description": "It is sung not for those who have passed, but those who have yet to. It is rarely performed in groups, but acknoweldges that all will sing the same tune, eventually.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.3",
+      "label": "Requiem For The Stone",
+      "description": "It is a long and bitter song, which grinds your voice to a hoarse rocky whisper. You sing of the five siblings you buried, and of the terrible compromise you had to make. But your duty remains, and therefore, so shall you.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.winter.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.composing",
+      "label": "I am composing a Heart Song"
+    },
+    {
+      "id": "mariner.song.heart.1",
+      "label": "A Tap-Toe Motif",
+      "description": "Something to dance the night away. The long notes require hale lungs.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.2",
+      "label": "Ceaseless Rhythms",
+      "description": "Step like thunder, shake like reeds. Take your partner and go round, and round and round. And Again! Step like thunder, shiver like reeds...",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.3",
+      "label": "Lullaby for the Sleepless Gods",
+      "description": "Oh king of the Sky, sleep no more. Oh Queens of Sea and Shore, death won't touch you. Oh Maiden of the Woods, you will be renewed.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.heart.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.composing",
+      "label": "I am composing a Grail Song"
+    },
+    {
+      "id": "mariner.song.grail.1",
+      "label": "An Aching Motif",
+      "description": "Whistle this, and thirst for more than water. Hum it, and send shivers through your flesh.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.2",
+      "label": "A Scarlet Solo",
+      "description": "It speaks of sanguine passions and an all-consuming desire, perhaps more literal than the average listener will notice.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.3",
+      "label": "Ballad for the Pine-knight",
+      "description": "In the first 26 verses I will detail the Pine Knight's exploits in salivating detail. The last seven are harder to perform, but more rewarding. In them, his self-flagellation and subsequent transformation must be both felt and chastised. Avoid peeling at loose skin after finishing the set.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.grail.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.composing",
+      "label": "I am composing a Moth Song"
+    },
+    {
+      "id": "mariner.song.moth.1",
+      "label": "A Wild Motif",
+      "description": "This pops into my mind, unwanted, at the strangest time. No two times do I sing it the same way.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.2",
+      "label": "A Changeling Capriccio",
+      "description": "It challenges you to follow its melody, rarely going where you expect it to. Like a falling leaf, like a madman's ramble.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.3",
+      "label": "Moldywarp's Mazurka",
+      "description": "It is hard to predict the rise and fall of this piece. But when you dance to it, your feet will know the steps",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.moth.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.composing",
+      "label": "I am composing a Knock Song"
+    },
+    {
+      "id": "mariner.song.knock.1",
+      "label": "A Subtle Motif",
+      "description": "While we may not share a language, anyone with a soul can understands this song.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.2",
+      "label": "An Unlocking Overture ",
+      "description": "This unlikely musical piece is most usefully performed before a theater has opened its doors.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.3",
+      "label": "The Nagi's Bhajan",
+      "description": "Each of the sitar's strings must wound a finger when the song is correctly performed.",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.4",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.5",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.6",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        },
+        {
+          "id": "inspiration",
+          "label": "Inspiration"
+        }
+      ]
+    },
+    {
+      "id": "mariner.song.knock.7",
+      "label": "",
+      "description": "",
+      "slots": [
+        {
+          "id": "crowd",
+          "label": "A Crowd",
+          "description": "A group, with all noses pointed the same way. In their eyes, music can become miracle."
+        }
+      ]
+    }
+  ]
+}

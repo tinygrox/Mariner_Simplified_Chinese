@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.chest",
+      "label": "<Ask for help with a Ward>",
+      "startdescription": "\"<A Ward on a Chest?>\"",
+      "description": "\"<Pilfered from some forgotten corner of history?\" She examines the chest, following the grain of the wood and inspecting the chains closely. \"Triple chained... The work of the House of Lethe, I would venture. \" She laces her fingers, then frowns.\"These wards and curses are extensive, more extensive then I could tackle here in the field. And if I took it back to the Institute, you are unlikely to see the contents again. I have a contact in Constantinople, Mother Euphresme. I would trust her capable of opening this lock.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.hyksos",
+      "label": "<Discuss the Unknown Glyphs with Miss Alexia>",
+      "startdescription": "\"<You have something you wish to show me?>\"",
+      "description": "\"I do now recognise this script, though I can see some symbols that look much like Egyptian Hieroglyphs. With your permission i will make a copy to enter into our own archives. Perhaps one of the researchers there can identify what it is.\" For the next couple of hours, Alexia is bend over the page, copying the copy meticulously, and taking copious notes. I do get back my rubbings at the end, thought she seems conflicted to let them go. I am unsure wether this is for her own curiosity, or a concern of public safety."
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.halfheart",
+      "label": "<Ask Miss Alexia after my Half-Heart>",
+      "startdescription": "\"<Half-Heart? The term rings a bell...>\"",
+      "description": "\"It is not something I would be called to deal with much. Most Half hearts are not much trouble, so I heard. But they are contained on our lists, when we are made aware of them. Since they are special births, but not special blood, they cannot be tracked preemptively.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.lackheart",
+      "label": "<Ask Miss Alexia about my Lack-Heart>",
+      "startdescription": "\"<Sometimes, when the nights are long and the work shows it worst face, I find myself envisioning myself on a stairwell, spiralling down into a dark pit below. Fainlty, far above I can see light, but I am so tired, and body aches. It would be so much easier just to sink into the darkness. But I do not, Because every step brings me closer to the light. That's why I keep moving.>\"",
+      "description": "\"\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.<>",
+      "label": "<Discuss with Alexia the Path of Becoming Whole>",
+      "startdescription": "\"<You seek to repear your lonely heart?>\"",
+      "description": "\"No man is an island, or so the saying goes. But in the hazy cacophony of modernity, I something worry we are all islands, drifting apart in the fog of confusion. I wish you luck, but I bid you caution. If the costs to the world becomes too great... I would hate for you to become another assignment.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.forgesong",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"You wish to discuss the magic of chants and incantations?\"",
+      "description": "\"I studied the arts of Brigid, Skadi and the Skalds. Songs of Light and dancing shadows, the sputtering of fires and the wail of brass and steel. \""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.alexia.knocksong",
+      "label": "<Discuss the Power of my Songs>",
+      "startdescription": "\"<You wish to discuss the practice of chants and incantations?>\"",
+      "description": "\"The songs of the understpaces and the spaces between... I have come across them in my Investigations. Some aspects of the mansus are best described in mathematics, but it's dimensions are best expressed in Song. But my experiences are just in the field, not in study. Perhaps someone who holds more of a focus on the spiritual can bring you further.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.<>",
+      "label": "<>",
+      "startdescription": "\"<>\"",
+      "description": "\"<>\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.chest",
+      "label": "Show of the Chest to mister Sombrueil",
+      "startdescription": "\"<Some loot you want to deciminate?>\"",
+      "description": "\"Let's see what we have here...\" He hardly touches the chest before his hand recoils, and he snaps back at me, expression darkened. \"What is this? are you trying to trap me?\". His lanky, sharp frame suddenly cast an menacing shadow in the room. \"In the future, be mindful not to bring items trapped in active snares to your business partners. I am not a saint willing to risk my hide for your profit.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.hyksos",
+      "label": "<Discuss the unknown glyphs with mister Sombrueil>",
+      "startdescription": "\"Something mysterious and illicit? my, that could be my calling card.\"",
+      "description": "Sereno studies the rubbings for a long time, pushing aside my hands not to miss a single stroke. He sighs, a not unhappy sound, before he turns back to me.\"My, My, quite the find. You hold there a Treshold Ward written in Hyksos, the Tongue of the western Kings. Sell it for a premium, or use it in schemes where desire and danger meet.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.lackheart",
+      "label": "<Talk to Sereno about my Lack Heart>",
+      "startdescription": "\"<You feel a dark emptyness inside?>\"",
+      "description": "\"Yes. That what is there at the heart of things. Some people flee that knowledge, instead of facing the fact. Others ply themselves with a false paradise, imagined beauty. But it takes true strength to aknowledge the pit we find ourself in. Only then, can you begin to rise.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.vagabonddedication",
+      "label": "<Talk to Sereno Sombrueil about the Centipedes Pilgrimage>",
+      "startdescription": "\"<Listening to the Centipedes whsiper, are you>\"",
+      "description": "\"It'll bring you to interesting places, if it doesn't bring you death. The world does not look kind upon percieved vermin crawling into places uninvited, belief me.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.twinsdedication",
+      "label": "<Talk to Sereno Sombruiel about the Path to Becoming Whole>",
+      "startdescription": "\"<So the Twins guiding your path huh?>\"",
+      "description": "\"Well, I cannot blame you. Everyone deserves to feel whole. If this is your path, I wish you all the luck. They are fickle patrons to have picking at your soul.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.songedge",
+      "label": "<<Discuss the Power of my Songs>>",
+      "startdescription": "\"<I am not very musically minded, but Power I find irresistable.>\"",
+      "description": "\"Conflict is the engine on which the world runs. The Direciton of Edge is moving in the direcitons of your obstacles, but also what drives you forward. If you wish to confuse your enemies, for example, combine the puzzling Intent of Moth with the Direction of Edge.\""
+    },
+    {
+      "id": "mariner.conversations.medsea.marseille.mfm.songwrong",
+      "label": "<<Discuss the Power of my Songs>>",
+      "startdescription": "\"<I am not very musically minded, but Power I find irresistable.>\"",
+      "description": "\"Yes? I see. Tell what you have discovered so far...\" While the we talk for a while, Sereno stays cagey. After a while it becomes clear he is knows nothing, or is unwilling to share, and is simply trying to get me to spill what I know."
+    }
+  ]
+}

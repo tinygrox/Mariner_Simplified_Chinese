@@ -1,0 +1,26 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.kerys",
+      "label": "Mystery Of A Sunken City",
+      "description": "Repeated through sea shanties and scholars' whispers, a motif of a sunken city can be discovered. Morland tells me it's the first stop on the Pilgrimage, should I want to follow in the footsteps of the Centipede.",
+      "slots": [
+        {
+          "id": "missing.story",
+          "label": "Missing Story",
+          "description": "this mystery requires a story"
+        },
+        {
+          "id": "Missing.song",
+          "label": "Missing Song",
+          "description": "this mystery requires a song"
+        },
+        {
+          "id": "Missing.item",
+          "label": "Missing Object",
+          "description": "this mystery requires an object"
+        }
+      ]
+    }
+  ]
+}

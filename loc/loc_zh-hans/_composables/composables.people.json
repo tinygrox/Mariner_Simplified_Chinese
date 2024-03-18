@@ -1,0 +1,38 @@
+{
+  "elements": [
+    {
+      "id": "mariner.composables.crew",
+      "slots": [
+        {
+          "id": "severancepackage",
+          "label": "Severance"
+        },
+        {
+          "id": "bargain_1",
+          "label": "An Incentive",
+          "description": "The scales of any decision can be amended with the right prosaic weight."
+        },
+        {
+          "id": "bargain_2",
+          "label": "An Incentive",
+          "description": "The scales of any decision can be amended with the right prosaic weight."
+        },
+        {
+          "id": "bargain_3",
+          "label": "An Incentive",
+          "description": "The scales of any decision can be amended with the right prosaic weight."
+        },
+        {
+          "id": "bargain_4",
+          "label": "An Incentive",
+          "description": "The scales of any decision can be amended with the right prosaic weight."
+        },
+        {
+          "id": "bargain_5",
+          "label": "An Incentive",
+          "description": "The scales of any decision can be amended with the right prosaic weight."
+        }
+      ]
+    }
+  ]
+}

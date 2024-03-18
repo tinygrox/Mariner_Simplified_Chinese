@@ -1,0 +1,65 @@
+{
+  "recipes": [
+    {
+      "label": "Wandering the Stairs and Hallways",
+      "id": "mariner.vaults.aleppo.maze.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.aleppo.maze.task.pre",
+      "label": "Wandering the Stairs and Hallways",
+      "startdescription": "We walk down a flight of stairs, turn in some direction, walk up another flight, lose our way and end up \"here\". If it wasn't for the stone under our boots, I would swear some of these hallways weren't there a moment ago. The groups around us seem to traverse the place without any kind of disorientation. Maybe \"here\" isn't as tangible - or important as it seems in this place."
+    },
+    {
+      "id": "mariner.decks.vaults.aleppo.explore.maze.exhausted",
+      "label": "Maze of Stairs and Hallways Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.aleppo.maze.find.group",
+      "description": "<We approach a small group of people, attracted by their discussion; as we slowly integrate the ever changing circle of debaters, we notice the dancing lightspots in their eyes, reflecting the mirrors.\nTime seems to flow differently here; with all the mirrors, and the light source ever present, be it the Sunlight or the myriads of oil lamps and candles, the brightness never really changes. Debatters come and go, but the discussion circle never disappears. It is like a conversation subject was puppetteering people into endlessly talking about it.>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.maze.find.shelf",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk.hint",
+      "label": "Enforce the Atmosphere?",
+      "startdescription": "The group is focused on debating some kind of parable. They could actually be talking in riddles on some esoteric matter, but I couldn't know. I can follow the logic pattern of the conversation though, and I can feel the strong tension filling the atmosphere around them. Maybe I could use that to my advantage."
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk.hintexclusiveattention",
+      "label": "Enforce the Atmosphere",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk.pre",
+      "label": "Enforce the Atmosphere",
+      "startdescription": "The group is focused on debating some kind of parable. They could actually be talking in riddles on some esoteric matter, but I couldn't know. I can follow the logic pattern of the conversation though, and I can feel the strong tension filling the atmosphere around them. Maybe I could use that to my advantage.\n@#lantern|<i>\"If I may, I think we should consider how this specific part of the story can act as a superb metaphor of the epiphany of the soul, flooding us with light…\"</i>#forge|<i>\"I could be wrong, but to me, this moral has to be related to the previously mentioned principle of perpetual renewal…\"</i>#edge|<i>\"Pardon me if my contribution contradicts your line of thinking, but couldn't their relationship also describe how the concept of struggle, as a way in itself…\"</i>#winter|<i>\"Well, that is a striking thought. I think we should spend a minute absorbing this idea, as well as what the silence between sentences themselves brings…\"</i>#heart|<i>\"\"</i>#grail|<i>\"\"</i>#moth|<i>\"\"</i>#knock|<i>\"\"</i>@"
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk",
+      "label": "Enforce the Atmosphere",
+      "startdescription": "The group is focused on debating some kind of parable. They could actually be talking in riddles on some esoteric matter, but I couldn't know. I can follow the logic pattern of the conversation though, and I can feel the strong tension filling the atmosphere around them. Maybe I could use that to my advantage.\n@#lantern|<i>\"If I may, I think we should consider how this specific part of the story can act as a superb metaphor of the epiphany of the soul, flooding us with light…\"</i>#forge|<i>\"I could be wrong, but to me, this moral has to be related to the previously mentioned principle of perpetual renewal…\"</i>#edge|<i>\"Pardon me if my contribution contradicts your line of thinking, but couldn't their relationship also describe how the concept of struggle, as a way in itself…\"</i>#winter|<i>\"Well, that is a striking thought. I think we should spend a minute absorbing this idea, as well as what the silence between sentences themselves brings…\"</i>#heart|<i>\"\"</i>#grail|<i>\"\"</i>#moth|<i>\"\"</i>#knock|<i>\"\"</i>@"
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk.success",
+      "label": "A Fruitful Discussion",
+      "description": "My contributions to the conversation seem to have struck them. To each of them, they reply with even more counterarguments, feeding into the debated story - that I cleverly redirected towards the aspects of it I wanted to bring to light the most. I can feel its influence rising all around us, gently guiding my feet."
+    },
+    {
+      "id": "mariner.vaults.aleppo.group.talk.failure",
+      "label": "Deceit and Confusion",
+      "description": "Did I misinterpret the sense of the conversation? Did I confuse them? Did they notice I wasn't following them on the same level? They didn't move, but something shifted in the air. I am no longer welcome to participate. Time to move on, it seems."
+    },
+    {
+      "id": "mariner.vaults.aleppo.maze.find.defaultshelf",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.vaults.aleppo.useshelf.default.considertrapping",
+      "description": "<Didn't take the offering, in the end.>"
+    }
+  ]
+}

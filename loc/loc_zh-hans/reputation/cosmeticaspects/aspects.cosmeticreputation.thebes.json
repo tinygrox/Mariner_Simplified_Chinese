@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.thebes.1",
+      "label": "<The River Rouses>",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\n<A glance from a distant shore, a frown on a passing ship. We are noted, but not yet noted upon.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.thebes.2",
+      "label": "<Rumours on the Shores>",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\n<One comment to the next, and soon necks might crane to catch a glimpse.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.thebes.3",
+      "label": "<Circling Ships>",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\n<Ships sail out to investigate what we are attampting on the waters.>"
+    },
+    {
+      "id": "mariner.cosmeticreputation.thebes.4",
+      "label": "<Imptomptu Blockade>",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\n<A ring has formed around our ship. We are not to remain, but we are definitely not to leave with our behavior unanswered for. >"
+    }
+  ]
+}

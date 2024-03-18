@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.grail.hint",
+      "label": "Hint: A Charming Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Grail."
+    },
+    {
+      "id": "mariner.performances.grail.start",
+      "label": "Perform a Show laced with the Intent of Grail",
+      "startdescription": "I reach for a finale with all the passion I can muster. As my cheeks flush, so does the audience."
+    },
+    {
+      "id": "mariner.performances.grail.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    }
+  ]
+}

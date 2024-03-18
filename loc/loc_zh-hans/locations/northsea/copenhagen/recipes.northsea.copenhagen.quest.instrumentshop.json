@@ -1,0 +1,30 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.special.start.northsea.copenhagen.quest.instrumentshop.startedbyagdistis",
+      "label": "An Endorsement towards Progress",
+      "description": "One Night, Agdistis calls on me, on the ship. \"I have a suggestion, that may be the benefit of your progression as a Performer.\" He provides a letter from his pocket. \"If you wish to aid your Performances with instruments, not every one will do. The ibn Yahya family in Copenhagen supplies Attuned Instruments for such an occassion, for a select clientel. They have indicated they are in need of aid however, and I wish to recommend you to them, as both an ally and a client.\""
+    },
+    {
+      "id": "mariner.wanderingevents.special.start.northsea.copenhagen.quest.instrumentshop.startedbyharald",
+      "label": "A Referral of Services",
+      "description": "I get summoned to the Blomkvist residence with a simple letter containing only 9 words. \"More help needed. You will want the job. Blomkvist\". Once in his house, he seems almost annoyed by the interruption. \"I have recently learned that master ibn Yahya needs aid with some errant. He is a master Luthier in the city, and supplies to the Adept musicians such as us. With my referral, and if you do his errand, you can gain access to the best Attuned Instruments this side of the Continent.\""
+    },
+    {
+      "id": "mariner.wanderingevents.special.start.northsea.copenhagen.quest.instrumentshop.startedbymatahari",
+      "label": "Favors among Friends",
+      "description": "This evening, one of the Lady's sycophants find me out in town, and informs me the lady wishes to see me one on one, hardly hiding their envy. Later, amids plush pillows and silk drapes, the Veiled Lady confides in me. \"I keep a network of friends and confidants... As you may know, as you so helpfully deliver parcels from them to me. Now, one of my dear friends has indicated a need, one that I am delighted to say you can fill! And you simply must be acquainted with them... They are a resplendant Luthier in Copenhagen, and I think your partnership will be mutually gratifying.\""
+    },
+    {
+      "id": "mariner.northsea.copenhagen.quest.instrumentshop.hint",
+      "label": "A Recommendation and a Request.",
+      "startdescription": "Mr. Ibn Yahya eyes scan the letter of recommendation I bring. \"High praise, high praise, and I am in need.\" He looks sternly through his gold-rimmed glasses. \"My family does not deal with strangers, as you may understand. But If you can supply me with the materials I need, I will permit you entry as a collaborator. Bring me the Spiteful Resin from the Eddanger Forest, and I will supply you with instruments attuned to Glory.\""
+    },
+    {
+      "id": "mariner.northsea.copenhagen.quest.instrumentshop.complete",
+      "label": "Rewards of Labors of True Skill",
+      "startdescription": "\"You have brought the Resin? Please, do come in.\"",
+      "description": "Baruch hands the satchel off to a son. Allready the threads are fraying. \"Do not worry, we know the Preservation techniques to handle this material. We will keep it far away from all our crafts, until it is properly prepared. \" He gestures for me to follow him into the atelier. \"Tell me what you seek, and I shall do my best to comply\""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.nobarhere",
+      "label": "这里没有发现酒吧",
+      "description": "我在这个城市还没有找到一个酒吧。但我知道任何港口肯定都会有一个酒吧。 [我可以使用我的半心通过探索找到一个酒吧]"
+    },
+    {
+      "id": "mariner.nobaratsea",
+      "label": "海上",
+      "description": "这里没有可供我使用的酒吧。"
+    }
+  ]
+}

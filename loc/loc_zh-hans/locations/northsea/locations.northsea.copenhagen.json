@@ -1,0 +1,136 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.northsea.copenhagen.harald",
+      "label": "Harald Blomkvist",
+      "description": "Once he was a rising star in the classical music circles of Northern Europe. Now he spends most days alone in a quiet house."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.harald.away",
+      "label": "Harald Blomkvist [away]",
+      "description": "Once he was a rising star in the classical music circles of Northern Europe. Now he spends most days alone in a quiet house."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.harald.hostile",
+      "label": "Harald Blomkvist [hard to meet]",
+      "description": "Once he was a rising star in the classical music circles of Northern Europe. Now he spends most days alone in a quiet house."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.newscandinavian",
+      "label": "The new 'New Scandinavian' Theater",
+      "description": "The latest incarnation of a constantly reforming theater company. Here new forms of expression are married to the old.",
+      "slots": [
+        {
+          "id": "verbSong",
+          "label": "Song",
+          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        },
+        {
+          "id": "aspect1",
+          "label": "Story"
+        },
+        {
+          "id": "aspect2",
+          "label": "Trapping"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.newscandinavian.away",
+      "label": "The new 'New Scandinavian' Theater [away]",
+      "description": "The latest incarnation of a constantly reforming theater company. Here new forms of expression are married to the old."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.newscandinavian.hostile",
+      "label": "The new 'New Scandinavian' Theater [hostile]",
+      "description": "The latest incarnation of a constantly reforming theater company. Here new forms of expression are married to the old.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.instrumentshopfake",
+      "label": "Baruch and Sons, Expert Luthiers and Further.",
+      "description": "An unassuming shop nestled in the oldest streets of the oldest neighborhoods. They work for an exclusive Clientel, and do not permit entry into their workshop easily.",
+      "slots": [
+        {
+          "id": "item",
+          "label": "A Request",
+          "description": "I have been recommended to Baruch not only as a client, but also as ally. He has asked me to supply him with Spiteful Resin."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.instrumentshopfake.away",
+      "label": "Baruch and Sons, Expert Luthiers and Further. [away]",
+      "description": "An unassuming shop nestled in the oldest streets of the oldest neighborhoods. They work for an exclusive Clientel, and do not permit entry into their workshop easily."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.instrumentshop",
+      "label": "Baruch and Sons, Expert Luthiers and Further.",
+      "description": "An unassuming shop nestled in the oldest streets of the oldest neighborhood of Copenhagen. The air is heavy with the smells of pinewood and with music in potentia.",
+      "slots": [
+        {
+          "id": "song",
+          "label": "Song",
+          "description": "For which Aspect do I wish to buy an Attuned Instrument"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.instrumentshop.away",
+      "label": "Baruch and Sons, Expert Luthiers and Further. [away]",
+      "description": "An unassuming shop nestled in the oldest streets of the oldest neighborhood of Copenhagen. The air is heavy with the smells of pinewood and with music in potentia."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.bar",
+      "label": "Ankeret",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.bar.hostile",
+      "label": "Ankeret [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

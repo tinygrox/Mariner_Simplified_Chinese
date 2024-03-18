@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.sneak_in",
+      "label": "Sneak In",
+      "startdescription": "Sometimes, entry can be more comfortable if one goes unnoticed. This is one of those times. I can apply either the skills of Knock or the wiles of Moth.",
+      "description": "Sometimes, entry can be more comfortable if one goes unnoticed. This is one of those times. I can apply either the skills of Knock or the wiles of Moth.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.sneak_in.knock.high",
+      "label": "Impossible Paths",
+      "startdescription": "Geometry bends around us. We move through the spaces between spaces. we will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.sneak_in.knock.med",
+      "label": "Improbable Paths",
+      "startdescription": "We find the room that others neglect. We move through odd corners and narrow cracks. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.sneak_in.knock.low",
+      "label": "Unexpected Paths",
+      "startdescription": "We take the road less traveled by. Hopefully this will leave us undetected. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.sneak_in.moth.high",
+      "label": "Just the Wind",
+      "startdescription": "\"Who is there?\" \"Relax, there is nothing but the night out there...\" We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.sneak_in.moth.med",
+      "label": "Hidden Movements",
+      "startdescription": "With the ants tenecacity and the moths subtlety, we will enter unseen where we are not wanted. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.sneak_in.moth.low",
+      "label": "Skulking Movements",
+      "startdescription": "Wolven steps and feline grace. We stalk quietly. We may yet succeed."
+    }
+  ]
+}

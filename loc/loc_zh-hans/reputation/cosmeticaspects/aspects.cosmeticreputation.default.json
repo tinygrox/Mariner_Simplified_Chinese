@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.default.1",
+      "label": "Rumours",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nThings happened. People are talking."
+    },
+    {
+      "id": "mariner.cosmeticreputation.default.2",
+      "label": "Investigation",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nThe Local Authorities have taken an interest in me and have begun to collect information."
+    },
+    {
+      "id": "mariner.cosmeticreputation.default.3",
+      "label": "Under Arrest",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nThe Local Authorities are trying to find and arrest me for further questioning."
+    },
+    {
+      "id": "mariner.cosmeticreputation.default.4",
+      "label": "Wanted",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nThe Local Authorities are willing to pay anyone to put an end to my activities..."
+    }
+  ]
+}

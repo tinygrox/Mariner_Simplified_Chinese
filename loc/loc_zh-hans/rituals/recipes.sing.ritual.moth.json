@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.moth.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.moth.start",
+      "label": "Perform a covert Moth Ritual in a Nocturnal Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.moth",
+      "label": "Perform a covert Moth Ritual in a Nocturnal Space",
+      "startdescription": "Each of the treasures I have brought with me must be left somewhere unexpected. Flowers behind the bar, shed carapace in an unattended drink, the poppet left in the gangster pocket.",
+      "description": "Music brightens, Influence blossoms. For a moment I lose my language, my sight, my reason. My faculties return, but now tantalizing secrets hide in the fuzzy secrets."
+    }
+  ]
+}

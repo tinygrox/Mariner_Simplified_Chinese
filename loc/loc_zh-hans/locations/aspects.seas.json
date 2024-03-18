@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.seas.northsea",
+      "label": "North Sea",
+      "description": "This is located in the North Sea, or connected to it."
+    },
+    {
+      "id": "mariner.seas.medsea",
+      "label": "Mediterranean Sea",
+      "description": "This is located in the Mediterranean Sea, or connected to it."
+    }
+  ]
+}

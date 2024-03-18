@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "id": "mariner.groundedness",
+      "label": "Groundedness",
+      "description": "The mundane things ground me in the present and help me overcome the Black Dog and the visions. Actions, especially the banal, place my feet back on the ground and moving forward, back into the world."
+    },
+    {
+      "id": "mariner.wound",
+      "label": "Experience",
+      "description": "The Tally of the Soul. Three of these will rend my Heart Asunder."
+    },
+    {
+      "id": "mariner.experience",
+      "label": "An Experience",
+      "description": "\"I strayed too far from the placid island of ignorance mortal minds can handle.\""
+    },
+    {
+      "id": "mariner.experience.standby",
+      "label": "No Time To Reflect",
+      "description": "We're in the middle of something. Let's stay focused...But this will affect us later, once our focus softens and the periphery comes creeping in."
+    },
+    {
+      "id": "mariner.experience.lifelesson",
+      "label": "Life lesson",
+      "description": "Experiences that paint perception in perpetuity"
+    }
+  ]
+}

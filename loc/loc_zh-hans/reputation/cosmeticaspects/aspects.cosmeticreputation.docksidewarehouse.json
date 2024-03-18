@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.docksidewarehouse.1",
+      "label": "Mild Alarm",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nSome whispers have reached them. They don’t know what they don’t know, but they know there is something to know."
+    },
+    {
+      "id": "mariner.cosmeticreputation.docksidewarehouse.2",
+      "label": "Fierce alarm",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nPeople who despise getting attention know someone is paying them attention. They will start paying attention back."
+    },
+    {
+      "id": "mariner.cosmeticreputation.docksidewarehouse.3",
+      "label": "Gathered Forces",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nThey have called in reinforcements. They are ready for us."
+    },
+    {
+      "id": "mariner.cosmeticreputation.docksidewarehouse.4",
+      "label": "Full Lock-Down",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nAll doors are locked, all eyes are open."
+    }
+  ]
+}

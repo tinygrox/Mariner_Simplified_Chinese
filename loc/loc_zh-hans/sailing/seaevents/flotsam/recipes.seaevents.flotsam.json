@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.flotsam",
+      "label": "Flotsam",
+      "startdescription": "Our look out spots something bobbing on the waves, too angular to be a seal. There seems to be some floating debris, potentially the cargo of another ship."
+    },
+    {
+      "id": "mariner.sail.seaevents.flotsam.outcome.success",
+      "label": "Treasures amids Trash",
+      "startdescription": "Something of value could be salvaged. We take on board what we can."
+    },
+    {
+      "id": "mariner.sail.seaevents.flotsam.outcome.failure",
+      "label": "Half-digested Refuse",
+      "startdescription": "We cannot find anything of worth amids the broken planks and debris. We leave the sea to her meal."
+    }
+  ]
+}

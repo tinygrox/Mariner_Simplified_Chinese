@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "id": "mariner.seasons.wanderlust",
+      "label": "Season of Wanderings",
+      "description": "Where will my footsteps take me? When the weather turns like this, I always get the urge to explore."
+    },
+    {
+      "id": "mariner.seasons.heartache",
+      "label": "Season of Heartache",
+      "description": "That old wound begins to ache."
+    },
+    {
+      "id": "mariner.seasons.wounds",
+      "label": "Season of Reckoning",
+      "description": "When the past comes take stock of me."
+    },
+    {
+      "id": "mariner.wanderlust",
+      "label": "Wanderlust",
+      "description": "Without new experiences, something inside me gnaws. Without travel I will fade until I feel like I am dreaming in my waking hours, and dead when I'm asleep."
+    },
+    {
+      "id": "mariner.notoriety",
+      "label": "Notoriety",
+      "description": "People saw things. They might talk to authorities..."
+    },
+    {
+      "id": "mariner.lastingnotoriety",
+      "label": "Lasting Notoriety",
+      "description": "My reputation follows me wherever I go. It seems some people made sure everyone knows I'm a troublemaker."
+    },
+    {
+      "id": "mariner.thrill",
+      "label": "激动",
+      "description": "\"我的旅行并不是要去往什么地方，我是为了旅行而旅行。\"<br> 罗伯特·路易斯·斯蒂文森"
+    },
+    {
+      "id": "mariner.scrapofinformation",
+      "label": "A Scrap of Information",
+      "description": "A hint of something deeper. A promise of something more. A new location or opportunity to discover. Could it be the next step in my travels?",
+      "slots": [
+        {
+          "id": "rumour",
+          "label": "Rumour"
+        }
+      ]
+    },
+    {
+      "id": "mariner.oddcorners",
+      "label": "Odd Corners",
+      "description": "Each city has its corners where the peculiar crosses paths the illicit."
+    },
+    {
+      "id": "mariner.marinettedoll",
+      "label": "Cherished Idol",
+      "description": "What could at first pass for a pile of tiny bones wrapped in red satin cloth is actually some kind of strange doll. Each minuscule bleached bone is tied to another by a blackened waxed rope, through needle sized holes. The actual shape of it is hard to define, except maybe for its vaguely canine skull."
+    }
+  ]
+}

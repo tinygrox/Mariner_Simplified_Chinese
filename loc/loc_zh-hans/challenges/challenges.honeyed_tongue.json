@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.honeyed_tongue",
+      "label": "The Honeyed Tongue",
+      "startdescription": "A bright smile can disarm many conflicts, and sweetened words may leave many a man vulnerable. I can approach this task with the allure of Grail or the charm of Heart.",
+      "description": "A bright smile can disarm many conflicts, and sweetened words may leave many a man vulnerable. I can approach this task with the allure of Grail or the charm of Heart.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.grail.high",
+      "label": "Words like Holy Wine",
+      "startdescription": "There is an art to this. We drown the mind in a torrent of affection strong and deep like the effusion of the Red Grail Herself. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.grail.med",
+      "label": "Words like Red Port",
+      "startdescription": "There is an art to this. We smother the mind with the precise words it wishes to hear. Our adulation is assisted by other, more sensual tactics. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.grail.low",
+      "label": "Words like Dark Syrup",
+      "startdescription": "There is an art to this. We trick the mind with a trickle of flattery and faked interest. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.heart.high",
+      "label": "An Unstoppable Smile",
+      "startdescription": "All things can be accomplished with a winning smile and the right attitude. We are as undeniable as the rising moon, and their passions rise to meet us. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.heart.med",
+      "label": "An Infectious Smile",
+      "startdescription": "Great things can be accomplished with a winning smile and the right attitude. By being pleasing and pleasant, people are inclined to please you. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.honeyed_tongue.heart.low",
+      "label": "A Kindly Smile",
+      "startdescription": "Much can be accomplished with a winning smile and the right attitude. Act cheerful and unassuming, and people tend to go along. We may yet succeed."
+    }
+  ]
+}

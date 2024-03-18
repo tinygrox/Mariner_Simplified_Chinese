@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.allseas.randomevent.connection",
+      "label": "A Chance encounter with a Raconteur",
+      "startdescription": "I encounter another, who knows the stories and whistles the tunes of the raconteurs. As we walk the streets, we teach eachother the greetings, the walks and the gestures we have learned on our travels."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.stopcurse",
+      "label": "Try To Rid Myself Of A Curse",
+      "startdescription": "Here on the stage, I align myself to the rhythms of the world and it's stern king above. The curse holds on to my soul like a barnacle bitten deep into the rocks. I must leave the theater with this blemish still scarring me.",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "The Trappings to Channel"
+        }
+      ],
+      "achievements": [
+        "mariner.achievements.firstsuccessfulperformance"
+      ]
+    },
+    {
+      "id": "mariner.performances.stopcurse.parchedthroat",
+      "label": "Unseat the Parched Troat Curse",
+      "startdescription": "On my final exhale, I feel dust clatter against my teeth and push passed my lips. I can only hope that those many breathing souls in the audience will not carry home what I just expulsed onto them."
+    },
+    {
+      "id": "mariner.performances.stopcurse.leadheart",
+      "label": "Unburden Myself of the Lead Heart Curse",
+      "startdescription": "I topple to the stage, heaving. While I produce nothing but bile, I feel a lightness where there was lead before."
+    },
+    {
+      "id": "mariner.performances.stopcurse.bleachedheart",
+      "label": "Undo the Bleached Heart Curse",
+      "startdescription": "My vision clears and I almost cry at the intensities of blues and richness of reds that again fill the tapestry of the world."
+    },
+    {
+      "id": "mariner.performances.stopcurse.misfortune",
+      "label": "Unravel the Curse of Misfortunies",
+      "startdescription": "Knots untangle in my back, and I can almost hear the shackles slump to the floor. This night, all around the theaters mirror crack and milk curdles. Misfortune now holds court, and will until the west winds comes in sweeping."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.sail.eventopportunity.northsea",
+      "label": "Event Opportunity in the North Sea",
+      "description": "I may encounter trails and tribulations on my travels in the North Sea."
+    },
+    {
+      "id": "mariner.sail.openseaeventopportunity.northsea",
+      "label": "Open Sea Event Opportunity in the North Sea",
+      "description": "I may encounter trails and tribulations on my travels in the North Sea."
+    },
+    {
+      "id": "mariner.sail.eventopportunity.medsea",
+      "label": "Event Opportunity in the Mediterranean Sea",
+      "description": "I may encounter trails and tribulations on my travels in the Mediterranean Sea."
+    },
+    {
+      "id": "mariner.sail.openseaeventopportunity.medsea",
+      "label": "Open Sea Event Opportunity in the Mediterranean Sea",
+      "description": "I may encounter trails and tribulations on my travels in the Mediterranean Sea."
+    }
+  ]
+}

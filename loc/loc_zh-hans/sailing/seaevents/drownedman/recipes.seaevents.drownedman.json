@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.drownedman",
+      "label": "Drowned Drifter",
+      "startdescription": "We spot a shape, floating in the water. At first we think it might be a seal, then later we hope it is. But proximity reveals it the remains of a man, languishing as a rest for gulls.",
+      "slots": [
+        {
+          "id": "crew",
+          "label": "Crew",
+          "description": "Poor soul I send to haul the body out of the water. ofcourse, I could just let the drifter be."
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.drownedman.outcome.success",
+      "label": "Clutched Treasures",
+      "startdescription": "We lift the body out of the water, and lay it on the deck. Carefully, we feel in the pockets of the overcoat, and pry what it holds clutched in its hand. We find no identification, but something peculiar does fall bare."
+    },
+    {
+      "id": "mariner.sail.seaevents.drownedman.outcome.failure",
+      "label": "Grim Portent",
+      "startdescription": "We see a face, both sallow and bloated. We try to lift, but the matter disintegrates around our rope. Soon we are left with inhuman chunks and floating fabric."
+    },
+    {
+      "id": "mariner.sail.seaevents.drownedman.outcome.nothing",
+      "label": "Passing in the Night",
+      "startdescription": "We let the shape drift by, unhelped or unhindered. We do not say our goodbyes, and turn back to our work."
+    }
+  ]
+}

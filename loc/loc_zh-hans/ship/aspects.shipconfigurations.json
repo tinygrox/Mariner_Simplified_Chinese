@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.shipconfigurations.sails.floating",
+      "label": "Floating Sails",
+      "description": "<size=120%><color=#201d59>Ship Configuration: Sails and Mast</color></size>\n\n<>"
+    },
+    {
+      "id": "mariner.shipconfigurations.sails.amoviblemast",
+      "label": "Amovible Mast",
+      "description": "<size=120%><color=#201d59>Ship Configuration: Sails and Mast</color></size>\n\n<>"
+    }
+  ]
+}

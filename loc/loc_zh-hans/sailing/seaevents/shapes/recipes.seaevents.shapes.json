@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.shapes",
+      "label": "Shapes in the Water",
+      "startdescription": "The Kite has found Companionship. Something is trailing in our ships wake."
+    },
+    {
+      "id": "mariner.sail.seaevents.shapes.outcome.success",
+      "label": "Companionship",
+      "startdescription": "Curious dolphins, playful seals, watchful sharks. Those creatures that call the waters home follow us for a while, and break up the monotomy of water and air."
+    },
+    {
+      "id": "mariner.sail.seaevents.shapes.outcome.failure",
+      "label": "Things From Below",
+      "startdescription": "These creatures following us, they do not move in the way earthly things should. We watch, but we never catch more than a glance. They stay below the waterline, hide in the ship's wake, before sinking back to deeper places."
+    }
+  ]
+}

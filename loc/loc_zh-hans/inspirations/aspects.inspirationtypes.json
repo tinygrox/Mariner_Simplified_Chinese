@@ -1,0 +1,74 @@
+{
+  "elements": [
+    {
+      "id": "mariner.song.inspirationused.nature",
+      "label": "Inspiration Used: Natural World",
+      "description": "This song has already used nature as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.melody",
+      "label": "Inspiration Used: Melody",
+      "description": "This song has already used a melody as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.muse",
+      "label": "Inspiration Used: Muse",
+      "description": "This song has already used a muse as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.urstory",
+      "label": "Inspiration Used: Story",
+      "description": "This song has already used a story as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.experience",
+      "label": "Inspiration Used: Experience",
+      "description": "This song has already used an experience as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.location",
+      "label": "Inspiration Used: Location",
+      "description": "This song has already used a location for inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.song.inspirationused.instrument",
+      "label": "Inspiration Used: Instrument",
+      "description": "This song has already used an instrument as inspiration, and can't be improved by it further. There are other inspirations."
+    },
+    {
+      "id": "mariner.inspiration.nature",
+      "label": "Inspiration: Natural World",
+      "description": "A piece of music devoid of the natural world is as good as dead sound."
+    },
+    {
+      "id": "mariner.inspiration.melody",
+      "label": "Inspiration: Melody",
+      "description": "All artists borrows from their predecessors. Do it well, and it might be considered homage instead of theft. "
+    },
+    {
+      "id": "mariner.inspiration.muse",
+      "label": "Inspiration: Muse",
+      "description": "This one embodies a certain kind of music. It ripples from their words, their skin, their being."
+    },
+    {
+      "id": "mariner.inspiration.urstory",
+      "label": "Inspiration: Story",
+      "description": "This story touches topics universal to humanity."
+    },
+    {
+      "id": "mariner.inspiration.experience",
+      "label": "Inspiration: Life Lesson",
+      "description": "I have felt what all can recognize with an intensity that few ever know."
+    },
+    {
+      "id": "mariner.inspiration.location",
+      "label": "Inspiration: Location",
+      "description": "Here the air is laden with themes beyond the real."
+    },
+    {
+      "id": "mariner.inspiration.instrument",
+      "label": "Inspiration: Attuned Instrument",
+      "description": "It still carries the tunes of players' past."
+    }
+  ]
+}

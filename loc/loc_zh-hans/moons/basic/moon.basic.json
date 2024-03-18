@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.moon.basic.1",
+      "label": "新月",
+      "description": "新月，新的开始、新的激情和开启新道路的时刻。"
+    },
+    {
+      "id": "mariner.moon.basic.2",
+      "label": "蛾眉月",
+      "description": "也叫\"说谎者的月亮\"。现在是换上新的面孔，并以同样的热情换下旧面孔的时候了。"
+    },
+    {
+      "id": "mariner.moon.basic.3",
+      "label": "上弦月",
+      "description": "上弦月。有人说月亮爱上了海洋，也有人说是海洋爱上了月亮。在这几个夜晚，我能感受到他们之间的联系是最紧密的。"
+    },
+    {
+      "id": "mariner.moon.basic.4",
+      "label": "上凸月",
+      "description": "也叫\"张弦月\"。现在是品尝甜味和咸味的时候了。"
+    },
+    {
+      "id": "mariner.moon.basic.5",
+      "label": "满月",
+      "description": "满月、皎洁、华美、神圣、再多的陈词滥调、再多的言语词汇都无法完美形容她。"
+    },
+    {
+      "id": "mariner.moon.basic.6",
+      "label": "下凸月",
+      "description": "也称为\"学者之月\"，现在该是在这暗淡的苍白月光下度过漫漫长夜的时候。"
+    },
+    {
+      "id": "mariner.moon.basic.7",
+      "label": "下弦月",
+      "description": "下弦月，即当月亮和自身达到完美的平衡时。她的容颜令人惊艳。"
+    },
+    {
+      "id": "mariner.moon.basic.8",
+      "label": "残月",
+      "description": "也称为\"盗贼之月\" 现在是渔夫们的妻子即使把门上两把锁，但仍然阻挡不了夜晚进来的时候。"
+    }
+  ]
+}

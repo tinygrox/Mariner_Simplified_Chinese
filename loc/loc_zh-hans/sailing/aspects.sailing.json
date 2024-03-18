@@ -1,0 +1,22 @@
+{
+  "elements": [
+    {
+      "id": "mariner.sail.eventopportunity",
+      "label": "Event Opportunity",
+      "description": "I may encounter trails and tribulations on my travels."
+    },
+    {
+      "id": "mariner.sail.eventopportunity",
+      "label": "Event Opportunity",
+      "description": "I may encounter trails and tribulations on my travels."
+    },
+    {
+      "id": "mariner.sail.traveleventopportunity",
+      "label": "Event Opportunity"
+    },
+    {
+      "id": "mariner.sail.openseaeventopportunity",
+      "label": "Open Sea Event Opportunity"
+    }
+  ]
+}

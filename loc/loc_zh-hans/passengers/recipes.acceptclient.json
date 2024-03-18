@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.acceptclient.cabinfull",
+      "label": "No Room Left in Cabins",
+      "startdescription": "I will have to turn these hopeful travelers down, as the Kite is at her capacity."
+    },
+    {
+      "id": "mariner.acceptclient",
+      "label": "Accept this Passenger?"
+    }
+  ]
+}

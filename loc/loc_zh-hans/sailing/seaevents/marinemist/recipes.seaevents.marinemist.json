@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.marinemist",
+      "label": "Marine Mists",
+      "startdescription": "Today the marine layer is thick as pea soup, and the feeble ailing sun is not enough to cut through it. We can pierce it with Lantern  or intuit the route with Knock.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.marinemist.outcome.success",
+      "label": "Navigate Through",
+      "startdescription": "Guided by maps, and tools and what we can see with our eyes and beyond, we have found our way out of the mistbank without harm."
+    },
+    {
+      "id": "mariner.sail.seaevents.marinemist.outcome.fogfailure",
+      "label": "The Deeper Mists",
+      "startdescription": "Where are we? Where are we going? Why are we trying to get there? In this bleak and forlorn silence, any ambition or meaning seems quite far away. My half-heart aches."
+    },
+    {
+      "id": "mariner.sail.seaevents.marinemist.outcome.failure",
+      "label": "A Scrape on the Bow",
+      "startdescription": "A horrid groan, and our worries were proven true. We had guessed our location incorrectly, or the sandbanks shifted further than we thought. Now we are oriented again, though our ship's hull bleeds."
+    }
+  ]
+}

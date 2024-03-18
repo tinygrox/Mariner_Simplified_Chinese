@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.talkto.northsea.amsterdam.veiledlady.deliverletter",
+      "label": "An Audience With The Veiled Lady",
+      "startdescription": "Through clubs, through drawn curtains, through cigarette smoke, I pass. Then I finally spot her. \"Enchantée\" she says, although her accent is not french.",
+      "description": "\"A letter from miss Morland.?\" She opens it and scans the words. Her eyes flick back up to my face, once. \"Yes, I think this has been quite helpful.\""
+    },
+    {
+      "id": "mariner.talkto.northsea.amsterdam.veiledlady.giverequest",
+      "label": "A Demand Wrapped In Honey",
+      "startdescription": "\"While you are here... I need something back that I have lost. A trinket from a former life has be been pilfered by some sewer rats. You seem like a person of action. Retrieve it for me, please?\"",
+      "updateCodexEntries": {
+        "codex.veiledlady": {
+          "add": [
+            "codex.veiledlady.1"
+          ]
+        }
+      },
+      "unlockCodexEntries": [
+        "codex.auntieekster"
+      ]
+    },
+    {
+      "id": "mariner.talkto.northsea.amsterdam.veiledlady.completerequest",
+      "label": "A Ring Returned",
+      "startdescription": "\"Thank you. I appreciate this favor.\" The ring disappears into a jewelry box, locked and stowed. \"Lets get to know eachother a little closer now...\"",
+      "description": "<i>She turns her head slightly.</i><br>\"Ask, and I will dance. Just for you.\" [speak to a Muse about your Temptation or Dedication to use them as a dedication.",
+      "updateCodexEntries": {
+        "codex.veiledlady": {
+          "add": [
+            "codex.veiledlady.2"
+          ]
+        }
+      }
+    }
+  ]
+}

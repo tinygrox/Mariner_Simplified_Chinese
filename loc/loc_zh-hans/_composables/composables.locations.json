@@ -1,0 +1,142 @@
+{
+  "elements": [
+    {
+      "id": "mariner.composables.hostile",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.dockedport",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I chose my material, active self, or my recieving, sensitive self?"
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.npc",
+      "slots": [
+        {
+          "id": "object",
+          "label": "Topic"
+        },
+        {
+          "id": "moneyforpetsitting",
+          "label": "<Fee>",
+          "description": "<Fee>"
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.recipientnpc",
+      "slots": [
+        {
+          "id": "object",
+          "label": "Topic"
+        },
+        {
+          "id": "moneyforpetsitting",
+          "label": "<Fee>",
+          "description": "<Fee>"
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.npc.hostile",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.wharf",
+      "label": "Wharf",
+      "description": "A cradle of timber and steel. Here lies the heart of naval trade. [You can repair your ship here, or find commerce for the many things that travel over the sea]"
+    },
+    {
+      "id": "mariner.composables.wharf.available",
+      "slots": [
+        {
+          "id": "ship",
+          "label": "Ship",
+          "description": "Which body to repair."
+        },
+        {
+          "id": "action",
+          "label": "Action?",
+          "description": "<Configure or Upgrade Ship>"
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.composables.bar",
+      "slots": [
+        {
+          "id": "intent",
+          "label": "Intent",
+          "description": "Do I chose my material, active self, or my recieving, sensitive self?"
+        },
+        {
+          "id": "ship",
+          "label": "Ship or Story",
+          "description": "In a bustling bar, I could find business with those who seek a sea voyage, or process my past experiences through tales of my adventures to the willing and unwilling alike."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.givepet.ferret",
+      "label": "<Give pet to petsit>",
+      "startdescription": "<Give pet to petsit>",
+      "movements": {
+        "*/mariner.decks.storedpets_draw": [
+          "mariner.pet"
+        ]
+      }
+    },
+    {
+      "id": "mariner.retrievepet.ferret",
+      "label": "<Retrieve pet>",
+      "startdescription": "<Retrieve pet>"
+    }
+  ]
+}

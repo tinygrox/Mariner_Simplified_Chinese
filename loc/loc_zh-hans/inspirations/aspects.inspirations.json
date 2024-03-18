@@ -1,0 +1,40 @@
+{
+  "elements": [
+    {
+      "id": "mariner.inspiration",
+      "label": "Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.lantern",
+      "label": "Lantern Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.forge",
+      "label": "Forge Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.edge",
+      "label": "Edge Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.winter",
+      "label": "Winter Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.heart",
+      "label": "Heart Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.grail",
+      "label": "Grail Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.moth",
+      "label": "Moth Inspiration"
+    },
+    {
+      "id": "mariner.inspiration.knock",
+      "label": "Knock Inspiration"
+    }
+  ]
+}

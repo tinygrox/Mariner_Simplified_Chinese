@@ -1,0 +1,122 @@
+{
+  "elements": [
+    {
+      "id": "mariner.vaults.thebes.stone",
+      "label": "<Indication of the Branch: Stone>",
+      "description": "<In the Branches neighborhood. The city was cobbled with white marble, some of those crumbs remain. North of the Theban branch, the white cypresses rose. These stones share the right faded glory, at least when I remove the muck. >"
+    },
+    {
+      "id": "mariner.vaults.thebes.wood",
+      "label": "<Indication of the Branch: Wood>",
+      "description": "<Here the city was cobbled with white marble, some of those crumbs remain. North of the Theban branch, the white cypresses rose, The mummified woods I found here have the right grain, and still smell faintly of cedar.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.chest",
+      "label": "<A Lacquered Chest: Occluded>",
+      "description": "<Inside a waxed cloth casing, we find a chest of oiled cypress wood. Around the wood are wrapped tight leather bands, and on those bands are written symbols in a hooked script unfamiliar to me. The wards on this treasure hold strong, which is why it survived the waters. But it also means I better take it to an expert before attempting to open it.>"
+    },
+    {
+      "id": "mariner.vaults.thebes.chest.revealed",
+      "label": "<A Lacquered Chest>",
+      "description": "<Inside a waxed cloth casing, we find a chest of oiled cypress wood. Around the wood are wrapped tight leather bands, and on those bands are written symbols in a hooked script unfamiliar to me. The wards on this treasure hold strong, which is why it survived the waters. Advice was rendered on the proper incantations, but the implements I have to provide myself.>",
+      "slots": [
+        {
+          "id": "tool",
+          "label": "Tool",
+          "description": "A tool to pry and pilfer"
+        },
+        {
+          "id": "trappings",
+          "label": "Trapping",
+          "description": "The trappings that unseam and unlatch"
+        },
+        {
+          "id": "expert",
+          "label": "An Expert",
+          "description": "This requires expert hands to not leave the fingers curse-stained. In this case, I will be the assistant to the Expert I implore."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.thebes.riverbanks",
+      "label": "Luxor River Banks",
+      "description": "The Nile, just like the Histories, sometimes shifts and strays. The boardwalks of Thebes where the Lethian House was situated are now the shallow depths besides the temple-filled corridors of the City of Kings. I have gotten directions from Miriam, but with the shifting river and the changing town, finding the exact spot of the House will be an effort."
+    },
+    {
+      "id": "mariner.vaults.thebes.bend",
+      "label": "The Deeper Bend",
+      "description": "Here the river is too deep to stand, and too deep for the reeds and lotuses to find purchase. Somewhere here the Theban branch of the House of Lethe has sunk off to. ",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore4",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore5",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.thebes.branch",
+      "label": "The Theban Branch",
+      "description": "Scoured by the sands and the river, the smoothed out walls are all that remains of the southernmost branch of the House of Lethe. With the Lethians expertise in the wisdom of Preservation, some treasures may have survived.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.thebes.reeds",
+      "label": "The Reeds",
+      "description": "The Archeologist had given me directions to the house, but the city has swelled and the river has shifted. A curtain of swaying gold now covers the former riverside. There I will have to root for clues of the former lay of the land.",
+      "slots": [
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    }
+  ]
+}

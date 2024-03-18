@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.morland",
+      "label": "A Rare Find",
+      "startdescription": "I rarely browse for long at Morlands, as I find her other costumers shuffling between the shelves, but today one book catches my eye.",
+      "slots": [
+        {
+          "id": "funds",
+          "label": "资金",
+          "description": "She requires payment for the book"
+        }
+      ]
+    }
+  ]
+}

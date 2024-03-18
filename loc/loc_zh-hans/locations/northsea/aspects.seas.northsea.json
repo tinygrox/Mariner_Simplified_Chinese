@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.northsea.sailingthere",
+      "label": "Sailing to a place connected to North Sea",
+      "description": "Sailing to a place connected to North Sea, so we should unlock things of this sea when arriving"
+    },
+    {
+      "id": "mariner.locations.northsea.presentthere",
+      "label": "Present in North Sea",
+      "description": "Present in North Sea (unavailable, might get deleted in the future)"
+    }
+  ]
+}

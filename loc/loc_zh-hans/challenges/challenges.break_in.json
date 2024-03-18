@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.break_in",
+      "label": "Pass a Barrier",
+      "startdescription": "There is a barrier that opposes us. We can overcome it with the force of Forge or guile of Knock.",
+      "description": "There is a barrier that opposes us. We can overcome it with the force of Forge or guile of Knock.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.break_in.forge.high",
+      "label": "Fire and Acid",
+      "startdescription": "Mix the reagents into a glorious mixture and apply it certain fingers. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.break_in.forge.med",
+      "label": "Nitrate and Chloride",
+      "startdescription": "Mix the reagents into a volatile mixture and apply it with anticipating fingers. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.break_in.forge.low",
+      "label": "Sulphur and Salt",
+      "startdescription": "Mix the reagents into an unstable mixture and apply it with trembling fingers. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.break_in.knock.high",
+      "label": "Through the Cracks",
+      "startdescription": "Like princes, we will demand passage through locks and barriers. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.break_in.knock.med",
+      "label": "Through the Keyhole",
+      "startdescription": "Like snakes, we will find paths through locks and barriers. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.break_in.knock.low",
+      "label": "Through the Treshhold",
+      "startdescription": "Like thieves, we will coax movement through locks and barriers. We may yet succeed."
+    }
+  ]
+}

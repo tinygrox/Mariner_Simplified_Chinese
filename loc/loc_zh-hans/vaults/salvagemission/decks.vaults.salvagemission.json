@@ -1,0 +1,31 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.harbor.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.harbor.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.mistedreefs.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.mistedreefs.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.shipwreck.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.salvagemission.explore.shipwreck.events",
+      "label": "Exploration Deck"
+    }
+  ]
+}

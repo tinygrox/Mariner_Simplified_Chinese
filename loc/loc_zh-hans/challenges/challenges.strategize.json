@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.strategize",
+      "label": "Plan The Slaying Of A Beast",
+      "startdescription": "Something unnatural opposes us, half within this world, half without. Pedestrian means of murder may not be enough. I could employ the knowledge of Lantern of the armaments of Edge.",
+      "description": "Something unnatural opposes us, half within this world, half without. Pedestrian means of murder may not be enough. I could employ the knowledge of Lantern of the armaments of Edge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.strategize.lantern.high",
+      "label": "Eldritch Tactics",
+      "startdescription": "The laws of the House of Sun still apply to this entity. I know their ways and I know their bounds. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.strategize.lantern.med",
+      "label": "Arcane Tactics",
+      "startdescription": "Themes in folktales reveal underlying truths. I am illuminated by knowledge and armed with daimonography. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.strategize.lantern.low",
+      "label": "Hidden Tactics",
+      "startdescription": "Old stories and forgotten myths. Snippets hint at practices and tools that are of use here. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.strategize.edge.high",
+      "label": "The Sacred Tools",
+      "startdescription": "My dagger could be rusted, my axe could be flint, in my hand they are the teeth of wolf and they unmake, they unmake, they unmake. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.strategize.edge.med",
+      "label": "The Perfected Tools",
+      "startdescription": "The operations of murder reveal the many practices that prepare our many tools for our many jobs. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.strategize.edge.low",
+      "label": "The Right Tools",
+      "startdescription": "When a normal blade won't do, I carry sterling silver of blackened oak. We may yet succeed."
+    }
+  ]
+}

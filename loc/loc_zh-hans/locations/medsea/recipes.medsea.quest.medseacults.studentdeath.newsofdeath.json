@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.special.start.medsea.quest.medseacults.studentdeath.newsofdeath",
+      "label": "<News of a Grizzly Death in Newspaper>",
+      "startdescription": "<>"
+    }
+  ]
+}

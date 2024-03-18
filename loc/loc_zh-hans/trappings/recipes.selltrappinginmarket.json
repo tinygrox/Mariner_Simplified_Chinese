@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.selltrappinginmarket.noworth",
+      "label": "Try to Sell a jumble of Trappings",
+      "startdescription": "Just because something has use, does not mean it has value. I cannot sell these trappings, since they carry no inherent shine or appeal."
+    },
+    {
+      "id": "mariner.selltrappinginmarket",
+      "label": "Sell Off An Item of Great Value",
+      "startdescription": "Items that are truely remarkable will always find a buyer.",
+      "description": "We have found a price we both agree on."
+    }
+  ]
+}

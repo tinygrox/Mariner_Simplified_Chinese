@@ -1,0 +1,44 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.locations.medsea.marseille.halfheart",
+      "label": "Things to discover in Marseille",
+      "description": "The things that can be discovered in Marseille."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.marseille.lackheart",
+      "label": "Things to discover in Marseille",
+      "description": "The things that can be discovered in Marseille."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.bizerta.halfheart",
+      "label": "Things to discover in Bizerta",
+      "description": "The things that can be discovered in Bizerta."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.bizerta.lackheart",
+      "label": "Things to discover in Bizerta",
+      "description": "The things that can be discovered in Bizerta."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.constantinople.halfheart",
+      "label": "Things to discover in Constantinople",
+      "description": "The things that can be discovered in Constantinople."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.constantinople.lackheart",
+      "label": "Things to discover in Constantinople",
+      "description": "The things that can be discovered in Constantinople."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.haifa.halfheart",
+      "label": "Things to discover in Haïfa",
+      "description": "The things that can be discovered in Haïfa."
+    },
+    {
+      "id": "mariner.decks.locations.medsea.haifa.lackheart",
+      "label": "Things to discover in Haïfa",
+      "description": "The things that can be discovered in Haïfa."
+    }
+  ]
+}

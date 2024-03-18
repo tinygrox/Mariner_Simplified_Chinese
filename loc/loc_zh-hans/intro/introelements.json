@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.directionsmorland.ciphered",
+      "label": "A Box with Ciphered Instructions",
+      "description": "The Man from Marseille left his instructions in a cypher, but neglected to give me the key. Secrets wrapped in secrets."
+    },
+    {
+      "id": "mariner.directionsmorland",
+      "label": "A Package For Miss M., With Directions",
+      "description": "A package to deliver, and directions to a store."
+    },
+    {
+      "id": "mariner.letter.sulochana",
+      "label": "Letter for Sulochana Amavasya",
+      "description": "A letter for the enigmatic owner of the Ecdysis Club."
+    },
+    {
+      "id": "mariner.letter.veiledlady",
+      "label": "Letter for the Veiled Lady of Amsterdam",
+      "description": "A letter for the mysterious mistress of Amsterdam's nightlife."
+    }
+  ]
+}

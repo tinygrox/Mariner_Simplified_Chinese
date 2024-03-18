@@ -1,0 +1,806 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.buycargo.from.northsea.london",
+      "label": "<Chartering Cargo in london>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.london.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.northsea.amsterdam",
+      "label": "<Chartering Cargo in amsterdam>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.northsea.copenhagen",
+      "label": "<Chartering Cargo in copenhagen>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.medsea.marseille",
+      "label": "<Chartering Cargo in marseille>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.marseille.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.medsea.bizerta",
+      "label": "<Chartering Cargo in bizerta>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.medsea.constantinople",
+      "label": "<Chartering Cargo in constantinople>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.from.medsea.haifa",
+      "label": "<Chartering Cargo in haifa>",
+      "startdescription": "Here I can establish contracts for goods that need to go elsewhere. Once I have reached that elsewhere, they will be good for some money. Available Wares:<br><br>-[1 <sprite name=funds>] Cargo (North Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<br><br>-[1 <sprite name=funds>] Cargo (Med Sea)<i>[Stop making choices to leave the store.]</i>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Cargo [North Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option2",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        },
+        {
+          "id": "option3",
+          "label": "<Cargo [Med Sea]>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption1.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption1.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption1.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption2.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption2.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption2.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption3.1",
+          "label": "<>",
+          "startdescription": "<not enough space>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption3.2",
+          "label": "<Not Enough Funds To Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        },
+        {
+          "id": "mariner.buycargo.from.medsea.haifa.pickoption3.3",
+          "label": "<Buy Cargo>",
+          "startdescription": "<>",
+          "movements": {
+            "~/tabletop": [
+              "mariner.halfheart"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mariner.buycargo.leaving",
+      "startdescription": "<Alright then.>"
+    }
+  ]
+}

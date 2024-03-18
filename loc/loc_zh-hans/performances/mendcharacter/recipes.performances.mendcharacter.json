@@ -1,0 +1,110 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.mendcharacter.check",
+      "achievements": [
+        "mariner.achievements.firstsuccessfulperformance"
+      ]
+    },
+    {
+      "id": "mariner.performances.mendcharacter",
+      "label": "The Three Queens",
+      "startdescription": "And suddenly, where before my eyes saw my cast and my rapt audience, I now could see the three Queens who we portrayed in song. The Queens bound in the sacrifice of the Flayed One. As surely as eyes can see something that isn't there, they were here, imbuing the scene, from the bundled green curtains, to the crimson river, to precipice at the edge of the stage."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.ringyew",
+      "label": "The Honey Queen",
+      "startdescription": "The Honey Queen, all sweet and encompassing, asked for token of remembrence, to recall her former lover.",
+      "slots": [
+        {
+          "id": "offering",
+          "label": "Remembrance",
+          "description": "A trinket with which two lovers tried to bind their love, though it would not last."
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.mendcharacter.ringyew.failure",
+      "label": "Someone Will Have To Do",
+      "startdescription": "If she cannot have what is dear to her, she will content someone who is dear to me."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.redgrail",
+      "label": "The Bloody Queen",
+      "startdescription": "The Bloody Queen, at the center of it all, ever hungry as rivers are, asked for to taste my rendition of her, coveting it for herself alone, to savor ambitions discarded.",
+      "slots": [
+        {
+          "id": "offering",
+          "label": "Remembrance",
+          "description": "She is remembered in art, in fadou, in shanties. She covets to keep this rendition for her own."
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.mendcharacter.redgrail.failure",
+      "label": "What a Reputation Means",
+      "startdescription": "If my songs of praise won't raise to her, whispers will seep down from her high perch in the mansus. Her many attendents will ensure they reach the right ears."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.redgrail.failure.dockedtolondon",
+      "description": "London will be seeped in distrust for me."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.redgrail.failure.dockedtocopenhagen",
+      "description": "Copenhagen shall revile my name."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxe",
+      "label": "The Stone Queen",
+      "startdescription": "The Stone queen, at the threshold of each theater and the overture of every play, didn't ask for anything. She demanded of me an exile from my homestead, barring to me the treshold of London itself."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxeprison.start",
+      "label": "Exile Looming",
+      "startdescription": "All my sacrifices were binding and irreversable. The Horned Axe will soon demand I follow up with what I promised, or the consequences will be bloody. [We're about to lose access to London. If we're docked there, we need to leave NOW.]"
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxeprison.gameover",
+      "label": "Justice Looming",
+      "startdescription": "I made a vow, and in failing to uphold it, my neck was forfit. I topple, and as my vision fades the sky turns to dusk, and the clouds to bloodred smears."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxeprison.hold",
+      "label": "Exile",
+      "startdescription": "Even if I did not consider it so often, London was home. I have never missed it more than now that I cannot visit it.",
+      "slots": [
+        {
+          "id": "offering",
+          "label": "Home",
+          "description": "My most treasured threshold."
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxeprison.release.available",
+      "label": "Path Open Again",
+      "description": "The Stone Queen Ban has been lifted."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.hornedaxeprison.release.locked",
+      "label": "Ban Lifted",
+      "description": "The Stone Queen Ban has been lifted. I can return back to London."
+    },
+    {
+      "id": "mariner.performances.mendcharacter.consequence",
+      "label": "An Unthinkable Decision, Remembered",
+      "startdescription": "The city will be the stage, the offerings, the agreement. The fateful audience of it all, the sacrificed Dancers. Such is the price to be paid to mend oneself under the accord of the Queens.",
+      "description": "No one will ever say what it truly was. Did people flay each other's skin, or were they bloody demons wearing human pelts? Nevertheless, they danced. They danced, walking out of the theater and down the streets, in the port, then down the canal. For what felt like an eternity, an unceasing nightmare had taken life, until a moment later, the music stopped. There was no one left to even remember the melody, for all who had heard it disappeared at the bottom of the now burgundy waters.",
+      "achievements": [
+        "mariner.achievements.charactermended"
+      ],
+      "updateCodexEntries": {
+        "codex.ascensions.twins.character": {
+          "add": [
+            "codex.ascensions.twins.character.mended"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "verbs": [
+    {
+      "id": "mariner.sail",
+      "label": "航行",
+      "description": "在港口或海域之间航行，找寻失落之物或未探之事。",
+      "slot": {
+        "id": "ship",
+        "label": "船只",
+        "description": "用以航行的船只."
+      }
+    },
+    {
+      "id": "explore",
+      "label": "探索",
+      "description": "探索城镇、城堡、遗迹废墟、酒吧和码头。船只不能到达之处则我使用双足。"
+    },
+    {
+      "id": "talk",
+      "label": "谈话",
+      "description": "招募船员、分享秘密、叙说故事、进行交易。"
+    },
+    {
+      "id": "mariner.sing",
+      "label": "唱歌",
+      "description": "摇篮曲、船歌、歌剧：所有的音乐都具有力量。我可以以此来清理我的思绪，或打造一种氛围，或进行一场盛大的演出。",
+      "slot": {
+        "id": "subject",
+        "label": "话题",
+        "description": "可进行演出的：歌曲、故事、表演、仪式"
+      }
+    },
+    {
+      "id": "mariner.navigate",
+      "label": "引导",
+      "description": "引导我的思绪、情感、谜题、难题。创作音乐并揭开奥秘。",
+      "slot": {
+        "id": "subject",
+        "label": "话题",
+        "description": "值得去思考的问题：一个谜团、一个谜题、一个奥秘、一个奇迹。"
+      }
+    }
+  ]
+}

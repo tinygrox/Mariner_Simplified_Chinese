@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ascension.vagabond.temptation",
+      "label": "Temptation: Exemplum",
+      "description": "Shall I dedicate myself to stories about the Truer Places I can half glimpse through the fog of wordly misery?"
+    },
+    {
+      "id": "mariner.ascension.vagabond.dedication",
+      "label": "Dedication: Exemplum",
+      "description": "I will seek out the places where myths are truer than facts. I will experience the lessons of the Vagabond."
+    },
+    {
+      "id": "mariner.ascension.twins.temptation",
+      "label": "Temptation: Constellate",
+      "description": "Should I seek that part of me that is missing?"
+    },
+    {
+      "id": "mariner.ascension.twins.dedication",
+      "label": "Dedication: Constellate",
+      "description": "I shall find who carries the other half of my soul, and mend our soul stitch by stitch."
+    }
+  ]
+}

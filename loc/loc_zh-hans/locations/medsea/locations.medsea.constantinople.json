@@ -1,0 +1,113 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.constantinople.nun",
+      "label": "<Mother Euphresme>",
+      "description": "<An Orthodox cloistered nun who cannot be considered to be very cloistered or orthodox in her views.>"
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.nun.away",
+      "label": "<Mother Euphresme> [away]",
+      "description": "<An Orthodox cloistered nun who cannot be considered to be very cloistered or orthodox in her views.>"
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.nun.hostile",
+      "label": "<Mother Euphresme> [hard to meet]",
+      "description": "<An Orthodox cloistered nun who cannot be considered to be very cloistered or orthodox in her views.>"
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.tourist",
+      "label": "Count Florentin Hunyadi",
+      "description": "The last scion of an old house, who has left the management of his holdings to others as he spends his middle age in an eternal vacation."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.tourist.away",
+      "label": "Count Florentin Hunyadi [away]",
+      "description": "The last scion of an old house, who has left the management of his holdings to others as he spends his middle age in an eternal vacation."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.tourist.hostile",
+      "label": "Count Florentin Hunyadi [hard to meet]",
+      "description": "The last scion of an old house, who has left the management of his holdings to others as he spends his middle age in an eternal vacation."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.constantinopletheater",
+      "label": "Café Nocturne",
+      "description": "Not many theaters from the time of the Ottoman Empire still remain now that the Republic has founded. But Cafe Nocturne has remained in its nook in Beyoglu. On the right nights, they still dig out the works penned in Armanian, Italian or even more occluded tongues.",
+      "slots": [
+        {
+          "id": "verbSong",
+          "label": "Song",
+          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        },
+        {
+          "id": "aspect1",
+          "label": "Trapping"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.constantinopletheater.away",
+      "label": "Café Nocturne [away]",
+      "description": "Not many theaters from the time of the Ottoman Empire still remain now that the Republic has founded. But Cafe Nocturne has remained in its nook in Beyoglu. On the right nights, they still dig out the works penned in Armanian, Italian or even more occluded tongues."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.constantinopletheater.hostile",
+      "label": "Café Nocturne [hostile]",
+      "description": "Not many theaters from the time of the Ottoman Empire still remain now that the Republic has founded. But Cafe Nocturne has remained in its nook in Beyoglu. On the right nights, they still dig out the works penned in Armanian, Italian or even more occluded tongues.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.bar",
+      "label": "Çapa",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.bar.hostile",
+      "label": "Çapa [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "elements": [
+    {
+      "id": "mariner.smith",
+      "label": "<Smith>",
+      "description": "<This is where I can find the skilled hands able to work on some of my most precious tools.>"
+    },
+    {
+      "id": "mariner.smiths.toolsmith",
+      "label": "<Toolsmith>",
+      "description": "<Knock and Forge tools>"
+    },
+    {
+      "id": "mariner.tool.notch",
+      "label": "<Tool Notch>",
+      "description": "<Tool Notch>"
+    },
+    {
+      "id": "mariner.tool.level",
+      "label": "<Tool Tier/Level>",
+      "description": "<Tool Tier/Level>"
+    },
+    {
+      "id": "mariner.tool.readytoupgrade",
+      "label": "<Maxed out Notches>",
+      "description": "<Ready to upgrade>"
+    },
+    {
+      "id": "mariner.tool.lantern",
+      "label": "Lantern Tool"
+    },
+    {
+      "id": "mariner.tool.forge",
+      "label": "Forge Tool"
+    },
+    {
+      "id": "mariner.tool.edge",
+      "label": "Edge Tool"
+    },
+    {
+      "id": "mariner.tool.winter",
+      "label": "Winter Tool"
+    },
+    {
+      "id": "mariner.tool.heart",
+      "label": "Heart Tool"
+    },
+    {
+      "id": "mariner.tool.grail",
+      "label": "Grail Tool"
+    },
+    {
+      "id": "mariner.tool.moth",
+      "label": "Moth Tool"
+    },
+    {
+      "id": "mariner.tool.knock",
+      "label": "Knock Tool"
+    }
+  ]
+}

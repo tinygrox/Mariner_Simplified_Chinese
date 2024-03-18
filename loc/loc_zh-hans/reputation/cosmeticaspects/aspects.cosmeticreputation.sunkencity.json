@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.sunkencity.1",
+      "label": "",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\n"
+    },
+    {
+      "id": "mariner.cosmeticreputation.sunkencity.2",
+      "label": "",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\n"
+    },
+    {
+      "id": "mariner.cosmeticreputation.sunkencity.3",
+      "label": "",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\n"
+    },
+    {
+      "id": "mariner.cosmeticreputation.sunkencity.4",
+      "label": "",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\n"
+    }
+  ]
+}

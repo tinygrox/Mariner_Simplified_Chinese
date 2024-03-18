@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.navigate_allowed",
+      "label": "Navigable",
+      "description": "A puzzle to ponder, a path to consider. [This card can be used in the Navigate Verb]"
+    },
+    {
+      "id": "mariner.sing_allowed",
+      "label": "A Song-Challenge",
+      "description": "All the world is a stage... But this requires my performing talents specifically. [This card can be used in the Sing verb]"
+    },
+    {
+      "id": "mariner.sail_allowed",
+      "label": "Requires the Kite",
+      "description": "This is overseas or on the water. [This card can be used in the Sail verb]"
+    },
+    {
+      "id": "invokesheartache",
+      "label": "Invokes Heartache",
+      "description": "This may lead to Heartache."
+    }
+  ]
+}

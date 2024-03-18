@@ -1,0 +1,169 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.marseille",
+      "label": "Marseille [docked]",
+      "description": "<The beating heart of the Riviera. They say this is the closest you can get to Noon in continental Europe.>"
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.away",
+      "label": "Marseille",
+      "description": "<The beating heart of the Riviera. They say this is the closest you can get to Noon in continental Europe.>"
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.locked",
+      "label": "Marseille",
+      "description": "<The beating heart of the Riviera. They say this is the closest you can get to Noon in continental Europe.>"
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta",
+      "label": "Bizerta [docked]",
+      "description": "On the Northernmost tip of Africa, lies a port founded by the Phoenicians. Where Carthage is dust on dust, Bizerte thrives and glitters."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.away",
+      "label": "Bizerta",
+      "description": "On the Northernmost tip of Africa, lies a port founded by the Phoenicians. Where Carthage is dust on dust, Bizerte thrives and glitters."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.locked",
+      "label": "Bizerta",
+      "description": "On the Northernmost tip of Africa, lies a port founded by the Phoenicians. Where Carthage is dust on dust, Bizerte thrives and glitters."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople",
+      "label": "Constantinople [docked]",
+      "description": "Ancient history and recent Strife. But the hundred thousand cats of the city remain, and so does its grandeur, and its noise."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.away",
+      "label": "Constantinople",
+      "description": "Ancient history and recent Strife. But the hundred thousand cats of the city remain, and so does its grandeur, and its noise."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.locked",
+      "label": "Constantinople",
+      "description": "Ancient history and recent Strife. But the hundred thousand cats of the city remain, and so does its grandeur, and its noise."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa",
+      "label": "Haïfa [docked]",
+      "description": "<Sloping down of tripple sacred mount Carmel is a city mosaiced in monotheistic faiths.>"
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.away",
+      "label": "Haïfa",
+      "description": "<Sloping down of tripple sacred mount Carmel is a city mosaiced in monotheistic faiths.>"
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.locked",
+      "label": "Haïfa",
+      "description": "<Sloping down of tripple sacred mount Carmel is a city mosaiced in monotheistic faiths.>"
+    },
+    {
+      "id": "mariner.locations.medsea.docksidewarehouse",
+      "label": "Dockside Warehouse [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.docksidewarehouse.away",
+      "label": "Dockside Warehouse",
+      "description": "Where criminals have access to the sea, strange and valuable things accrue."
+    },
+    {
+      "id": "mariner.locations.medsea.docksidewarehouse.locked",
+      "label": "Dockside Warehouse",
+      "description": "Where criminals have access to the sea, strange and valuable things accrue."
+    },
+    {
+      "id": "mariner.locations.medsea.salvagemission",
+      "label": "Salvage Mission [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.salvagemission.away",
+      "label": "Salvage Mission",
+      "description": "A shipwreck in some ill-fortuned waters have left sailors abuzz with stories of its cargo. If we can salvage something from the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@, it might be very worth our while."
+    },
+    {
+      "id": "mariner.locations.medsea.salvagemission.locked",
+      "label": "Salvage Mission",
+      "description": "A shipwreck in some ill-fortuned waters have left sailors abuzz with stories of its cargo. If we can salvage something from the @#mariner.shipnameid|9|Bella Sonata#mariner.shipnameid|8|Vengeful Spirit#mariner.shipnameid|7|Cerberus#mariner.shipnameid|6|Olympic#mariner.shipnameid|5|Ventus Excitor#mariner.shipnameid|4|USS Abraham Lincoln#mariner.shipnameid|3|Chimaera#mariner.shipnameid|2|Dazzler#mariner.shipnameid|1|Hispaniola@, it might be very worth our while."
+    },
+    {
+      "id": "mariner.locations.medsea.rescuemission",
+      "label": "Rescue Mission [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.rescuemission.away",
+      "label": "Rescue Mission",
+      "description": "A shipwreck has been reported recently, and it the company has placed a reward out on who ever can bring back the missing crewmembers, who are stranded, somewhere on an island."
+    },
+    {
+      "id": "mariner.locations.medsea.rescuemission.locked",
+      "label": "Rescue Mission",
+      "description": "A shipwreck has been reported recently, and it the company has placed a reward out on who ever can bring back the missing crewmembers, who are stranded, somewhere on an island."
+    },
+    {
+      "id": "mariner.locations.medsea.thebes",
+      "label": "The Theban Branch [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.thebes.away",
+      "label": "The Theban Branch",
+      "description": "The southern most branch of the House of Lethe, in a city now named Luxor."
+    },
+    {
+      "id": "mariner.locations.medsea.thebes.locked",
+      "label": "The Theban Branch",
+      "description": "The southern most branch of the House of Lethe, in a city now named Luxor."
+    },
+    {
+      "id": "mariner.locations.medsea.aleppo",
+      "label": "The Allepene Branch [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.aleppo.away",
+      "label": "The Allepene Branch",
+      "description": "Like so many treasures of the arabian antiquities, this Branch of the House of Lethe can no longer be found in the city it once belonged too."
+    },
+    {
+      "id": "mariner.locations.medsea.aleppo.locked",
+      "label": "The Allepene Branch",
+      "description": "Like so many treasures of the arabian antiquities, this Branch of the House of Lethe can no longer be found in the city it once belonged too."
+    },
+    {
+      "id": "mariner.locations.medsea.damascus",
+      "label": "The Damascene Branch [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.damascus.away",
+      "label": "The Damascene Branch",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.damascus.locked",
+      "label": "The Damascene Branch",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.bizertamorgue",
+      "label": "<The Bizerta Morgue> [docked]",
+      "description": "However deep we'll delve or far we go, this is our way back to the open sea."
+    },
+    {
+      "id": "mariner.locations.medsea.bizertamorgue.away",
+      "label": "<The Bizerta Morgue>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.bizertamorgue.locked",
+      "label": "<The Bizerta Morgue>",
+      "description": "<>"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cargo.for.northsea.local",
+      "label": "Cargo [local, destination: northsea]"
+    },
+    {
+      "id": "mariner.cargo.for.northsea.close",
+      "label": "Cargo [close, destination: northsea]"
+    },
+    {
+      "id": "mariner.cargo.for.northsea.distant",
+      "label": "Cargo [long haul, destination: northsea]"
+    },
+    {
+      "id": "mariner.cargo.for.medsea.local",
+      "label": "Cargo [local, destination: medsea]"
+    },
+    {
+      "id": "mariner.cargo.for.medsea.close",
+      "label": "Cargo [close, destination: medsea]"
+    },
+    {
+      "id": "mariner.cargo.for.medsea.distant",
+      "label": "Cargo [long haul, destination: medsea]"
+    }
+  ]
+}

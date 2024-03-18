@@ -1,0 +1,12 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.changesea.to.northsea",
+      "label": "<Switching seas, direction: northsea>"
+    },
+    {
+      "id": "mariner.sail.changesea.to.medsea",
+      "label": "<Switching seas, direction: medsea>"
+    }
+  ]
+}

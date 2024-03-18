@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.design",
+      "label": "A Bright Idea is Needed",
+      "startdescription": "For what I face now, no solution is apparent. However, I could create one. I can approach this challenge with either the brilliance of Lantern or the ingeniuity of Forge.",
+      "description": "For what I face now, no solution is apparent. However, I could create one. I can approach this challenge with either the brilliance of Lantern or the ingeniuity of Forge.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.design.lantern.high",
+      "label": "A Flare of Brilliance",
+      "startdescription": "One can find the true solution to any problem. Like the Watchman, I will navigate towards that Truth. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.design.lantern.med",
+      "label": "A Glimmmer of Brilliance",
+      "startdescription": "One can find the proper solution to any problem. If I think without mercy and without mistakes, I will find that solution. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.design.lantern.low",
+      "label": "A Flicker of Brilliance",
+      "startdescription": "One can find the right solution to any problem. If I cast out the doubtful shadows from my thoughts, I will find that solution. We may yet succed."
+    },
+    {
+      "id": "mariner.challenge.design.forge.high",
+      "label": "A Blaze of Inspiration",
+      "startdescription": "My mind is like a smelter. I blaze like the Malleary, and if I speak I might spit flame. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.design.forge.med",
+      "label": "A Flash of Inspiration",
+      "startdescription": "My mind is like a smelter- no concept that enters it remains unchanged. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.design.forge.low",
+      "label": "A Spark of Inspiration",
+      "startdescription": "My mind is like a smelter, which inputs sensations and outputs ideas. We may yet succeed."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.forge.hint",
+      "label": "Hint: A Revolutionary Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Forge."
+    },
+    {
+      "id": "mariner.performances.forge.start",
+      "label": "Perform a Show laced with the Intent of Forge",
+      "startdescription": "The air is shivering under my shouts, my songs, my revolutions. Each audience member can feel the sweat pool on their back and their their fingers itch for action."
+    },
+    {
+      "id": "mariner.performances.forge.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.dive",
+      "label": "Into The Abyss",
+      "startdescription": "Below us lies a fathomless expanse of freezing darkness and suffocating pressure. To here we must venture forth. We can approach this with the wayfaring Knock or the stoic Winter.",
+      "description": "Below us lies a fathomless expanse of freezing darkness and suffocating pressure. To here we must venture forth. We can approach this with the wayfaring Knock or the stoic Winter.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.dive.knock.high",
+      "label": "A Piercing Path",
+      "startdescription": "The depths may be dark and empty, but so am I. I am an empty vessel to be filled, no different from the void outside my tank. We will almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.dive.knock.med",
+      "label": "A Guided Path",
+      "startdescription": "The depths may be dark and empty, but I will not be alone. I will be open to all experiences and beings here. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.dive.knock.low",
+      "label": "A Barren Path",
+      "startdescription": "The depths are dark and lonely, but I will not be blinded. With open eyes I peer into open emptyness. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.dive.winter.high",
+      "label": "An Implaccable Demeanor",
+      "startdescription": "\"...\". I almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.dive.winter.med",
+      "label": "An Unmarred Demeanor",
+      "startdescription": "As I sink down, I crystalise as the darkness overtakes me and the pressure rises. I will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.dive.winter.low",
+      "label": "A Steady Demeanor",
+      "startdescription": "As I sink down, I settle into myself as the light fades and the temperature drops. I may yet succeed."
+    }
+  ]
+}

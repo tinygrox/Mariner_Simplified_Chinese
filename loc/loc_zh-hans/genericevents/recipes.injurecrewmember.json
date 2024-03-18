@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.genericevents.injurecrewmember.foundexpulsed",
+      "label": "The anticipation of the End",
+      "startdescription": "<Muscles go tense, and then slack forever.>"
+    },
+    {
+      "id": "mariner.genericevents.injurecrewmember.grabexpulsed",
+      "label": "The anticipation of the End",
+      "startdescription": "<Muscles go tense, and then slack forever.>",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "The Daggers of Danger",
+          "description": "I know this won't end well."
+        }
+      ]
+    },
+    {
+      "id": "mariner.genericevents.injurecrewmember.injure",
+      "label": "The Anticipation of the End",
+      "startdescription": "<Muscles go tense, and then slack forever.>",
+      "description": "One less able body to man the Kite.",
+      "slots": [
+        {
+          "id": "medkit",
+          "label": "Medical Supplies",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

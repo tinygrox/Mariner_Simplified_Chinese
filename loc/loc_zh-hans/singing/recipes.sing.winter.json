@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.success.winter",
+      "label": "A Glamour Woven",
+      "startdescription": "When a song is sung right, the world does not stay unchanged. The air has been infused with power, and it clings on me like a perfume."
+    },
+    {
+      "id": "mariner.sing.winter.3.start",
+      "label": "A Special Song",
+      "startdescription": "The second note follows the first, and soon they become more than a sequence of sounds."
+    },
+    {
+      "id": "mariner.sing.winter.2.start",
+      "label": "A Special Song",
+      "startdescription": "The second note follows the first, and soon they become more than a sequence of sounds."
+    },
+    {
+      "id": "mariner.sing.winter.1.start",
+      "label": "A Special Song",
+      "startdescription": "The second note follows the first, and soon they become more than a sequence of sounds."
+    }
+  ]
+}

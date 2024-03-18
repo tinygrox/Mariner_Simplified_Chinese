@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.bar.recruit",
+      "label": "Recruit New Crewmembers?",
+      "startdescription": "Attract them with tall tales, assess them with my insight, challenge them with my wit."
+    }
+  ]
+}

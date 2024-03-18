@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wharf.repair",
+      "label": "Repair Ship?",
+      "startdescription": "These men can fashion the Kite with new wings of canvas and skin of wood, But only if I can pay them for their work."
+    },
+    {
+      "id": "mariner.wharf.repair.checkinfluence",
+      "label": "Checking influence"
+    },
+    {
+      "id": "mariner.wharf.repair.freerepair",
+      "label": "Industrious Echoes.",
+      "startdescription": "I linger, and hum along to the hammersong. The shipwrights activity accelerated to a frenzy, and work of a day is done in an hour. The heat has become unbearable, and I leave before the tar catches flame."
+    },
+    {
+      "id": "mariner.wharf.repair.askforfunds",
+      "label": "Repairs needed",
+      "startdescription": "If the shipwrights can tell what caused this damage they do not say; they only tell me the price.",
+      "slots": [
+        {
+          "id": "funds",
+          "label": "Cost",
+          "description": "The tools are ready, the tar has been boiled, now all that rests is the matter of payment. [pay 1 funds for each instance of damage you want to repair]"
+        }
+      ]
+    },
+    {
+      "id": "mariner.wharf.repair.finished.nodamages",
+      "label": "Repairs Paid",
+      "description": "Planks replaced, mast mended and sails refurbished. Whatever philosophers may bicker, I know for sure this ship is still my own."
+    },
+    {
+      "id": "mariner.wharf.repair.finished.nofunds",
+      "label": "No Deal Made",
+      "description": "The ship is slipped back into the water, still afloat, but no better of."
+    },
+    {
+      "id": "mariner.wharf.repair.nothingtorepair",
+      "label": "Nothing to repair",
+      "startdescription": "The ship is slipped back into the water."
+    }
+  ]
+}

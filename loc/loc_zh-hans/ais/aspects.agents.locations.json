@@ -1,0 +1,94 @@
+{
+  "elements": [
+    {
+      "id": "mariner.agentdata.insea.northsea",
+      "label": "In sea northsea",
+      "description": "In sea northsea"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowardssea.northsea",
+      "label": "Sailing to sea northsea",
+      "description": "Sailing to sea northsea"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.northsea.london",
+      "label": "Docked to: northsea london",
+      "description": "Docked to: northsea london"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.northsea.london",
+      "label": "Sailing towards: northsea london",
+      "description": "Sailing towards: northsea london"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.northsea.amsterdam",
+      "label": "Docked to: northsea amsterdam",
+      "description": "Docked to: northsea amsterdam"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.northsea.amsterdam",
+      "label": "Sailing towards: northsea amsterdam",
+      "description": "Sailing towards: northsea amsterdam"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.northsea.copenhagen",
+      "label": "Docked to: northsea copenhagen",
+      "description": "Docked to: northsea copenhagen"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.northsea.copenhagen",
+      "label": "Sailing towards: northsea copenhagen",
+      "description": "Sailing towards: northsea copenhagen"
+    },
+    {
+      "id": "mariner.agentdata.insea.medsea",
+      "label": "In sea medsea",
+      "description": "In sea medsea"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowardssea.medsea",
+      "label": "Sailing to sea medsea",
+      "description": "Sailing to sea medsea"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.medsea.marseille",
+      "label": "Docked to: medsea marseille",
+      "description": "Docked to: medsea marseille"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.medsea.marseille",
+      "label": "Sailing towards: medsea marseille",
+      "description": "Sailing towards: medsea marseille"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.medsea.bizerta",
+      "label": "Docked to: medsea bizerta",
+      "description": "Docked to: medsea bizerta"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.medsea.bizerta",
+      "label": "Sailing towards: medsea bizerta",
+      "description": "Sailing towards: medsea bizerta"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.medsea.constantinople",
+      "label": "Docked to: medsea constantinople",
+      "description": "Docked to: medsea constantinople"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.medsea.constantinople",
+      "label": "Sailing towards: medsea constantinople",
+      "description": "Sailing towards: medsea constantinople"
+    },
+    {
+      "id": "mariner.agentdata.dockedto.medsea.haifa",
+      "label": "Docked to: medsea haifa",
+      "description": "Docked to: medsea haifa"
+    },
+    {
+      "id": "mariner.agentdata.sailingtowards.medsea.haifa",
+      "label": "Sailing towards: medsea haifa",
+      "description": "Sailing towards: medsea haifa"
+    }
+  ]
+}

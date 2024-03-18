@@ -1,0 +1,24 @@
+{
+  "endings": [
+    {
+      "id": "mariner.endings.sank",
+      "label": "Sank",
+      "description": "Where the waters first nibbled, now they rush. The Kite is splayed and pulled apart by a thousand eager water-tongues. She will come to rest at the bottom of the sea, and we will come to rest beside her. [I allowed the Kite to gain more damage than it could take.]"
+    },
+    {
+      "id": "mariner.endings.arrested",
+      "label": "Arrested",
+      "description": "I have been arrested, and will likely never feel the free wind brush my hair. Without my travels, there is nothing to sate my Lack-Heart, and it will soon overcome me."
+    },
+    {
+      "id": "mariner.endings.heartache",
+      "label": "A Faded Life",
+      "description": "I am a hollow person, living a hollow life. All sounds have dulled to noise. All colors muted to slate and rust and fog. All experiences hollowed of my interest. Not even the throb of heart-ache pierces me awake anymore. Every day a day-dream, every night oblivion. "
+    },
+    {
+      "id": "mariner.endings.disappearedduringadventure",
+      "label": "Never To Be Seen Again",
+      "description": "I went somewhere, with my possessions and companions, never to be seen again. Was I made prisoner and sold by ill-intended people? Was I mortally wounded and left to expire in some forgotten place, all alone? Was I too greedy to see the danger coming? No one knows. Does anyone even care?"
+    }
+  ]
+}

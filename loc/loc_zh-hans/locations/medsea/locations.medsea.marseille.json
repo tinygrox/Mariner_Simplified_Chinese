@@ -1,0 +1,65 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.marseille.alexia",
+      "label": "<Miss. Alexia Bastarache-Corbin>",
+      "description": "A serious-faced young woman with an official title from an obscure agency. In some circles, her name carries a heavy weight."
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.alexia.away",
+      "label": "<Miss. Alexia Bastarache-Corbin> [away]",
+      "description": "A serious-faced young woman with an official title from an obscure agency. In some circles, her name carries a heavy weight."
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.alexia.hostile",
+      "label": "<Miss. Alexia Bastarache-Corbin> [hard to meet]",
+      "description": "A serious-faced young woman with an official title from an obscure agency. In some circles, her name carries a heavy weight."
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.mfm",
+      "label": "Mr. Sereno Sombreuil",
+      "description": "<Sharply dressed, and grinning like the wolf. to be known by mister Sombruiel could be considered dangerous, but to not know of him could be much worse. >"
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.mfm.away",
+      "label": "Mr. Sereno Sombreuil [away]",
+      "description": "<Sharply dressed, and grinning like the wolf. to be known by mister Sombruiel could be considered dangerous, but to not know of him could be much worse. >"
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.mfm.hostile",
+      "label": "Mr. Sereno Sombreuil [hard to meet]",
+      "description": "<Sharply dressed, and grinning like the wolf. to be known by mister Sombruiel could be considered dangerous, but to not know of him could be much worse. >"
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.bar",
+      "label": "L'Ancre",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.bar.hostile",
+      "label": "L'Ancre [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

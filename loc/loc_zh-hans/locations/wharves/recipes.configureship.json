@@ -1,0 +1,79 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.configureship.start",
+      "label": "<Reconfigure Parts of my Ship>",
+      "startdescription": "<Each part of the Kite can be tweaked to suit its current goal better. Each part can only be set in a single configuration at a time.<br>Which part do I want to reconfigure?>"
+    },
+    {
+      "id": "mariner.configureship",
+      "label": "<Reconfigure Parts of my Ship>",
+      "startdescription": "<Each part of the Kite can be tweaked to suit its current goal better. Each part can only be set in a single configuration at a time.<br>Which part do I want to reconfigure?>",
+      "description": "<All good then.>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "Sails",
+          "description": ""
+        },
+        {
+          "id": "option2",
+          "label": "Option 2",
+          "description": "Option 2"
+        },
+        {
+          "id": "option3",
+          "label": "Option 3",
+          "description": "Option 3"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.configureship.pickoption1",
+          "label": "Reconfigure the Sails and the Mast",
+          "startdescription": "Each set of sails and masts fits a purpose. By changing them, I could catch the wind better, make myself less visible at sea, or even [???]"
+        }
+      ]
+    },
+    {
+      "id": "mariner.configureship.sails",
+      "label": "<Reconfigure the Sails and the Mast>",
+      "startdescription": "<Each set of sails and masts fits a purpose. By changing them, I could catch the wind better, make myself less visible at sea, or even [???]>",
+      "slots": [
+        {
+          "id": "option1",
+          "label": "<Floating Sails>",
+          "description": "<Better suited to catch the wind, we'll go even faster, provided the weather helps us.>"
+        },
+        {
+          "id": "option2",
+          "label": "<Amovible Mast>",
+          "description": "<Less adapted for high thrill races, but they a clever system at the base of the mast allows us to rotate and lower it a bit, to have a lower profile on the open sea.>"
+        }
+      ],
+      "alt": [
+        {
+          "id": "mariner.configureship.sails.pickoption1.1",
+          "label": "<Not Enough Funds To Install Floating Sails>",
+          "startdescription": "<Not enough funds to change that configuration.>"
+        },
+        {
+          "id": "mariner.configureship.sails.pickoption1.2",
+          "label": "<Install Floating Sails>",
+          "startdescription": "<Better suited to catch the wind, we'll go even faster, provided the weather helps us.>"
+        },
+        {
+          "0": {
+            "label": "<Not Enough Funds To Install Amovible Mast>",
+            "startdescription": "<>"
+          },
+          "1": {
+            "label": "<Install Amovible Mast>",
+            "startdescription": "<>"
+          },
+          "id": "mariner.configureship.sails.pickoption2"
+        }
+      ]
+    }
+  ]
+}

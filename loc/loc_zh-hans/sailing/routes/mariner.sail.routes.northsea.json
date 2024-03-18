@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.setcourse.from.waypoint.south.in.northsea.to.london",
+      "label": "<Setting course from around the waypoint south.in.northsea sailing towards london in the northsea>",
+      "startdescription": "<Setting course from around the waypoint south.in.northsea sailing towards <generic>. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.london.to.south.in.northsea",
+      "label": "<Leaving london and sailing towards south.in.northsea>",
+      "startdescription": "<Leaving and sailing towards south.in.northsea. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.london.to.copenhagen",
+      "label": "<Leaving london and sailing towards copenhagen>",
+      "startdescription": "<Leaving and sailing towards copenhagen. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.copenhagen.to.london",
+      "label": "<Leaving copenhagen and sailing towards london>",
+      "startdescription": "<Leaving and sailing towards london. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.default.northsea",
+      "label": "<Leaving and sailing towards @#mariner.locations.northsea.amsterdam.away|Amsterdam#|<generic>@ in the northsea>",
+      "startdescription": "<Leaving and sailing towards <generic>. This will take roughly 3 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.opensea.northsea",
+      "label": "<Leaving and sailing the open sea in the northsea>",
+      "startdescription": "<Leaving and sailing the open sea in the northsea>"
+    },
+    {
+      "id": "mariner.sail.setcourse.from.northsea.switchback",
+      "label": "<Sailing back to the previous sea>",
+      "startdescription": "<Setting course back to the previous sea. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.setcourse.from.northsea",
+      "label": "<Setting course sailing towards @#mariner.locations.northsea.amsterdam.away|Amsterdam#|<generic>@ in the northsea>",
+      "startdescription": "<Setting course sailing towards <generic>. This will take roughly 3 travel steps.>"
+    }
+  ]
+}

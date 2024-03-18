@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.challenge.ward",
+      "label": "Ward off an Influence",
+      "startdescription": "There is an oppressive presence here, or an outside intention effecting me and mine. I can use declining Winter or the vivaceous Heart.",
+      "description": "There is an oppressive presence here, or an outside intention effecting me and mine. I can use declining Winter or the vivaceous Heart.",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.navigate1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sail1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "mariner.sing1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.challenge.ward.heart.high",
+      "label": "A Syncopation Of The Soul",
+      "startdescription": "My being is music, my body is joy. Within the rhythms of my life there is no space for opposition."
+    },
+    {
+      "id": "mariner.challenge.ward.heart.med",
+      "label": "A Counter-Charm",
+      "startdescription": "My heart is a drum, and it drowns out the whatever is attempts to take hold of me. We will likely succeed."
+    },
+    {
+      "id": "mariner.challenge.ward.heart.low",
+      "label": "An Interruptive Beat",
+      "startdescription": "My snapping fingers can't be stilled. My swaying steps shake what clings to me. We may yet succeed."
+    },
+    {
+      "id": "mariner.challenge.ward.winter.high",
+      "label": "The Inclination Towards The End",
+      "startdescription": "Inexorably, all things follow the course of the Sun. By my authority, now is the time for a final ending. We wil almost certainly succeed."
+    },
+    {
+      "id": "mariner.challenge.ward.winter.med",
+      "label": "Dwindling Light",
+      "startdescription": "Under my setting-sun gaze, stains wither until only barren beauty remains. We will probably succeed."
+    },
+    {
+      "id": "mariner.challenge.ward.winter.low",
+      "label": "Fading Light",
+      "startdescription": "Compared to the solumnity that has settled in my soul, all other things fade to grey. We may yet succeed."
+    }
+  ]
+}

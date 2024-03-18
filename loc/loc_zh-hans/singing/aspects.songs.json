@@ -1,0 +1,40 @@
+{
+  "elements": [
+    {
+      "id": "mariner.song.intensity",
+      "label": "Intensity of a Song"
+    },
+    {
+      "id": "mariner.song.lantern",
+      "label": "Song of Lantern"
+    },
+    {
+      "id": "mariner.song.forge",
+      "label": "Song of Forge"
+    },
+    {
+      "id": "mariner.song.edge",
+      "label": "Song of Edge"
+    },
+    {
+      "id": "mariner.song.winter",
+      "label": "Song of Winter"
+    },
+    {
+      "id": "mariner.song.heart",
+      "label": "Song of Heart"
+    },
+    {
+      "id": "mariner.song.grail",
+      "label": "Song of Grail"
+    },
+    {
+      "id": "mariner.song.moth",
+      "label": "Song of Moth"
+    },
+    {
+      "id": "mariner.song.knock",
+      "label": "Song of Knock"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "elements": [
+    {
+      "id": "mariner.stories.generic.bar",
+      "label": "A Courting Story",
+      "description": "One person meets another. They circle eachother like wild dogs, strut like a peacock, bare their teeth. For this night, the pair does not need to be lonely."
+    },
+    {
+      "id": "mariner.stories.generic.wharf",
+      "label": "Dockworkers' Stories",
+      "description": "The tall tales of working men are of the great accomplishments of the everyday, where what-if's and could-haves gets exalted into epics of skill and accomplishment."
+    },
+    {
+      "id": "mariner.stories.sailorstories",
+      "label": "水手的故事",
+      "description": "Any well-traveled person collects stories on their travels, but no well is as full of anecdotes as the ocean. Regale your audience with a swell of partial truths and full lies and whisk them away to far-off half-real places."
+    },
+    {
+      "id": "mariner.stories.centipede",
+      "label": "The Travels of the Centipede",
+      "description": "This Story tells of the travels of the Centipede, the places she visits High and Low, True and Real, and the Antics that got her Banned from the House of the Sun."
+    },
+    {
+      "id": "mariner.stories.centipede.exhausted",
+      "label": "The Travels of the Centipede [exhausted]",
+      "description": "This Story tells of the travels of the Centipede, the places she visits High and Low, True and Real, and the Antics that got her Banned from the House of the Sun."
+    },
+    {
+      "id": "mariner.stories.anansi",
+      "label": "How Anansi The Spider Came To Own All Stories",
+      "description": "Once, there were no stories told in the world. The Skyfather, Sun of Suns, held them all. Anansi bartered for them, and though the Skyfather set an impossible price, Anansi delivered. He tricked wise Snake, caught the familial Hornets, trapped the fierce Leopard and fooled the furtive fairy. With these prizes Anansi earned the respect of the Skyfather, and all the stories of the world."
+    },
+    {
+      "id": "mariner.stories.anansi.exhausted",
+      "label": "How Anansi The Spider Came To Own All Stories [exhausted]",
+      "description": "Once, there were no stories told in the world. The Skyfather, Sun of Suns, held them all. Anansi bartered for them, and though the Skyfather set an impossible price, Anansi delivered. He tricked wise Snake, caught the familial Hornets, trapped the fierce Leopard and fooled the furtive fairy. With these prizes Anansi earned the respect of the Skyfather, and all the stories of the world."
+    },
+    {
+      "id": "mariner.stories.lorelei",
+      "label": "The Maiden of the Rhine",
+      "description": "The Maiden sits on Lorelei Rock, and combs her golden hair. Her eyes are aimed beyond, and as ships break on the clips beneath her and men break their necks trying to reach her, she does not spare them a glace. Where does she go, when she slips beneath the waves?"
+    },
+    {
+      "id": "mariner.stories.lorelei.exhausted",
+      "label": "The Maiden of the Rhine [exhausted]",
+      "description": "The Maiden sits on Lorelei Rock, and combs her golden hair. Her eyes are aimed beyond, and as ships break on the clips beneath her and men break their necks trying to reach her, she does not spare them a glace. Where does she go, when she slips beneath the waves?"
+    },
+    {
+      "id": "mariner.stories.mermaid",
+      "label": "Voiceless Devotion",
+      "description": "A young mermaid traded her voice for feet, so she could win the love of an air-breathing prince. She danced for his enjoyment, never faltering despite her painful limbs. When she was inevitably refused by the prince, her sisters urge her to take revenge... but she decides on a path of self-sacrifice."
+    },
+    {
+      "id": "mariner.stories.mermaid.exhausted",
+      "label": "Voiceless Devotion [exhausted]",
+      "description": "A young mermaid traded her voice for feet, so she could win the love of an air-breathing prince. She danced for his enjoyment, never faltering despite her painful limbs. When she was inevitably refused by the prince, her sisters urge her to take revenge... but she decides on a path of self-sacrifice."
+    },
+    {
+      "id": "mariner.stories.debellismurorum",
+      "label": "War of the Walls",
+      "description": "In hedges and in edges, on sea-dikes and on cavewalls, the many-sided battle for the Borderlands rages. Though factions may shift and alignments are malleable, some things are certain; The One-Two Joins and the Horned One Distinguishes."
+    },
+    {
+      "id": "mariner.stories.debellismurorum.exhausted",
+      "label": "War of the Walls [exhausted]",
+      "description": "In hedges and in edges, on sea-dikes and on cavewalls, the many-sided battle for the Borderlands rages. Though factions may shift and alignments are malleable, some things are certain; The One-Two Joins and the Horned One Distinguishes."
+    },
+    {
+      "id": "mariner.stories.kerys",
+      "label": "The Doom of Ker Ys",
+      "description": "There once was a low city, which wrenched its existance from the waters of a bitter sea. This is the story of its final days, before it was drowned with all souls but one."
+    },
+    {
+      "id": "mariner.stories.kerys.exhausted",
+      "label": "The Doom of Ker Ys [exhausted]",
+      "description": "There once was a low city, which wrenched its existance from the waters of a bitter sea. This is the story of its final days, before it was drowned with all souls but one."
+    },
+    {
+      "id": "mariner.stories.pineknight",
+      "label": "The Pine Knight and the Queens",
+      "description": "It follows the story of a devoted knight, and his quest for the Cinnabar Cup. His duty gets challenged by romance however, and it ends, as always, in tragedy."
+    },
+    {
+      "id": "mariner.stories.pineknight.exhausted",
+      "label": "The Pine Knight and the Queens [exhausted]",
+      "description": "It follows the story of a devoted knight, and his quest for the Cinnabar Cup. His duty gets challenged by romance however, and it ends, as always, in tragedy."
+    },
+    {
+      "id": "mariner.stories.london.morland",
+      "label": "The Nine Muses",
+      "description": "Once, the Arts were not only visible, but lauded, glorified. Not just limited to Song and Dance, but the higher studies. nine is their number, as nine so often is. While the Muses seem more distant now, it is their nature to be pursued."
+    },
+    {
+      "id": "mariner.stories.london.agdistis",
+      "label": "A Boy Alone",
+      "description": "The story follows a foundling boy, who even got cast out by his foster family, and became a boy in the service of a wandering musician. The story details different cities the pair visited and hardships the pair and their pack of animals endure."
+    },
+    {
+      "id": "mariner.stories.london.ecdysisfake",
+      "label": "Dressing Room Chatter",
+      "description": "Conversation between intimates can be as collaborative as a dance, as collective as a chorus. \"Haven't you heard?\"-- \"Do tell...\" -- \"No way!\". Unfinished sentences build up from meaningful silences, single words that have the room in stitches. Conversation flows without order or direction, but all voices harmonous like the birdsong chorus that is soon to arise. Lose yourself in its dizzying pace and unaffected superficiality."
+    },
+    {
+      "id": "mariner.stories.london.ecdysisclub",
+      "label": "Dressing Room Chatter",
+      "description": "Conversation between intimates can be as collaborative as a dance, as collective as a chorus. \"Haven't you heard?\"-- \"Do tell...\" -- \"No way!\". Unfinished sentences build up from meaningful silences, single words that have the room in stitches. Conversation flows without order or direction, but all voices harmonous like the birdsong chorus that is soon to arise. Lose yourself in it's dizzying pace and unaffected superficiality."
+    },
+    {
+      "id": "mariner.stories.london",
+      "label": "Besse of Bretnal Green",
+      "description": "Henry de Montforth was a cunning tactician, who got blinded in battle. He lost his fortune and became a blind beggar at the Bretnal Green. His daughter, Besse, was clever, beautiful and engaging. Four suitors approached her for her hand, a knight, a man-of-fortune, a trader and an inn-keeper's son. She told them all that they would have to get the blessing of her father, begging on the street. All but the knight were turned off by the prospect of a such a shameful father-in-law. On their wedding feast his Besse revealed that he was a de Mormont, and that their wealth was still in tact."
+    },
+    {
+      "id": "mariner.stories.amsterdam.vermaetdiamantenhuis",
+      "label": "The Diamond with the Perfect Flaw",
+      "description": "Once, there was a King who held a wealth of gems in his treasury. On a weekly inspection of his hoard, he discovered a previously flawless gem marred by a cut on it's largest facet. He asked all the master crafter and jewelers to fix this gem, but all apologized and said there was nothing to be done. Then a single craftsman stepped forward, not yet out of his apprenticeship, and said. \"I cannot remove the flaw, but I can save the Gem\". He went to work and king saw him carve leaves, rosebuds and blooming petals. The apprentice had seen a rose stem where other just saw a scar, and had carved to enhance the beauty he had seen."
+    },
+    {
+      "id": "mariner.stories.amsterdam.veiledlady",
+      "label": "The Clipped-Wing Bride of Joko Tarub",
+      "description": "Once, a young man saw seven Bidadari bathing in the woods. They left the water one by one, and each gathered their discarded sjawls, which turned to wings. Quickly, he snatched one of the sjawls, Nawang Wulan, the last of the nymphs could not transform. Joko approached her, and as she was bound without her garments, took her as his wife. Joko prospered, for she could feed the whole family with a single grain of rice from her magic pot. But one day, curious, foolish Joko opened her cooking pot and broke the spell. Then his rice stores again started dwindling, and Nawang Mulan discovered her wings, hidden beneath the rice. She donned her guise again, and left her husband, children, and earthly life behind."
+    },
+    {
+      "id": "mariner.stories.amsterdam",
+      "label": "The Brave Maid at the Keizersgracht",
+      "description": "One Night, a maid sharpening the blades of the kitchenwear, when she could hear men's voices from the allyway besides. The men where discussing how to rob the house. They decided to climb in through the kitchen window one by one. So she took up position next to the window, with two cleavers, and snipped of each head as they entered. Each time the robbers outside asked if they had gotten inside safe, and each time she mimicked a gruff confirmation. only the seventh, youngest robber did not enter. She was prazed for her bravery, and gifted a diamond ring. Soon after a handsome young men became a valet at the house, and began courting her. It was the Youngest Robber, and he had come for revenge for his brothers..."
+    },
+    {
+      "id": "mariner.stories.copenhagen.harald",
+      "label": "The Tragedy of Stars",
+      "description": "Once upon a time, a star rose in the sky. It shone brighter than others, and all marvelled at it's luminosity. But then it fell, as all rising things do."
+    },
+    {
+      "id": "mariner.stories.copenhagen.newscandinavian",
+      "label": "A Revolution of Thought",
+      "description": "How do you relate a story told without logic? Words without meaning and songs without rhythm, but Emotion, Expression, Truth."
+    },
+    {
+      "id": "mariner.stories.copenhagen",
+      "label": "Pesta and her Broom",
+      "description": "when the Black Death set upon Scandinavia, it did so in the guise of an old crone. Her skirts where red and blue, and she carried with her a Rake and a Broom. If you would meet her on the road, you would know that township would be visited by the plague soon. If she carried here rake, some of the community would be spared, but if she she was sweeping the road as she passed you, you could be sure no one would be left once the dust settled."
+    },
+    {
+      "id": "mariner.stories.marseille.alexia",
+      "label": "alexia story: modern mystery",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.marseille.mfm",
+      "label": "Man from Marseille, Horrible Story",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.bizerta.hakim",
+      "label": "a story from student life. ",
+      "description": "<It was one of those nights where it all seemed possible, where the air was alight with jazz and the city light twinkled brighter then the stars. We saw the start of a revolution. Society could not control art, nor could Tradition control Art. In Harlem we found ourself among jazz mages and reformers, the writers, playwrights and musicians. The world was colourful, the world was bright, the drinks illigal but tasting all the sweeter. I debated with scholars, orated to poets and danced the night away. Moriat got an invitation to the Crossrow.>"
+    },
+    {
+      "id": "mariner.stories.bizerta.naturalmarket",
+      "label": "<>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.constantinople.nun",
+      "label": "The Saint of Flowers",
+      "description": "<Once, a town could be found carved in the slopes of the Troodos mountains, where a cypress grove provided for the people of the town. A vile foreigner came to town. Intent on breaking open the earth and wringing value from the stones. and as he worked, the forest dwindled. The matrons of the forest came together, and vowed to to trap him and put a stop to it. The oldest sharpened her blades, and the youngest seduced him and stole his wits from him. The richest took from him all that held value, until his tools could do no more harm. When the trap sprung and he was led to the old mother and her blades, he fell to his knees and begged, wishing for redemption. But the women determined there was no redemption for him in this life, but that he still had one thing of value to give, to purify. and so the oldest cut of his head, the youngest kissed him and the richest planted a seed. And from his body grew Saint Nympha, restoring in wisdom and piety.>"
+    },
+    {
+      "id": "mariner.stories.constantinople.tourist",
+      "label": "The Proverbial Footloose",
+      "description": "<One day, a foolish company where traveling through the mountains. They where aiming to reach the sun, but they did not know the way. On a log, they meet a Centipede, who scold them for going the wrong way. \"The Sun cannot be reached at night and to go up one must go down, even children know that.\" She promises to lead them the way. But with her hundred tapping feet, the group cannot keep pace, and when evening falls, and the pale moon cannot pierce the canopy, they are completely lost. Soon, creatures of the light and angles and fury dropped down from the branches. First the group cursed the Centipede, but then, the youngest among them considered her lessons. To reach heights; one must travel down. When one is lost, you should close your eyes. Led by intuition, they stumbled down the slopes, until they reached a golden disk. The moon, reflected in the cool pools of the Woods.>"
+    },
+    {
+      "id": "mariner.stories.constantinople.constantinopletheater",
+      "label": "<>>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.haifa.archeologist",
+      "label": "archeologiststory arabian fairytale",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.haifa.dreamer",
+      "label": "dreamer street story",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.haifa.ancientmarket",
+      "label": "<>",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.stories.haifa.haifatheater",
+      "label": "<>>",
+      "description": "<>"
+    }
+  ]
+}

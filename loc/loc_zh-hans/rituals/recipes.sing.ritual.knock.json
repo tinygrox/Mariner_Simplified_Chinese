@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.knock.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.knock.start",
+      "label": "Perform a covert Knock Ritual in a Holy Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.knock",
+      "label": "Perform a covert Knock Ritual in a Holy Space",
+      "startdescription": "Seven incisions are made in the snake skin. Seven lockpicks are pulled through. Seven drops of blood are dapped on the teeth.",
+      "description": "Music brightens, Influence blossoms. As the ritual finishes, all doors and windows slam open at once. New understanding follows in my wake."
+    }
+  ]
+}

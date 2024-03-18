@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.upgradetool.hint.needmorenotches",
+      "label": "<Not Enough Notches to Upgrade>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.hint.toohighlevelforpersonalupgrade",
+      "label": "<Tool Too High Level to Upgrade Myself>",
+      "startdescription": "<This tool is too high level to improve it myself. I'll need to talk to the proper smith to do that.>"
+    },
+    {
+      "id": "mariner.upgradetool.lantern.myself",
+      "label": "<Upgrade lantern Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.forge.myself",
+      "label": "<Upgrade forge Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.edge.myself",
+      "label": "<Upgrade edge Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.winter.myself",
+      "label": "<Upgrade winter Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.heart.myself",
+      "label": "<Upgrade heart Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.grail.myself",
+      "label": "<Upgrade grail Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.moth.myself",
+      "label": "<Upgrade moth Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.knock.myself",
+      "label": "<Upgrade knock Tool Myself>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.lantern.viasmith",
+      "label": "<Upgrade lantern Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.forge.viasmith",
+      "label": "<Upgrade forge Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.edge.viasmith",
+      "label": "<Upgrade edge Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.winter.viasmith",
+      "label": "<Upgrade winter Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.heart.viasmith",
+      "label": "<Upgrade heart Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.grail.viasmith",
+      "label": "<Upgrade grail Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.moth.viasmith",
+      "label": "<Upgrade moth Tool Via Smith>",
+      "startdescription": "<>"
+    },
+    {
+      "id": "mariner.upgradetool.knock.viasmith",
+      "label": "<Upgrade knock Tool Via Smith>",
+      "startdescription": "<>"
+    }
+  ]
+}

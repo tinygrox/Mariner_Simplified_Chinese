@@ -1,0 +1,11 @@
+{
+  "shelves": [
+    {
+      "id": "mariner.shelves.crew",
+      "legacies": [
+        "mariner.legacies.mariner"
+      ],
+      "name": "Crew"
+    }
+  ]
+}

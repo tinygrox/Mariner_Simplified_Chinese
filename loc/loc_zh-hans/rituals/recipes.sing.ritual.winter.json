@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.winter.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.winter.start",
+      "label": "Perform a covert Winter Ritual in a Silenced Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.winter",
+      "label": "Perform a covert Winter Ritual in a Silenced Space",
+      "startdescription": "The tears that anoint the bones need not be my own, but it must be my hand that buries them in the earth, and it must happen in perfect silence.",
+      "description": "Music brightens, Influence blossoms. As I layer on the final crumbs on earth, they crisp with frost. All birdsong halts, besides the distant cooing lamentation of the doves."
+    }
+  ]
+}

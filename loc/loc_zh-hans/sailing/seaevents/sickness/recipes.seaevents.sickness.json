@@ -1,0 +1,33 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.sickness",
+      "label": "An Unwholesome Air",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ],
+      "startdescription": "Normaly the sea air is brisk, hale and salt-laden, but today the effluvium of industry has followed us from the city into the sea. The vile retchings of smoke stacks clogs the air like bitter miasm and me must be hearty to survive it. [Approach this challenge with Heart or Grail.]"
+    },
+    {
+      "id": "mariner.sail.seaevents.sickness.outcome.success",
+      "label": "Through the Miasma",
+      "startdescription": "Through nurtering our private spaces, and keeping care to keep the air in the ship free of stain, we make it through the area without any lasting sickness."
+    },
+    {
+      "id": "mariner.sail.seaevents.sickness.outcome.failure",
+      "label": "A Rattling Cough",
+      "startdescription": "The foul fog is clogging up our rooms, our mouths our longs. Some of my crew is lost to a coughing fit they just cannot shake, even after we leave the area. they will be bed-ridden and feverish for the journey remaining at least."
+    }
+  ]
+}

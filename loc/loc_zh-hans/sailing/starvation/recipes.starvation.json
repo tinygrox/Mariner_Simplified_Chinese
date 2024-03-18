@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.starvation",
+      "label": "<The Crew is Hungry>",
+      "startdescription": "<The Crew is Hungry>",
+      "slots": [
+        {
+          "id": "food",
+          "label": "<Something to Eat>",
+          "description": "<>"
+        }
+      ],
+      "alt": [
+        "mariner.starvation.fedhuman",
+        "mariner.starvation.fed"
+      ]
+    },
+    {
+      "id": "mariner.starvation.fed",
+      "label": "<Giving the Crew Food>",
+      "startdescription": "<Giving ration?>",
+      "description": "<Fed>"
+    },
+    {
+      "id": "mariner.starvation.fedhuman",
+      "label": "<Surrendering someone to the crew>",
+      "startdescription": "<Should I select someone to be sacrified, for the good of others?>",
+      "description": "<Fed>"
+    },
+    {
+      "id": "mariner.starvation.nofood",
+      "label": "<Hunger Sets In>",
+      "startdescription": "<>"
+    }
+  ]
+}

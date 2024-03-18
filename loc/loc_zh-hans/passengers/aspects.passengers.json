@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.passenger",
+      "label": "Passenger",
+      "description": "A person looking to travel, with their own full life and hidden story in which the Kite is just a single passage."
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.northsea.london",
+      "label": "Passenger to London",
+      "description": "This Passenger wants to go to London"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.northsea.amsterdam",
+      "label": "Passenger to Amsterdam",
+      "description": "This Passenger wants to go to Amsterdam"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.northsea.copenhagen",
+      "label": "Passenger to Copenhagen",
+      "description": "This Passenger wants to go to Copenhagen"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.medsea.marseille",
+      "label": "Passenger to Marseille",
+      "description": "This Passenger wants to go to Marseille"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.medsea.bizerta",
+      "label": "Passenger to Bizerta",
+      "description": "This Passenger wants to go to Bizerta"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.medsea.constantinople",
+      "label": "Passenger to Constantinople",
+      "description": "This Passenger wants to go to Constantinople"
+    },
+    {
+      "id": "mariner.passenger.wantstogoto.medsea.haifa",
+      "label": "Passenger to Haïfa",
+      "description": "This Passenger wants to go to Haïfa"
+    }
+  ]
+}

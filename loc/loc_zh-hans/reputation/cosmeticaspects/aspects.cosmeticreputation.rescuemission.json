@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.rescuemission.1",
+      "label": "Minutes Ticking",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nThe clock is beginning to tick."
+    },
+    {
+      "id": "mariner.cosmeticreputation.rescuemission.2",
+      "label": "Hours Wasting",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nWeather and ware may have taken their toll."
+    },
+    {
+      "id": "mariner.cosmeticreputation.rescuemission.3",
+      "label": "Days Withering",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nfew could survive so long."
+    },
+    {
+      "id": "mariner.cosmeticreputation.rescuemission.4",
+      "label": "Too Long",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nThe Last destination of many a sailor are the shores of No Hope."
+    }
+  ]
+}

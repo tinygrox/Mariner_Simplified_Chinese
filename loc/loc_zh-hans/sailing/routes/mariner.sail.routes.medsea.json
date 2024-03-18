@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.setcourse.from.waypoint.north.in.medsea.to.marseille",
+      "label": "<Setting course from around the waypoint north.in.medsea sailing towards marseille in the medsea>",
+      "startdescription": "<Setting course from around the waypoint north.in.medsea sailing towards <generic>. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.setcourse.from.waypoint.north.in.medsea.to.bizerta",
+      "label": "<Setting course from around the waypoint north.in.medsea sailing towards bizerta in the medsea>",
+      "startdescription": "<Setting course from around the waypoint north.in.medsea sailing towards <generic>. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.marseille.to.north.in.medsea",
+      "label": "<Leaving marseille and sailing towards north.in.medsea>",
+      "startdescription": "<Leaving and sailing towards north.in.medsea. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.bizerta.to.north.in.medsea",
+      "label": "<Leaving bizerta and sailing towards north.in.medsea>",
+      "startdescription": "<Leaving and sailing towards north.in.medsea. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.default.medsea",
+      "label": "<Leaving and sailing towards @#mariner.locations.northsea.amsterdam.away|Amsterdam#|<generic>@ in the medsea>",
+      "startdescription": "<Leaving and sailing towards <generic>. This will take roughly 4 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.leave.opensea.medsea",
+      "label": "<Leaving and sailing the open sea in the medsea>",
+      "startdescription": "<Leaving and sailing the open sea in the medsea>"
+    },
+    {
+      "id": "mariner.sail.setcourse.from.medsea.switchback",
+      "label": "<Sailing back to the previous sea>",
+      "startdescription": "<Setting course back to the previous sea. This will take roughly 1 travel steps.>"
+    },
+    {
+      "id": "mariner.sail.setcourse.from.medsea",
+      "label": "<Setting course sailing towards @#mariner.locations.northsea.amsterdam.away|Amsterdam#|<generic>@ in the medsea>",
+      "startdescription": "<Setting course sailing towards <generic>. This will take roughly 4 travel steps.>"
+    }
+  ]
+}

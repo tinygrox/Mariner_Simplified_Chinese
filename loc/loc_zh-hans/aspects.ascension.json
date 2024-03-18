@@ -1,0 +1,19 @@
+{
+  "elements": [
+    {
+      "id": "mariner.ascension.twins.character.uncovered",
+      "label": "Character: Uncovered",
+      "description": "I found a sliver of my soul to heal."
+    },
+    {
+      "id": "mariner.ascension.twins.character.mended",
+      "label": "Character: Mended",
+      "description": "My Character was mended: A restored capacity for meaningful choice."
+    },
+    {
+      "id": "mariner.ascension.vagabond.words.hiraezh",
+      "label": "Hiraezh",
+      "description": "The profound sadness felt by the definitive loss of a person or place, whether they existed in this History or not."
+    }
+  ]
+}

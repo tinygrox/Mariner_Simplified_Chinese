@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.grail.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.grail.start",
+      "label": "Perform a covert Grail ritual in a Tempting Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.grail",
+      "label": "Perform a covert Grail ritual in a Tempting Space",
+      "startdescription": "What I must consume in this ritual is not considered appetizing by most, so I can expect attention from strangers whether I complete the ritual successfully or am interrupted",
+      "description": "Music brightens, Influence blossoms. As I take the last morsel in my mouth and swallow, a shiver passes through the room, as all eyes strain to catch a glimpse of me."
+    }
+  ]
+}

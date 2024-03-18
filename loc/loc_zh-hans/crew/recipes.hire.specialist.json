@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.explore.bar.recruit.specialist.end",
+      "label": "Someone Skilled",
+      "startdescription": "There is someone at the bar of unusual skill. This poses a rare opportunity."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "elements": [
+    {
+      "id": "mariner.mysteries.whatnow",
+      "label": "What Now?",
+      "description": "<What Now?>",
+      "slots": [
+        {
+          "id": "missing.story",
+          "label": "<A Story?>",
+          "description": "<>"
+        },
+        {
+          "id": "Missing.item",
+          "label": "<Something matching>",
+          "description": "<>"
+        }
+      ]
+    }
+  ]
+}

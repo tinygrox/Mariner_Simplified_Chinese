@@ -1,0 +1,174 @@
+{
+  "elements": [
+    {
+      "id": "mariner.locations.medsea.haifa.archeologist",
+      "label": "Professor Miriam Sayegh",
+      "description": "The thoughtful, accomplished, dust-flecked, Archeology Chair of Haifa University."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.archeologist.away",
+      "label": "Professor Miriam Sayegh [away]",
+      "description": "The thoughtful, accomplished, dust-flecked, Archeology Chair of Haifa University."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.archeologist.hostile",
+      "label": "Professor Miriam Sayegh [hard to meet]",
+      "description": "The thoughtful, accomplished, dust-flecked, Archeology Chair of Haifa University."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.dreamer",
+      "label": "Zoha",
+      "description": "A young woman with an evidently a hard life allready behind her, but a fire still raging inside. She has walked down many roads, and now found herself back to Haifa, but not back to home."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.dreamer.away",
+      "label": "Zoha [away]",
+      "description": "A young woman with an evidently a hard life allready behind her, but a fire still raging inside. She has walked down many roads, and now found herself back to Haifa, but not back to home."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.dreamer.hostile",
+      "label": "Zoha [hard to meet]",
+      "description": "A young woman with an evidently a hard life allready behind her, but a fire still raging inside. She has walked down many roads, and now found herself back to Haifa, but not back to home."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.ancientmarket",
+      "label": "<>",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "trapping",
+          "label": "Goods",
+          "description": "What to sell."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.ancientmarket.away",
+      "label": "<> [away]",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.ancientmarket.hostile",
+      "label": "<> [hostile]",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.haifatheater",
+      "label": "<>",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "verbSong",
+          "label": "Song",
+          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+        },
+        {
+          "id": "story",
+          "label": "Story to trade",
+          "description": "The story I'm willing to share in order to get them to share theirs."
+        },
+        {
+          "id": "aspect1",
+          "label": "Trapping"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.haifatheater.away",
+      "label": "<> [away]",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.haifatheater.hostile",
+      "label": "<> [hostile]",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "explore1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "explore3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.toolsmith",
+      "label": "<Toolsmith>",
+      "description": "<>",
+      "slots": [
+        {
+          "id": "tool",
+          "label": "Tool",
+          "description": "<Tool to improve>"
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.toolsmith.away",
+      "label": "<Toolsmith> [away]",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.bar",
+      "label": "Mirsa",
+      "description": "Different town, same crowd. Different language, same stories."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.bar.hostile",
+      "label": "Mirsa [hostile]",
+      "description": "Different town, same crowd. Different language, same stories.",
+      "slots": [
+        {
+          "id": "talk1",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk2",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        },
+        {
+          "id": "talk3",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ]
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.wharf.hostile",
+      "label": "Wharf [hostile]"
+    }
+  ]
+}

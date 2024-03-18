@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.talkaboutwound.pre",
+      "label": "Discuss Difficult Experience with other People",
+      "startdescription": "If I share something of my past experiences, perhaps I can clean the gutters of my soul"
+    }
+  ]
+}

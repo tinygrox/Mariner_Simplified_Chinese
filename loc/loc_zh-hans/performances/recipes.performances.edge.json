@@ -1,0 +1,70 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.performances.edge.hint",
+      "label": "Hint: A Rousing Performance: Not Enough!",
+      "startdescription": "There is something here, but I cannot quite reach it. If I could stage a performance with a stronger tie to Edge."
+    },
+    {
+      "id": "mariner.performances.edge.start",
+      "label": "Perform a Show laced with the Intent of Edge",
+      "startdescription": "The audience is my army, their muscles clenched with summoned passion."
+    },
+    {
+      "id": "mariner.performances.edge.addnoun",
+      "startdescription": "Now comes the time for me to channel this energy into whatever target I desire.",
+      "slots": [
+        {
+          "id": "noun",
+          "label": "Direction",
+          "description": "Now that my Intent is set, I have to set my Direction. What do I wish to affect?"
+        }
+      ]
+    },
+    {
+      "id": "mariner.performances.edge.heart.success.1",
+      "label": "The Concord of Queens",
+      "startdescription": "A knight he marches on he marches on <br>Through the lands he marches on...<br>"
+    },
+    {
+      "id": "mariner.performances.edge.heart.success.2",
+      "label": "The Concord of Queens",
+      "startdescription": "The stone queen speaks<br>She speaks the words of Duty<br>Of the ties that bind<br>And the lines that divide <br>And of those borders which never should be crossed at all.<br> <br>But the knight he marches on, he marches on<br>To his doom he marches on<br>"
+    },
+    {
+      "id": "mariner.performances.edge.heart.success.3",
+      "label": "The Concord of Queens",
+      "startdescription": "As the wild queen sings<br>She sings the whimper of desire<br>Of the whims on wings of whimsy<br>To be cherished and discarded<br>But which now hurt more than they should<br> <br> As the knight he marches on, he marches on<br> For his love he marches on<br>"
+    },
+    {
+      "id": "mariner.performances.edge.heart.success.4",
+      "label": "The Concord of Queens",
+      "startdescription": "As the red queen speaks<br>She speaks of demands of true devotion<br>Of her aspirations for their future<br>And sacrifices now required,<br>An accord that must be made <br> <br>So the pine knight marches on he marches on <br>To a knotted noose he marches on"
+    },
+    {
+      "id": "mariner.performances.edge.grail.success.1",
+      "label": "Counting The Winds",
+      "startdescription": "Who runs the Winds, Who runs the Wild Hunt?<br>Who herds the clouds, who whips up the stormfronts?<br><br><br>"
+    },
+    {
+      "id": "mariner.performances.edge.grail.success.2",
+      "label": "Counting The Winds",
+      "startdescription": "Coarser hunts the Seawinds, the Wild Winds<br><br>Föhn!<br>Mistral!<br>Kataburan!<br>"
+    },
+    {
+      "id": "mariner.performances.edge.grail.success.3",
+      "label": "Counting The Winds",
+      "startdescription": "Imago sails the Trade Winds, the Scorch Winds<br><br>Sirocco!<br>No'western!<br>Harmattan!<br>"
+    },
+    {
+      "id": "mariner.performances.edge.grail.success.4",
+      "label": "Counting The Winds",
+      "startdescription": "Knotwing rides the Dream Winds, the Mad Winds<br><br>Doctor!<br>st Anna's!<br>Pampero!<br>"
+    },
+    {
+      "id": "mariner.performances.edge.grail.success.5",
+      "label": "Counting The Winds",
+      "startdescription": "The Howl stalks the Chill Winds, the Death Winds<br><br>Citanoq!<br>Boran!<br>Kamigari!<br>"
+    }
+  ]
+}

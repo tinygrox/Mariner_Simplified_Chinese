@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.eddangerforest.1",
+      "label": "Eyes In the Forest",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nThe forest teems with life. There is no way for us to pass it unobserved."
+    },
+    {
+      "id": "mariner.cosmeticreputation.eddangerforest.2",
+      "label": "Whispers in the Foliage",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nOur actions have been noted. The trees are whispering to the birds, the birds are informing the woodmice, and the woodmice gossip with the hidden things that lurk between the roots."
+    },
+    {
+      "id": "mariner.cosmeticreputation.eddangerforest.3",
+      "label": "Ire of the Court",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nThose dream-things that live beyond the leaves and behind the rain now follow our every move."
+    },
+    {
+      "id": "mariner.cosmeticreputation.eddangerforest.4",
+      "label": "The Queen's Attention",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nThe Ring Yew lives in every tree on earth, yet she does not live in any tree on earth. But if her presence can be fealt anywhere, it is here."
+    }
+  ]
+}

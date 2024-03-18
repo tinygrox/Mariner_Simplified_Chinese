@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "id": "mariner.pet",
+      "label": "Pet",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.petbond",
+      "label": "Pet Bond",
+      "description": "<>"
+    },
+    {
+      "id": "mariner.petsitter",
+      "label": "Petsitter",
+      "description": "This one has an affinity with pets. They could accept to keep one of mine for a while, for a small fee."
+    },
+    {
+      "id": "mariner.petsitter.filled",
+      "label": "Petsitter: Already Petsitting",
+      "description": "This one is already petsitting one of my little companions."
+    },
+    {
+      "id": "mariner.givenpet.ferret",
+      "label": "<A Furry Companion>",
+      "description": "<We left our furry companion in the company of this person for a bit.>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.seaevents.start.coldsnap",
+      "label": "Cold Spell",
+      "startdescription": "A chill can rise from the waters at sea. The wet cold creeps even through the corridors, and suffuces the Kite to her bones. We should take precautions with Heart's Perseverance or Grails Comfort so it doesn't claim us too.",
+      "slots": [
+        {
+          "id": "help_1",
+          "label": "Help"
+        },
+        {
+          "id": "help_2",
+          "label": "Help"
+        },
+        {
+          "id": "help_3",
+          "label": "Help"
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.seaevents.coldsnap.outcome.success",
+      "label": "Bundled Up",
+      "startdescription": "Wrapped in Overcoats or sweaters, with strong bitter coffee and strong, cheery companionship, we get through these watches."
+    },
+    {
+      "id": "mariner.sail.seaevents.coldsnap.outcome.coldfailure",
+      "label": "Hypothermia",
+      "startdescription": "In the current coldsnap, our preparations were not just insufficient, they were were fatal for one of us."
+    },
+    {
+      "id": "mariner.sail.seaevents.coldsnap.outcome.failure",
+      "label": "The Sniffles",
+      "startdescription": "The chill entered our noses and mouths last night, and now nestles in our gut."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "id": "mariner.passengeropportunity.goingto.medsea.marseille",
+      "label": "Potential Client, Going to Marseille",
+      "description": "This one is looking for a ship to get them to Marseille. They will reward us if we bring them to Marseille, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.medsea.marseille",
+      "label": "Passenger, Going to Marseille",
+      "description": "Passenger, going to Marseille. They will reward us if we bring them to Marseille, but their patience is limited."
+    },
+    {
+      "id": "mariner.passengeropportunity.goingto.medsea.bizerta",
+      "label": "Potential Client, Going to Bizerta",
+      "description": "This one is looking for a ship to get them to Bizerta. They will reward us if we bring them to Bizerta, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.medsea.bizerta",
+      "label": "Passenger, Going to Bizerta",
+      "description": "Passenger, going to Bizerta. They will reward us if we bring them to Bizerta, but their patience is limited."
+    },
+    {
+      "id": "mariner.passengeropportunity.goingto.medsea.constantinople",
+      "label": "Potential Client, Going to Constantinople",
+      "description": "This one is looking for a ship to get them to Constantinople. They will reward us if we bring them to Constantinople, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.medsea.constantinople",
+      "label": "Passenger, Going to Constantinople",
+      "description": "Passenger, going to Constantinople. They will reward us if we bring them to Constantinople, but their patience is limited."
+    },
+    {
+      "id": "mariner.passengeropportunity.goingto.medsea.haifa",
+      "label": "Potential Client, Going to Haïfa",
+      "description": "This one is looking for a ship to get them to Haïfa. They will reward us if we bring them to Haïfa, but their patience is limited."
+    },
+    {
+      "id": "mariner.passenger.goingto.medsea.haifa",
+      "label": "Passenger, Going to Haïfa",
+      "description": "Passenger, going to Haïfa. They will reward us if we bring them to Haïfa, but their patience is limited."
+    }
+  ]
+}

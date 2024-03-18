@@ -1,0 +1,34 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.locations.northsea.london.halfheart",
+      "label": "Things to discover in London",
+      "description": "The things that can be discovered in London."
+    },
+    {
+      "id": "mariner.decks.locations.northsea.london.lackheart",
+      "label": "Things to discover in London",
+      "description": "The things that can be discovered in London."
+    },
+    {
+      "id": "mariner.decks.locations.northsea.amsterdam.halfheart",
+      "label": "Things to discover in Amsterdam",
+      "description": "The things that can be discovered in Amsterdam."
+    },
+    {
+      "id": "mariner.decks.locations.northsea.amsterdam.lackheart",
+      "label": "Things to discover in Amsterdam",
+      "description": "The things that can be discovered in Amsterdam."
+    },
+    {
+      "id": "mariner.decks.locations.northsea.copenhagen.halfheart",
+      "label": "Things to discover in Copenhagen",
+      "description": "The things that can be discovered in Copenhagen."
+    },
+    {
+      "id": "mariner.decks.locations.northsea.copenhagen.lackheart",
+      "label": "Things to discover in Copenhagen",
+      "description": "The things that can be discovered in Copenhagen."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.lady",
+      "label": "A Quiet Exit",
+      "startdescription": "I get summoned to the Veiled Lady, who explains a delicate request. \"Could you do me a favor? I have a friend, who needs to get out of town... on the quick we might say. But he is very capable... might he gain a passage on the ship?\""
+    }
+  ]
+}

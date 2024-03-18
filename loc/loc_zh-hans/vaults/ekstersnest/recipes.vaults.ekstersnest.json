@@ -1,0 +1,1124 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.vaults.ekstersnest.events.collectclue",
+      "label": "Clue Uncovered",
+      "description": "I have found part of the Labyrinths' Riddle, and I am one step closer to its solution."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.foulvapors.hintexclusiveattention",
+      "label": "Foul Vapors",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.foulvapors",
+      "label": "Foul Vapors",
+      "startdescription": "An unhealthy miasma has collected here. It will take a hale physique or detached determination to get through. [Approach this challenge with Heart or Winter.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.foulvapors.success",
+      "label": "Push Through",
+      "description": "Our eyes may have watered and our throats may have heaved, but we found our way to fresh air again. Sort of. As we blink away the effects, we notice strange symbols scrawled on the walls."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.foulvapors.failure",
+      "label": "Coughing Like Hags",
+      "description": "It's in our nose, our eyes, our mouths. It slithers its way down our gullet and boils our guts."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flashflood.hintexclusiveattention",
+      "label": "Flash Flood",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.flashflood",
+      "label": "Flash Flood",
+      "startdescription": "There is little warning, but then a wave shakes the floor and the water surges to the ceiling and it is all we can do to stay standing. As the water lowers, we spot a clue to the Bazaar enterence we had missed before. [Approach this challenge with Forge or Grail.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flashflood.success",
+      "label": "Part the water",
+      "description": "Like a stone in the surf, the water passes around us."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flashflood.failure",
+      "label": "Lost!",
+      "description": "Trampled by the waves, we were left with the other detritus. Where are we now? We will have to start our mapping again."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.smugglingcrew.hintexclusiveattention",
+      "label": "Smuggling Crew",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "cash",
+          "label": "Help or Cash",
+          "description": "Cash to make em go away, or whatever it takes to overcome this challenge"
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.smugglingcrew",
+      "label": "Smuggling Crew",
+      "startdescription": "We turn a corner, and come eye to eye with a clandestine crew on a caper. How do we explain our presence here? How do we ease the tensions? [Approach this challenge with Grail or Moth or spend a funds to buy their silence.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.smugglingcrew.success",
+      "label": "Smoothed Over",
+      "description": "\"We never saw you, you never saw us, goedendag\". There is a scoundrels' code that is universal. I suspect that extends to the Magpie-Nest beyond the Bazaar. They tip their hats to us, and tell us to watch the celing closely here. Soon, we see why..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.smugglingcrew.failure",
+      "label": "Unpleasant Partings",
+      "description": "We parted, but not on good terms. I could hear them crowing in guttural gangster-dutch as they departed. I suspect the Nest will hear of the strangers exploring the sewers. Luckily, we saw them scan the ceiling, and with a little searching, we find a clue to the entrance of the Bazar."
+    },
+    {
+      "label": "Wander the Sewers To Find The Entrance",
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth.task.pre",
+      "label": "Wander the Sewers To Find The Entrance",
+      "startdescription": "We wander these lightless tunnels and stinking canals. In the gloom and the murk and the muck, it is hard to tell one corner from another. I do not know what we will find ahead of us, and I am unsure if I can find what we left behind."
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sewerlabyrinth.exhausted",
+      "label": "Sewer Labyrinth Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth.drawevent.foulvapors",
+      "label": "Wander the Sewers To Find The Entrance"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth.drawevent.flashflood",
+      "label": "Wander the Sewers To Find The Entrance"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sewerlabyrinth.drawevent.smugglingcrew",
+      "label": "Wander the Sewers To Find The Entrance"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.foundlabyrinthsend",
+      "label": "Found the Entrance",
+      "startdescription": "We finally found an entrance, after discarding the wheat from the chaff in the clues we found. The entrance is well hidden, and if i wander of, I may lose track of its location again. But if I wish to press forwards... I still have to get past the Bouncer of the Bazaar."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls.navigate.hintexclusiveattention",
+      "label": "Crack the Code",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls.navigate.pre",
+      "label": "Crack the Code",
+      "startdescription": "Maybe this strange sign is a secret riddle to help you locate the bazaar. Maybe it's just a strange set of scratches."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls.navigate",
+      "label": "Crack the Code",
+      "startdescription": "Maybe this strange sign is a secret riddle to help you locate the bazaar. Maybe it's just a strange set of scratches."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls.navigate.success",
+      "label": "An Answer?",
+      "description": "I have concocted an answer to the riddle. It rings true in my mind. I have faith in my abilities."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.riddlesonthewalls.navigate.failure",
+      "label": "A Flurry of Folly",
+      "description": "My head connects the dots in many ways, but none of them make sense. All answers I contort from these clues are laughable, and I fear my giggles may turn to sobs."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hint.coins",
+      "label": "An Easy Alternative",
+      "startdescription": "If I make myself agreeable to these people, they might lend me the token of entry into the Bazaar. I’ll probably have to make it worth their while. All here are merchants or criminals, fluent in the language of coin."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.explore.hintexclusiveattention",
+      "label": "Overpower Them?",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.explore.pre",
+      "label": "Overpower Them?",
+      "startdescription": "They hold a silver token, which grants them entry into the bazaar. I don’t think they will part with it painlessly..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.explore",
+      "label": "Overpower Them?",
+      "startdescription": "They hold a silver token, which grants them entry into the bazaar. I don’t think they will part with it painlessly..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.explore.success",
+      "label": "To the Victor...",
+      "description": "We leave with our token of entry, and we leave them with the certainty that they should never speak of this encounter. Yet whispers of it will spread, like an oil-slick"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.explore.failure",
+      "label": "Foiled!",
+      "description": "Knives flashed, men grunted, the lantern fell to the ground. When we got the light back on one of ours was lost, and the others had scattered.\n\nAs a consolation price, maybe the direction they went to could help us locate the hidden entrance..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.talk.hintexclusiveattention",
+      "label": "Approach Them?",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.talk.pre",
+      "label": "Approach Them?",
+      "startdescription": "If I make myself agreeable to these people, they might escort me into the Bazaar. I'll probably have to make it worth their while."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.talk",
+      "label": "Approach Them?",
+      "startdescription": "If I make myself agreeable to these people, they might escort me into the Bazaar. I'll probably have to make it worth their while."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.talk.success",
+      "label": "A Deal is Struck",
+      "description": "They leave me with a token of entry, but wish not to associate with us further. they disappear into the tunnels."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.talk.failure",
+      "label": "Bamboozled",
+      "description": "Played by the one I intended to play. I am left with nothing but seething rage, thinking of the stories they will tell of this encounter.\n\nAs a consolation price, maybe the direction they went to could help us locate the hidden entrance..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.navigate.hintexclusiveattention",
+      "label": "Follow them?",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.navigate.pre",
+      "label": "Follow them?",
+      "startdescription": "If we step carefully, and stick to the shadows, we can follow them to the entrance of the Bazaar."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.navigate",
+      "label": "Follow them?",
+      "startdescription": "If we step carefully, and stick to the shadows, we can follow them to the entrance of the Bazaar."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.navigate.success",
+      "label": "Like a Shadow",
+      "description": "The quickest way to a hidden place is with a guide. And their torchlight guided us as much as them, this time. They disappeared right around...here. And around there we find a small slit in the wall, indicatin the entrance."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.othersunderground.navigate.failure",
+      "label": "Exposed!",
+      "description": "They were on to us. They gave us the slip in the darkest corridors, and left us lightless, lost and alone.\n\nAs a consolation price, maybe the direction they went to could help us locate the hidden entrance..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk.hint",
+      "label": "A Door and its Guard",
+      "startdescription": "A small slit opens, and a pair of eyes the color of the canals stare at me. They expect to see a particular coin. They expect to see someone they know. But maybe if I apply my charms or my tricks, I can talk my way in."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk.hintexclusiveattention",
+      "label": "Pass the Bouncer",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk.pre",
+      "label": "Pass the Bouncer",
+      "startdescription": "A small slit opens, and a pair of eyes the color of the canals stare at me. They expect to see a particular coin. They expect to see someone they know. But maybe... maybe we can talk our way in. If I had the silver coin I saw on the others here, they would let me in without question."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk",
+      "label": "Pass the Bouncer",
+      "startdescription": "A small slit opens, and a pair of eyes the color of the canals stare at me. They expect to see a particular coin. They expect to see someone they know. But maybe... maybe we can talk our way in. If I had the silver coin I saw on the others here, they would let me in without question."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk.success",
+      "label": "Passage granted",
+      "description": "The slit closes and the eyes disappear. Gears shift, the walls rumble. Succes! I can hear the din of commerce from beyond."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.talk.failure",
+      "label": "Disdain of the Doorkeeper",
+      "description": "The slit closes and the eyes disappear. They do not return for a long time. I might do better if I acquire a Silver Florin from other travelers down here in the dark."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.explore.hintexclusiveattention",
+      "label": "Force Our Way In",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.explore.pre",
+      "label": "Force Our Way In",
+      "startdescription": "While the door is reinforced and the entrance guarded, we could enter with a display of force. It would not do good for my standing in the bazaar, and alert the eksternest beyond."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.explore",
+      "label": "Force Our Way In",
+      "startdescription": "While the door is reinforced and the entrance guarded, we could enter with a display of force. It would not do good for my standing in the bazaar, and alert the eksternest beyond."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.explore.success",
+      "label": "Knocked of Its Hinges",
+      "description": "We unmoor the door, which lands almost softly on the ground behind, as if cushioned by the air it displayced. The guard of the door is to stunned to stop our passing, but doubtless word will spread of our uncooth and uninvited entrance."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.labyrinthsend.explore.failure",
+      "label": "A Hatched Job",
+      "description": "We tear the door, strip for strip, splinter for splinter, until we get a hole large enough for us to get through. The Doorkeeper has allready fled. no doubt to ready others for our coming."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash.explore.hintexclusiveattention",
+      "label": "Pilfer the Loot",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash.explore.pre",
+      "label": "Pilfer the Loot",
+      "startdescription": "We enact force or guile upon this vault, we can gain access to the loot stashed inside. It will be noisy, and the rightful owners will investigate. Pursuing this opportunity may hinder my reputation once I reach the Bazaar."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash.explore",
+      "label": "Pilfer the Loot",
+      "startdescription": "We enact force or guile upon this vault, we can gain access to the loot stashed inside. It will be noisy, and the rightful owners will investigate. Pursuing this opportunity may hinder my reputation once I reach the Bazaar."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash.explore.success",
+      "label": "Folial Rewards",
+      "description": "We crack the hidden space open along it seams. inside, we find a bundle of papers and a leatherbound folio, marked with the a RESTRICTED stamped across it's face."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.hiddenstash.explore.failure",
+      "label": "Shouts in the Distance",
+      "description": "As we enact our works of opening, suddenly voices can be heard, getting closer through the tunnels. We flee the scene, before who ever this stance was intended for, catches us in the act."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.uncomfortableacquaintance.hintexclusiveattention",
+      "label": "An Uncomfortable Acquaintance",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.uncomfortableacquaintance",
+      "label": "An Uncomfortable Acquaintance",
+      "startdescription": "A face in the crowd has lit up with recognition. With a raised hand they elbow their way towards me. Whatever we once went through, this person is not discrete. They could harm our covert status, what is left of it. [you can solve this issue with Moth or Winter]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.uncomfortableacquaintance.success",
+      "label": "Brushed Off",
+      "description": "I turn my shoulder and disappear into the crowd, while our crew intercepts. This boisterous acquaintance is redirected, and our reputation is untarnished."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.uncomfortableacquaintance.failure",
+      "label": "A conversation in echoes",
+      "description": "The bazaar is silenced by the booming voice of my acquaintance. They knew they remembered my face. They still remember that business in Kuala Lumpur, wasn’t that a lark. They want to know what I am up to these days, still the same schemes?"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.bazaarbrawl.hintexclusiveattention",
+      "label": "Bazaar Brawl",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.bazaarbrawl",
+      "label": "Bazaar Brawl",
+      "startdescription": "All commerce is warfare and all warfare occurs at the edge. Therefore there is always a tension in the air, and the room is ready to boil over. When this occurs, it's time to square up or get out. [Approach this challenge with Edge or Moth.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.bazaarbrawl.success",
+      "label": "Broken Free",
+      "description": "By hook and by crook, by knee and by elbow, we manage to slip out of the brawl. We leave uninterrupted, but we may leave some broken noses behind."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.bazaarbrawl.failure",
+      "label": "Battered and Bruised",
+      "description": "The crowd moves like a wave, like a single furious organism with a dozen legs and hundred limbs. I get trampled beneath the throngs, and it takes a while for me to crawl out."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.upgradeamsterdamreputation",
+      "label": "Rumours in Amsterdam",
+      "startdescription": "Gossip rises up from the sewer grates like odious airs, and just like with the smell, everyone finds it distasteful, but nobody can resist to comment.",
+      "description": "Tales of me, true or false, steadily are spread through the valiant city of the compassionate, Amsterdam.",
+      "slots": [
+        {
+          "id": "reputation",
+          "label": "Infamy",
+          "description": "The reputation I gather here, true or false."
+        }
+      ]
+    },
+    {
+      "label": "Explore Sunless Bazaar",
+      "id": "mariner.vaults.ekstersnest.sunlessbazaar.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sunlessbazaar.task.pre",
+      "label": "Explore Sunless Bazaar",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.sunlessbazaar.exhausted",
+      "label": "Sunless Bazaar Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sunlessbazaar.drawevent.uncomfortableacquaintance",
+      "label": "Explore Sunless Bazaar"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.sunlessbazaar.drawevent.bazaarbrawl",
+      "label": "Explore Sunless Bazaar"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk.hint",
+      "label": "Try to Bargain with the Little Bird",
+      "startdescription": "The little birds are Aunties eyes and ears, but mostly they are her greedy talons. They all wish to bring treasure back to the nest. If I offer them something appealing, they might lead me back to the nest."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk.hintexclusiveattention",
+      "label": "A Bargain",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk.pre",
+      "label": "A Bargain",
+      "startdescription": "I lay out my offer and i lay out my price. I do my best to sugarcoat, but it is hard to guage if my words find purchase. Wether that is because of the language barrier, or the poppy-smoke still wafting from their cloths, I cannot tell."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk",
+      "label": "A Bargain",
+      "startdescription": "I lay out my offer and i lay out my price. I do my best to sugarcoat, but it is hard to guage if my words find purchase. Wether that is because of the language barrier, or the poppy-smoke still wafting from their cloths, I cannot tell."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk.success",
+      "label": "Tip for Tattle",
+      "description": "their new treasure clutched in rightly in their hand, they begin to weave through the bazaar, barely waiting long enough for me to us to keep up. Once we have arrived in front of a curtained portcullis, they turn away and vanish into the crowds."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebird.talk.failure",
+      "label": "Swiped!",
+      "description": "I display my bargaining chips, but the little bird does not move, simply stares ahead, dim-eyed, dull-faced. But when my attention strays for a moment, suddenly the offering is swiped from my hand. I can still see the tiny figure of the child, shop abandoned, dispappearing into the crowds."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing.explore.hintexclusiveattention",
+      "label": "Birdwatching",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing.explore.pre",
+      "label": "Birdwatching",
+      "startdescription": "We set off in pursuit. But the Bazaar is unfamiliar terrain for us, where for the Birds, it's home. We try to keep our smaller quary in sight, as they duck into tunnels, over bridges and behind tents."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing.explore",
+      "label": "Birdwatching",
+      "startdescription": "We set off in pursuit. But the Bazaar is unfamiliar terrain for us, where for the Birds, it's home. We try to keep our smaller quary in sight, as they duck into tunnels, over bridges and behind tents."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing.explore.success",
+      "label": "The Entrance",
+      "description": "A Final corner, and then the child arrives. A single unmarked corridor covered by crimson curtains. allready we can smell the first wafts of the sweet smokes that suffice the insides of the Eksternest."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.shapedisappearing.explore.failure",
+      "label": "Lost in the Crowds",
+      "description": "Somewhere in the crowded and confusing layout of the bazaar, we lose sight of our prey."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant.talk.hintexclusiveattention",
+      "label": "Damage Control",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant.talk.pre",
+      "label": "Damage Control",
+      "startdescription": "If I have blundered, I could enlist the gossipbrokers to mitigate some of the damage to my name. The Gossipbrokers have sway in many places, and they could put Auntie Ekster and her gang more at ease..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant.talk",
+      "label": "Damage Control",
+      "startdescription": "If I have blundered, I could enlist the gossipbrokers to mitigate some of the damage to my name. The Gossipbrokers have sway in many places, and they could put Auntie Ekster and her gang more at ease..."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant.talk.success",
+      "label": "Proverbial Polish",
+      "description": "The Brokers know my reputation, but have no worries. The Brokers will see what they can do. The Brokers will smooth over some ruffled feathers, and ease the path for me down the road."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.reputationmerchant.talk.failure",
+      "label": "No Deal",
+      "description": "The Brokers have found me wanting. The Brokers have found me unpleasant. The Brokers will warn their good friend, Auntie Ekster, and will tell her all about us."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant.talk.hintexclusiveattention",
+      "label": "Offer a Taste",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant.talk.pre",
+      "label": "Offer a Taste",
+      "startdescription": "If I entice the trader, they could be persuaded to share what thrill or trinket is desired by auntie ekster today."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant.talk",
+      "label": "Offer a Taste",
+      "startdescription": "If I entice the trader, they could be persuaded to share what thrill or trinket is desired by auntie ekster today."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant.talk.success",
+      "label": "A Tasting and a Telling",
+      "startdescription": "small glasses are set out, and I lean close as if to listen him explain the drink. In truth he explains to me the dealings of the Eksternest, and their devotion to Beachcomber, and their reverence for the Lily King. In between nips of the sweet and the savory, he tells me what the Auntie's Avarice demands next."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.desiremerchant.talk.failure",
+      "label": "Discretion",
+      "description": "The Merchant decides to leave my want unfulfilled. I could not convince them to part with even a drop of knowledge."
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.lantern",
+      "label": "Auntie Desires: Lantern",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Lantern",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.lantern"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.forge",
+      "label": "Auntie Desires: Forge",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Forge",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.forge"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.edge",
+      "label": "Auntie Desires: Edge",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Edge",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.edge"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.winter",
+      "label": "Auntie Desires: Winter",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Winter",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.winter"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.heart",
+      "label": "Auntie Desires: Heart",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Heart",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.heart"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.grail",
+      "label": "Auntie Desires: Grail",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Grail",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.grail"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.moth",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.moth",
+      "label": "Auntie Desires: Moth",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Moth",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.moth"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.knock"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.giveawayauntieekstersdesire.knock",
+      "label": "Auntie Desires: Knock",
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Knock",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.founddesire.knock"
+          ],
+          "remove": [
+            "codex.auntieekster.founddesire.lantern",
+            "codex.auntieekster.founddesire.forge",
+            "codex.auntieekster.founddesire.edge",
+            "codex.auntieekster.founddesire.winter",
+            "codex.auntieekster.founddesire.heart",
+            "codex.auntieekster.founddesire.grail",
+            "codex.auntieekster.founddesire.moth"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing.hint",
+      "label": "A Trade of Secrets",
+      "startdescription": "The Seller knows snippets of the secrets of all the birds... Especially local ones. If I sing for her full rendition of my stories, she would return to me a shred of the Birdsong she has overheard."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing.hintexclusiveattention",
+      "label": "Sing for Supper",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing.pre",
+      "label": "Sing for Supper",
+      "startdescription": "The Seller knows snippets of the secrets of all the birds... Especially local ones. Between the tweeting, chirping and chirring cacophony, i ready my talents to perform what stories I can offer."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing",
+      "label": "Sing for Supper",
+      "startdescription": "The Seller knows snippets of the secrets of all the birds... Especially local ones. Between the tweeting, chirping and chirring cacophony, i ready my talents to perform what stories I can offer."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing.success",
+      "label": "Symurghical Affair",
+      "startdescription": "She rewards me with a smile, and with a useful scrap she picked up recently. The North sea holds no secrets for an ear as trained as hers."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.intelmerchant.sing.failure",
+      "label": "Uninspired, Uninspiring",
+      "description": "Today, I had nothing to offer that delighted the Seller. But that just as well might be my performance as the stories. Try meaning is found in the telling, as any collector of birdsong knows."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.hint",
+      "label": "Not Enough Value",
+      "startdescription": "They'll need a rarer trapping, or a little something to entice them into making the deal."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.lantern",
+      "label": "Trade for a lantern Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of lantern."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.forge",
+      "label": "Trade for a forge Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of forge."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.edge",
+      "label": "Trade for a edge Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of edge."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.winter",
+      "label": "Trade for a winter Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of winter."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.heart",
+      "label": "Trade for a heart Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of heart."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.grail",
+      "label": "Trade for a grail Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of grail."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.moth",
+      "label": "Trade for a moth Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of moth."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.trappingmerchant.talk.tradefor.knock",
+      "label": "Trade for a knock Trapping",
+      "startdescription": "A Deal has been struck, and I am giving a curiosity strong with the power of knock."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore.hint",
+      "label": "Nest Closed",
+      "startdescription": "Even through her blissful haze, Auntie Ekster has noticed the stir we have caused in the Bazaar. The entrance to the Eksternest has been closed of, and will remain closed, until I return another time."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore.hintexclusiveattention",
+      "label": "The Velvet Maze",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore.pre",
+      "label": "The Velvet Maze",
+      "startdescription": "Behind one curtain, another. Behind that curtain, the next. Soon all sense of direction is lost as we are entombed in cloth from all sides. Each breath is heavy and poppy-laced. But still... deeper we must delve."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore",
+      "label": "The Velvet Maze",
+      "startdescription": "Behind one curtain, another. Behind that curtain, the next. Soon all sense of direction is lost as we are entombed in cloth from all sides. Each breath is heavy and poppy-laced. But still... deeper we must delve."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore.success",
+      "label": "Into the Den of Greed",
+      "description": "When the final ochre rug is displaced, we have found ourselves in our destination. The sweet smoke is like syrup on our tongue. Bodies have arranged themselves in piles of stupefied bliss. We must be careful if we are not to join them."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.corridorsbehind.explore.failure",
+      "label": "Turned around",
+      "description": "Stumbling and coughing, we push aside the final curtain, and drop to the floor. When our eyes clear, we find ourself staring up at the gas-lamps of the bazaar, and the amused eyes its denizens."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.token.haze.appears",
+      "label": "The Haze Accumulates",
+      "startdescription": "The rare herb hangs in the air. its sweetness could overcome one of us at any moment.",
+      "description": "An imprint of a hand on their cheek or a face soaked in liquid. We do what we must to wake the fallen up. Quickly."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.token.haze.windup",
+      "label": "Cinnamon and Cinnabar",
+      "startdescription": "The haze coalesces: The air tastes red. The air tastes of wonder. The air tastes of more.",
+      "description": "An imprint of a hand on their cheek or a face sooked in liquid. We do what we must to wake the fallen up. Quickly."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.token.haze.waredoff",
+      "label": "Clear and Cleansing",
+      "startdescription": "Like by the piercing rays of dawn, the fog of our mind is lifted before it can obscure our judgements.",
+      "description": "An imprint of a hand on their cheek or a face sooked in liquid. We do what we must to wake the fallen up. Quickly."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.token.haze.attack",
+      "label": "A Mind Overcome",
+      "startdescription": "The haze has grown too potent. One of mine will slip away from us to a more pleasant place.",
+      "description": "An imprint of a hand on their cheek or a face sooked in liquid. We do what we must to wake the fallen up. Quickly.",
+      "slots": [
+        {
+          "id": "victim",
+          "label": "Mind Aflutter",
+          "description": "This one is on the floor, eyes on infinity. If we carry them out quickly, they might be saved."
+        }
+      ]
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.wavesofdelirium.hintexclusiveattention",
+      "label": "Waves of Delirium",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.wavesofdelirium",
+      "label": "Waves of Delirium",
+      "startdescription": "Some infernal vortex in the air has blown a stronger draught of the Sweetapple Haze our way. The world shimmers, and a golden light starts to drip from the walls. I must protect my faculties, to not let a part of my sanity slip that may never return. [Approach this challenge with Lantern or Winter.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.wavesofdelirium.success",
+      "label": "Visions Abate",
+      "description": "The air no longer flickers like broken glass, and the floor no longer roils like sand. I am returned to a world of crimson drapes and poppy-smoke."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.wavesofdelirium.failure",
+      "label": "Rising like Smoke",
+      "description": "My mind expands, and portions detach, pecked away. I am a treasure hoard of experiences, exposed to be plucked for the choicest parts."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flockofgangsters.hintexclusiveattention",
+      "label": "A Flock of Gangsters",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.flockofgangsters",
+      "label": "A Flock of Gangsters",
+      "startdescription": "One moment all is sleepy and still in the Nest, the next there is a fluttering of coats and a flash of knives. The Birds are feeling territorial. There is no escape here. We have to placate or intimidate them. [You can approach this problem with Winter or Grail.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flockofgangsters.success",
+      "label": "The Return to Rest",
+      "description": "Slowly, warely, they all slink back to their roost, sink back to their pillows on the floor. They dare not approach us now. But if my reputation grows, they may be emboldened further."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.flockofgangsters.failure",
+      "label": "The Eyes Of Unimpressed",
+      "description": "Our airs did not impress them, or else they were too far gone to notice. We are shown to the door, and some even go as far as approaching us, studying our fighting capacity."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.battleintheden.hintexclusiveattention",
+      "label": "A Battle in the Den",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "slots": [
+        {
+          "id": "event_help",
+          "label": "Help",
+          "description": "Which implements are available for my approach."
+        }
+      ],
+      "id": "mariner.vaults.ekstersnest.events.battleintheden",
+      "label": "A Battle in the Den",
+      "startdescription": "At once the air turns from languid to nightmarish. The gangster's eyes are wide and feverish. This place is not made for it, but soon the din of battle will overpower the shuffling of the beaded curtains. [Approach this challenge with Edge or Forge.]"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.battleintheden.success",
+      "label": "Eyes Dun and Bleeding",
+      "description": "Quiet returns to the Eksternest, as the bodies of the dying lie between the bodies of the dreaming, both staring up at the ceiling unseeing."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.events.battleintheden.failure",
+      "label": "It is Done",
+      "description": "It is over, I could not obtain what I needed by stealth or subtlety. And now even through force I have failed. I am escorted out of the nest. I must return another time, when I am better prepared."
+    },
+    {
+      "label": "Explore The Eksternest",
+      "id": "mariner.vaults.ekstersnest.nest.task.hintexclusiveattention",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.nest.task.pre",
+      "label": "Explore The Eksternest",
+      "startdescription": "What can we accomplish here? And how do we advance?"
+    },
+    {
+      "id": "mariner.decks.vaults.ekstersnest.explore.nest.exhausted",
+      "label": "The Eksternest Explored",
+      "description": "We've seen every inch of this place. There is nothing more for us here."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.nest.drawevent.wavesofdelirium",
+      "label": "Explore The Eksternest"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.nest.drawevent.flockofgangsters",
+      "label": "Explore The Eksternest"
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds.talk.hintexclusiveattention",
+      "label": "Tame the Birds",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds.talk.pre",
+      "label": "Tame the Birds",
+      "startdescription": "These strange little creatures will know where Auntie has hidden the trinket I seek. But they are as wily as the hour they follow, with hungry eyes and clever minds. I will have to trick them."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds.talk",
+      "label": "Tame the Birds",
+      "startdescription": "These strange little creatures will know where Auntie has hidden the trinket I seek. But they are as wily as the hour they follow, with hungry eyes and clever minds. I will have to trick them."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds.talk.success",
+      "label": "A Little Game",
+      "description": "I challenge them to puzzles, trickier each time. They delight in beating me, slowly waking up from the hazy stupor. When their eyes shine bright and their cheeks dimple, I ask my final question. A single pointed finger is the answer."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.littlebirds.talk.failure",
+      "label": "Wary Eyes",
+      "description": "I get no response. They just stare at me, eyes large and empty. Then one shifts away from the flock and whispers something in Auntie's Ear."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze.sing.hintexclusiveattention",
+      "label": "Ward Our Mind",
+      "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze.sing.pre",
+      "label": "Ward Our Mind",
+      "startdescription": "Like mist creeping through streets and alleys, this smoke finds its way into passages of our brains. My Lack-Heart is bottomless, but my friends’ mind will be filled with fog soon."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze.sing",
+      "label": "Ward Our Mind",
+      "startdescription": "Like mist creeping through streets and alleys, this smoke finds its way into passages of our brains. My Lack-Heart is bottomless, but my friends’ mind will be filled with fog soon."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze.sing.success",
+      "label": "Clarify our Purpose",
+      "description": "Whispered, half-sung, I weave a protection around us made of rhythm and intention. The Haze will not take them today. Clear like a tuning fork, my voice cuts through the mental fog."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.haze.sing.failure",
+      "label": "Lost to the Haze",
+      "description": "As I sing, I breathe more deeply. As I breathe deeper, the Haze enters me more further. And so, my mind expands. Colors intensify, and the crow-shadow darkness becomes more stark. After a while, I noticed I have stopped singing."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.steal.task.pre",
+      "label": "Steal the Ring out of Auntie's Hoard?",
+      "startdescription": "Somewhere in the folds of her clothing, The Ladies’ stolen ring must be kept. She is sleeping so soundly... We could just run our hands through her pockets like wandering spiders until we find what we need. If she wakes up however, we might lose more than finger."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.steal.task",
+      "label": "Steal the Ring out of Auntie's Hoard?",
+      "startdescription": "Somewhere in the folds of her clothing, The Ladies’ stolen ring must be kept. She is sleeping so soundly... We could just run our hands through her pockets like wandering spiders until we find what we need. If she wakes up however, we might lose more than finger."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.steal.task.success",
+      "label": "Fingers Found a Ring",
+      "description": "Light as a breeze, we found what we need without disturbing as much as a single lock of her black and white hair. I close my fist around the ring. We are ready to leave.",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.stolering"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.steal.task.failure",
+      "label": "The Dragon Wakes",
+      "description": "Before we even laid a finger on her, her hands snapped like a vice around our wrists. Fierce blue eyes blink furiously and she bears her teeth like a fox."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.wakeup.task",
+      "label": "Wake up Auntie Ekster?",
+      "startdescription": "If I have faith in my powers of negotiation, I might be better off waking Auntie up. Her desires are strange however and fickle. I must be sure I have the thing that interests her today.",
+      "description": "Carefully, we break the Haze-induced slumber. She wakes slowly, as if emerging from great depths. But as her eyes go from muddy to clear to crystal, she bears her teeth like a wolf."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.awake.hint",
+      "label": "Curious Eyes",
+      "startdescription": "Auntie always desires something. Her patrons have made her so. If I offer her the thing she wants she may grant me what I need"
+    },
+    {
+      "id": "auntie.bargain.checkdesire",
+      "label": "Negotiate for the Ring?",
+      "startdescription": "Auntie Ekster is far on the path of the Beachcrow, and no longer allowed to expend coins of any kind. She mostly spends her time stealing from peoples' dreams now. Yet she must still make specific sacrifices for the Beachcombers treasure hoard."
+    },
+    {
+      "id": "auntie.bargain.checkdesire.failure",
+      "label": "No Interest",
+      "startdescription": "She shoves my offering off the table with her foot, and turns away. The message is clear."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.lantern",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.forge",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.edge",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.winter",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.heart",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.grail",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.moth",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.knock",
+      "updateCodexEntries": {
+        "codex.auntieekster": {
+          "add": [
+            "codex.auntieekster.negotiatedring"
+          ]
+        }
+      },
+      "label": "To Own and to Possess",
+      "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.puttosleep.task.pre",
+      "label": "Lull Auntie Ekster to sleep?",
+      "startdescription": "Auntie Ekster has marinated in the Sweetapple Haze for a long time. She is resistant to it, but not immune. If I employ the right words to the right rhythm with the right intentions, I could break down her defences."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.puttosleep.task",
+      "label": "Lull Auntie Ekster to sleep?",
+      "startdescription": "Auntie Ekster has marinated in the Sweetapple Haze for a long time. She is resistant to it, but not immune. If I employ the right words to the right rhythm with the right intentions, I could break down her defences."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.puttosleep.task.success",
+      "label": "Intoxicating Lullaby",
+      "description": "It doesn’t take much. My words simply guide the mind to the state the body is already mariner.grabpassengersonarrival. Around me, all the scattered crowd is hush, even breath gone shallow. My crew remove the plugs from his ear."
+    },
+    {
+      "id": "mariner.vaults.ekstersnest.auntie.puttosleep.task.failure",
+      "label": "Sandman Rejected",
+      "description": "Klaas Vaak, that local Mask of the Vagabond could not load her eyes with desert-sand this time. Auntie Ekster furrows her brow and purses her lips. She knows what I just attempted, and she is not amused."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.discoverstore.northsea.london",
+      "label": "Discovered The Local Store.",
+      "description": "<found local supply store>"
+    }
+  ]
+}

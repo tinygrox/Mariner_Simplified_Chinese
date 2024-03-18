@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.start.northsea.randomevent.statue",
+      "label": "An Encounter with a Statue",
+      "startdescription": "Last night I encountered a young woman, staring out diligently over the Oresund. It is dedicated to one storyteller, but it was only commissioned after a certain Opera hit the stage..."
+    }
+  ]
+}

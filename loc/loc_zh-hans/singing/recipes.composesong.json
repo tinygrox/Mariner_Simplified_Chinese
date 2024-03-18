@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.composesong.lantern",
+      "label": "Compose a Brilliant Song",
+      "startdescription": "I could compose a song based on the glimpes of brighter times and greater truths."
+    },
+    {
+      "id": "mariner.composesong.forge",
+      "label": "Compose a Fiery Song",
+      "startdescription": "I could compose a song based on the moment of heat and force that destroys the old for the new."
+    },
+    {
+      "id": "mariner.composesong.edge",
+      "label": "Compose a Furious Song",
+      "startdescription": "I could compose a song based on dangerous challenges, and the will to conquer them."
+    },
+    {
+      "id": "mariner.composesong.winter",
+      "label": "Compose a Morose Song",
+      "startdescription": "I could compose a song based on that quiet mourning one does when they cannot feel the sun."
+    },
+    {
+      "id": "mariner.composesong.heart",
+      "label": "Compose a Joyous Song",
+      "startdescription": "I could compose a song based on all that moves and all that gets us moving."
+    },
+    {
+      "id": "mariner.composesong.grail",
+      "label": "Compose a Seductive Song",
+      "startdescription": "I could compose a song based on the feelings that one is not sure they should permit themselves to feel."
+    },
+    {
+      "id": "mariner.composesong.moth",
+      "label": "Compose a Song of Folly",
+      "startdescription": "I could compose based on the patterns obscured beneath the chaotic and beyond the strange."
+    },
+    {
+      "id": "mariner.composesong.knock",
+      "label": "Compose an Intuitive Song",
+      "startdescription": "I could compose a song based on those painful revelations that are felt deeply but rarely understood."
+    },
+    {
+      "id": "mariner.composesong.hint",
+      "label": "Compose a Song?",
+      "startdescription": "Do I wish to Compose a Song? If I supply this tune with an Inspiration that matches in Aspect, I can comepose a Motifs charged with that particular quintessence."
+    }
+  ]
+}

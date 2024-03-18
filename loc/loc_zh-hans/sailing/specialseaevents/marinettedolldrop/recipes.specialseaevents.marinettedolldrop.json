@@ -1,0 +1,36 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sail.specialseaevents.start.marinettedolldrop",
+      "label": "Letting Go of a Gift",
+      "startdescription": "Mast-high waves, deluge-announcing rain, almost dense enough to drown or crush mere mortals. Here, I drop the small doll, offering it to the hungry water. As it hits the surface, the disturbances around it seem to embrace it, cradling its shape, then accompany it down below. A heartbeat later, it is gone.",
+      "updateCodexEntries": {
+        "codex.agdistis": {
+          "add": [
+            "codex.agdistis.throwndoll"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mariner.sail.specialseaevents.marinettedolldrop.discovercharacterwound",
+      "label": "Catalyst",
+      "startdescription": "As I watch the doll disappear, Agdistis story resonates in my mind. We share this wound: he was trapped, immobile, unable to choose to go backwards of forwards. He needed my help to take this first step. Now I need to set a step of my own.",
+      "slots": [
+        {
+          "id": "temptation",
+          "label": "Temptation",
+          "description": "I learned something new about my path."
+        }
+      ]
+    },
+    {
+      "id": "mariner.sail.specialseaevents.marinettedolldrop.discovercharacterwound.applyaspect",
+      "label": "Catharsis",
+      "description": "Now I know my first step of becoming whole: I need to mend that inside me that grants the capacity for meaningful choice. As always I will turn to the world to teach me. Bards and skalds through the ages will have found the answer, and recorded it in their tales.",
+      "unlockCodexEntries": [
+        "codex.ascensions.twins.character"
+      ]
+    }
+  ]
+}

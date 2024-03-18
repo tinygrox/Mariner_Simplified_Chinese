@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+      "id": "mariner.cosmeticreputation.ekstersnest.1",
+      "label": "Whispers Between Salesmen",
+      "description": "<size=120%><color=#201d59>Reputation Level 1</color></size>\n\nAn echo of a reputation, distorted through the tunnels and dampened by the canals."
+    },
+    {
+      "id": "mariner.cosmeticreputation.ekstersnest.2",
+      "label": "The Talk of the Bazaar",
+      "description": "<size=120%><color=#201d59>Reputation Level 2</color></size>\n\nI am now an unlikely story. Unfortunately, those spread quickly among merchants."
+    },
+    {
+      "id": "mariner.cosmeticreputation.ekstersnest.3",
+      "label": "Unwelcome Guest",
+      "description": "<size=120%><color=#201d59>Reputation Level 3</color></size>\n\nThe Flock is watching out for me. Eyes will be everywhere. beaklike blades will follow."
+    },
+    {
+      "id": "mariner.cosmeticreputation.ekstersnest.4",
+      "label": "Persona Non-grata",
+      "description": "<size=120%><color=#201d59>Reputation Level 4</color></size>\n\nThe Nest has been sealed. I will not be getting in today."
+    }
+  ]
+}

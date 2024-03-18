@@ -1,0 +1,26 @@
+{
+  "elements": [
+    {
+      "id": "mariner.rumour.northsea",
+      "label": "A rumour in the North Sea",
+      "description": "The chitter chatter of the locals contains old myths, local legends and unlikely stories. This one may lead to an opportunity in the North Sea.",
+      "slots": [
+        {
+          "id": "information",
+          "label": "Information"
+        }
+      ]
+    },
+    {
+      "id": "mariner.rumour.medsea",
+      "label": "A rumour in the Mediterranean Sea",
+      "description": "The chitter chatter of the locals contains old myths, local legends and unlikely stories. This one may lead to an opportunity in the Mediterranean Sea.",
+      "slots": [
+        {
+          "id": "information",
+          "label": "Information"
+        }
+      ]
+    }
+  ]
+}

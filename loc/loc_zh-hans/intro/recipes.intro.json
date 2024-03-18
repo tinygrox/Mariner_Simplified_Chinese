@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.addtalk",
+      "label": "First Words",
+      "startdescription": "Before I rap on the door. I part my lips, uncurl my tongue and am ready to speak."
+    },
+    {
+      "id": "mariner.addexplore",
+      "label": "Exploring the City",
+      "startdescription": "With directions comes a place to go.",
+      "description": "Once, this was my home."
+    },
+    {
+      "id": "mariner.addnavigate",
+      "label": "Navigating My Thoughts",
+      "startdescription": "I wander through the passages of my mind, trying to unravel my feelings about this city.",
+      "description": "The Moon is my constant companion, on my travels, and through my thoughts. May she enlighten me, and guide me well."
+    },
+    {
+      "id": "mariner.givelackheart",
+      "label": "A Hole In My Heart",
+      "description": "Morland saw what I was missing. The negative space in my heart. She took the opportunity to fill this space with stories.",
+      "unlockCodexEntries": [
+        "codex.hours.vagabond",
+        "codex.nature.lackheart"
+      ]
+    },
+    {
+      "id": "mariner.givehalfheart",
+      "label": "A Burning Will",
+      "description": "Agdistis saw what I had. What's missing may simply be out there, looking for me.",
+      "unlockCodexEntries": [
+        "codex.hours.twins",
+        "codex.nature.halfheart"
+      ]
+    },
+    {
+      "id": "mariner.inspectfirstpackage",
+      "label": "Inspect the Package",
+      "startdescription": "Let's inspect this closely...",
+      "description": "Neat brown paper, with dried lavender in between the folds of the paper. A riddle of longitudes, lattitudes, tidecharts and rivers was drawn on the outside, and just 7 letters. \"to Miss M.\""
+    }
+  ]
+}

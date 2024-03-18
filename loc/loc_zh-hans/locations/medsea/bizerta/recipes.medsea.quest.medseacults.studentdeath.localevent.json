@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.wanderingevents.special.start.medsea.quest.medseacults.studentdeath.localevent",
+      "label": "<Heavy Atmosphere>",
+      "startdescription": "<>"
+    }
+  ]
+}

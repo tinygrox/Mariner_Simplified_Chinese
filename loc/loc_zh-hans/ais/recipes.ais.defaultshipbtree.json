@@ -1,0 +1,89 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.start",
+      "label": "Pick the mission order, or execute the associated behaviour if found",
+      "startdescription": "Pick the mission order, or execute the associated behaviour if found"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.receivemissionorder.start",
+      "label": "Receive mission order",
+      "startdescription": "Receive mission order"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.start",
+      "label": "Patrol current region Sequence",
+      "startdescription": "Patrol current region Sequence"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.start",
+      "label": "Travel to other local port Sequence",
+      "startdescription": "Travel to other local port Sequence"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.pickdestination.start",
+      "label": "Pick Destination",
+      "startdescription": "Pick Destination"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.undock.start",
+      "label": "Undock",
+      "startdescription": "Undock"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.wait.start",
+      "label": "Wait",
+      "startdescription": "Wait"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.dock.start",
+      "label": "Dock",
+      "startdescription": "Dock"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.waitinvestigate.start",
+      "label": "Wait",
+      "startdescription": "Wait"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.investigate.start",
+      "label": "Investigate",
+      "startdescription": "Investigate"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.endmissionorder.start",
+      "label": "End mission order",
+      "startdescription": "End mission order"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.start",
+      "label": "Travel to random region Sequence",
+      "startdescription": "Travel to random region Sequence"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.undock.start",
+      "label": "Undock",
+      "startdescription": "Undock"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.leavesea.start",
+      "label": "Sail towards other sea",
+      "startdescription": "Sail towards other sea"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.wait.start",
+      "label": "Wait",
+      "startdescription": "Wait"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.arriveinsea.start",
+      "label": "Arrive in sea",
+      "startdescription": "Arrive in sea"
+    },
+    {
+      "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.endmissionorder.start",
+      "label": "End mission order",
+      "startdescription": "End mission order"
+    }
+  ]
+}

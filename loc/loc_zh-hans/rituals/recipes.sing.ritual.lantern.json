@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.ritual.lantern.hint.missing.trapping",
+      "label": "Rush A Ritual for Quick Power",
+      "startdescription": "If I bring the right trappings to a place with the right ambiance, I could perform a ritual to give myself great power. The actions I'd take might be...peculiar, and raise the suspicion of the general public."
+    },
+    {
+      "id": "mariner.sing.ritual.lantern.start",
+      "label": "Perform a covert Lantern Ritual in a Lofty Space",
+      "startdescription": "I have brought my implements, and the atmosphere is charged and ready."
+    },
+    {
+      "id": "mariner.sing.ritual.success.lantern",
+      "label": "Perform a covert Lantern Ritual in a Lofty Space",
+      "startdescription": "This ritual requires candlelight and mirrors and muttered prayers. I must be careful not to shine the light in anyone's eyes but my own.",
+      "description": "Influence blossoms, music brightens. My soul aligns with the sun and stars in a secret constellation. Power arises from my footsteps."
+    }
+  ]
+}

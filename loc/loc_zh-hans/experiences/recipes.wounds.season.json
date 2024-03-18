@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.tide.wounds",
+      "label": "Season of Reckoning",
+      "description": "My soul is not yet a tally of past scars; I will not be changed today."
+    },
+    {
+      "id": "mariner.season.wounds.loop",
+      "label": "<>",
+      "startdescription": "<>"
+    }
+  ]
+}

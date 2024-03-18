@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": "mariner.sing.dreadcontentment",
+      "label": "Jam Out In a Company of One",
+      "description": "I will strum on my guitar, playing nothing much, working out the kinks in my soul and scars on my heart."
+    },
+    {
+      "id": "mariner.sing.fascinationdread",
+      "label": "Soak in the Blues",
+      "description": "I will center my soul with songs of home and of homesickness, of longing and belonging"
+    }
+  ]
+}

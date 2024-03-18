@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "id": "mariner.trappingtypes.readable",
+      "label": "Trapping Type: Records and Writings",
+      "description": "Script is the memory that will not die."
+    },
+    {
+      "id": "mariner.trappingtypes.artifact",
+      "label": "Trapping Type: Artifacts and Relics",
+      "description": "It is hard to pin down the point where something being old goes from a disadvantage to an advantage, but this has crossed that mark."
+    },
+    {
+      "id": "mariner.trappingtypes.crafts",
+      "label": "Trapping Type: Crafts And Finery",
+      "description": "The fine balance of form and function."
+    },
+    {
+      "id": "mariner.trappingtypes.jewelry",
+      "label": "Trapping Type: Gems and Jewelry",
+      "description": "Lustrous, lavish, luxurious."
+    },
+    {
+      "id": "mariner.trappingtypes.natural",
+      "label": "Trapping Type: Botanical and Anatomical",
+      "description": "The treasures that grow from soil or beneath the skin."
+    }
+  ]
+}

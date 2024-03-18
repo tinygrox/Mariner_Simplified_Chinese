@@ -1,0 +1,18 @@
+{
+  "decks": [
+    {
+      "id": "mariner.decks.vaults.damascus.explore.museum.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    },
+    {
+      "id": "mariner.decks.vaults.damascus.explore.museum.events",
+      "label": "Exploration Deck"
+    },
+    {
+      "id": "mariner.decks.vaults.damascus.explore.collection.tasks",
+      "label": "Potential Possibilities",
+      "description": "Places, things and people to be explored or exploited."
+    }
+  ]
+}

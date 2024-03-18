@@ -1,0 +1,43 @@
+{
+  "elements": [
+    {
+      "id": "mariner.waypoint",
+      "label": "Waypoint"
+    },
+    {
+      "id": "mariner.locations.northsea.london.destination",
+      "label": "In London",
+      "description": "This is not here; It is in London."
+    },
+    {
+      "id": "mariner.locations.northsea.amsterdam.destination",
+      "label": "In Amsterdam",
+      "description": "This is not here; It is in Amsterdam."
+    },
+    {
+      "id": "mariner.locations.northsea.copenhagen.destination",
+      "label": "In Copenhagen",
+      "description": "This is not here; It is in Copenhagen."
+    },
+    {
+      "id": "mariner.locations.medsea.marseille.destination",
+      "label": "In Marseille",
+      "description": "This is not here; It is in Marseille."
+    },
+    {
+      "id": "mariner.locations.medsea.bizerta.destination",
+      "label": "In Bizerta",
+      "description": "This is not here; It is in Bizerta."
+    },
+    {
+      "id": "mariner.locations.medsea.constantinople.destination",
+      "label": "In Constantinople",
+      "description": "This is not here; It is in Constantinople."
+    },
+    {
+      "id": "mariner.locations.medsea.haifa.destination",
+      "label": "In Haïfa",
+      "description": "This is not here; It is in Haïfa."
+    }
+  ]
+}

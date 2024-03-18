@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "id": "mariner.crew.intro.doc",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.grumpy",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.bashful",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.sneezy",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.happy",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.dopey",
+      "description": "无所不能，一无所长。炮灰。"
+    },
+    {
+      "id": "mariner.crew.intro.sleepy",
+      "description": "无所不能，一无所长。炮灰。"
+    }
+  ]
+}
