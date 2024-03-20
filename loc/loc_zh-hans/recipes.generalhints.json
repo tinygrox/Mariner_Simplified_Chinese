@@ -2,38 +2,38 @@
   "recipes": [
     {
       "id": "mariner.conversations.nothingtosayabout.location",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.song",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.topic",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.story",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.story.source",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.mystery",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     },
     {
       "id": "mariner.conversations.nothingtosayabout.desire",
-      "label": "Nothing To Say About This",
-      "startdescription": "This one doesn't seem to have anything to say about that."
+      "label": "无话可谈",
+      "startdescription": "此人似乎对此无话可说。"
     }
   ]
 }

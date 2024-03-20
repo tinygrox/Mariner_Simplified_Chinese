@@ -4,14 +4,7 @@
       "id": "mariner.navigate.mystery.character.success",
       "label": "Imitatio, Aemulatio",
       "startdescription": "I have found a Grand Story, in which the Characters had to make great choices and difficult sacrifices. If I can envoke this tale, perhaps I can strengthen my own Character as well.",
-      "description": "The Stage is the place where story and song can transform a man. It is now up to me to set this performance up, and deliver...",
-      "updateCodexEntries": {
-        "codex.ascensions.twins.character": {
-          "add": [
-            "codex.ascensions.twins.character.solvedhowto"
-          ]
-        }
-      }
+      "description": "The Stage is the place where story and song can transform a man. It is now up to me to set this performance up, and deliver..."
     }
   ]
 }

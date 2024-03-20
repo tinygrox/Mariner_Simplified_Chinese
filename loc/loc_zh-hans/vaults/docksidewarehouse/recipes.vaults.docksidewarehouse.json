@@ -27,8 +27,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.docksidewarehouse.events.guards.wandering",
@@ -54,8 +54,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.docksidewarehouse.events.guards.fight",
@@ -81,8 +81,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.docksidewarehouse.events.don",
@@ -320,8 +320,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.docksidewarehouse.lockup.task",

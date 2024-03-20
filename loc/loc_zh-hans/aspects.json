@@ -66,8 +66,8 @@
     },
     {
       "id": "mariner.topic",
-      "label": "Topic",
-      "description": "A topic of conversation."
+      "label": "话题",
+      "description": "一个话题。"
     },
     {
       "id": "mariner.curses.concealer",

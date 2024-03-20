@@ -4,10 +4,7 @@
       "id": "mariner.northsea.copenhagen.haraldmuse.first",
       "label": "An Invitation from the Maestro",
       "startdescription": "I Arrive at a house as joyous as a mausoleum. Inside awaits Harald Blomkwist, a once renowned musical virtuoso. Now, however, he sits in eerie silence. But he is appearantly willing to break that silence to offer me a job.",
-      "description": "\"She was taken from me, and now I cannot find her.\" Harald limps through the sun room towards piano. \"She is a dancer, my muse. Knew as much about the Suns' House as I did. I think she tried to tell me where she went... But I do not understand it. Can you find her for me?\" He collects scribbled musical notes strewn on the piano. \"I need her.\"",
-      "unlockCodexEntries": [
-        "codex.harald"
-      ]
+      "description": "\"She was taken from me, and now I cannot find her.\" Harald limps through the sun room towards piano. \"She is a dancer, my muse. Knew as much about the Suns' House as I did. I think she tried to tell me where she went... But I do not understand it. Can you find her for me?\" He collects scribbled musical notes strewn on the piano. \"I need her.\""
     },
     {
       "id": "mariner.northsea.copenhagen.haraldmuse.mystery.success",
@@ -79,17 +76,7 @@
       "id": "mariner.northsea.copenhagen.haraldmuse.unmarkedgrave",
       "label": "The Worst News",
       "startdescription": "\"What aren't you telling me? I can see in your face that you have found her. Spit it out!\" his face melts from anger to tears. \"I need to know.\"",
-      "description": "\"She's gone?\" He falls with his face in his hands. \"What's the point then...\" He sobs once, twice, three times, and then returns to silence for a while. \"The music. Take it, please. I cannot bare to write another note.\"",
-      "achievements": [
-        "mariner.achievements.haraldsmuse"
-      ],
-      "updateCodexEntries": {
-        "codex.harald": {
-          "add": [
-            "codex.harald.solvedmystery"
-          ]
-        }
-      }
+      "description": "\"She's gone?\" He falls with his face in his hands. \"What's the point then...\" He sobs once, twice, three times, and then returns to silence for a while. \"The music. Take it, please. I cannot bare to write another note.\""
     }
   ]
 }

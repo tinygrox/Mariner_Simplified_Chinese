@@ -2,8 +2,9 @@
   "recipes": [
     {
       "id": "mariner.letgocrewmember",
-      "startdescription": "I offer them a severence and cross out their names in the Kite's books.",
-      "description": "They take their money and their sack, and walk  the gangplank for the last time."
+      "previewlabel": "与船员分道扬镳",
+      "startdescription": "我给了他们一笔遣散费，并在风筝号的名单上划掉了他们的名字。",
+      "description": "他们带着钱和麻袋，最后一次走上梯板。"
     }
   ]
 }

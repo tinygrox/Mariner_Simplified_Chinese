@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.sail.arriving.docking",
-      "label": "Arriving",
-      "startdescription": "Arriving to port."
+      "label": "抵达",
+      "startdescription": "抵达靠港。"
     }
   ]
 }

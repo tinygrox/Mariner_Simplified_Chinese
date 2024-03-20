@@ -2,13 +2,13 @@
   "elements": [
     {
       "id": "mariner.agents.ship.theathenian.controller",
-      "label": "The Athenian",
-      "description": "<This is the Athenian, a hunter ship.>"
+      "label": "雅典号",
+      "description": "<这是雅典号，一艘狩猎船。>"
     },
     {
       "id": "mariner.agents.ship.theathenian",
-      "label": "The Athenian",
-      "description": "<This is the Athenian, a hunter ship.>"
+      "label": "雅典号",
+      "description": "<这是雅典号，一艘狩猎船。>"
     }
   ]
 }

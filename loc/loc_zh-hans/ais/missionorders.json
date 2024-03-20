@@ -2,13 +2,13 @@
   "elements": [
     {
       "id": "mariner.ais.missionorders.patrolcurrentregion",
-      "label": "Mission order: patrolcurrentregion",
-      "description": "Mission order: patrolcurrentregion"
+      "label": "指派命令: patrolcurrentregion",
+      "description": "指派命令: patrolcurrentregion"
     },
     {
       "id": "mariner.ais.missionorders.changesea",
-      "label": "Mission order: changesea",
-      "description": "Mission order: changesea"
+      "label": "指派命令: changesea",
+      "description": "指派命令: changesea"
     }
   ]
 }

@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.lantern.start",
+      "previewlabel": " Start A Performance of Lantern",
+      "previewdescription": "I can start with soaring notes, clear as bells, clear as a summer sky. It would be a reveleation upon my audience, as well as to any further subjects. ",
       "label": "Perform a Show laced with the Intent of Lantern",
       "startdescription": "My eyes are closed now, but the bright stage lights burn through as if they are diaphenous. I feel as if I am wholy clear, only an image of light and music."
     },

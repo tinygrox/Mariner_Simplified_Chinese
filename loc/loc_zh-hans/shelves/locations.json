@@ -2,9 +2,6 @@
   "shelves": [
     {
       "id": "mariner.shelves.commonlocations",
-      "legacies": [
-        "mariner.legacies.mariner"
-      ],
       "name": "Common Local Places"
     }
   ]

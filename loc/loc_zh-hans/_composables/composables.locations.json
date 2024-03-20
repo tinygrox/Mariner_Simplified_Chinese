@@ -5,18 +5,18 @@
       "slots": [
         {
           "id": "explore1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },
@@ -25,13 +25,13 @@
       "slots": [
         {
           "id": "intent",
-          "label": "Intent",
-          "description": "Do I chose my material, active self, or my recieving, sensitive self?"
+          "label": "图谋",
+          "description": "选择物质的我、主动的我亦或是被动的我、敏感的我"
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         }
       ]
     },
@@ -40,17 +40,17 @@
       "slots": [
         {
           "id": "object",
-          "label": "Topic"
+          "label": "话题"
         },
         {
           "id": "moneyforpetsitting",
-          "label": "<Fee>",
-          "description": "<Fee>"
+          "label": "<费用>",
+          "description": "<费用>"
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         }
       ]
     },
@@ -59,17 +59,17 @@
       "slots": [
         {
           "id": "object",
-          "label": "Topic"
+          "label": "话题"
         },
         {
           "id": "moneyforpetsitting",
-          "label": "<Fee>",
-          "description": "<Fee>"
+          "label": "<费用>",
+          "description": "<费用>"
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         }
       ]
     },
@@ -78,43 +78,43 @@
       "slots": [
         {
           "id": "talk1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },
     {
       "id": "mariner.composables.wharf",
-      "label": "Wharf",
-      "description": "A cradle of timber and steel. Here lies the heart of naval trade. [You can repair your ship here, or find commerce for the many things that travel over the sea]"
+      "label": "码头",
+      "description": "木制品和钢制品的摇篮。这里坐落着海上贸易的中心。[你可以在此修复你的船只，或者为未来的航行寻觅有利之机。]"
     },
     {
       "id": "mariner.composables.wharf.available",
       "slots": [
         {
           "id": "ship",
-          "label": "Ship",
-          "description": "Which body to repair."
+          "label": "船只",
+          "description": "用于修复的主体。"
         },
         {
           "id": "action",
-          "label": "Action?",
-          "description": "<Configure or Upgrade Ship>"
+          "label": "何意？",
+          "description": "<配置或升级船只>"
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         }
       ]
     },
@@ -123,18 +123,18 @@
       "slots": [
         {
           "id": "intent",
-          "label": "Intent",
-          "description": "Do I chose my material, active self, or my recieving, sensitive self?"
+          "label": "图谋",
+          "description": "选择物质的我、主动的我亦或是被动的我、敏感的我"
         },
         {
           "id": "ship",
-          "label": "Ship or Story",
-          "description": "In a bustling bar, I could find business with those who seek a sea voyage, or process my past experiences through tales of my adventures to the willing and unwilling alike."
+          "label": "生意或故事",
+          "description": "在熙攘吵闹的酒吧里，我可以和那些追求海上冒险的人谈及利益，也可以去和他人讲述将我的过去的经历打包而成的冒险故事，不管他们喜不喜欢。"
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         }
       ]
     }

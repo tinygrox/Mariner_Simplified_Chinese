@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.edge.start",
+      "previewlabel": " Start A Performance of Edge",
+      "previewdescription": "I could start in the dark, catching my audience in surprise. These furious rhytms will arouse their passions, as well as that of any other target I may seek. ",
       "label": "Perform a Show laced with the Intent of Edge",
       "startdescription": "The audience is my army, their muscles clenched with summoned passion."
     },

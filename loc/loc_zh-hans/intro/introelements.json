@@ -2,23 +2,23 @@
   "elements": [
     {
       "id": "mariner.directionsmorland.ciphered",
-      "label": "A Box with Ciphered Instructions",
-      "description": "The Man from Marseille left his instructions in a cypher, but neglected to give me the key. Secrets wrapped in secrets."
+      "label": "带有密语的盒子",
+      "description": "那个来自马塞的人将上面的指示加密了，却忘了告诉我密钥。秘密裹着秘密。"
     },
     {
       "id": "mariner.directionsmorland",
-      "label": "A Package For Miss M., With Directions",
-      "description": "A package to deliver, and directions to a store."
+      "label": "M.小姐的包裹，带有方位。",
+      "description": "要送达的包裹，上面的地址指向一个商店。"
     },
     {
       "id": "mariner.letter.sulochana",
-      "label": "Letter for Sulochana Amavasya",
-      "description": "A letter for the enigmatic owner of the Ecdysis Club."
+      "label": "给苏洛恰那·阿摩伐舍的信",
+      "description": "给蜕衣俱乐部那位神秘的所有者的信。"
     },
     {
       "id": "mariner.letter.veiledlady",
-      "label": "Letter for the Veiled Lady of Amsterdam",
-      "description": "A letter for the mysterious mistress of Amsterdam's nightlife."
+      "label": "给阿姆斯特丹的面纱夫人的信",
+      "description": "给只在阿姆斯特丹夜晚出现的神秘女士的信。"
     }
   ]
 }

@@ -267,10 +267,7 @@
     {
       "id": "mariner.vaults.eddangerforest.gauntlet.end",
       "label": "Into the Clearing",
-      "startdescription": "",
-      "unlockCodexEntries": [
-        "codex.hours.ringyew"
-      ]
+      "startdescription": ""
     },
     {
       "id": "mariner.vaults.eddangerforest.gauntlet.mini.start",

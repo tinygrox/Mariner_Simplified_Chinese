@@ -2,61 +2,60 @@
   "recipes": [
     {
       "id": "mariner.discover.northsea.london.morland",
-      "label": "Delivering A Package",
-      "startdescription": "As I walk the streets of Old London, a great melancholy overtakes me. How many hours did I wander these streets as a youth, never finding what I was looking for?",
-      "description": "I keep my eye on the curves of the river, and before long I spot a hidden little window bleeding dirty yellow light."
+      "label": "运送包裹",
+      "startdescription": "当我走在老伦敦的街上时，巨大的忧愁笼罩着我。我年轻时曾花费了多少个小时在这条街道上，去寻找那我从未找到过的东西？",
+      "description": "我紧盯着河流的转角处，不久后我便发现了那扇隐蔽的小窗，泛着肮脏的黄光。"
     },
     {
       "id": "mariner.navigate.northsea.london.directionsmorland.ciphered",
-      "label": "Plot a Course",
-      "startdescription": "Now to unravel the instructions. As a captain, I am used to navigating, but riddles? Well, they form an amusing exertion at least.",
-      "description": "A solved puzzle is just a page of lines, and a sense of accomplishment."
+      "label": "规划方向",
+      "startdescription": "现在来解开这上面的指示。作为一名船长，我习惯了做路线规划，但猜谜？好吧，至少能让我锻炼锻炼头脑。",
+      "description": "谜题被解开，满页的线条和成就感在我面前张开。"
     },
     {
       "id": "mariner.talkto.northsea.london.morland",
-      "label": "Morland",
-      "startdescription": "\"... But if you can deliver messages discretely, our lot can pay you well.\"<br><br>Before I can even try to hand her the package, she pulls me inside. She studies my face.<br><br>\"...and I think I might have another opportunity for you.\""
+      "label": "莫兰",
+      "previewlabel": "莫兰",
+      "previewdescription": "\"你不是之前的信使…\"",
+      "startdescription": "\"…但如果你能够悄悄地传达消息，我们这群人会给你一笔丰厚的报酬。\"<br><br>在我将包裹交到她手上之前，她就把我拉了进去。她端详着我的脸。<br><br>\"…我觉得我这里可能还有其他的机会适合你。\""
     },
     {
       "id": "mariner.talkto.northsea.london.morland.2",
-      "label": "Morland",
-      "startdescription": "All night she tells me stories. Stories about someone, something, she calls the Centipede, and her pilgrimage up the waterfall at the edge of the world.<br><br>\"One that flows at the threshold between the Wake and Myth.\""
+      "label": "莫兰",
+      "startdescription": "她跟我讲了一整夜的故事。故事关于某个人，或是某个物，她称之为“蜈蚣”，她还提及她曾在世界边缘的瀑布上朝拜。<br><br>\"这是一条在清醒和神话之间流淌的界河。\""
     },
     {
       "id": "mariner.talkto.northsea.london.morland.3",
-      "label": "Morland",
-      "startdescription": "\"You can't dream, can you? In a way, you're like her. Even for you, there is a way out, beyond the wind, behind the rain.\"<br><br>My broken heart aches. Could there truly be a way out of this muted world?",
-      "description": "Her eyes glint like candlelight.<br><br>\"Think it over. In the meantime, didn't you have something for me?\""
+      "label": "莫兰",
+      "startdescription": "\"你从来没做过梦，对吗？在某种程度上，你跟她很像。即使是你，也有一条出路，在风的彼端，在雨的背后。\"<br><br>我破碎的心在隐隐作痛。这个缄默的世界真的还有出路吗？",
+      "description": "她的双眸倒映出烛光。<br><br>\"好好想想吧。话说回来，你不是有什么东西要交给我吗？\""
     },
     {
       "id": "mariner.talkto.northsea.london.morland.givepackage.start",
-      "label": "Delivering A Peculiar Package",
-      "startdescription": "\"Ah, yes, the other reason for your visit. Great. What would like to receive in exchange? Surely not money. Knowledge? I have plenty to trade.\"",
+      "label": "交付奇特的包裹",
+      "startdescription": "\"啊，好啊，你会来的另一个原因。太棒了。你想要什么作为交换？肯定不是钱吧。知识？这里我有很多。\"",
       "slots": [
         {
           "id": "intent",
-          "label": "Intent",
-          "description": "What kind of reward do I want?"
+          "label": "图谋",
+          "description": "我想要什么样的回报？"
         }
       ]
     },
     {
       "id": "mariner.talkto.northsea.london.morland.givepackage.end",
-      "label": "Delivered A Peculiar Package",
-      "description": "\"Here's for you. As payment.\"<br><br>As I hand her the package, she sifts through a drawer and hands me two crisp envelopes.<br><br>\"Would you deliver that in a hurry for me please? It isn't far, and I'm quite sure the recipients will reward you greatly for your trouble.\"",
-      "unlockCodexEntries": [
-        "codex.veiledlady"
-      ]
+      "label": "交付奇特的包裹",
+      "description": "\"这是给你的，报酬。\"<br><br>当我把包裹递给她时，她翻找着抽屉，递给我两个崭新的信封。<br><br>\"你能帮我赶快送过去吗？离这里不算远，我相信收件人会对你的辛劳大加褒奖的。\""
     },
     {
       "id": "mariner.talkto.northsea.london.morland.givepackage.cancel",
-      "label": "Delivering A Peculiar Package",
-      "description": "\"Not sure yet? That's fine.\""
+      "label": "运送奇特的包裹",
+      "description": "\"还没能决定？没关系的。\""
     },
     {
       "id": "mariner.combinetofindlocationin.alwaysamsterdam",
-      "label": "Pull a Thread",
-      "startdescription": "If I weigh the local news I have scavenged in bars against the snippets I have obtained from my contacts, I may be able to make new connections, find new opportunities and discover truly extraordinary places."
+      "label": "抽丝剥茧",
+      "startdescription": "如果我将在酒吧中收集到的当地新闻和从联系人哪里得来的零星传闻进行一番整理，我可能会从中找到新的的联系，发现新的机遇，探索到真正非同寻常的地点。"
     }
   ]
 }

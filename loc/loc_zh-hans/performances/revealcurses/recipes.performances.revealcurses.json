@@ -3,10 +3,7 @@
     {
       "id": "mariner.performances.revealcurses",
       "label": "Illuminated in the Spotlight",
-      "startdescription": "Like the Watchman, I cast two shadows in the intense theater light. Before my eyes, the second begins to shake and shiver, like a candle in a sigh. I will not forget the dancing of my shadow, nor the consequences which that implied.",
-      "achievements": [
-        "mariner.achievements.firstsuccessfulperformance"
-      ]
+      "startdescription": "Like the Watchman, I cast two shadows in the intense theater light. Before my eyes, the second begins to shake and shiver, like a candle in a sigh. I will not forget the dancing of my shadow, nor the consequences which that implied."
     }
   ]
 }

@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.saveinjuredcrewmember",
-      "label": "Bring the Medical Kit!",
-      "startdescription": "\"Bring the medical kit, quick!\""
+      "label": "拿医疗箱过来！",
+      "startdescription": "\"把医疗箱拿过来，快！\""
     },
     {
       "id": "mariner.saveinjuredcrewmember.attempt",
@@ -12,29 +12,29 @@
       "slots": [
         {
           "id": "help1",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to save this person."
         },
         {
           "id": "help2",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to save this person."
         },
         {
           "id": "help2",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to save this person."
         }
       ]
     },
     {
       "id": "mariner.saveinjuredcrewmember.success",
-      "label": "<Crewmember Saved>",
-      "description": "<Crewmember saved>"
+      "label": "<船员存活>",
+      "description": "<船员存活>"
     },
     {
       "id": "mariner.saveinjuredcrewmember.failure",
-      "label": "<Crewmember Died>",
+      "label": "<船员死亡>",
       "description": "Muscles go tense, then slack forever.<br><br>One less able body to man the Kite."
     }
   ]

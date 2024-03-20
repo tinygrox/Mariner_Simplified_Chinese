@@ -74,8 +74,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.events.stormtakesus",
@@ -101,8 +101,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.events.seagulls",
@@ -277,8 +277,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.events.seagull",
@@ -304,8 +304,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.events.specters",
@@ -331,8 +331,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.events.tidepools",
@@ -611,7 +611,7 @@
       "slots": [
         {
           "id": "Topic",
-          "label": "First Topic",
+          "label": "第一个话题",
           "description": "I can ask the Old Mother Anguish after one of the artifacts i found here. "
         }
       ],
@@ -683,7 +683,7 @@
       "slots": [
         {
           "id": "Topic",
-          "label": "Second Topic",
+          "label": "第二个话题",
           "description": "A Topic to discuss, represented by one of my songs."
         }
       ],
@@ -709,8 +709,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.gauntlet.beast",
@@ -736,8 +736,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.gauntlet.streets",
@@ -763,8 +763,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.sunkencity.gauntlet.ascent",

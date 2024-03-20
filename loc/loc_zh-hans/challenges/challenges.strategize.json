@@ -8,28 +8,28 @@
       "slots": [
         {
           "id": "explore1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "mariner.navigate1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "mariner.sail1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "mariner.sing1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },

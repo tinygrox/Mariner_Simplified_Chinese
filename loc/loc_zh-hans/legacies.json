@@ -2,16 +2,16 @@
   "legacies": [
     {
       "id": "mariner.legacies.mariner",
-      "label": "The Mariner",
-      "startdescription": "I have received an odd parcel from an even odder man, and so I set sail for my hometown, oncemore.",
-      "description": "I was still young when I answered the call of the sea. But who is it that is calling me?",
+      "label": "水手",
+      "startdescription": "我收到了一个奇怪的包裹，寄来的人更是古怪，于是我再一次的，启程还乡。",
+      "description": "我年轻时响应了大海的呼唤。那现在谁在呼唤我？",
       "quotes": [
-        "\"Would the seas embrace last forever? Sometimes I consider accepting her salted kiss until my heart stops hurting, and letting my bones blacken atop the seafloor sand.\"\n\nThe Mariner, October 1926\n\n<i>Ferishuns League, collection of letters between sea captains</i>, 1935",
+        "\"Would the seas embrace last forever? Sometimes I consider accepting her salted kiss until my heart stops hurting, and letting my bones blacken atop the seafloor sand.\"\n\nThe Mariner, October 1926\n\n<i>Ferishuns League, 《船长海上来往书信集》</i>, 1935",
         "\"The dreams have gotten more constant, as does the singing. The whole crew has joined in now. They don't usually sing in English, but I think I am beginning to understand...\"\n\n<i>P. I. Willfred Morice, in a letter to his Patron</i>",
-        "\"I am not complete. There is some essence missing from the center of my being. I ache, and therefore I wander. I search for a place where the sky is technicolor, hoping to meet my missing soul.\"\n\n<i>Ferishuns League, collection of letters between sea captains</i>, 1935",
-        "\"Have you heard of Plato's theory of the divided humans? Once long ago, humanity existed with four legs, four arms, two heads and one, complete soul. Zeus himself, split humanity right down the center.\"\n\n<i>Ferishuns League, collection of letters between sea captains</i>, 1935",
-        "\"Its horizon promises. I still believe that if I sail the right wind through the right passage at the right time, I might arrive at a brighter place. \"\"\n\n<i>Ferishuns League, collection of letters between sea captains</i>, 1935",
-        "\"She spoke too of things all captains know. That peculiar chill that can rise from the ocean before dawn, the vibrant rhythm of the thunderstrikes, and how the silver light of the moon both reveals and transforms.\" \n\n<i>Ferishuns League, collection of letters between sea captains</i>, 1935"
+        "\"I am not complete. There is some essence missing from the center of my being. I ache, and therefore I wander. I search for a place where the sky is technicolor, hoping to meet my missing soul.\"\n\n<i>Ferishuns League, 《船长海上来往书信集》</i>, 1935",
+        "\"Have you heard of Plato's theory of the divided humans? Once long ago, humanity existed with four legs, four arms, two heads and one, complete soul. Zeus himself, split humanity right down the center.\"\n\n<i>Ferishuns League, 《船长海上来往书信集》</i>, 1935",
+        "\"Its horizon promises. I still believe that if I sail the right wind through the right passage at the right time, I might arrive at a brighter place. \"\"\n\n<i>Ferishuns League, 《船长海上来往书信集》</i>, 1935",
+        "\"她也谈到了所有船长都熟知的海洋现象。黎明前海面上升腾的奇特寒意、有节奏韵律的雷击和月亮发出银光如何揭示与改变。\" \n\n<i>Ferishuns League, 《船长海上来往书信集》</i>, 1935"
       ]
     }
   ]

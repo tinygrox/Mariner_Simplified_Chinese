@@ -14,73 +14,49 @@
       "id": "mariner.buyinstrument.lantern",
       "label": "Buy a Lantern Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"I used to have said no, but recently, our technology has advanced. Let me show you.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Voice was the preferred method for Lantern performances for centuries. But now we can sing without using throat or touch.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Voice was the preferred method for Lantern performances for centuries. But now we can sing without using throat or touch.\"@"
     },
     {
       "id": "mariner.buyinstrument.forge",
       "label": "Buy a Forge Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Ah... I will call the boys... You'll see why.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"My sons will come and help you assemble. The alloys are intricate, and some connections must be made with the right application of heat.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"My sons will come and help you assemble. The alloys are intricate, and some connections must be made with the right application of heat.\"@"
     },
     {
       "id": "mariner.buyinstrument.edge",
       "label": "Buy a Edge Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Ah yes... The instruments have changed over the years, but the method of preparation has not. Wait one moment.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Not easy to acquire these. To be properly Attuned, they must have seen 66 battles at least.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Not easy to acquire these. To be properly Attuned, they must have seen 66 battles at least.\"@"
     },
     {
       "id": "mariner.buyinstrument.winter",
       "label": "Buy a Winter Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"The eternal conundrum... Which instrument can be used to enhance the principle of Silence.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"We must smelt these ourselfs. Coffin nails and sanctified silver, among other things.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"We must smelt these ourselfs. Coffin nails and sanctified silver, among other things.\"@"
     },
     {
       "id": "mariner.buyinstrument.heart",
       "label": "Buy a Heart Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Unsurprisingly, our most requisted item. For a London client alone, we have sold a companies worth. \"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Boar skin, of course. Pine wood is traditional, but we have replaced the frame with something more durable. \"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Boar skin, of course. Pine wood is traditional, but we have replaced the frame with something more durable. \"@"
     },
     {
       "id": "mariner.buyinstrument.grail",
       "label": "Buy a Grail Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Like with my children, I probably should not have favorites among the instruments. But on these alone our craftmanship is truely appreciated.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"We once displayed these in our windows, but it ran the risk of our crowding our store. Now we put them up for auction at select auction houses... We always venture to buy them back.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"We once displayed these in our windows, but it ran the risk of our crowding our store. Now we put them up for auction at select auction houses... We always venture to buy them back.\"@"
     },
     {
       "id": "mariner.buyinstrument.moth",
       "label": "Buy a Moth Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Ah... yes, This will interest you, I am sure. In a way, you are our collaborator here.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"The strings have been treated with the Spiteful Resin. Be careful with it, it aches to change. But that tension is what colors the sounds most extraordinarily.\"@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"The strings have been treated with the Spiteful Resin. Be careful with it, it aches to change. But that tension is what colors the sounds most extraordinarily.\"@"
     },
     {
       "id": "mariner.buyinstrument.knock",
       "label": "Buy a Knock Instrument",
       "startdescription": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Certainly. The method is imported, but the instrument will come from our very own shop.\"@",
-      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Hawthorn wood, sanded with snake scales. The strings are spun from feathers, But do not ask me the method, it is quite well protected.@",
-      "achievements": [
-        "mariner.achievements.firstinstrument"
-      ]
+      "description": "@#mariner.locations.northsea.copenhagen.instrumentshop|\"Hawthorn wood, sanded with snake scales. The strings are spun from feathers, But do not ask me the method, it is quite well protected.@"
     }
   ]
 }

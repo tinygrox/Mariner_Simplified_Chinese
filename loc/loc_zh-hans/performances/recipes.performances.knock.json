@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.knock.start",
+      "previewlabel": " Start A Performance of Knock",
+      "previewdescription": "With notes that play that pierce the heart, mind and soul as once, I can summon forth emotion from the audience which they had locked in secret places. It can be used to summon the things from the fraying edges of the world to me as well. ",
       "label": "Perform a Show laced with the Intent of Knock",
       "startdescription": "I play until my fingers bleed, my eyes water and my tongue feels close to tearing. I can see the hundred pairs of eyes staring at me; opened wide, open doors."
     },

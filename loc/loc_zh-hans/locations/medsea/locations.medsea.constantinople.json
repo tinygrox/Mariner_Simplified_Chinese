@@ -42,8 +42,8 @@
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         },
         {
           "id": "aspect1",
@@ -63,18 +63,18 @@
       "slots": [
         {
           "id": "explore1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },
@@ -90,18 +90,18 @@
       "slots": [
         {
           "id": "talk1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },

@@ -10,17 +10,17 @@
       "slots": [
         {
           "id": "help1",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to repair the ship."
         },
         {
           "id": "help2",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to repair the ship."
         },
         {
           "id": "help3",
-          "label": "Help",
+          "label": "协助",
           "description": "Which implements are available to help attempting to repair the ship."
         }
       ]

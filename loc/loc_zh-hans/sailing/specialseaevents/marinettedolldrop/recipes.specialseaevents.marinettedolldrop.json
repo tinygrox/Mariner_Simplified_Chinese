@@ -3,14 +3,7 @@
     {
       "id": "mariner.sail.specialseaevents.start.marinettedolldrop",
       "label": "Letting Go of a Gift",
-      "startdescription": "Mast-high waves, deluge-announcing rain, almost dense enough to drown or crush mere mortals. Here, I drop the small doll, offering it to the hungry water. As it hits the surface, the disturbances around it seem to embrace it, cradling its shape, then accompany it down below. A heartbeat later, it is gone.",
-      "updateCodexEntries": {
-        "codex.agdistis": {
-          "add": [
-            "codex.agdistis.throwndoll"
-          ]
-        }
-      }
+      "startdescription": "Mast-high waves, deluge-announcing rain, almost dense enough to drown or crush mere mortals. Here, I drop the small doll, offering it to the hungry water. As it hits the surface, the disturbances around it seem to embrace it, cradling its shape, then accompany it down below. A heartbeat later, it is gone."
     },
     {
       "id": "mariner.sail.specialseaevents.marinettedolldrop.discovercharacterwound",
@@ -27,10 +20,7 @@
     {
       "id": "mariner.sail.specialseaevents.marinettedolldrop.discovercharacterwound.applyaspect",
       "label": "Catharsis",
-      "description": "Now I know my first step of becoming whole: I need to mend that inside me that grants the capacity for meaningful choice. As always I will turn to the world to teach me. Bards and skalds through the ages will have found the answer, and recorded it in their tales.",
-      "unlockCodexEntries": [
-        "codex.ascensions.twins.character"
-      ]
+      "description": "Now I know my first step of becoming whole: I need to mend that inside me that grants the capacity for meaningful choice. As always I will turn to the world to teach me. Bards and skalds through the ages will have found the answer, and recorded it in their tales."
     }
   ]
 }

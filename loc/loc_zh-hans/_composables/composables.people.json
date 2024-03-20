@@ -5,32 +5,32 @@
       "slots": [
         {
           "id": "severancepackage",
-          "label": "Severance"
+          "label": "遣散费"
         },
         {
           "id": "bargain_1",
-          "label": "An Incentive",
-          "description": "The scales of any decision can be amended with the right prosaic weight."
+          "label": "一次奖励",
+          "description": "决策的天平都可以用那平淡无奇的砝码来修正。"
         },
         {
           "id": "bargain_2",
-          "label": "An Incentive",
-          "description": "The scales of any decision can be amended with the right prosaic weight."
+          "label": "一次奖励",
+          "description": "决策的天平都可以用那平淡无奇的砝码来修正。"
         },
         {
           "id": "bargain_3",
-          "label": "An Incentive",
-          "description": "The scales of any decision can be amended with the right prosaic weight."
+          "label": "一次奖励",
+          "description": "决策的天平都可以用那平淡无奇的砝码来修正。"
         },
         {
           "id": "bargain_4",
-          "label": "An Incentive",
-          "description": "The scales of any decision can be amended with the right prosaic weight."
+          "label": "一次奖励",
+          "description": "决策的天平都可以用那平淡无奇的砝码来修正。"
         },
         {
           "id": "bargain_5",
-          "label": "An Incentive",
-          "description": "The scales of any decision can be amended with the right prosaic weight."
+          "label": "一次奖励",
+          "description": "决策的天平都可以用那平淡无奇的砝码来修正。"
         }
       ]
     }

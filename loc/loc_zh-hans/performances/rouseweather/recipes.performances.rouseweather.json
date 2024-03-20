@@ -3,10 +3,7 @@
     {
       "id": "mariner.performances.rouseweather",
       "label": "The Hunt-Pack Courses In",
-      "startdescription": "One does not tame the winds. They are not your servants, for you to command at your beck and call. But if you learn their Names you can implore them...and how they ache to be unleashed.",
-      "achievements": [
-        "mariner.achievements.firstsuccessfulperformance"
-      ]
+      "startdescription": "One does not tame the winds. They are not your servants, for you to command at your beck and call. But if you learn their Names you can implore them...and how they ache to be unleashed."
     }
   ]
 }

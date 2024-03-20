@@ -11,14 +11,7 @@
     },
     {
       "id": "mariner.northsea.london.quest.marinettedoll.start.3",
-      "description": "He hands me a little bundle wrapped in red satin cloth.<br><br><i>\"Please, let go of this memory for me, at the heart of a violent storm. Let it be utterly mangled and consumed by the waves. Help me break this stasis I have stayed in for so long. I hope it will illuminate your own next step. Please take it.\"</i>",
-      "updateCodexEntries": {
-        "codex.agdistis": {
-          "add": [
-            "codex.agdistis.givendoll"
-          ]
-        }
-      }
+      "description": "He hands me a little bundle wrapped in red satin cloth.<br><br><i>\"Please, let go of this memory for me, at the heart of a violent storm. Let it be utterly mangled and consumed by the waves. Help me break this stasis I have stayed in for so long. I hope it will illuminate your own next step. Please take it.\"</i>"
     }
   ]
 }

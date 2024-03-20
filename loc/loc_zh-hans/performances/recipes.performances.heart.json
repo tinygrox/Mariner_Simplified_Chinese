@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.heart.start",
+      "previewlabel": " Start A Performance of Heart",
+      "previewdescription": "This performance will not be complete before the audience joins in. together we can sustain the energy of this show until the stars flicker out again, and we can sustain whatever other things I may desire too ",
       "label": "Perform a Show laced with the Intent of Heart",
       "startdescription": "Halfway through the performance, the first audience member joined in with the chorus. Now, we all sing with one voice, with no edge between one voice and the next."
     },

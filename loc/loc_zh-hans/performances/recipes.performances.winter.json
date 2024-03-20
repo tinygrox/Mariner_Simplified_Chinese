@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.winter.start",
+      "previewlabel": " Start A Performance of Winter",
+      "previewdescription": "I could plan a performance where the theater goes completely quiet. if the audience shivers or weeps, they dare not do so out loud.  With this performance I can quiet one of the stains upon the canvas of the world.",
       "label": "Perform a Show laced with the Intent of Winter",
       "startdescription": "These performances have two outcomes, I have been told. Some audience members weep silently, but many feel numb, as if their soul is smothered by the white weight of snow."
     },

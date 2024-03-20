@@ -10,10 +10,6 @@
           "label": "<Something to Eat>",
           "description": "<>"
         }
-      ],
-      "alt": [
-        "mariner.starvation.fedhuman",
-        "mariner.starvation.fed"
       ]
     },
     {

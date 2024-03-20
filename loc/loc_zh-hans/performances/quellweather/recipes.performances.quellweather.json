@@ -3,10 +3,7 @@
     {
       "id": "mariner.performances.quellweather",
       "label": "A Languid Sky",
-      "startdescription": "My song is only a suggestion, but I can make it a compelling one. Rest, cease, clear. I lead by example, shedding my passions and ambitions. And mercifully, the sky follows.",
-      "achievements": [
-        "mariner.achievements.firstsuccessfulperformance"
-      ]
+      "startdescription": "My song is only a suggestion, but I can make it a compelling one. Rest, cease, clear. I lead by example, shedding my passions and ambitions. And mercifully, the sky follows."
     }
   ]
 }

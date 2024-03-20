@@ -7,6 +7,8 @@
     },
     {
       "id": "mariner.performances.forge.start",
+      "previewlabel": " Start A Performance of Forge",
+      "previewdescription": "I may open with the unmerciful beat of progress, with notes that spark like tinder. the audience shifts in their seats and seek to change their lives, and that energy I can apply to other projects too.",
       "label": "Perform a Show laced with the Intent of Forge",
       "startdescription": "The air is shivering under my shouts, my songs, my revolutions. Each audience member can feel the sweat pool on their back and their their fingers itch for action."
     },

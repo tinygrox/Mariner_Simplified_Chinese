@@ -70,46 +70,31 @@
       "id": "mariner.conversations.northsea.copenhagen.harald.musicheart",
       "label": "The Art of Composition",
       "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
-      "description": "\"The Direction of Heart I studied. It is referenced in all of my most famous works. It contains in itself the Largest and the Smallest, the most real and the most Ephemeral. In it's Direction, it represents both the infinity of the sky and the infinity of the self. If Heart is your Intent, it is like the supportive breath of life. It will sustain and maintain your Direction, if possible.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.harald.heart"
-      ]
+      "description": "\"The Direction of Heart I studied. It is referenced in all of my most famous works. It contains in itself the Largest and the Smallest, the most real and the most Ephemeral. In it's Direction, it represents both the infinity of the sky and the infinity of the self. If Heart is your Intent, it is like the supportive breath of life. It will sustain and maintain your Direction, if possible.\""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.musicwinter",
       "label": "The Art of Composition",
       "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
-      "description": "\"Winters are not that harsh here, not like our neighbors to the north. Here, the Intent of Winter can still be a kindness: a wiping of the slate, a quieting of the noise. I have not sought what lies under the Direction of Winter. But perhaps... Let me know if you find what lies there.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.harald.winter"
-      ]
+      "description": "\"Winters are not that harsh here, not like our neighbors to the north. Here, the Intent of Winter can still be a kindness: a wiping of the slate, a quieting of the noise. I have not sought what lies under the Direction of Winter. But perhaps... Let me know if you find what lies there.\""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.musicwronggrail",
       "label": "The Art of Composition",
       "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
-      "description": "\"Cybele's ministrations I never mastered. Those perform better at more private stages I think, unless you want to get infamous for debauchery.\" He rolls his shoulder. \"Perhaps a vaudevillian can help you further?\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.harald.grail"
-      ]
+      "description": "\"Cybele's ministrations I never mastered. Those perform better at more private stages I think, unless you want to get infamous for debauchery.\" He rolls his shoulder. \"Perhaps a vaudevillian can help you further?\""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.musicwronglantern",
       "label": "The Art of Composition",
       "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
-      "description": "\"the Lantern of Enlightenment, Hekate's seeking torches... Lantern, like the Watchman Illuminates. If something remains obscured to you, try affecting it with the intent of Lantern. \"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.harald.lantern"
-      ]
+      "description": "\"the Lantern of Enlightenment, Hekate's seeking torches... Lantern, like the Watchman Illuminates. If something remains obscured to you, try affecting it with the intent of Lantern. \""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.musicwrongmoth",
       "label": "The Art of Composition",
       "startdescription": "\"You wish to discuss how to layer power beneath Art?\"",
-      "description": "\"Moth? Moth is the distraction. Moth is that which clings to you, buzzes around. Moth is the distractions of nature, the miseries of the world. if you are chased by a shadow that you wish to expose or expell, your direction should be aimed at Moth.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.harald.moth"
-      ]
+      "description": "\"Moth? Moth is the distraction. Moth is that which clings to you, buzzes around. Moth is the distractions of nature, the miseries of the world. if you are chased by a shadow that you wish to expose or expell, your direction should be aimed at Moth.\""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.musicwrong",
@@ -127,14 +112,7 @@
       "id": "mariner.conversations.northsea.copenhagen.harald.mermaid",
       "label": "Discuss Voiceless Devotion",
       "startdescription": "\"You seek my opinion on one of the Old Tales?\"",
-      "description": "\"My rendition of this story will be what I am remembered for, but I wonder how much of the audience will catch the echoes of the Truer story layered beneath.\" He gazes out the window, at the clouds chasing through the sky. \"To suffer is mortal, but to survive is divine.\"",
-      "updateCodexEntries": {
-        "codex.harald": {
-          "add": [
-            "codex.harald.voicelessdevotion"
-          ]
-        }
-      }
+      "description": "\"My rendition of this story will be what I am remembered for, but I wonder how much of the audience will catch the echoes of the Truer story layered beneath.\" He gazes out the window, at the clouds chasing through the sky. \"To suffer is mortal, but to survive is divine.\""
     },
     {
       "id": "mariner.conversations.northsea.copenhagen.harald.pineknight",

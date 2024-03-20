@@ -2,28 +2,25 @@
   "recipes": [
     {
       "id": "mariner.explore.northsea.london.deliverlettersulochana",
-      "label": "A letter to Ecdysis Club",
+      "label": "送往蜕衣俱乐部的信",
       "startdescription": "Morland handed me this letter to deliver, even though the recipient is within the Capital.<br><br>\"I like to avoid her attention whenever I can.\"",
-      "description": "Perhaps a stroke of luck, I am spared that attention as well. A tall Greek accepts the letter on her behalf. He offers me a drink, and a hefty sum of money for the delivery.",
-      "unlockCodexEntries": [
-        "codex.agdistis"
-      ]
+      "description": "Perhaps a stroke of luck, I am spared that attention as well. A tall Greek accepts the letter on her behalf. He offers me a drink, and a hefty sum of money for the delivery."
     },
     {
       "id": "mariner.addsing",
-      "label": "Singing?",
-      "startdescription": "\"So you used to be a singer, but you stopped?\" He shakes his head. \"Impossible.\" He suddenly pulls me through the empty club towards the stage.<br><br>\"Sing for me.\""
+      "label": "唱歌？",
+      "startdescription": "\"这么说你曾经是一名歌手，后面为什么不唱了？\" 他摇摇头。\"不可能。\" 突然，他拉着我，穿过空荡荡的俱乐部，一直把我拉到舞台上。<br><br>\"为我唱一首吧。\""
     },
     {
       "id": "mariner.addsing.2",
-      "label": "Singing",
+      "label": "唱歌",
       "startdescription": "He leads me through some ladders to warm my vocal chords, then some ballads to warm my soul. He urges me to practice. He urges me to look for Inspiration. He urges to begin the search for my Other Half.",
       "description": "As I leave, my throat still tingling with passion, he sits at a table, looking at me.<br><br>\"Your future may be found among the crowd. Listen to the rumours, and learn to make sense of them. Farewell.\""
     },
     {
       "id": "mariner.addtide",
-      "label": "The Tide",
-      "startdescription": "The Tide comes in, the Tide retreats. Find here what drags in its wake."
+      "label": "潮汐",
+      "startdescription": "潮起，潮落。这里你可以找到涨潮时的痕迹。"
     }
   ]
 }

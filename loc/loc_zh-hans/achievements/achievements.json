@@ -2,91 +2,91 @@
   "achievements": [
     {
       "id": "A_CATEGORY_MARINER",
-      "label": "<color=#73d3ff>Mariner"
+      "label": "<color=#73d3ff>水手"
     },
     {
       "id": "mariner.achievements.firstnavigation",
-      "label": "Coming Back to Port",
-      "unlockmessage": "I returned to the Capital.",
-      "descriptionUnlocked": "The end of a voyage? Or the beginning of a new one?"
+      "label": "回到港口",
+      "unlockmessage": "我回到了首都。",
+      "descriptionunlocked": "旅途的终点？亦或是新冒险的起点？"
     },
     {
       "id": "mariner.achievements.firstspecialist",
-      "label": "Tailoring My Crew",
-      "unlockmessage": "I need to best tools for the task to come.",
-      "descriptionUnlocked": "I decided to spend more to hire specialists."
+      "label": "定制我的团队",
+      "unlockmessage": "为了接下来的任务，我需要最好的工具。",
+      "descriptionunlocked": "我决定花更多的钱聘请专家。"
     },
     {
       "id": "mariner.achievements.firstusednatureinspiration",
-      "label": "Inspired By Nature",
-      "unlockmessage": "\"In all things of nature there is something of the marvelous.\" -Aristotle",
-      "descriptionUnlocked": "What is without, within. What is mundane, Glorious."
+      "label": "大自然的启发",
+      "unlockmessage": "\"在自然万物中，都有一些奇妙之处。\"——亚里士多德",
+      "descriptionunlocked": "存乎中，形乎外。凡尘之物，秀锦具在。"
     },
     {
       "id": "mariner.achievements.firstusedmuseinspiration",
-      "label": "Inspired By a Muse",
-      "unlockmessage": "When her very being is music, every word is a symphony, every step a performance",
-      "descriptionUnlocked": "I used a Muse for inspiration, and read music from the human form."
+      "label": "缪斯的启发",
+      "unlockmessage": "当她作为音乐而存在时，她的每一句话都是交响乐，每一舞步都是华丽的演出",
+      "descriptionunlocked": "我以缪斯女神为灵感，从人形中获悉音乐。"
     },
     {
       "id": "mariner.achievements.firstusedmelodyinspiration",
       "label": "<>",
       "unlockmessage": "<>",
-      "descriptionUnlocked": "<>"
+      "descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstusedlocationinspiration",
       "label": "<>",
       "unlockmessage": "<>",
-      "descriptionUnlocked": "<>"
+      "descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstusedinstrumentinspiration",
       "label": "<>",
       "unlockmessage": "<>",
-      "descriptionUnlocked": "<>"
+      "descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstusedexperienceinspiration",
       "label": "<>",
       "unlockmessage": "<>",
-      "descriptionUnlocked": "<>"
+      "descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstusedurstoryinspiration",
       "label": "<>",
       "unlockmessage": "<>",
-      "descriptionUnlocked": "<>"
+      "descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstsuccessfulperformance",
-      "label": "The Orphean Arts",
-      "unlockmessage": "On the stage, what is True and what is Real may trade places, and dance a merry jig. I stood in that moment, and conducted that dance.",
-      "descriptionUnlocked": "With the stage my temple, and the audience my unwitting flock, I worked a miracle."
+      "label": "律韵之术",
+      "unlockmessage": "在舞台上，真理和现实可能会互换位置，共同跳起吉格舞。而我就站在那一刻上，指挥这场表演。",
+      "descriptionunlocked": "以舞台作殿堂，以观众比教众，我，展现神迹。"
     },
     {
       "id": "mariner.achievements.firstinstrument",
-      "label": "Instrument Acquired",
-      "unlockmessage": "A foreign object now, but soon as familiar as my own limbs",
-      "descriptionUnlocked": "I have acquired an instrument, and extended music further than voice alone."
+      "label": "获得的乐器",
+      "unlockmessage": "这个乐器如今在我手中如同陌生之物，但它将很快变得如同我自己的四肢般熟悉。",
+      "descriptionunlocked": "我已经获得一件乐器，现我不只有嗓音。"
     },
     {
       "id": "mariner.achievements.haraldsmuse",
-      "label": "Decomposition",
-      "unlockmessage": "Even Discarded things undergo one last transformation.",
-      "descriptionUnlocked": "I have followed the tale of the Dancer to its disrupted end."
+      "label": "分解",
+      "unlockmessage": "即便是废弃之物，也会经历最后一次蜕变。",
+      "descriptionunlocked": "我一直追随着舞者的故事，直至那支离破碎的结局。"
     },
     {
       "id": "mariner.achievements.hiraezh",
       "label": "Hiraezh",
-      "unlockmessage": "Anguish can be both lesson and reward.",
-      "descriptionUnlocked": "I have discovered the hiraezh of a guilty sovereign, and interrupted her holy vigil."
+      "unlockmessage": "苦痛可以是教训，亦可以是回报。",
+      "descriptionunlocked": "I have discovered the hiraezh of a guilty sovereign, and interrupted her holy vigil."
     },
     {
       "id": "mariner.achievements.charactermended",
-      "label": "Character Mended",
-      "unlockmessage": "By starlight stitching, what was torn asunder can again be mended as one.",
-      "descriptionUnlocked": "The first shreds of my soul have been pulled together. I am closer to my Other Half. We are closer to being whole."
+      "label": "补完之人",
+      "unlockmessage": "经过星光的缝合，被撕裂的可以再次合二为一。",
+      "descriptionunlocked": "我灵魂的始初已被聚合，我和我的另一半更近了。我们近乎完整。"
     }
   ]
 }

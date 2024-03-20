@@ -88,14 +88,7 @@
       "id": "mariner.conversations.northsea.london.morland.pineknight",
       "label": "Tea and Translation",
       "startdescription": "\"Did you find something interesting for me? Come in then.\"",
-      "description": "\"Quite the collectable piece, for the right buyers. And I think I have just the one browsing my shop of late...\" She mixes three sugars into my tea. \"But this is not a story to tell without on an empty stomach, or in the gloomy dark. Stoke up the hearth for me, and I'll begin.\"",
-      "updateCodexEntries": {
-        "codex.hours.ringyew": {
-          "add": [
-            "codex.hours.ringyew.1"
-          ]
-        }
-      }
+      "description": "\"Quite the collectable piece, for the right buyers. And I think I have just the one browsing my shop of late...\" She mixes three sugars into my tea. \"But this is not a story to tell without on an empty stomach, or in the gloomy dark. Stoke up the hearth for me, and I'll begin.\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.sunkencity",
@@ -161,28 +154,19 @@
       "id": "mariner.conversations.northsea.london.agdistis.musicstorm",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
-      "description": "\"Our Arts are even less precise than those performed by aspirants and scholars. Take the weather, for example. If your Direction in a Performance is aimed at Grail, Paired with an Intent of Edge, You can Rouse Storms from Sea and Sky. To quell storms however, both Direction and Intent change... \"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.agdistis.grail"
-      ]
+      "description": "\"Our Arts are even less precise than those performed by aspirants and scholars. Take the weather, for example. If your Direction in a Performance is aimed at Grail, Paired with an Intent of Edge, You can Rouse Storms from Sea and Sky. To quell storms however, both Direction and Intent change... \""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.musicwrongedge",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
-      "description": "\"We try for a particular ambiance here at the Ecdysis club, and the clanging of blades is rarely a part of that. Still, if you perform with the Intent of Edge, you can rouse many things beyond mere battle lust.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.agdistis.edge"
-      ]
+      "description": "\"We try for a particular ambiance here at the Ecdysis club, and the clanging of blades is rarely a part of that. Still, if you perform with the Intent of Edge, you can rouse many things beyond mere battle lust.\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.musicwrongheart",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss Orphean Magic with me?\"",
-      "description": "\"The Revolutions of the Heart are what I studied the deepest, though the pursuit left it scars on both my body and soul. Many of the Powers of the Wood and sea share their interest in heart, but it most closely connected to its Patron Hour, The Storm Relentless. With the right performance, the Sky can be commanded, by pairing this Direction with what is springs from.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.agdistis.heart"
-      ]
+      "description": "\"The Revolutions of the Heart are what I studied the deepest, though the pursuit left it scars on both my body and soul. Many of the Powers of the Wood and sea share their interest in heart, but it most closely connected to its Patron Hour, The Storm Relentless. With the right performance, the Sky can be commanded, by pairing this Direction with what is springs from.\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.musicwrongmoth",

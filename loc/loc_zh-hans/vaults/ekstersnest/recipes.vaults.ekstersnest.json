@@ -14,8 +14,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.foulvapors",
@@ -41,8 +41,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.flashflood",
@@ -312,8 +312,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.uncomfortableacquaintance",
@@ -339,8 +339,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.bazaarbrawl",
@@ -501,170 +501,42 @@
     {
       "id": "mariner.giveawayauntieekstersdesire.lantern",
       "label": "Auntie Desires: Lantern",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Lantern",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.lantern"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Lantern"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.forge",
       "label": "Auntie Desires: Forge",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Forge",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.forge"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Forge"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.edge",
       "label": "Auntie Desires: Edge",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Edge",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.edge"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Edge"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.winter",
       "label": "Auntie Desires: Winter",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Winter",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.winter"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Winter"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.heart",
       "label": "Auntie Desires: Heart",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Heart",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.heart"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Heart"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.grail",
       "label": "Auntie Desires: Grail",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Grail",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.grail"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.moth",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Grail"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.moth",
       "label": "Auntie Desires: Moth",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Moth",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.moth"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.knock"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Moth"
     },
     {
       "id": "mariner.giveawayauntieekstersdesire.knock",
       "label": "Auntie Desires: Knock",
-      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Knock",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.founddesire.knock"
-          ],
-          "remove": [
-            "codex.auntieekster.founddesire.lantern",
-            "codex.auntieekster.founddesire.forge",
-            "codex.auntieekster.founddesire.edge",
-            "codex.auntieekster.founddesire.winter",
-            "codex.auntieekster.founddesire.heart",
-            "codex.auntieekster.founddesire.grail",
-            "codex.auntieekster.founddesire.moth"
-          ]
-        }
-      }
+      "startdescription": "The Beachcomber has demanded that his devotee aquire a hoard of Knock"
     },
     {
       "id": "mariner.vaults.ekstersnest.intelmerchant.sing.hint",
@@ -811,8 +683,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.wavesofdelirium",
@@ -838,8 +710,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.flockofgangsters",
@@ -865,8 +737,8 @@
       "slots": [
         {
           "id": "event_help",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ],
       "id": "mariner.vaults.ekstersnest.events.battleintheden",
@@ -969,14 +841,7 @@
     {
       "id": "mariner.vaults.ekstersnest.auntie.steal.task.success",
       "label": "Fingers Found a Ring",
-      "description": "Light as a breeze, we found what we need without disturbing as much as a single lock of her black and white hair. I close my fist around the ring. We are ready to leave.",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.stolering"
-          ]
-        }
-      }
+      "description": "Light as a breeze, we found what we need without disturbing as much as a single lock of her black and white hair. I close my fist around the ring. We are ready to leave."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.steal.task.failure",
@@ -1006,97 +871,41 @@
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.lantern",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.forge",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.edge",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.winter",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.heart",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.grail",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.moth",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },
     {
       "id": "mariner.vaults.ekstersnest.auntie.bargain.checkdesire.knock",
-      "updateCodexEntries": {
-        "codex.auntieekster": {
-          "add": [
-            "codex.auntieekster.negotiatedring"
-          ]
-        }
-      },
       "label": "To Own and to Possess",
       "description": "She clicks her tongue excitedly, and indicates for me to put it down next to a gilded shovel and a wad of hair. From somewhere on her person, a little shiny band appears. She will not give it to me. But I can take it from her hand."
     },

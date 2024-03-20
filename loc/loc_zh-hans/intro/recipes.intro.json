@@ -2,38 +2,30 @@
   "recipes": [
     {
       "id": "mariner.addtalk",
-      "label": "First Words",
-      "startdescription": "Before I rap on the door. I part my lips, uncurl my tongue and am ready to speak."
+      "label": "第一句话",
+      "startdescription": "在我敲门之前，我张开嘴唇，松开舌头，准备说话。"
     },
     {
       "id": "mariner.addexplore",
-      "label": "Exploring the City",
-      "startdescription": "With directions comes a place to go.",
-      "description": "Once, this was my home."
+      "label": "探索这座城市",
+      "startdescription": "有了方向，也就有了去处。",
+      "description": "曾经，这里是我的家。"
     },
     {
       "id": "mariner.addnavigate",
-      "label": "Navigating My Thoughts",
+      "label": "引领我的思绪",
       "startdescription": "I wander through the passages of my mind, trying to unravel my feelings about this city.",
       "description": "The Moon is my constant companion, on my travels, and through my thoughts. May she enlighten me, and guide me well."
     },
     {
       "id": "mariner.givelackheart",
       "label": "A Hole In My Heart",
-      "description": "Morland saw what I was missing. The negative space in my heart. She took the opportunity to fill this space with stories.",
-      "unlockCodexEntries": [
-        "codex.hours.vagabond",
-        "codex.nature.lackheart"
-      ]
+      "description": "Morland saw what I was missing. The negative space in my heart. She took the opportunity to fill this space with stories."
     },
     {
       "id": "mariner.givehalfheart",
       "label": "A Burning Will",
-      "description": "Agdistis saw what I had. What's missing may simply be out there, looking for me.",
-      "unlockCodexEntries": [
-        "codex.hours.twins",
-        "codex.nature.halfheart"
-      ]
+      "description": "Agdistis saw what I had. What's missing may simply be out there, looking for me."
     },
     {
       "id": "mariner.inspectfirstpackage",

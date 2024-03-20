@@ -25,92 +25,47 @@
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.london.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -139,92 +94,47 @@
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.amsterdam.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -253,92 +163,47 @@
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.northsea.copenhagen.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -367,92 +232,47 @@
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.marseille.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -481,92 +301,47 @@
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.bizerta.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -595,92 +370,47 @@
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.constantinople.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },
@@ -709,92 +439,47 @@
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption1.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption1.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption2.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption2.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption3.2",
           "label": "<Not Enough Funds To Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.buycargo.from.medsea.haifa.pickoption3.3",
           "label": "<Buy Cargo>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     },

@@ -2,48 +2,48 @@
   "recipes": [
     {
       "id": "mariner.dockto.northsea.london",
-      "label": "Docking to London",
-      "startdescription": "Up the Thames, until the river is more brown than grey, and the air more noise than silence. Here we dock."
+      "label": "靠泊伦敦",
+      "startdescription": "顺着泰晤士河，直到海水由灰色慢慢变为深褐色，空气由寂静转变为嘈杂。我们于此处停泊。"
     },
     {
       "id": "mariner.dockto.northsea.amsterdam",
-      "label": "Docking to Amsterdam",
-      "startdescription": "The Kite sails waterways sharp as a knife's cut. No people have tamed water as the Dutch have. No people should fear its escape as much. I dock in IJ-Haven, with the same prayer on my lips as all the rest."
+      "label": "靠泊阿姆斯特丹",
+      "startdescription": "风筝号在形状尖锐如刀割的水道上行驶着。没有哪个种族能像荷兰人那样驯服水域。也从来没有哪个种族会像荷兰人一样害怕水的挣脱。我停泊在艾默伊登湾港上，嘴中和其他人一样默默祈祷着。"
     },
     {
       "id": "mariner.dockto.northsea.copenhagen",
-      "label": "Docking to Copenhagen",
-      "startdescription": "The sea might be unpredictable, but the District of Nyhavn is bright and inviting. The Kite comes to rest at the dock as for a comfortable hibernation."
+      "label": "靠泊哥本哈根",
+      "startdescription": "大海可能是阴晴不定的，但在新港这里的水域却是明亮且宜人。风筝号停泊在码头上，就像在舒适的冬眠。"
     },
     {
       "id": "mariner.dockto.northsea.ekstersnest",
-      "label": "Docking at Amsterdam's Sewers",
-      "startdescription": "Docking!"
+      "label": "靠泊阿姆斯特丹下水道",
+      "startdescription": "靠岸!"
     },
     {
       "id": "mariner.dockto.northsea.sunkencity",
-      "label": "Docking at The Sunken City",
-      "startdescription": "Docking!"
+      "label": "靠泊沉没之城",
+      "startdescription": "靠岸!"
     },
     {
       "id": "mariner.dockto.northsea.eddangerforest",
-      "label": "Docking at Eddanger Forest",
-      "startdescription": "Docking!"
+      "label": "靠泊Eddanger Forest",
+      "startdescription": "靠岸!"
     },
     {
       "id": "mariner.dockto.northsea.docksidewarehouse",
-      "label": "Docking at Dockside Warehouse",
-      "startdescription": "Docking!"
+      "label": "靠泊码头仓库",
+      "startdescription": "靠岸!"
     },
     {
       "id": "mariner.dockto.northsea.salvagemission",
-      "label": "Docking at Salvage Mission",
-      "startdescription": "Docking!"
+      "label": "靠泊抢救任务",
+      "startdescription": "靠岸!"
     },
     {
       "id": "mariner.dockto.northsea.rescuemission",
-      "label": "Docking at Rescue Mission",
-      "startdescription": "Docking!"
+      "label": "靠泊 Rescue Mission",
+      "startdescription": "靠岸!"
     }
   ]
 }

@@ -1,12 +1,6 @@
 {
   "recipes": [
     {
-      "id": "mariner.performances.mendcharacter.check",
-      "achievements": [
-        "mariner.achievements.firstsuccessfulperformance"
-      ]
-    },
-    {
       "id": "mariner.performances.mendcharacter",
       "label": "The Three Queens",
       "startdescription": "And suddenly, where before my eyes saw my cast and my rapt audience, I now could see the three Queens who we portrayed in song. The Queens bound in the sacrifice of the Flayed One. As surely as eyes can see something that isn't there, they were here, imbuing the scene, from the bundled green curtains, to the crimson river, to precipice at the edge of the stage."
@@ -94,17 +88,7 @@
       "id": "mariner.performances.mendcharacter.consequence",
       "label": "An Unthinkable Decision, Remembered",
       "startdescription": "The city will be the stage, the offerings, the agreement. The fateful audience of it all, the sacrificed Dancers. Such is the price to be paid to mend oneself under the accord of the Queens.",
-      "description": "No one will ever say what it truly was. Did people flay each other's skin, or were they bloody demons wearing human pelts? Nevertheless, they danced. They danced, walking out of the theater and down the streets, in the port, then down the canal. For what felt like an eternity, an unceasing nightmare had taken life, until a moment later, the music stopped. There was no one left to even remember the melody, for all who had heard it disappeared at the bottom of the now burgundy waters.",
-      "achievements": [
-        "mariner.achievements.charactermended"
-      ],
-      "updateCodexEntries": {
-        "codex.ascensions.twins.character": {
-          "add": [
-            "codex.ascensions.twins.character.mended"
-          ]
-        }
-      }
+      "description": "No one will ever say what it truly was. Did people flay each other's skin, or were they bloody demons wearing human pelts? Nevertheless, they danced. They danced, walking out of the theater and down the streets, in the port, then down the canal. For what felt like an eternity, an unceasing nightmare had taken life, until a moment later, the music stopped. There was no one left to even remember the melody, for all who had heard it disappeared at the bottom of the now burgundy waters."
     }
   ]
 }

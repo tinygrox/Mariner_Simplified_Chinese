@@ -7,8 +7,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.receivemissionorder.start",
-      "label": "Receive mission order",
-      "startdescription": "Receive mission order"
+      "label": "接受指派命令",
+      "startdescription": "接受指派命令"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.start",
@@ -27,23 +27,23 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.undock.start",
-      "label": "Undock",
-      "startdescription": "Undock"
+      "label": "离泊",
+      "startdescription": "离泊"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.wait.start",
-      "label": "Wait",
-      "startdescription": "Wait"
+      "label": "等待",
+      "startdescription": "等待"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.dock.start",
-      "label": "Dock",
-      "startdescription": "Dock"
+      "label": "停泊",
+      "startdescription": "停泊"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.waitinvestigate.start",
-      "label": "Wait",
-      "startdescription": "Wait"
+      "label": "等待",
+      "startdescription": "等待"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.investigate.start",
@@ -52,8 +52,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.endmissionorder.start",
-      "label": "End mission order",
-      "startdescription": "End mission order"
+      "label": "结束指派命令",
+      "startdescription": "结束指派命令"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.start",
@@ -62,8 +62,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.undock.start",
-      "label": "Undock",
-      "startdescription": "Undock"
+      "label": "离泊",
+      "startdescription": "离泊"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.leavesea.start",
@@ -72,8 +72,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.wait.start",
-      "label": "Wait",
-      "startdescription": "Wait"
+      "label": "等待",
+      "startdescription": "等待"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.arriveinsea.start",
@@ -82,8 +82,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.endmissionorder.start",
-      "label": "End mission order",
-      "startdescription": "End mission order"
+      "label": "结束指派命令",
+      "startdescription": "结束指派命令"
     }
   ]
 }

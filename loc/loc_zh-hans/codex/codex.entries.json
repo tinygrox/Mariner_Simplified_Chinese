@@ -2,8 +2,8 @@
   "elements": [
     {
       "id": "codex.hours",
-      "label": "The Hours",
-      "description": "The Sailors call them the Fortunes. The gnostics call them the Demiurges. The scholars call them the Hours. They're the rumour behind the waves, the refraction of solar rays, the voices conducting occult prayers. The sentient forces of nature that might actually be the hidden rulers of our world, some whisper late at night."
+      "label": "司辰",
+      "description": "海员们称之为时运。诺斯替派称之为创世主。学者称之为司辰。他们是潜藏在浪潮后面的传闻，是太阳光的折射，是神秘仪式的低语。有人在深夜低语着，这些来自大自然的感知力量实质是隐藏在我们这个世界背后的掌管者。"
     },
     {
       "id": "codex.hours.vagabond",
@@ -27,7 +27,7 @@
     },
     {
       "id": "codex.nature.lackheart",
-      "label": "Lack-Heart",
+      "label": "空虚之心",
       "description": "There is a pit in my chest, A maw above my gut. If I do not feed it with fresh experiences, it begins to consume me. If I stick around too long, my blood runs cold and my joy starts to fade. So back out onto the sea I go."
     },
     {

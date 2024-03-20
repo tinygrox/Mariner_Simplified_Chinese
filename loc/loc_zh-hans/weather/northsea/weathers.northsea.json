@@ -23,87 +23,87 @@
     {
       "id": "mariner.weathers.northsea.wind.1",
       "label": "呼啸风声",
-      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+      "description": "风儿吹奏着林木，演奏自己的协奏曲。"
     },
     {
       "id": "mariner.weathers.northsea.wind.2",
       "label": "呼啸风声",
-      "description": "The wind plays the trees, and sings it's own many voiced harmonies."
+      "description": "风儿吹奏着林木，演奏自己的协奏曲。"
     },
     {
       "id": "mariner.weathers.northsea.storm.1",
-      "label": "A Storm Howls",
-      "description": "The sky's drum beats a furious rhythm."
+      "label": "风暴咆哮",
+      "description": "来自天空的激烈鼓奏。"
     },
     {
       "id": "mariner.weathers.northsea.storm.2",
-      "label": "A Storm Howls",
-      "description": "The sky's drum beats a furious rhythm."
+      "label": "风暴咆哮",
+      "description": "来自天空的激烈鼓奏。"
     },
     {
       "id": "mariner.weathers.northsea.storm.3",
-      "label": "A Storm Howls",
-      "description": "The sky's drum beats a furious rhythm."
+      "label": "风暴咆哮",
+      "description": "来自天空的激烈鼓奏。"
     },
     {
       "id": "mariner.weathers.northsea.storm.4",
-      "label": "A Storm Howls",
-      "description": "The sky's drum beats a furious rhythm."
+      "label": "风暴咆哮",
+      "description": "来自天空的激烈鼓奏。"
     },
     {
       "id": "mariner.weathers.northsea.clear.1",
-      "label": "A Blank Sky",
-      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+      "label": "晴空万里",
+      "description": "天空由灰色、白色和蓝色拼凑而成，中间是染色的羊皮和半截羊毛。"
     },
     {
       "id": "mariner.weathers.northsea.clear.2",
-      "label": "A Blank Sky",
-      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+      "label": "晴空万里",
+      "description": "天空由灰色、白色和蓝色拼凑而成，中间是染色的羊皮和半截羊毛。"
     },
     {
       "id": "mariner.weathers.northsea.clear.3",
-      "label": "A Blank Sky",
-      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+      "label": "晴空万里",
+      "description": "天空由灰色、白色和蓝色拼凑而成，中间是染色的羊皮和半截羊毛。"
     },
     {
       "id": "mariner.weathers.northsea.snow.1",
-      "label": "Ice Sings",
-      "description": "Ice snaps in the river. Sometimes it is hours between notes."
+      "label": "冰雪之歌",
+      "description": "河流中传来冰雪断裂的声音。有时候，音符之间会相隔数小时。"
     },
     {
       "id": "mariner.weathers.northsea.snow.2",
-      "label": "Ice Sings",
-      "description": "Ice snaps in the river. Sometimes it is hours between notes."
+      "label": "冰雪之歌",
+      "description": "河流中传来冰雪断裂的声音。有时候，音符之间会相隔数小时。"
     },
     {
       "id": "mariner.weathers.northsea.bright.1",
-      "label": "Bright Day's Bustle",
-      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+      "label": "喧嚣白日",
+      "description": "生活不可避免的会在一个美好的日子里走出户外。其声随之而来。"
     },
     {
       "id": "mariner.weathers.northsea.bright.2",
-      "label": "Bright Day's Bustle",
-      "description": "Life inevitably finds its way outside on a lovely day. Its sounds follow."
+      "label": "喧嚣白日",
+      "description": "生活不可避免的会在一个美好的日子里走出户外。其声随之而来。"
     },
     {
       "id": "mariner.weathers.northsea.smog.1",
-      "label": "The Hiss of Smog",
-      "description": "Hateful vapors opress upon the lungs; The vengeful offspring of mankind's most glorious work."
+      "label": "霾雾嘶嘶",
+      "description": "恶毒的蒸汽侵入肺腑；人类最杰出作品的后代，报复心很强。"
     },
     {
       "id": "mariner.weathers.northsea.smog.2",
-      "label": "The Hiss of Smog",
-      "description": "Hateful vapors opress upon the lungs; The vengeful offspring of mankind's most glorious work."
+      "label": "霾雾嘶嘶",
+      "description": "恶毒的蒸汽侵入肺腑；人类最杰出作品的后代，报复心很强。"
     },
     {
       "id": "mariner.weathers.northsea.clear.performancespecial",
-      "label": "A Blank Sky",
-      "description": "The sky is a patchwork of grey and white and blue, partway between stained vellum and a half-shorn fleece"
+      "label": "晴空万里",
+      "description": "天空由灰色、白色和蓝色拼凑而成，中间是染色的牛皮纸和半截羊毛。"
     },
     {
       "id": "mariner.weathers.northsea.storm.performancespecial",
-      "label": "A Storm Howls",
-      "description": "The sky's drum beats a furious rhythm."
+      "label": "风暴咆哮",
+      "description": "来自天空的激烈鼓奏。"
     }
   ]
 }

@@ -26,92 +26,47 @@
         {
           "id": "mariner.store.buyresources.pickoption1.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.store.buyresources.pickoption1.2",
           "label": "<Not Enough Funds To Buy Rations>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.store.buyresources.pickoption1.3",
           "label": "<Buy Rations>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.store.buyresources.pickoption2.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.store.buyresources.pickoption2.2",
           "label": "<Not Enough Funds To Buy Repair Kits>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.store.buyresources.pickoption2.3",
           "label": "<Buy Repair Kits>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.store.buyresources.pickoption3.1",
           "label": "<>",
-          "startdescription": "<not enough space>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<not enough space>"
         },
         {
           "id": "mariner.store.buyresources.pickoption3.2",
           "label": "<Not Enough Funds To Buy Medical Supplies>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         },
         {
           "id": "mariner.store.buyresources.pickoption3.3",
           "label": "<Buy Medical Supplies>",
-          "startdescription": "<>",
-          "movements": {
-            "~/tabletop": [
-              "mariner.halfheart"
-            ]
-          }
+          "startdescription": "<>"
         }
       ]
     }

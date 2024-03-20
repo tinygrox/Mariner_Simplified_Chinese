@@ -2,53 +2,53 @@
   "elements": [
     {
       "id": "mariner.locations.northsea.london.morland",
-      "label": "Miss Morland",
-      "description": "A merchant in rare and valuable books."
+      "label": "莫兰小姐",
+      "description": "买卖稀有且有价值的书籍的商人。"
     },
     {
       "id": "mariner.locations.northsea.london.morland.away",
-      "label": "Miss Morland [away]",
-      "description": "A merchant in rare and valuable books."
+      "label": "莫兰小姐 [离开]",
+      "description": "买卖稀有且有价值的书籍的商人。"
     },
     {
       "id": "mariner.locations.northsea.london.morland.hostile",
-      "label": "Miss Morland [hard to meet]",
-      "description": "A merchant in rare and valuable books."
+      "label": "莫兰小姐 [难以碰面]",
+      "description": "买卖稀有且有价值的书籍的商人。"
     },
     {
       "id": "mariner.locations.northsea.london.agdistis",
-      "label": "Mr. Agdistis",
-      "description": "The tall and tragic stage director of the Ecdysis Club."
+      "label": "阿格狄斯提斯先生",
+      "description": "蜕衣俱乐部的舞台导演，高大且阴郁。"
     },
     {
       "id": "mariner.locations.northsea.london.agdistis.away",
-      "label": "Mr. Agdistis [away]",
-      "description": "The tall and tragic stage director of the Ecdysis Club."
+      "label": "阿格狄斯提斯先生 [离开]",
+      "description": "蜕衣俱乐部的舞台导演，高大且阴郁。"
     },
     {
       "id": "mariner.locations.northsea.london.agdistis.hostile",
-      "label": "Mr. Agdistis [hard to meet]",
-      "description": "The tall and tragic stage director of the Ecdysis Club."
+      "label": "阿格狄斯提斯先生 [难以碰面]",
+      "description": "蜕衣俱乐部的舞台导演，高大且阴郁。"
     },
     {
       "id": "mariner.locations.northsea.london.unmarkedgrave",
-      "label": "An Unmarked Grave",
-      "description": "What remains of the dancer slowly sinks down into the soggy soil.",
+      "label": "无名墓地",
+      "description": "舞者的残躯慢慢渗入到潮湿的土中。",
       "slots": [
         {
           "id": "intent",
-          "label": "Reason to Visit"
+          "label": "来访理由"
         }
       ]
     },
     {
       "id": "mariner.locations.northsea.london.unmarkedgrave.away",
-      "label": "An Unmarked Grave [away]",
-      "description": "What remains of the dancer slowly sinks down into the soggy soil."
+      "label": "无名墓地 [离开]",
+      "description": "舞者的残躯慢慢渗入到潮湿的土中。"
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisfake",
-      "label": "The Ecdysis Club",
+      "label": "蜕衣俱乐部",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition.",
       "slots": [
         {
@@ -58,38 +58,38 @@
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         },
         {
           "id": "aspect1",
-          "label": "Instrument"
+          "label": "乐器"
         }
       ]
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisfake.away",
-      "label": "The Ecdysis Club [away]",
+      "label": "蜕衣俱乐部 [离开]",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition."
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub",
-      "label": "The Ecdysis Club",
+      "label": "蜕衣俱乐部",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
       "slots": [
         {
           "id": "verbSong",
-          "label": "Song",
+          "label": "歌曲",
           "description": "I should begin my performance, by declaring my intentions, my method, my staging."
         },
         {
           "id": "story",
-          "label": "Story to trade",
-          "description": "The story I'm willing to share in order to get them to share theirs."
+          "label": "以轶事交换",
+          "description": "只要让他们愿意分享自己的故事，我愿意分享自己的。"
         },
         {
           "id": "aspect1",
-          "label": "Instrument"
+          "label": "乐器"
         },
         {
           "id": "aspect2",
@@ -99,28 +99,28 @@
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub.away",
-      "label": "The Ecdysis Club [away]",
+      "label": "蜕衣俱乐部 [离开]",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate."
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub.hostile",
-      "label": "The Ecdysis Club [hostile]",
+      "label": "蜕衣俱乐部 [hostile]",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
       "slots": [
         {
           "id": "explore1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "explore3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },
@@ -136,18 +136,18 @@
       "slots": [
         {
           "id": "talk1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },
@@ -163,18 +163,18 @@
       "slots": [
         {
           "id": "talk1",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk2",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         },
         {
           "id": "talk3",
-          "label": "Help",
-          "description": "Which implements are available for my approach."
+          "label": "协助",
+          "description": "器具可用于实现我之目标。"
         }
       ]
     },

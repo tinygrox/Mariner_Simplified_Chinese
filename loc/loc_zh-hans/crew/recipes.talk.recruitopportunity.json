@@ -28,18 +28,6 @@
       "id": "mariner.talk.recruitopportunity.done",
       "label": "Crew Signed",
       "startdescription": "Another sailor for my ship, another soul for my cause, another life as my burden."
-    },
-    {
-      "id": "mariner.spawn.crewmember.intellectual",
-      "achievements": [
-        "mariner.achievements.firstspecialist"
-      ]
-    },
-    {
-      "id": "mariner.spawn.crewmember.manual",
-      "achievements": [
-        "mariner.achievements.firstspecialist"
-      ]
     }
   ]
 }

@@ -4,14 +4,7 @@
       "id": "mariner.navigate.mystery.sunkencity.success",
       "label": "The Secret of Ker Ys",
       "startdescription": "The Where, the Why, the Who",
-      "description": "I have studied the story of the sunken city of Ker Ys. I know the location of the hamlet on the English Coast which spawned from the sunken city. And I can feel within me that all consuming desire... (or that desire to consume all?) If I hold these in my brain, my lips and my heart, I can now find the path to Ker Ys.",
-      "updateCodexEntries": {
-        "codex.ascensions.exemplum.hiraezh": {
-          "add": [
-            "codex.ascensions.exemplum.hiraezh.solvedmystery"
-          ]
-        }
-      }
+      "description": "I have studied the story of the sunken city of Ker Ys. I know the location of the hamlet on the English Coast which spawned from the sunken city. And I can feel within me that all consuming desire... (or that desire to consume all?) If I hold these in my brain, my lips and my heart, I can now find the path to Ker Ys."
     },
     {
       "id": "mariner.navigate.mystery.sunkencity.hint.missingstory",

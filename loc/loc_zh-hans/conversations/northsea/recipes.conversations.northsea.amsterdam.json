@@ -40,37 +40,25 @@
       "id": "mariner.conversations.northsea.amsterdam.matahari.musicmoth",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
-      "description": "\"Moth guides what hunts and stalks us. Our doubts, our fears, our shadow, our past. Any negativity still clinging to your clothes or hair. With the Intent of Lantern and the Direction of Moth, you can reveal the nature of a curse that has latched on to you. To Quell the curse, you will need to change your Intention, but keep the Direction the same.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.veiledlady.moth"
-      ]
+      "description": "\"Moth guides what hunts and stalks us. Our doubts, our fears, our shadow, our past. Any negativity still clinging to your clothes or hair. With the Intent of Lantern and the Direction of Moth, you can reveal the nature of a curse that has latched on to you. To Quell the curse, you will need to change your Intention, but keep the Direction the same.\""
     },
     {
       "id": "mariner.conversations.northsea.amsterdam.matahari.musicwrongwinter",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
-      "description": "\"I do not like to deal with Winter. I have come quite close enough to death, thank you. The Winter Direction is a dangerous road... one for the desperate or the desolate. One who believes they have lost all may seek to pursue it further...\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.veiledlady.winter"
-      ]
+      "description": "\"I do not like to deal with Winter. I have come quite close enough to death, thank you. The Winter Direction is a dangerous road... one for the desperate or the desolate. One who believes they have lost all may seek to pursue it further...\""
     },
     {
       "id": "mariner.conversations.northsea.amsterdam.matahari.musicwronggrail",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
-      "description": "\"The acts of Grail? And here I picked up that your Heart belonged to antother? Oh I tease mon chéri. The Intent of Grail is to charm, subsume the will of another with their desire to please you. If you wish to set of in that Direction though... well... You allready are, in a way. In the Direction of Grail lies both the Sea, and it' drowning waters, as well as the depths of your Desire itself.\"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.veiledlady.grail"
-      ]
+      "description": "\"The acts of Grail? And here I picked up that your Heart belonged to antother? Oh I tease mon chéri. The Intent of Grail is to charm, subsume the will of another with their desire to please you. If you wish to set of in that Direction though... well... You allready are, in a way. In the Direction of Grail lies both the Sea, and it' drowning waters, as well as the depths of your Desire itself.\""
     },
     {
       "id": "mariner.conversations.northsea.amsterdam.matahari.musicwronglantern",
       "label": "Discuss the Power of my Songs",
       "startdescription": "\"You wish to discuss the Arts Unregarded?\"",
-      "description": "\"The Light of Lantern was never mine to persue, I have much preferred the kindness of shadows. But just like my dances, the Direction of lantern is also one of Revelation. \"",
-      "unlockCodexEntries": [
-        "codex.performance.conversation.veiledlady.lantern"
-      ]
+      "description": "\"The Light of Lantern was never mine to persue, I have much preferred the kindness of shadows. But just like my dances, the Direction of lantern is also one of Revelation. \""
     },
     {
       "id": "mariner.conversations.northsea.amsterdam.matahari.musicwrong",
