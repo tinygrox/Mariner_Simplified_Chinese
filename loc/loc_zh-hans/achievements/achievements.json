@@ -61,8 +61,8 @@
     {
       "id": "mariner.achievements.firstsuccessfulperformance",
       "label": "律韵之术",
-      "unlockmessage": "在舞台上，真理和现实可能会互换位置，共同跳起吉格舞。而我就站在那一刻上，指挥这场表演。",
-      "descriptionunlocked": "以舞台作殿堂，以观众比教众，我，展现神迹。"
+      "unlockmessage": "在舞台上，真理和现实可能会互换位置，共同跳起吉格舞。而我就置于那一刻上，指挥这场表演。",
+      "descriptionunlocked": "以舞台作殿堂，以观众比教众，我，施展神迹。"
     },
     {
       "id": "mariner.achievements.firstinstrument",
