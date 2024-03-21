@@ -2,22 +2,22 @@
   "elements": [
     {
       "id": "mariner.halfheart",
-      "label": "My Half-Heart",
+      "label": "我的残缺之心",
       "description": "My passions, my drive, my charm, my thrumming blood, my clever fingers. If I present this to the world, I may be able to bend things to my will. [Use this while Exploring, Talking or Performing, and you may find or discuss things of interest to you]"
     },
     {
       "id": "mariner.halfheart.exhausted",
-      "label": "My Half-Heart [exhausted]",
+      "label": "我的残缺之心 [疲惫]",
       "description": "My passions, my drive, my charm, my thrumming blood, my clever fingers. Each need a rest."
     },
     {
       "id": "mariner.lackheart",
-      "label": "My Lack-Heart",
+      "label": "我的空洞之心",
       "description": "A wound in the soul, a raw nerve, a longing. If I leave this exposed, the universe will try to fill it. [Use this while Exploring, Talking or Performing and you may find Tunes, Stories or other Inspirations]"
     },
     {
       "id": "mariner.lackheart.exhausted",
-      "label": "My Lack-Heart [exhausted]",
+      "label": "我的空洞之心 [疲惫]",
       "description": "A wound in the soul, a raw nerve, a longing. I could not bear to expose it now."
     }
   ]

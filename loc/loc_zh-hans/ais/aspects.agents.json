@@ -2,15 +2,15 @@
   "elements": [
     {
       "id": "mariner.ais.agents.id",
-      "label": "Agent ID"
+      "label": "特工ID"
     },
     {
       "id": "mariner.agentcontroller",
-      "label": "AI Agent Controller"
+      "label": "AI特工控制器"
     },
     {
       "id": "mariner.agent",
-      "label": "AI Agent"
+      "label": "AI特工"
     }
   ]
 }

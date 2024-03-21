@@ -2,7 +2,7 @@
   "elements": [
     {
       "id": "mariner.ais.missionorder",
-      "label": "AI Agent Mission Order"
+      "label": "AI 特工任务命令"
     }
   ]
 }

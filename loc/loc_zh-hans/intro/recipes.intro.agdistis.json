@@ -3,19 +3,19 @@
     {
       "id": "mariner.explore.northsea.london.deliverlettersulochana",
       "label": "送往蜕衣俱乐部的信",
-      "startdescription": "Morland handed me this letter to deliver, even though the recipient is within the Capital.<br><br>\"I like to avoid her attention whenever I can.\"",
-      "description": "Perhaps a stroke of luck, I am spared that attention as well. A tall Greek accepts the letter on her behalf. He offers me a drink, and a hefty sum of money for the delivery."
+      "startdescription": "莫兰将这封信交给我去送，即使收信人也在首都。<br><br>\"我不是很喜欢她的目光。\"",
+      "description": "或许是运气好，我没能接触到那样的目光。 一个高个子希腊人代她收下了信。他请我喝了杯酒，并给了我一大笔资金作为跑腿费。"
     },
     {
       "id": "mariner.addsing",
       "label": "唱歌？",
-      "startdescription": "\"这么说你曾经是一名歌手，后面为什么不唱了？\" 他摇摇头。\"不可能。\" 突然，他拉着我，穿过空荡荡的俱乐部，一直把我拉到舞台上。<br><br>\"为我唱一首吧。\""
+      "startdescription": "\"这么说你以前还会唱歌，后面为什么不唱了？\" 他摇了摇头。\"不可能。\" 突然，他拉着我，穿过空荡荡的俱乐部，一直把我拉到舞台上。<br><br>\"为我唱一首吧。\""
     },
     {
       "id": "mariner.addsing.2",
       "label": "唱歌",
-      "startdescription": "He leads me through some ladders to warm my vocal chords, then some ballads to warm my soul. He urges me to practice. He urges me to look for Inspiration. He urges to begin the search for my Other Half.",
-      "description": "As I leave, my throat still tingling with passion, he sits at a table, looking at me.<br><br>\"Your future may be found among the crowd. Listen to the rumours, and learn to make sense of them. Farewell.\""
+      "startdescription": "他先领着我哼了几个音让我开嗓，接着唱一些民谣小调来温暖我的灵魂。他催促着我练习，他督促着我寻找灵感，他敦促我开始寻找我的缺失的另一半。",
+      "description": "我离开时，我的喉咙还因刚才的激情而刺痛，他坐在桌子旁，看着我。<br><br>\"你所要追寻的未来可能就隐匿在普罗大众之中。好好倾听那些传言，学会理解其中。保重。\""
     },
     {
       "id": "mariner.addtide",

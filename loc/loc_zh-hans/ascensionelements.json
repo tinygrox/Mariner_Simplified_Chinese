@@ -2,23 +2,23 @@
   "elements": [
     {
       "id": "mariner.ascension.vagabond.temptation",
-      "label": "Temptation: Exemplum",
+      "label": "诱惑：榜样",
       "description": "Shall I dedicate myself to stories about the Truer Places I can half glimpse through the fog of wordly misery?"
     },
     {
       "id": "mariner.ascension.vagabond.dedication",
-      "label": "Dedication: Exemplum",
+      "label": "奉上：榜样",
       "description": "I will seek out the places where myths are truer than facts. I will experience the lessons of the Vagabond."
     },
     {
       "id": "mariner.ascension.twins.temptation",
-      "label": "Temptation: Constellate",
-      "description": "Should I seek that part of me that is missing?"
+      "label": "诱惑：群星",
+      "description": "我应该去寻觅我那缺失的部分吗？"
     },
     {
       "id": "mariner.ascension.twins.dedication",
-      "label": "Dedication: Constellate",
-      "description": "I shall find who carries the other half of my soul, and mend our soul stitch by stitch."
+      "label": "奉上：群星",
+      "description": "我要找到那位承载了我另一半灵魂的人，一针一线地缝补我们的灵魂。"
     }
   ]
 }

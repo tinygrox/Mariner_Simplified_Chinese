@@ -29,34 +29,34 @@
       "descriptionunlocked": "我以缪斯女神为灵感，从人形中获悉音乐。"
     },
     {
-      "id": "mariner.achievements.firstusedmelodyinspiration",
-      "label": "<>",
-      "unlockmessage": "<>",
-      "descriptionunlocked": "<>"
+      "#id": "mariner.achievements.firstusedmelodyinspiration",
+      "#label": "<>",
+      "#unlockmessage": "<>",
+      "#descriptionunlocked": "<>"
     },
     {
-      "id": "mariner.achievements.firstusedlocationinspiration",
-      "label": "<>",
-      "unlockmessage": "<>",
-      "descriptionunlocked": "<>"
+      "#id": "mariner.achievements.firstusedlocationinspiration",
+      "#label": "<>",
+      "#unlockmessage": "<>",
+      "#descriptionunlocked": "<>"
     },
     {
-      "id": "mariner.achievements.firstusedinstrumentinspiration",
-      "label": "<>",
-      "unlockmessage": "<>",
-      "descriptionunlocked": "<>"
+      "#id": "mariner.achievements.firstusedinstrumentinspiration",
+      "#label": "<>",
+      "#unlockmessage": "<>",
+      "#descriptionunlocked": "<>"
     },
     {
-      "id": "mariner.achievements.firstusedexperienceinspiration",
-      "label": "<>",
-      "unlockmessage": "<>",
-      "descriptionunlocked": "<>"
+      "#id": "mariner.achievements.firstusedexperienceinspiration",
+      "#label": "<>",
+      "#unlockmessage": "<>",
+      "#descriptionunlocked": "<>"
     },
     {
-      "id": "mariner.achievements.firstusedurstoryinspiration",
-      "label": "<>",
-      "unlockmessage": "<>",
-      "descriptionunlocked": "<>"
+      "#id": "mariner.achievements.firstusedurstoryinspiration",
+      "#label": "<>",
+      "#unlockmessage": "<>",
+      "#descriptionunlocked": "<>"
     },
     {
       "id": "mariner.achievements.firstsuccessfulperformance",
@@ -86,7 +86,7 @@
       "id": "mariner.achievements.charactermended",
       "label": "补完之人",
       "unlockmessage": "经过星光的缝合，被撕裂的可以再次合二为一。",
-      "descriptionunlocked": "我灵魂的始初已被聚合，我和我的另一半更近了。我们近乎完整。"
+      "descriptionunlocked": "我灵魂的始初已重新聚合，我和我的另一半更近了，我们近乎完整。"
     }
   ]
 }

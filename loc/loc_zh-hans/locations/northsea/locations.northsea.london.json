@@ -7,7 +7,7 @@
     },
     {
       "id": "mariner.locations.northsea.london.morland.away",
-      "label": "莫兰小姐 [离开]",
+      "label": "莫兰小姐 [别处]",
       "description": "买卖稀有且有价值的书籍的商人。"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id": "mariner.locations.northsea.london.agdistis.away",
-      "label": "阿格狄斯提斯先生 [离开]",
+      "label": "阿格狄斯提斯先生 [别处]",
       "description": "蜕衣俱乐部的舞台导演，高大且阴郁。"
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "id": "mariner.locations.northsea.london.unmarkedgrave.away",
-      "label": "无名墓地 [离开]",
+      "label": "无名墓地 [别处]",
       "description": "舞者的残躯慢慢渗入到潮湿的土中。"
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisfake",
       "label": "蜕衣俱乐部",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition.",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on 阿格狄斯提斯' invitation, but I am not permitted true access until I have proven myself in an audition.",
       "slots": [
         {
           "id": "verbSong",
@@ -69,8 +69,8 @@
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisfake.away",
-      "label": "蜕衣俱乐部 [离开]",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on Agdistis' invitation, but I am not permitted true access until I have proven myself in an audition."
+      "label": "蜕衣俱乐部 [别处]",
+      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on 阿格狄斯提斯' invitation, but I am not permitted true access until I have proven myself in an audition."
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub",
@@ -99,7 +99,7 @@
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub.away",
-      "label": "蜕衣俱乐部 [离开]",
+      "label": "蜕衣俱乐部 [别处]",
       "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate."
     },
     {

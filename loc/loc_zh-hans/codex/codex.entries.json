@@ -13,7 +13,7 @@
     {
       "id": "codex.hours.twins",
       "label": "\"双生\"",
-      "description": "Agdistis told me I had a split soul, and it reminded me of a fable from lake Fucino.\n\nA pair who was born incomplete, each carrying half of the same soul. They are said to have pulled on eachother like the ocean on the moon, to tug at eachother like the waves at the shore. They sought to unite, even before they ever knew the other's name."
+      "description": "阿格狄斯提斯 told me I had a split soul, and it reminded me of a fable from lake Fucino.\n\nA pair who was born incomplete, each carrying half of the same soul. They are said to have pulled on eachother like the ocean on the moon, to tug at eachother like the waves at the shore. They sought to unite, even before they ever knew the other's name."
     },
     {
       "id": "codex.hours.ringyew",
@@ -22,18 +22,18 @@
     },
     {
       "id": "codex.nature",
-      "label": "My Nature",
+      "label": "我的本性",
       "description": "<>"
     },
     {
       "id": "codex.nature.lackheart",
-      "label": "空虚之心",
+      "label": "空洞之心",
       "description": "There is a pit in my chest, A maw above my gut. If I do not feed it with fresh experiences, it begins to consume me. If I stick around too long, my blood runs cold and my joy starts to fade. So back out onto the sea I go."
     },
     {
       "id": "codex.nature.halfheart",
-      "label": "Half-Heart",
-      "description": "They called me a Half-Heart: Morland, Agdistis and some others before. A split soul. All I know is that something is missing. That my senses are on edge like an exposed nerve."
+      "label": "残缺之心",
+      "description": "They called me a Half-Heart: Morland, 阿格狄斯提斯 and some others before. A split soul. All I know is that something is missing. That my senses are on edge like an exposed nerve."
     },
     {
       "id": "codex.ascensions.constellate",
@@ -122,22 +122,22 @@
     },
     {
       "id": "codex.performance.conversation.agdistis.grail",
-      "label": "[The Arts] Agdistis on Grail",
+      "label": "[The Arts] 阿格狄斯提斯 on Grail",
       "description": "\"Our Arts are even less precise than those performed by aspirants and scholars. Take the weather, for example. If your Direction in a Performance is aimed at Grail, Paired with an Intent of Edge, You can Rouse Storms from Sea and Sky. To quell storms however, both Direction and Intent change... \""
     },
     {
       "id": "codex.performance.conversation.agdistis.moth",
-      "label": "[The Arts] Agdistis on Moth",
+      "label": "[The Arts] 阿格狄斯提斯 on Moth",
       "description": "\"The Club does do Performances in the Old Path, though they focus on dance, not music. If Sulochana had been here... Perhaps you can seek out another shedder of skins to elaborate on these mysteries?\""
     },
     {
       "id": "codex.performance.conversation.agdistis.edge",
-      "label": "[The Arts] Agdistis on Edge",
+      "label": "[The Arts] 阿格狄斯提斯 on Edge",
       "description": "\"We try for a particular ambiance here at the Ecdysis club, and the clanging of blades is rarely a part of that. Still, if you perform with the Intent of Edge, you can rouse many things beyond mere battle lust.\""
     },
     {
       "id": "codex.performance.conversation.agdistis.heart",
-      "label": "[The Arts] Agdistis on Heart",
+      "label": "[The Arts] 阿格狄斯提斯 on Heart",
       "description": "\"The Revolutions of the Heart are what I studied the deepest, though the pursuit left it scars on both my body and soul. Many of the Powers of the Wood and sea share their interest in Heart, but it most closely connected to its Patron Hour, The Storm Relentless. With the right performance, the Sky can be commanded, by pairing this Direction with what it springs from.\""
     },
     {
@@ -183,7 +183,7 @@
     {
       "id": "codex.agdistis",
       "label": "[N. Sea] The Ecdysis Club and its Manager",
-      "description": "A tall, handsome, soft-spoken greek. He is the dancemaster at the Ecdysis club in London. The reputation of the club is known, but what do people know about its purveyors?\n\n\n@#codex.agdistis.unlockedecdysis|I have a standing invitation to perform at the Ecdysis club. Agdistis has challenged me to pursue the Orphean Arts there, and see what I can accomplish with my songs.#|Agdistis has expressed interest in my development as an artist. If I impress him with the right songs, he will open up  the stage to me.@\n\n\n@#codex.agdistis.throwndoll|Agdistis requested for me to drop a treasured idol into the ocean. It has brought to my mind the importance of Character, of making decisions of your own, and not just letting the world lead you.\n\nI sense that power in me is broken. If I wish to pursue the path of becoming whole, I must find a way within my means to recover this. I am sure I will find it, out there in the world's memory.#codex.agdistis.givendoll|Agdistis has come to me with a request. He wishes for me to <color=yellow>drop a doll into the ocean</color>. He has told me he wishes to move forward, but from what? I dread to imagine.@"
+      "description": "A tall, handsome, soft-spoken greek. He is the dancemaster at the Ecdysis club in London. The reputation of the club is known, but what do people know about its purveyors?\n\n\n@#codex.agdistis.unlockedecdysis|I have a standing invitation to perform at the Ecdysis club. 阿格狄斯提斯 has challenged me to pursue the Orphean Arts there, and see what I can accomplish with my songs.#|阿格狄斯提斯 has expressed interest in my development as an artist. If I impress him with the right songs, he will open up  the stage to me.@\n\n\n@#codex.agdistis.throwndoll|阿格狄斯提斯 requested for me to drop a treasured idol into the ocean. It has brought to my mind the importance of Character, of making decisions of your own, and not just letting the world lead you.\n\nI sense that power in me is broken. If I wish to pursue the path of becoming whole, I must find a way within my means to recover this. I am sure I will find it, out there in the world's memory.#codex.agdistis.givendoll|阿格狄斯提斯 has come to me with a request. He wishes for me to <color=yellow>drop a doll into the ocean</color>. He has told me he wishes to move forward, but from what? I dread to imagine.@"
     },
     {
       "id": "codex.veiledlady",

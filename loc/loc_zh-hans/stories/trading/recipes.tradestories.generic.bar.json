@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "mariner.tradestory.generic.bar",
-      "label": "Trade My Story With Others in Bar",
+      "label": "与酒吧中人交换我的轶事",
       "startdescription": "In many bars one can find many different stories, but there is one you can always find. This one is spoken not in words, but in postures, and stances and glances.",
       "description": "I watch a dialogue in body language, a story older than spoken language. Over the night, I watch the blooming of a firefly relationship, I watch it rise, shine, and blink out in the night."
     }

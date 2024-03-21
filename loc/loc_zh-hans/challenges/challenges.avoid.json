@@ -2,9 +2,9 @@
   "recipes": [
     {
       "id": "mariner.challenge.avoid",
-      "label": "Avoid Opposion",
-      "startdescription": "Something seeks us, chases us or challenges us. We could outsmart it with the cunning of Edge or sneak past it with the blessings of the Moth.",
-      "description": "Something seeks us, chases us or challenges us. We could outsmart it with the cunning of Edge or sneak past it with the blessings of the Moth.",
+      "label": "避免冲突",
+      "startdescription": "什么在寻找着我们、追逐着我们，挑战着我们。我们可以利用<b>刃</b>的狡诈胜过它，也可以利用<b>蛾</b>的祝福躲过它。",
+      "description": "什么在寻找着我们、追逐着我们，挑战着我们。我们可以利用<b>刃</b>的狡诈胜过它，也可以利用<b>蛾</b>的祝福躲过它。",
       "slots": [
         {
           "id": "explore1",
@@ -35,33 +35,33 @@
     },
     {
       "id": "mariner.challenge.avoid.edge.high",
-      "label": "Devious Tactics",
-      "startdescription": "With skullduggery and stirring action, We can outsmart our opposition. We will almost certainly succeed."
+      "label": "诡诈的战术",
+      "startdescription": "通以巧妙的手段和积极的行动，我们得以智胜对手。我们势必能成功。"
     },
     {
       "id": "mariner.challenge.avoid.edge.med",
-      "label": "Sly Tactics",
-      "startdescription": "With foul play and decisive action, we can outsmart our opposition. We may yet succed."
+      "label": "狡诈的战术",
+      "startdescription": "通以规则的掌弄和果断的行动，我们得以智胜对手。我们大概能成功。"
     },
     {
       "id": "mariner.challenge.avoid.edge.low",
-      "label": "Tricky Tactics",
-      "startdescription": "With dirty tricks and quick action, we can outsmart our opposition. We may yet succeed."
+      "label": "狡猾的战术",
+      "startdescription": "通以卑鄙的伎俩和快速的行动，我们得以智胜对手。我们或许能成功。"
     },
     {
       "id": "mariner.challenge.avoid.moth.high",
-      "label": "Steps No More",
-      "startdescription": "If we move with care and meld with the shadows, we can avoid their attention. We will almost certainly succeed."
+      "label": "不留踪迹",
+      "startdescription": "如果我们小心行动，隐匿于影中，就能避开它们的注意。我们势必能成功"
     },
     {
       "id": "mariner.challenge.avoid.moth.med",
-      "label": "Shadowed Steps",
-      "startdescription": "If we move with care and cling to the shadows, we can avoid their gaze. We are likely to succeed."
+      "label": "影中潜行",
+      "startdescription": "如果我们小心行动，紧贴于影中，就能避开它们的视线。我们大概能成功。"
     },
     {
       "id": "mariner.challenge.avoid.moth.low",
-      "label": "Silken Footsteps",
-      "startdescription": "If we move with care and stick to the shadows, we can avoid their grasp. We may yet succeed."
+      "label": "轻声细步",
+      "startdescription": "如果我们小心行动，靠近于影旁，就能避开它们的追逐。我们或许能成功。"
     }
   ]
 }

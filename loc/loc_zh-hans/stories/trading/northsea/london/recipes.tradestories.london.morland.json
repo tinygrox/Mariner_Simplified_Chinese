@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "mariner.tradestory.london.morland",
-      "label": "Trade Stories with Morland",
+      "label": "与莫兰交换轶事",
       "startdescription": "\"Trade stories? I was rather hoping you would collect them for me for free...\"",
       "description": "\"there is an old story that has been a particular favorite of mine. Come, I'll put the cattle on.\""
     }

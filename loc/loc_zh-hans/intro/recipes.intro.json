@@ -13,25 +13,25 @@
     },
     {
       "id": "mariner.addnavigate",
-      "label": "引领我的思绪",
+      "label": "疏引我的思绪",
       "startdescription": "我在脑海中游荡，尝试梳理我对这座城市的情感。",
       "description": "月是我永恒的途伴、思泉，愿她给予我启迪，恩赐我方向。"
     },
     {
       "id": "mariner.givelackheart",
-      "label": "A Hole In My Heart",
-      "description": "Morland saw what I was missing. The negative space in my heart. She took the opportunity to fill this space with stories."
+      "label": "我内心中的空洞",
+      "description": "莫兰看到了我所缺失的。我内心中那片空洞。她利用了这个机会，用故事填补其中。"
     },
     {
       "id": "mariner.givehalfheart",
-      "label": "A Burning Will",
-      "description": "Agdistis saw what I had. What's missing may simply be out there, looking for me."
+      "label": "炽热的意愿",
+      "description": "阿格狄斯提斯看到了我所拥有的。我所缺失的可能就在外面，寻觅着我。"
     },
     {
       "id": "mariner.inspectfirstpackage",
-      "label": "Inspect the Package",
-      "startdescription": "Let's inspect this closely...",
-      "description": "Neat brown paper, with dried lavender in between the folds of the paper. A riddle of longitudes, lattitudes, tidecharts and rivers was drawn on the outside, and just 7 letters. \"to Miss M.\""
+      "label": "检查包裹",
+      "startdescription": "让我们凑近点好好查看……",
+      "description": "包裹用整洁的牛皮纸包裹着，上面还夹着干薰衣草。外面画着关于经度、纬度，潮汐图和河流的谜语，上面还有5个字。 \"谨M小姐收\""
     }
   ]
 }

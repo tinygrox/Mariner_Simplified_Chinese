@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.start",
-      "label": "Pick the mission order, or execute the associated behaviour if found",
-      "startdescription": "Pick the mission order, or execute the associated behaviour if found"
+      "label": "挑选任务的顺序，或满足条件时执行相关动作",
+      "startdescription": "挑选任务的顺序，或满足条件时执行相关动作。"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.receivemissionorder.start",
@@ -12,18 +12,18 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.start",
-      "label": "Patrol current region Sequence",
-      "startdescription": "Patrol current region Sequence"
+      "label": "巡逻当前区域 序列",
+      "startdescription": "巡逻当前区域 序列"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.start",
-      "label": "Travel to other local port Sequence",
-      "startdescription": "Travel to other local port Sequence"
+      "label": "前往其他当地港口 序列",
+      "startdescription": "前往其他当地港口 序列"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.pickdestination.start",
-      "label": "Pick Destination",
-      "startdescription": "Pick Destination"
+      "label": "挑选目的地",
+      "startdescription": "挑选目的地"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.traveltolocalport.undock.start",
@@ -47,8 +47,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.investigate.start",
-      "label": "Investigate",
-      "startdescription": "Investigate"
+      "label": "调查",
+      "startdescription": "调查"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.patrolcurrentregion.endmissionorder.start",
@@ -57,8 +57,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.start",
-      "label": "Travel to random region Sequence",
-      "startdescription": "Travel to random region Sequence"
+      "label": "前往随机区域 序列",
+      "startdescription": "前往随机区域 序列"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.undock.start",
@@ -67,8 +67,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.leavesea.start",
-      "label": "Sail towards other sea",
-      "startdescription": "Sail towards other sea"
+      "label": "航行到其他海域",
+      "startdescription": "航行到其他海域"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.wait.start",
@@ -77,8 +77,8 @@
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.arriveinsea.start",
-      "label": "Arrive in sea",
-      "startdescription": "Arrive in sea"
+      "label": "抵达海域",
+      "startdescription": "抵达海域"
     },
     {
       "id": "mariner.ais.defaultshipbtree.selectorderbehaviour.traveltorandomregion.endmissionorder.start",

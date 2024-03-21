@@ -2,9 +2,9 @@
   "recipes": [
     {
       "id": "mariner.challenge.command",
-      "label": "Command My Crew",
-      "startdescription": "This is the time where leadership is needed. This is the time where a failure of any crewmember could mean a failure of my mission. I could evoke the balanced Winter or the undeniable Edge.",
-      "description": "This is the time where leadership is needed. This is the time where a failure of any crewmember could mean a failure of my mission. I could evoke the balanced Winter or the undeniable Edge.",
+      "label": "命令我的船员",
+      "startdescription": "体现领导能力的时候到了。这种时候任何一个船员的失败都可能导致任务失败。我可以选择唤起象征平衡的<b>冬</b>之力，也可以唤起象征抗争的<b>刃</b>之力。",
+      "description": "体现领导能力的时候到了。这种时候任何一个船员的失败都可能导致任务失败。我可以选择唤起象征平衡的<b>冬</b>之力，也可以唤起象征抗争的<b>刃</b>之力。",
       "slots": [
         {
           "id": "explore1",
