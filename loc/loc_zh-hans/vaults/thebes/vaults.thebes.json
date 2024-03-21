@@ -98,21 +98,21 @@
     },
     {
       "id": "mariner.vaults.thebes.reeds",
-      "label": "The Reeds",
+      "label": "The River Reeds",
       "description": "The Archeologist had given me directions to the house, but the city has swelled and the river has shifted. A curtain of swaying gold now covers the former riverside. There I will have to root for clues of the former lay of the land.",
       "slots": [
         {
-          "id": "mariner.navigate1",
+          "id": "explore1",
           "label": "协助",
           "description": "器具可用于实现我之目标。"
         },
         {
-          "id": "mariner.navigate2",
+          "id": "explore2",
           "label": "协助",
           "description": "器具可用于实现我之目标。"
         },
         {
-          "id": "mariner.navigate3",
+          "id": "explore3",
           "label": "协助",
           "description": "器具可用于实现我之目标。"
         }

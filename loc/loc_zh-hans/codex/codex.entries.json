@@ -46,6 +46,11 @@
       "description": "Before one does anything, one must first decide to do that thing. My Soul has been torn, and If I want to no longer be dragged by the tides of life, but find my strength of Character, and mend it.\n\n\n@#codex.ascensions.twins.character.solvedhowto|I have found my inspiration in the secret story of the Thunderskin, Ascended Wind, robbed of his agency. A knot of choices, schemes, intentions lead to his Ascension. I will invoke those choices, those schemes, and Enact this great drama upon the stage.#codex.ascensions.twins.character.mended|I have mended my Character, and have made a choice with the utmost clarity. I will pursue the path to becoming whole, and I will find my Missing Half.#|Any mending of the Soul would be an Orphean Act, but which one? I will discover the answers where I always do, in the world, and the stories it holds.@"
     },
     {
+      "id": "codex.ascensions.constellate.wist",
+      "label": "@#codex.ascensions.constellate.wist.solvedmystery|[constellate] <>#codex.ascensions.constellate.wist.solvedvault|[constellate] wist#|[constellate] <>@",
+      "description": "@#codex.ascensions.constellate.wist.solvedmystery|#codex.ascensions.constellate.wist.solvedvault|<>#|<>@"
+    },
+    {
       "id": "codex.ascensions.exemplum",
       "label": "[Exemplum]",
       "description": "The world can be a haze of soot and rain. Can I follow the path to a brighter place?"
@@ -54,6 +59,11 @@
       "id": "codex.ascensions.exemplum.hiraezh",
       "label": "@#codex.ascensions.exemplum.hiraezh.solvedmystery|[Exemplum] The Sunken City of Ker Ys#codex.ascensions.exemplum.hiraezh.solvedvault|[Exemplum] Hiraezh#|[Exemplum] A Sunken City@",
       "description": "@#codex.ascensions.exemplum.hiraezh.solvedmystery|The world can be a haze of soot and rain. Do I wish to follow the Centipede's Pilgrimage? Morland has informed me of its first step: I am to visit a Sunken City, and learn its story there.\n\nThe Sunken City mentioned is the city of Ker Ys, and I have learned the mood of the winds that can carry me there, and the conditions under which the city surfaces.#codex.ascensions.exemplum.hiraezh.solvedvault|I have taken the first step on the pilgrimage of the Centipede. She has led me to Ker Ys, to hear the tale of Old Mother Anguish. She has taught me of her Hiraezh, and the meaning of irrevocable loss. I carry that sentiment in my flesh, my blood and my bones, and even my Lack-Heart cannot drain me of its knowledge.#|The world can be a haze of soot and rain. Do I wish to follow the Centipede's Pilgrimage? Morland has informed me of its first step: I am to visit a Sunken City, and learn its story there. But first: <color=yellow>I must scour story, song and sea to find it.</color>@"
+    },
+    {
+      "id": "codex.ascensions.exemplum.struggimento",
+      "label": "@#codex.ascensions.exemplum.struggimento.solvedmystery|[Exemplum] <>#codex.ascensions.exemplum.struggimento.solvedvault|[Exemplum] Struggimento#|[Exemplum] <>@",
+      "description": "@#codex.ascensions.exemplum.struggimento.solvedmystery|#codex.ascensions.exemplum.struggimento.solvedvault|<>#|<>@"
     },
     {
       "id": "codex.performance.base",

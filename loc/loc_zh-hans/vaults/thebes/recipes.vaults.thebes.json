@@ -124,27 +124,27 @@
       "description": "We bust in, but slow and sluggish, and triggering some ward long held on this place. We take what we can and leave, but even as we dry off the damp of the water, a chill remains."
     },
     {
-      "id": "mariner.vaults.thebes.reeds.navigate.hintexclusiveattention",
+      "id": "mariner.vaults.thebes.reeds.explore.hintexclusiveattention",
       "label": "Root around in the Slick and Roots",
       "startdescription": "I cannot do this task, as some other task focuses my attention completely, or because this task requires my undivided attention."
     },
     {
-      "id": "mariner.vaults.thebes.reeds.navigate.pre",
+      "id": "mariner.vaults.thebes.reeds.explore.pre",
       "label": "Root around in the Slick and Roots",
       "startdescription": "With the water to our knee or to our navel or up to our chest, we have to seek what still remains in the silt. The reeds are surprisingly sharp, and the roots fight our digging fingers.  We have to sink our arms into the  silt to the elbow, as feet threaten to slip into the muck."
     },
     {
-      "id": "mariner.vaults.thebes.reeds.navigate",
+      "id": "mariner.vaults.thebes.reeds.explore",
       "label": "Root around in the Slick and Roots",
       "startdescription": "With the water to our knee or to our navel or up to our chest, we have to seek what still remains in the silt. The reeds are surprisingly sharp, and the roots fight our digging fingers.  We have to sink our arms into the  silt to the elbow, as feet threaten to slip into the muck."
     },
     {
-      "id": "mariner.vaults.thebes.reeds.navigate.success",
+      "id": "mariner.vaults.thebes.reeds.explore.success",
       "label": "A Clue",
       "description": "My hand brought something to the surface. I wash it off clay and muck and slick."
     },
     {
-      "id": "mariner.vaults.thebes.reeds.navigate.failure",
+      "id": "mariner.vaults.thebes.reeds.explore.failure",
       "label": "Frustration and Exhaustion",
       "description": "The work is hard, the conditions unpleasant, and musquitos make every moment worse than the one before. While we come up with a prize, it has left my crew exhausted, and having much more work then this will drive them away from my employment."
     },
