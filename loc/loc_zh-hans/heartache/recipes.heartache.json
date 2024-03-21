@@ -1,15 +1,15 @@
 {
   "recipes": [
     {
-      "startdescription": "My Lack-Heart seeks new experiences...",
+      "startdescription": "我的空洞之心需要获得新的体验……",
       "id": "mariner.tide.heartache",
       "slots": [
         {
           "id": "wanderlust",
-          "label": "Wanderlust"
+          "label": "旅行成瘾"
         }
       ],
-      "label": "A Cleft Heart Aching"
+      "label": "撕裂的心痛"
     },
     {
       "startdescription": "Colors begins to drain, as my Lack-Heart begins to gnaw at my insides.",

@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.tide.pickcustomtide.rescuemission.layer.2.pre",
-      "label": "The Tide Comes In",
-      "description": "Time and Tide wait for no man."
+      "label": "潮起",
+      "description": "时间和潮水从不等人。"
     }
   ]
 }

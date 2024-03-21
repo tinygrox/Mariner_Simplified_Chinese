@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "mariner.suspicion.grabnotoriety",
-      "label": "Collecting Information",
+      "label": "收集信息",
       "startdescription": "News of my exploits is reaching the wrong people...",
       "slots": [
         {
