@@ -1,13 +1,10 @@
 {
-  "name": "Mariner Chinese Translation",
+  "name": "Mariner <font=NotoSansCJKsc-Regular>中文翻译</font>",
   "author": "Tiny_grox",
   "version": "0.4.9",
   "description": "Mariner<font=NotoSansCJKsc-Regular>的简体中文翻译</font>",
   "description_long": "Mariner<font=NotoSansCJKsc-Regular>这个工坊</font>Mod<font=NotoSansCJKsc-Regular>的简体中文翻译，即，“水手”</font>",
   "tags": [
     "Translation"
-  ],
-  "dependencies": [
-      "Mariner>=1.0.10"
   ]
 }

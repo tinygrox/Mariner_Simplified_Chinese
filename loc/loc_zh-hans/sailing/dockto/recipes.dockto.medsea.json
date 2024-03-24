@@ -2,22 +2,22 @@
   "recipes": [
     {
       "id": "mariner.dockto.medsea.marseille",
-      "label": "Docking to Marseille",
+      "label": "靠泊Marseille",
       "startdescription": "Docking!"
     },
     {
       "id": "mariner.dockto.medsea.bizerta",
-      "label": "Docking to Bizerta",
+      "label": "靠泊Bizerta",
       "startdescription": "Bizerta lies in the crest between a lake of Emerald and a sea of Saphire. Of it's many docks, harbors and marina's, we dock in the Vieux Port"
     },
     {
       "id": "mariner.dockto.medsea.constantinople",
-      "label": "Docking to Constantinople",
+      "label": "靠泊Constantinople",
       "startdescription": "Docking!"
     },
     {
       "id": "mariner.dockto.medsea.haifa",
-      "label": "Docking to Haïfa",
+      "label": "靠泊Haïfa",
       "startdescription": "Docking!"
     },
     {

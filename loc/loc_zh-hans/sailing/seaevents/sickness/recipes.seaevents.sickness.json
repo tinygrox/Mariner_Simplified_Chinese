@@ -2,7 +2,7 @@
   "recipes": [
     {
       "id": "mariner.sail.seaevents.start.sickness",
-      "label": "An Unwholesome Air",
+      "label": "不干净的空气",
       "slots": [
         {
           "id": "help_1",
@@ -17,7 +17,7 @@
           "label": "协助"
         }
       ],
-      "startdescription": "Normaly the sea air is brisk, hale and salt-laden, but today the effluvium of industry has followed us from the city into the sea. The vile retchings of smoke stacks clogs the air like bitter miasm and me must be hearty to survive it. [Approach this challenge with Heart or Grail.]"
+      "startdescription": "在正常情况下，这里海风应是轻柔的、爽朗的、带有咸咸的气息，但现在工业的废水已经从城市涌入大海。烟囱发出恶臭气体像苦瘴一样裹住了空气，我必须全力以赴才能撑过去。[放入<b>心</b>或<b>杯</b>来应对挑战。]"
     },
     {
       "id": "mariner.sail.seaevents.sickness.outcome.success",

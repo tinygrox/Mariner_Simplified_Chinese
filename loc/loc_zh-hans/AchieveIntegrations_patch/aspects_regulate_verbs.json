@@ -33,12 +33,12 @@
     {
       "id": "modded_talk_allowed",
       "label": "可谈话",
-      "description": "我所能与之交谈或谈论的"
+      "description": "我所能与之交谈的或谈论的"
     },
     {
       "id": "modded_talk_forbidden",
       "label": "不可谈话",
-      "description": "我所不能与之交谈或谈论的"
+      "description": "我所不能与之交谈的或谈论的"
     },
     {
       "id": "modded_work_allowed",
