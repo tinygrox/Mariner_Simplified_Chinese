@@ -2,11 +2,11 @@
   "elements": [
     {
       "id": "mariner.waypoint.from.northsea.to.medsea",
-      "label": "To the Med. Sea through Gibraltar"
+      "label": "经由直布陀罗去往地中海"
     },
     {
       "id": "mariner.waypoint.from.medsea.to.northsea",
-      "label": "To the North Sea through Gibraltar"
+      "label": "经由直布陀罗去往北海"
     }
   ]
 }

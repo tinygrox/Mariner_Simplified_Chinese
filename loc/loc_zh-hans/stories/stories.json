@@ -12,18 +12,18 @@
     },
     {
       "id": "mariner.stories.sailorstories",
-      "label": "水手的轶事",
-      "description": "Any well-traveled person collects stories on their travels, but no well is as full of anecdotes as the ocean. Regale your audience with a swell of partial truths and full lies and whisk them away to far-off half-real places."
+      "label": "《水手的轶事》",
+      "description": "每个经多见广的人都会收集沿途中的轶事，但没有任何地方能像海洋一样充满奇闻轶事。用真假参半的谎言带引你的听众去往那片遥远而又虚幻的地方。"
     },
     {
       "id": "mariner.stories.centipede",
-      "label": "The Travels of the Centipede",
-      "description": "This Story tells of the travels of the Centipede, the places she visits High and Low, True and Real, and the Antics that got her Banned from the House of the Sun."
+      "label": "《蜈蚣游记》",
+      "description": "轶事中讲述了蜈蚣的旅途，她去过<b>高</b>，进过<b>低</b>，她访过<b>真</b>，也问过<b>实</b>，还包含了她被逐出太阳之居屋的滑稽之举。"
     },
     {
       "id": "mariner.stories.centipede.exhausted",
-      "label": "The Travels of the Centipede [exhausted]",
-      "description": "This Story tells of the travels of the Centipede, the places she visits High and Low, True and Real, and the Antics that got her Banned from the House of the Sun."
+      "label": "《蜈蚣游记》 [耗竭]",
+      "description": "轶事中讲述了蜈蚣的旅途，她去过<b>高</b>，进过<b>低</b>，她访过<b>真</b>，也问过<b>实</b>，还包含了她被逐出太阳之居屋的滑稽之举。"
     },
     {
       "id": "mariner.stories.anansi",

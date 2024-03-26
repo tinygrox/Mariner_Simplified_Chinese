@@ -3,22 +3,22 @@
     {
       "id": "mariner.halfheart",
       "label": "我的残缺之心",
-      "description": "My passions, my drive, my charm, my thrumming blood, my clever fingers. If I present this to the world, I may be able to bend things to my will. [Use this while Exploring, Talking or Performing, and you may find or discuss things of interest to you]"
+      "description": "我的激情、我的动力、我的魅力、我的热血、我的灵巧手指。如果我把这些展现给世界，我或许能让一切都顺从我的意愿。[探索、谈话或表演时使用。你可能会发现或谈论你有感兴趣的事物]"
     },
     {
       "id": "mariner.halfheart.exhausted",
       "label": "我的残缺之心 [疲惫]",
-      "description": "My passions, my drive, my charm, my thrumming blood, my clever fingers. Each need a rest."
+      "description": "我的激情、我的动力、我的魅力、我的热血、我的灵巧手指。每一样都需要休息。"
     },
     {
       "id": "mariner.lackheart",
       "label": "我的空洞之心",
-      "description": "A wound in the soul, a raw nerve, a longing. If I leave this exposed, the universe will try to fill it. [Use this while Exploring, Talking or Performing and you may find Tunes, Stories or other Inspirations]"
+      "description": "灵魂的伤口、敏感的神经、内心的渴望。如果我将其展现在外，宇宙就会试着填补它。[在探索、谈话或表演时使用，你可能会发现曲调、轶事或其他启发]"
     },
     {
       "id": "mariner.lackheart.exhausted",
       "label": "我的空洞之心 [疲惫]",
-      "description": "A wound in the soul, a raw nerve, a longing. I could not bear to expose it now."
+      "description": "灵魂的伤口、敏感的神经、内心的渴望。现在我不忍揭开它。"
     }
   ]
 }

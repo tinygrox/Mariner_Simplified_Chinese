@@ -36,32 +36,32 @@
     {
       "id": "mariner.challenge.break_in.forge.high",
       "label": "火与酸",
-      "startdescription": "将助剂混合为光彩夺目的混合物，信心十足着应用到特定位置。我们谅必会成功。"
+      "startdescription": "将助剂混合为光彩夺目的混合物，信心十足着应用到特定位置。我们势必能成功。"
     },
     {
       "id": "mariner.challenge.break_in.forge.med",
       "label": "硝与氯",
-      "startdescription": "将助剂混合为挥发性混合物，平稳着应用到预期位置。我们大概会成功。"
+      "startdescription": "将助剂混合为挥发性混合物，平稳着应用到预期位置。我们大概能成功。"
     },
     {
       "id": "mariner.challenge.break_in.forge.low",
       "label": "硫与盐",
-      "startdescription": "将助剂混合未不稳定混合物，颤抖着应用到大致位置。我们或许会成功。"
+      "startdescription": "将助剂混合未不稳定混合物，颤抖着应用到大致位置。我们或许能成功。"
     },
     {
       "id": "mariner.challenge.break_in.knock.high",
       "label": "穿越裂缝",
-      "startdescription": "就像王那样，我们要求解锁和通过。我们谅必会成功。"
+      "startdescription": "就像王那样，我们要求解锁和通过。我们势必能成功。"
     },
     {
       "id": "mariner.challenge.break_in.knock.med",
       "label": "透过锁孔",
-      "startdescription": "就像蛇那样，我们会找到穿过的路径。我们大概会成功。"
+      "startdescription": "就像蛇那样，我们会找到穿过的路径。我们大概能成功。"
     },
     {
       "id": "mariner.challenge.break_in.knock.low",
       "label": "穿过 Treshhold",
-      "startdescription": "就像贼那样，我们哄骗解锁和过障。我们或许会成功。"
+      "startdescription": "就像贼那样，我们哄骗解锁和过障。我们或许能成功。"
     }
   ]
 }
