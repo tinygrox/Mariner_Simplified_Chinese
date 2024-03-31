@@ -2,33 +2,33 @@
   "elements": [
     {
       "id": "mariner.seasons.wanderlust",
-      "label": "Season of Wanderings",
-      "description": "Where will my footsteps take me? When the weather turns like this, I always get the urge to explore."
+      "label": "出游四方的时节",
+      "description": "我的脚步会领我至何处？每到这样的天气时，我总是会产生四处探索的冲动。"
     },
     {
       "id": "mariner.seasons.heartache",
-      "label": "Season of Heartache",
-      "description": "That old wound begins to ache."
+      "label": "心痛难耐的时节",
+      "description": "旧伤开始隐隐作痛。"
     },
     {
       "id": "mariner.seasons.wounds",
-      "label": "Season of Reckoning",
-      "description": "When the past comes take stock of me."
+      "label": "过去清算的时节",
+      "description": "过去找到了我并开始清算。"
     },
     {
       "id": "mariner.wanderlust",
-      "label": "Wanderlust",
-      "description": "Without new experiences, something inside me gnaws. Without travel I will fade until I feel like I am dreaming in my waking hours, and dead when I'm asleep."
+      "label": "出游渴求",
+      "description": "没有的新的体验，我的内心就会被某种力量啃噬。如果没有旅行，我会逐渐淡去，直到日如白梦，夜如亡佚。"
     },
     {
       "id": "mariner.notoriety",
-      "label": "Notoriety",
-      "description": "People saw things. They might talk to authorities..."
+      "label": "邪名",
+      "description": "人们看到了事情的经过。他们可能会向当局报告……"
     },
     {
       "id": "mariner.lastingnotoriety",
-      "label": "Lasting Notoriety",
-      "description": "My reputation follows me wherever I go. It seems some people made sure everyone knows I'm a troublemaker."
+      "label": "挥之不去的邪名",
+      "description": "无论我走到哪里我的声名都如影随形。似乎有人在刻意让人们知道我是个麻烦。"
     },
     {
       "id": "mariner.thrill",
@@ -37,23 +37,23 @@
     },
     {
       "id": "mariner.scrapofinformation",
-      "label": "A Scrap of Information",
-      "description": "A hint of something deeper. A promise of something more. A new location or opportunity to discover. Could it be the next step in my travels?",
+      "label": "信息碎片",
+      "description": "一丝隐含深意的提示，一个别有洞天的誓言，一处待发掘的新地点或机遇。会是我旅途的下一步吗？",
       "slots": [
         {
           "id": "rumour",
-          "label": "Rumour"
+          "label": "传闻"
         }
       ]
     },
     {
       "id": "mariner.oddcorners",
-      "label": "Odd Corners",
-      "description": "Each city has its corners where the peculiar crosses paths the illicit."
+      "label": "城中怪隅",
+      "description": "每座城市都有其特殊的偏隅，那里古怪与非法相交。"
     },
     {
       "id": "mariner.marinettedoll",
-      "label": "Cherished Idol",
+      "label": "Cherished 人偶",
       "description": "What could at first pass for a pile of tiny bones wrapped in red satin cloth is actually some kind of strange doll. Each minuscule bleached bone is tied to another by a blackened waxed rope, through needle sized holes. The actual shape of it is hard to define, except maybe for its vaguely canine skull."
     }
   ]

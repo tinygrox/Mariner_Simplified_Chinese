@@ -479,8 +479,8 @@
     },
     {
       "id": "mariner.vaults.rescuemission.setoff",
-      "label": "Set Off for Home",
-      "description": "The final lap of our journey, is going all the way back. Luckily the path always feels shorter when the way is known.",
+      "label": "启程归家",
+      "description": "还乡，我们旅途的最后一程。还好，当你知道路在何方时，你会感觉时间更短。",
       "slots": [
         {
           "id": "mariner.sail1",

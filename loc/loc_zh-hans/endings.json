@@ -8,17 +8,17 @@
     {
       "id": "mariner.endings.arrested",
       "label": "被捕",
-      "description": "I have been arrested, and will likely never feel the free wind brush my hair. Without my travels, there is nothing to sate my Lack-Heart, and it will soon overcome me."
+      "description": "我被捕入牢中，可能再也感受不到海风拂过我的头发。没有旅行，再也没有什么能够满足我的空洞之心，它很快就会战胜我。"
     },
     {
       "id": "mariner.endings.heartache",
-      "label": "A Faded Life",
-      "description": "I am a hollow person, living a hollow life. All sounds have dulled to noise. All colors muted to slate and rust and fog. All experiences hollowed of my interest. Not even the throb of heart-ache pierces me awake anymore. Every day a day-dream, every night oblivion. "
+      "label": "枯寂人生",
+      "description": "我是一个空洞的人，过着空洞的生活。声音不再有意义，颜色也黯淡无光。所有的体验对我来说都毫无意义。即使心痛也无法再唤醒我的感觉。白天，我像是在梦中度过，夜晚则沉浸在无意识之中。"
     },
     {
       "id": "mariner.endings.disappearedduringadventure",
-      "label": "Never To Be Seen Again",
-      "description": "I went somewhere, with my possessions and companions, never to be seen again. Was I made prisoner and sold by ill-intended people? Was I mortally wounded and left to expire in some forgotten place, all alone? Was I too greedy to see the danger coming? No one knows. Does anyone even care?"
+      "label": "永不再见",
+      "description": "我带着我的同伴和资产去了某处，再也没出现过在世俗世界中。Was I made prisoner and sold by ill-intended people? Was I mortally wounded and left to expire in some forgotten place, all alone? Was I too greedy to see the danger coming? No one knows. Does anyone even care?"
     }
   ]
 }

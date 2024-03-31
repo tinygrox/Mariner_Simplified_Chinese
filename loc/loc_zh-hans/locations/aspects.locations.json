@@ -2,18 +2,18 @@
   "elements": [
     {
       "id": "mariner.wharf",
-      "label": "Wharf",
-      "description": "Here the ravages of a previous voyage are tended to, and preparations for the next voyage are made."
+      "label": "码头",
+      "description": "在这里，我们可以处理上次航行受到的损坏，并为下一次航行做好准备。"
     },
     {
       "id": "mariner.market",
-      "label": "Market",
-      "description": "Here we can sell our goods... at least the ones this Marketplace is known for."
+      "label": "市场",
+      "description": "这里我们可以出售我们的货物……至少是在这个市场认可的。"
     },
     {
       "id": "mariner.location",
-      "label": "Location",
-      "description": "Locations! Everything must be somewhere, and this is here."
+      "label": "地点",
+      "description": "地点！万物皆有归宿，这里就是。"
     },
     {
       "id": "mariner.theater",
@@ -22,13 +22,13 @@
     },
     {
       "id": "mariner.local",
-      "label": "Local",
-      "description": "This is here, and not elsewhere."
+      "label": "当地",
+      "description": "就在此处，而非别处。"
     },
     {
       "id": "mariner.port",
-      "label": "Port",
-      "description": "We can dock here, and explore."
+      "label": "港口",
+      "description": "我们可以在这里停靠，然后探索。"
     }
   ]
 }

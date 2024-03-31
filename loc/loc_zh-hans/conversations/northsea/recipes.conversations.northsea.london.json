@@ -2,14 +2,14 @@
   "recipes": [
     {
       "id": "mariner.conversations.northsea.london.morland.vabagondtempatation",
-      "label": "The First Step",
-      "startdescription": "\"Oh, yes, the first step.\"",
+      "label": "第一步",
+      "startdescription": "\"哦对，第一步。\"",
       "description": "\"The route changes over the years, but I like to keep in the know of the first stop, to send any aspirants I meet in the right direction. Seek a place that isn't, where the sea has conquered the land.\""
     },
     {
       "id": "mariner.conversations.northsea.london.morland.vagabondtemptationreminder",
-      "label": "Ask again after the Pilgrimage",
-      "startdescription": "\"Again?\"",
+      "label": "再次打听关于朝圣的事",
+      "startdescription": "\"又来？\"",
       "description": "\"The way changes, now and again. But I always pay mind to stay informed on the first step. I told you where it is, now go take it.\""
     },
     {
@@ -20,13 +20,13 @@
     },
     {
       "id": "mariner.conversations.northsea.london.morland.twinstemptation",
-      "label": "A Different Path",
+      "label": "不同道路",
       "startdescription": "\"You want to abandon the pilgrimage?\"",
       "description": "She frowns. \"You would leave it all behind? The mysteries beyond the skin of the world, the Pilgrimage, the Brightness behind the stories? And for what... Companionship?\""
     },
     {
       "id": "mariner.conversations.northsea.london.morland.twinsdedication",
-      "label": "A Different Path",
+      "label": "不同道路",
       "startdescription": "\"So you went your own way...\"",
       "description": "\"Oh well, there goes my shot at hearing the greatest gossips right from the source.\" she sighs. \"I shall have to sate my curiosity with snippets a little longer.\""
     },
@@ -44,26 +44,26 @@
     },
     {
       "id": "mariner.conversations.northsea.london.morland.dancer",
-      "label": "Asking After a Dancer",
-      "startdescription": "\"A foreign dancer girl?\"",
+      "label": "打听舞者的事",
+      "startdescription": "\"一个外来的舞女?\"",
       "description": "\"Those aren't scarce. Try the Gaiety... She's an Adept you say? There was one of those, recently... I think Sulochana took her under her wings.\""
     },
     {
       "id": "mariner.conversations.northsea.london.morland.halfheart",
-      "label": "Ask after my Half-Heart",
+      "label": "打听我的残缺之心",
       "startdescription": "\"You want to talk to me about Heartbreak?\"",
       "description": "\"Don't fuss. Everyone has something. If we'd make a big deal over every unhappy artist, the empire would grind to a halt. Just make the best of your sensitivity. Let it guide you to places that others might miss.\""
     },
     {
       "id": "mariner.conversations.northsea.london.morland.lackheart",
-      "label": "Ask after my Lack-Heart",
+      "label": "打听我的空洞之心",
       "startdescription": "\"You think a part of your soul is missing?\"",
       "description": "\"Hmm... You seem functional enough, so I doubt you are really missing one of the Nine. But knowing what you are... Perhaps some fraction of each part is seperated from you. I'm not sure. If you wish to learn more about this, perhaps visit a library.\""
     },
     {
       "id": "mariner.conversations.northsea.london.morland.music",
-      "label": "Discuss my songs with Miss Morland",
-      "startdescription": "\"You wish to talk to me about the Orphean Arts?\"",
+      "label": "和莫兰小姐谈论我的歌",
+      "startdescription": "\"你想要跟我谈乱律韵之术？\"",
       "description": "\"I am not a specialist, But I have seen a Performance or two in my days. I know to start a ritual that way it must occur in a Dionysian Temple: A Theater. The Ritual itself is guided by two princples... Intent First, followed by Direction. With Intent is declared how you wish to affect the world, where Direction declares the sphere of influence, or the target.\""
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.vagabondtemptation",
-      "label": "Another Path?",
+      "label": "另一条道路？",
       "startdescription": "\"You wish to know about another path?\"",
       "description": "\"That is another path open to Half-Hearts, not quite the intended route, I don't think. A lonely one, as well.\""
     },
@@ -122,33 +122,33 @@
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.dancer",
-      "label": "Asking after a Dancer",
-      "startdescription": "He regards me coolly. \"You wish to know about a performer at the Club?\"",
-      "description": "\"We have many performers, who come and go for many reasons. But they all appreciate my confidentiality. I will not say more to an outsider, who does not understand our Ways.\""
+      "label": "打听舞者的事",
+      "startdescription": "他冷冷地看了我一眼。\"你想知道俱乐部表演者的情况？\"",
+      "description": "\"我们有很多表演者，因各种的原因来，又因各种的原因去。但他们都很感激我一点，我保守秘密。对于不懂我们行事方式的外来人，我是不会透露太多的。\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.lackheart",
-      "label": "Asking after my Condition",
+      "label": "打听我的情况",
       "startdescription": "\"You want to know what I know about your Condition?\"",
       "description": "\"Not much, I'm afraid. I met another long ago, who had the same look in her eyes. The same... Hunger.\" He taps my chest. \"In there. When she lingered here I watched her wither like a caged bird, until she left again. And on and on. Coming and going like the tides. Years later I saw her oncemore, arms entwined with another like her. She said she found her other half."
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.fakeclub",
-      "label": "Asking after the Club",
-      "startdescription": "\"The Club? What do you want to know?\"",
-      "description": "\"I am not the founder, nor the owner, but I do feel a certain responsible for the club, and those who passes through. I'd love to see you on our stage again.\""
+      "label": "打听俱乐部的情况",
+      "startdescription": "\"俱乐部？你想知道什么？\"",
+      "description": "\"我并非创始人，也不是所有者，但我感觉我自己对这个俱乐部和来到这里的人富有一定的责任。我期待你能在舞台上再次亮相。\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.club",
-      "label": "Asking after the Club",
-      "startdescription": "\"The Club? What do you want to know?\"",
-      "description": "\"I am not the founder, nor the owner, but I do feel a certain responsible for the club, and those who passes through. I'd love to see you on our stage again.\""
+      "label": "打听俱乐部的情况",
+      "startdescription": "\"俱乐部？你想知道什么？\"",
+      "description": "\"我并非创始人，也不是所有者，但我感觉我自己对这个俱乐部和来到这里的人富有一定的责任。我期待你能在舞台上再次亮相。\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.unmarkedgrave",
-      "label": "How It Ended.",
-      "startdescription": "\"Have you visited yet?\"",
-      "description": "阿格狄斯提斯 is clearing paper snake-skins and prop vines of the stage.\"She was on her path. Sulochana guided her, not me. Do not ask me where it went wrong, I will not say. But we gave her the rites she deserved, in the end.\""
+      "label": "结局如何？",
+      "startdescription": "\"你去过了吗?\"",
+      "description": "阿格狄斯提斯正在清理舞台上的纸制蛇皮和藤蔓道具。\"她已经飞升了。是苏洛恰那为她提供了指引，不是我。 不要问我哪里出错了，我不会说的。但我们给了她应得的仪式，在最后一刻。\""
     },
     {
       "id": "mariner.conversations.northsea.london.agdistis.musicstorm",

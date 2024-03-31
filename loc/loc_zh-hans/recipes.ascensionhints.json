@@ -2,12 +2,12 @@
   "recipes": [
     {
       "id": "mariner.ascension.vagabond.firststephint",
-      "label": "Set off on a Pilgrimage?",
+      "label": "踏上朝圣路途？",
       "startdescription": "If I wish to explore the places which are more True than Real and sail beyond the limitations of the world, I could follow in the footsteps of the Centipede. Morland has indicated she could tell me where to take the first step."
     },
     {
       "id": "mariner.ascension.twins.firststephint",
-      "label": "Find my missing Half?",
+      "label": "去寻觅我缺失的另一半？",
       "startdescription": "My soul has been split, and I have been born a bleeding, aching half-self. My other half is somewhere out there across the seven seas. If I find them, I can complete myself; if I complete myself, I can find them."
     }
   ]

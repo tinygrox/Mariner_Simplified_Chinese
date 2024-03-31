@@ -2,18 +2,18 @@
   "recipes": [
     {
       "id": "mariner.explore.northsea.london.halfheart",
-      "label": "Exploring London",
-      "startdescription": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+      "label": "探索伦敦",
+      "startdescription": "在传闻或回忆的指引下，我步入帝国之心。如若施展魅力，或许会遇上非凡之人、非常之地或意外之机。"
     },
     {
       "id": "mariner.explore.northsea.london.lackheart",
-      "label": "Exploring London With An Open Soul",
-      "startdescription": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "label": "敞开灵魂探索伦敦",
+      "startdescription": "在传闻或回忆的指引下，我步入帝国之心。如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.london.lackheart.foundtune",
-      "label": "Found Tune in London",
-      "description": "Guided by rumor or by memory, I will explore the Heart of the Empire. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "label": "在伦敦寻觅旋律",
+      "description": "在传闻或回忆的指引下，我步入帝国之心。如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.london.lackheart.foundpackage",
@@ -22,18 +22,18 @@
     },
     {
       "id": "mariner.explore.northsea.amsterdam.halfheart",
-      "label": "Exploring Amsterdam",
-      "startdescription": "Under high gables, through small alleys I pass, Across many bridges, past wide canals, I go. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+      "label": "探索阿姆斯特丹",
+      "startdescription": "高耸的山墙，幽深的小巷，繁盛的桥梁，宽阔的运河，我于间漫访。如若施展魅力，或许会遇上非凡之人、非常之地或意外之机。"
     },
     {
       "id": "mariner.explore.northsea.amsterdam.lackheart",
-      "label": "Exploring Amsterdam With An Open Soul",
-      "startdescription": "Under high gables, through small alleys I pass, Across  many bridges, past wide canals, I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "label": "敞开灵魂探索阿姆斯特丹",
+      "startdescription": "Under high gables, through small alleys I pass, Across many bridges, past wide canals, I go.如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.amsterdam.lackheart.foundtune",
       "label": "Found Tune in Amsterdam",
-      "description": "Under high gables, through small alleys I pass, Across  many bridges, past wide canals, I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "description": "Under high gables, through small alleys I pass, Across many bridges, past wide canals, I go.如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.amsterdam.lackheart.foundpackage",
@@ -43,17 +43,17 @@
     {
       "id": "mariner.explore.northsea.copenhagen.halfheart",
       "label": "Exploring Copenhagen",
-      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I apply my charm, I may find extrordinary peoples, places, or opportunities."
+      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. 如若施展魅力，或许会遇上非凡之人、非常之地或意外之机。"
     },
     {
       "id": "mariner.explore.northsea.copenhagen.lackheart",
       "label": "Exploring Copenhagen With An Open Soul",
-      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "startdescription": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go.如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.copenhagen.lackheart.foundtune",
       "label": "Found Tune in Copenhagen",
-      "description": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go. If I stay open and receptive, I may find discover the peculiar sounds of the city, or be approached by a Raconteur."
+      "description": "Off the ship, through colourful Nyhavn, past the Charlottenborg, and into the city I go.如若敞开心扉，接纳余物，或许能聆听到这座城市所发的异乎寻常的声响，或一则故事。"
     },
     {
       "id": "mariner.explore.northsea.copenhagen.lackheart.foundpackage",

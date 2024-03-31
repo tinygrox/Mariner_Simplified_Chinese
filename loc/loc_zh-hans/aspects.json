@@ -2,57 +2,57 @@
   "elements": [
     {
       "id": "mariner.cycle",
-      "label": "Element used by the tide to count the passing of time."
+      "label": "给潮汐用来计算时间的element。"
     },
     {
       "id": "mariner.docked",
-      "label": "Docked",
-      "description": "We're officially docked here."
+      "label": "已停泊",
+      "description": "我们正式在这里停泊。"
     },
     {
       "id": "mariner.destination",
-      "label": "Destination",
-      "description": "A place we can sail to."
+      "label": "目的地",
+      "description": "我们可以航行到的地方。"
     },
     {
       "id": "mariner.destination.locked",
-      "label": "Unavailable Destination",
-      "description": "For some reason, this place isn't available to us."
+      "label": "无法到达的目的地",
+      "description": "因为某种原因，我们无法抵达此处。"
     },
     {
       "id": "mariner.seaevent",
-      "label": "Sea Event",
-      "description": "A possible event at sea."
+      "label": "海上事件",
+      "description": "可能在海上发生的事件。"
     },
     {
       "id": "mariner.tune",
-      "label": "Tune",
-      "description": "All songs start with the first notes."
+      "label": "旋律",
+      "description": "所有的歌曲都从第一个音符开始。"
     },
     {
       "id": "mariner.mystery",
-      "label": "Mystery",
-      "description": "Something paradoxical or confusing. But there is something here, if I can figure out the way to the truth."
+      "label": "谜团",
+      "description": "一些自相矛盾的或令人不解的东西。但如果我能找到通往真相的道路，还是能从中找到什么的。"
     },
     {
       "id": "mariner.song",
-      "label": "Song",
-      "description": "Carries themes below meaning."
+      "label": "歌曲",
+      "description": "承载着深层含义的主题。"
     },
     {
       "id": "mariner.story",
-      "label": "Story",
-      "description": "Carries meaning beyond words."
+      "label": "轶事",
+      "description": "承载着超越文字的意义。"
     },
     {
       "id": "mariner.story.source",
-      "label": "Story Source",
-      "description": "I can learn a story from here"
+      "label": "轶事来源",
+      "description": "我可以从这里获取到轶事。"
     },
     {
       "id": "mariner.letter",
-      "label": "Letter",
-      "description": "A letter to deliver to someone."
+      "label": "信件",
+      "description": "一封要送予某人的信。"
     },
     {
       "id": "mariner.influence",
@@ -61,7 +61,7 @@
     },
     {
       "id": "mariner.crowd",
-      "label": "Crowd",
+      "label": "人群",
       "description": "All these noses turned the same way... This turns into power in the hands of a radical or of an artist."
     },
     {
@@ -76,8 +76,8 @@
     },
     {
       "id": "notyetmuse",
-      "label": "Potential Muse",
-      "description": "This person has what it takes to inspire me."
+      "label": "潜在的灵感源头",
+      "description": "此人具备激发我灵感所需的一切。"
     },
     {
       "id": "mariner.vaults.help.passive",

@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.sing.northsea.faketheater.empty.hint",
-      "label": "A Stage Expectant",
-      "startdescription": "The Ecdystis club is empty, but somehow it feels smaller during the day, even with the daylight safely behind curtains."
+      "label": "静待演出的舞台",
+      "startdescription": "蜕衣俱乐部空无一人，但不知为何，白天的俱乐部感觉小了一号，即便窗帘将外面的白光遮挡的严严实实。"
     },
     {
       "id": "mariner.sing.northsea.faketheater.hint",
@@ -19,7 +19,7 @@
       "slots": [
         {
           "id": "noun",
-          "label": "Direction",
+          "label": "方向",
           "description": "What are our energies aimed at?"
         }
       ]

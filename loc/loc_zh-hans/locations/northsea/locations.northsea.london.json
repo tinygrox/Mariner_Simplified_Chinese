@@ -49,12 +49,12 @@
     {
       "id": "mariner.locations.northsea.london.ecdysisfake",
       "label": "蜕衣俱乐部",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on 阿格狄斯提斯' invitation, but I am not permitted true access until I have proven myself in an audition.",
+      "description": "一家据传与密教有关的夜总会。俱乐部分为多层，每一层的舞台都比前一层更独特，也更私密。我可以应阿格狄斯提斯的邀请而进入，但在我通过试镜证明自己之前，我不能真正进入。",
       "slots": [
         {
           "id": "verbSong",
-          "label": "Song",
-          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+          "label": "歌曲",
+          "description": "我应该开始我的表演，通过宣扬我的意图、我的方法、我的排布。"
         },
         {
           "id": "story",
@@ -70,17 +70,17 @@
     {
       "id": "mariner.locations.northsea.london.ecdysisfake.away",
       "label": "蜕衣俱乐部 [别处]",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate. I can enter on 阿格狄斯提斯' invitation, but I am not permitted true access until I have proven myself in an audition."
+      "description": "一家据传与密教有关的夜总会。俱乐部分为多层，每一层的舞台都比前一层更独特，也更私密。 我可以应阿格狄斯提斯的邀请而进入，但在我通过试镜证明自己之前，我不能真正进入。"
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub",
       "label": "蜕衣俱乐部",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
+      "description": "一家据传与密教有关的夜总会。俱乐部分为多层，每一层的舞台都比前一层更独特，也更私密。",
       "slots": [
         {
           "id": "verbSong",
           "label": "歌曲",
-          "description": "I should begin my performance, by declaring my intentions, my method, my staging."
+          "description": "我应该开始我的表演，通过宣扬我的意图、我的方法、我的排布。"
         },
         {
           "id": "story",
@@ -100,12 +100,12 @@
     {
       "id": "mariner.locations.northsea.london.ecdysisclub.away",
       "label": "蜕衣俱乐部 [别处]",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate."
+      "description": "一家据传与密教有关的夜总会。俱乐部分为多层，每一层的舞台都比前一层更独特，也更私密。"
     },
     {
       "id": "mariner.locations.northsea.london.ecdysisclub.hostile",
       "label": "蜕衣俱乐部 [hostile]",
-      "description": "A cabaret with an occult reputation. The club has several layers of stages, each with more exclusive than the previous, and each one more intimate.",
+      "description": "一家据传与密教有关的夜总会。俱乐部分为多层，每一层的舞台都比前一层更独特，也更私密。",
       "slots": [
         {
           "id": "explore1",

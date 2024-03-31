@@ -2,8 +2,8 @@
   "recipes": [
     {
       "id": "mariner.tide.wounds",
-      "label": "Season of Reckoning",
-      "description": "My soul is not yet a tally of past scars; I will not be changed today."
+      "label": "过去清算的时节",
+      "description": "我的灵魂尚未充满过去的伤痕；现在我不会改变。"
     },
     {
       "id": "mariner.season.wounds.loop",

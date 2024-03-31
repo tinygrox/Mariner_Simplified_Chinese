@@ -6,38 +6,38 @@
     },
     {
       "id": "mariner.locations.northsea.london.destination",
-      "label": "In London",
-      "description": "This is not here; It is in London."
+      "label": "在伦敦",
+      "description": "这里不是什么这里那里；这里是伦敦。"
     },
     {
       "id": "mariner.locations.northsea.amsterdam.destination",
-      "label": "In Amsterdam",
-      "description": "This is not here; It is in Amsterdam."
+      "label": "在阿姆斯特丹",
+      "description": "这里不是什么这里那里；这里是阿姆斯特丹。"
     },
     {
       "id": "mariner.locations.northsea.copenhagen.destination",
-      "label": "In Copenhagen",
-      "description": "This is not here; It is in Copenhagen."
+      "label": "在哥本哈根",
+      "description": "这里不是什么这里那里；这里是哥本哈根。"
     },
     {
       "id": "mariner.locations.medsea.marseille.destination",
-      "label": "In Marseille",
-      "description": "This is not here; It is in Marseille."
+      "label": "在马塞",
+      "description": "这里不是什么这里那里；这里是马塞。"
     },
     {
       "id": "mariner.locations.medsea.bizerta.destination",
-      "label": "In Bizerta",
-      "description": "This is not here; It is in Bizerta."
+      "label": "在比塞大",
+      "description": "这里不是什么这里那里；这里是比塞大。"
     },
     {
       "id": "mariner.locations.medsea.constantinople.destination",
-      "label": "In Constantinople",
-      "description": "This is not here; It is in Constantinople."
+      "label": "在君士坦丁堡",
+      "description": "这里不是什么这里那里；这里是君士坦丁堡。"
     },
     {
       "id": "mariner.locations.medsea.haifa.destination",
-      "label": "In Haïfa",
-      "description": "This is not here; It is in Haïfa."
+      "label": "在海法",
+      "description": "这里不是什么这里那里；这里是海法。"
     }
   ]
 }
