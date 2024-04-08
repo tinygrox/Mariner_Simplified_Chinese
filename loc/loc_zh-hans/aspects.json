@@ -37,12 +37,12 @@
     {
       "id": "mariner.song",
       "label": "歌曲",
-      "description": "承载着深层含义的主题。"
+      "description": "承载着内层含义的旋律。"
     },
     {
       "id": "mariner.story",
       "label": "轶事",
-      "description": "承载着超越文字的意义。"
+      "description": "承载着超越文字的思想。"
     },
     {
       "id": "mariner.story.source",
